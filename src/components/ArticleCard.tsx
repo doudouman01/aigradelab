@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import GradeBadge from './GradeBadge';
-import { Post } from '@/content/posts';
+import { Post } from '../content/posts';
 
 export default function ArticleCard({ post }: { post: Post }) {
   return (

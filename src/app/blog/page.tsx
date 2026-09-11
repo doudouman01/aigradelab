@@ -1,5 +1,5 @@
-import { posts, categories } from '@/content/posts';
-import ArticleCard from '@/components/ArticleCard';
+import { posts } from '../../content/posts';
+import ArticleCard from '../../components/ArticleCard';
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {

@@ -1,4 +1,4 @@
-import { Grade, getGradeClass } from '@/content/posts';
+import { Grade, getGradeClass } from '../content/posts';
 
 type Props = {
   grade: Grade | null;

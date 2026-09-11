@@ -1,6 +1,6 @@
 import Link from 'next/link';
-import { posts } from '@/content/posts';
-import ArticleCard from '@/components/ArticleCard';
+import { posts } from '../content/posts';
+import ArticleCard from '../components/ArticleCard';
 
 export default function Home() {
   const latestPosts = posts.slice(0, 6);

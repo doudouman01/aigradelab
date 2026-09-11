@@ -1,7 +1,7 @@
 import { notFound } from 'next/navigation';
-import { posts } from '@/content/posts';
-import GradeBadge from '@/components/GradeBadge';
-import ScoreCard from '@/components/ScoreCard';
+import { posts } from '../../../content/posts';
+import GradeBadge from '../../../components/GradeBadge';
+import ScoreCard from '../../../components/ScoreCard';
 import type { Metadata } from 'next';
 
 type Props = { params: Promise<{ slug: string }> };
@@ -109,7 +109,7 @@ export default async function ArticlePage({ params }: Props) {
         <div className="tck-promo" style={{ maxWidth: '760px', margin: '0 auto 40px' }}>
           <div className="tck-promo-text">
             <strong>Need free tools?</strong>
-            <p>ToolCraftKit has 49+ free web tools for productivity, text, images, and more.</p>
+            <p>ToolCraftKit has 49+ free web tools for productivity, text processing, and more.</p>
           </div>
           <a href="https://toolcraftkit.com" target="_blank" rel="noopener">Try Free Tools</a>
         </div>

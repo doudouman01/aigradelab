@@ -1,5 +1,5 @@
 import { MetadataRoute } from 'next';
-import { posts } from '@/content/posts';
+import { posts } from '../content/posts';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const base = 'https://aigradelab.com';

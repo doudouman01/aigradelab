@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
-import GradeBadge from '@/components/GradeBadge';
-import type { Grade } from '@/content/posts';
+import GradeBadge from '../../components/GradeBadge';
+import type { Grade } from '../../content/posts';
 
 export const metadata: Metadata = {
   title: 'Our Grading Methodology',
@@ -84,7 +84,7 @@ export default function MethodologyPage() {
           run comparative tests when relevant, and note every friction point and delight.
         </p>
         <p>
-          Reviews include a "Last Tested" date so you know how current our assessment is.
+          Reviews include a &quot;Last Tested&quot; date so you know how current our assessment is.
           We re-test and update grades when tools ship major changes.
         </p>
         <p>

@@ -1,4 +1,4 @@
-import { Scores, getGradeColor, computeGrade } from '@/content/posts';
+import { Scores, getGradeColor, computeGrade } from '../content/posts';
 
 type Props = { scores: Scores | null };
 
