@@ -577,6 +577,7 @@ export const posts: Post[] = [
       <h2>The Verdict</h2>
       <p>Grammarly earns a <strong>B+</strong> because it does one thing exceptionally well — making your writing cleaner, clearer, and more professional with zero friction. The everywhere integration and automatic suggestions create a writing safety net that no other tool matches. The grade is held back from A because the AI rewriting features are behind dedicated AI writers, and it cannot generate content. If you write a lot of emails, documents, and professional communications, Grammarly Premium is a no-brainer at $12/month. Just do not expect it to replace your AI writing tool — it complements one.</p>
     `
+  },
 
   // ===== ARTICLE 11: Canva AI Review =====
   {
