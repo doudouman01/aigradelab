@@ -1,11 +1,11 @@
 ---
-title: "Perplexity AI مراجعة 2026: The Best AI Research Tool? تقييمنا"
-description: "اختبرنا Perplexity AI for research, fact-checking, and daily questions. Comet browser, model picker, shopping, Academic mode. محدّث نوفمبر 2026."
+title: "Perplexity AI Review 2026: The Best AI Research Tool? Our Grade"
+description: "We tested Perplexity AI for research, fact-checking, and daily questions. Comet browser, model picker, shopping, Academic mode. Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 دقائق للقراءة"
+readTime: "12 min read"
 grade: "A"
 scores_ux: 9.2
 scores_quality: 9.0
@@ -27,7 +27,7 @@ toolName: "Perplexity"
   <li><strong>Max tier ($200/month):</strong> Power-user tier with Sora video, unlimited Labs, and earliest feature access.</li>
 </ul>
 
-<h2>ما اختبرناه</h2>
+<h2>What We Tested</h2>
 <p>We used Perplexity daily for six weeks: academic research for articles, fact-checking claims, product research before purchasing, competitive intelligence, breaking news verification, and daily quick questions. We compared against ChatGPT Search, Google, and manual research workflows.</p>
 
 <h2>What Works Well</h2>
@@ -64,7 +64,7 @@ toolName: "Perplexity"
     <tr><td>Image generation</td><td>No</td><td><strong>Yes (Images 2.6)</strong></td><td>No</td></tr>
     <tr><td>Shopping</td><td>Yes (PayPal)</td><td>Yes (product cards)</td><td><strong>Yes (Shopping tab)</strong></td></tr>
     <tr><td>السعر</td><td>Free / $20 Pro</td><td>Free / $20 Plus</td><td>Free</td></tr>
-    <tr><td>Best for</td><td>Verified research</td><td>Research + creation</td><td>Browsing + local search</td></tr>
+    <tr><td>الأفضل لـ</td><td>Verified research</td><td>Research + creation</td><td>Browsing + local search</td></tr>
   </tbody>
 </table>
 
@@ -86,7 +86,7 @@ toolName: "Perplexity"
 <ul>
   <li><strong>Researchers and academics:</strong> The Academic focus mode + citation system is purpose-built for scholarly work. At $10/month for students, it is unbeatable.</li>
   <li><strong>Journalists and fact-checkers:</strong> Every claim cited, every source linked. Verification is built into the workflow.</li>
-  <li><strong>Knowledge workers who need accuracy:</strong> العيوبultants, analysts, lawyers — anyone whose work depends on verifiable information.</li>
+  <li><strong>Knowledge workers who need accuracy:</strong> Consultants, analysts, lawyers — anyone whose work depends on verifiable information.</li>
   <li><strong>Product researchers:</strong> Before any purchase, Perplexity delivers cited comparisons faster than hours of Google tab-hopping.</li>
   <li><strong>Anyone who wants a cleaner search experience:</strong> No ads, no SEO spam, just answers with sources.</li>
 </ul>
@@ -119,4 +119,4 @@ toolName: "Perplexity"
 <h3>Can Perplexity replace ChatGPT?</h3>
 <p>For research — it is better. For writing, coding, image generation, and general AI assistance — no. Most power users keep both.</p>
 
-<p><em>Perplexity was tested by AIالتقييمLab over six weeks of daily research use. التقييم reflects performance as of November 2026. Pricing verified on perplexity.ai on November 14, 2026.</em></p>
+<p><em>Perplexity was tested by AIGradeLab over six weeks of daily research use. Grade reflects performance as of November 2026. Pricing verified on perplexity.ai on November 14, 2026.</em></p>

@@ -1,10 +1,10 @@
 ---
-title: "ChatGPT Is Retiring Advanced Voice: Everything You Need to Know About GPT-Live"
-description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Here's what GPT-Live replaces, what changes, and how to prepare for the transition."
+title: "ChatGPT Retira Advanced Voice: Todo lo que Necesitas Saber sobre GPT-Live"
+description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Esto es lo que GPT-Live replaces, what changes, and how to prepare for the transition."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
-readTime: "7 min de lectura"
+readTime: "7 min read"
 ---
 
 <h2>The Voice Transition Is Coming</h2>
@@ -55,7 +55,7 @@ readTime: "7 min de lectura"
 
 <p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
 
-<h3>Plan gratuito Users</h3>
+<h3>Plan Gratuito Users</h3>
 
 <p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
 
@@ -91,7 +91,7 @@ readTime: "7 min de lectura"
 <li><strong>ElevenLabs</strong> — For custom voice generation and voice-first applications</li>
 </ul>
 
-<h2>The Bigger Picture: Voice AI Is Desventajasolidating</h2>
+<h2>The Bigger Picture: Voice AI Is Consolidating</h2>
 
 <p>OpenAI's decision to retire older voice modes reflects a broader trend in AI: consolidation around native multimodal models. Rather than bolting voice capabilities onto text models, the industry is building models that understand audio, text, images, and video natively.</p>
 
@@ -105,10 +105,10 @@ readTime: "7 min de lectura"
 
 <p>The cascade approach — speech to text to model to speech — is becoming a legacy architecture. If your business relies on voice AI, planning for native multimodal is the right long-term bet.</p>
 
-<h2>En resumen</h2>
+<h2>Conclusión</h2>
 
 <p>The retirement of Advanced and Standard Voice is a cleanup, not a downgrade. GPT-Live is objectively better in every measurable dimension. The main risk is for developers and businesses with hard-coded integrations against the old API endpoints — test now, migrate early, and you'll be fine.</p>
 
 <p>For most users, you won't notice a thing on December 12. Voice in ChatGPT will just work — and work better than it ever has.</p>
 
-<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at HerramientaCraftKit to stay on top of your AI evaluations.</em></p>
+<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at ToolCraftKit to stay on top of your AI evaluations.</em></p>

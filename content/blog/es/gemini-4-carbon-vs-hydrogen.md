@@ -1,11 +1,11 @@
 ---
-title: "Gemini 4 Carbon vs Hydrogen: Which Google AI Model Should You Use?"
+title: "Gemini 4 Carbon vs Hydrogen: ¿Qué Modelo IA de Google Deberías Usar?"
 description: "Google released two Gemini 4 models in one week — Carbon for complex reasoning and Hydrogen for fast coding and agents. We compare features, speed, pricing, and use cases to help you pick the right one."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "2026-11-17"
-readTime: "9 min de lectura"
+readTime: "9 min read"
 ---
 
 <h2>Two New Gemini Models, One Big Decision</h2>
@@ -19,7 +19,7 @@ readTime: "9 min de lectura"
 <h2>Gemini 4 Carbon — The Flagship Powerhouse</h2>
 
 <div style="margin: 1.5rem 0; padding: 1rem; border-left: 4px solid #2563eb;">
-  <strong>AINotaLab Nota: A-</strong><br>
+  <strong>AIGradeLab Grade: A-</strong><br>
   UX: 8 | Quality: 9 | Value: 7 | Integración: 9 | Soporte: 8
 </div>
 
@@ -40,14 +40,14 @@ readTime: "9 min de lectura"
 
 <p>The value score of 7 reflects this reality: Carbon is excellent at what it does, but most users don't need a frontier model for their daily work. If you're paying for AI Ultra just to access Carbon but mostly use it for email drafts, you're overpaying.</p>
 
-<h3>Ideal para</h3>
+<h3>Best For</h3>
 
 <p>Researchers, engineers, data scientists, and anyone working on problems where getting the right answer matters more than getting a fast answer. If your prompts regularly exceed 50,000 tokens or involve multi-step technical reasoning, Carbon is worth the premium.</p>
 
 <h2>Gemini 4 Hydrogen — The Speed Demon</h2>
 
 <div style="margin: 1.5rem 0; padding: 1rem; border-left: 4px solid #16a34a;">
-  <strong>AINotaLab Nota: B+</strong><br>
+  <strong>AIGradeLab Grade: B+</strong><br>
   UX: 9 | Quality: 7 | Value: 9 | Integración: 9 | Soporte: 8
 </div>
 
@@ -66,7 +66,7 @@ readTime: "9 min de lectura"
 
 <p>Hydrogen trades depth for speed. On complex multi-step reasoning tasks — particularly in math and science — it makes more errors than Carbon. It's also more likely to produce shallow answers on nuanced topics. The quality score of 7 reflects the trade-off: Hydrogen is not trying to be the smartest model in the room; it's trying to be the most useful one for everyday work.</p>
 
-<h3>Ideal para</h3>
+<h3>Best For</h3>
 
 <p>Developers who need a fast coding assistant, teams building AI-powered agents and automations, and anyone who values response time over raw reasoning power. If you're using Google's AI tools in Workspace (Gmail, Docs, Sheets), Hydrogen is the model doing the heavy lifting behind the scenes.</p>
 
@@ -87,7 +87,7 @@ readTime: "9 min de lectura"
       <td>November 12, 2026</td>
     </tr>
     <tr>
-      <td><strong>AINotaLab Nota</strong></td>
+      <td><strong>AIGradeLab Grade</strong></td>
       <td>A-</td>
       <td>B+</td>
     </tr>
@@ -164,10 +164,10 @@ readTime: "9 min de lectura"
 
 <p><strong>Choose both if:</strong> You're on Google AI Ultra, which gives you access to Carbon for heavy tasks and Hydrogen for everything else. This is the ideal setup — use Carbon when you need depth, Hydrogen when you need speed.</p>
 
-<h2>The Verdict</h2>
+<h2>El Veredicto</h2>
 
 <p>Google made a smart move releasing two models at different tiers rather than trying to build one model that does everything. Carbon is a genuine frontier model that competes with the best from Anthropic and OpenAI. Hydrogen is a productivity workhorse that most people will interact with daily without even knowing it.</p>
 
 <p>For most users, <strong>Hydrogen is the better value</strong>. It's faster, more widely available, and handles 90% of daily AI tasks well. Carbon is the specialist — powerful, but only worth the premium if your work demands frontier-level reasoning.</p>
 
-<p><em>Need free AI tools for daily productivity? Check out the calculators, converters, and utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">HerramientaCraftKit.com</a> — no subscription required.</em></p>
+<p><em>Need free AI tools for daily productivity? Check out the calculators, converters, and utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a> — no subscription required.</em></p>

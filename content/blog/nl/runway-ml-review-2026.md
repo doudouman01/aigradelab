@@ -1,6 +1,6 @@
 ---
-title: "Runway ML Review 2026: The Best AI Video Generator? Ons cijfer"
-description: "We hebben getest Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
+title: "Runway ML Review 2026: De beste AI-videogenerator? Ons cijfer"
+description: "We hebben Runway Gen-3 getest voor videogeneratie, bewerking en creatieve workflows. Dit is ons cijfer en of het Pro-abonnement van $28 per maand het waard is."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
@@ -15,36 +15,36 @@ scores_support: 7.5
 toolName: "Runway"
 ---
 
-<h2>What Runway Does</h2>
-      <p>Runway is an AI creative platform focused on video. Its flagship feature, Gen-3 Alpha, generates video clips from text prompts or images. But Runway is more than a generator — it also offers AI-powered video editing tools: background removal, inpainting, motion tracking, color grading, audio cleanup, and green screen effects. Think of it as an AI-native Adobe Premiere alternative.</p>
+<h2>Wat Runway doet</h2>
+      <p>Runway is een creatief AI-platform met focus op video. De belangrijkste functie, Gen-3 Alpha, genereert videoclips op basis van tekstprompts of afbeeldingen. Maar Runway is meer dan een generator: het biedt ook AI-videobewerkingstools zoals achtergrondverwijdering, inpainting, bewegingstracking, kleurcorrectie, audio-opschoning en green-screeneffecten. Zie het als een AI-native alternatief voor Adobe Premiere.</p>
 
       <h2>Wat we hebben getest</h2>
-      <p>We used Runway for three weeks across different workflows: generating b-roll footage for YouTube videos, creating product showcase clips, making social media video ads, editing existing footage with AI tools, and experimenting with creative effects. We used both the text-to-video and image-to-video modes extensively.</p>
+      <p>We hebben Runway drie weken gebruikt voor uiteenlopende workflows: b-roll genereren voor YouTube-video's, productpresentatieclips maken, video-advertenties voor social media maken, bestaand beeldmateriaal bewerken met AI-tools en experimenteren met creatieve effecten. We gebruikten zowel de tekst-naar-video- als de beeld-naar-videomodus uitgebreid.</p>
 
-      <h2>What Works Well</h2>
+      <h2>Wat goed werkt</h2>
       <ul>
-        <li><strong>Video generation quality:</strong> Gen-3 Alpha produces the most consistently impressive AI video available. Motion is smooth, camera movements feel natural, lighting behaves realistically, and the overall cinematic quality is a tier above competitors. Five-second clips regularly look like they could come from stock footage libraries.</li>
-        <li><strong>Image-to-video:</strong> Feed Runway a still image and it animates it convincingly. This is exceptionally useful for product photos, concept art, and marketing visuals. The results are more predictable than text-to-video because you control the starting frame.</li>
-        <li><strong>Editing suite:</strong> The non-generation AI tools — background removal, inpainting, object removal, motion brush — are production-ready. For YouTubers and content creators, these features alone justify the subscription. Removing a background from video used to require After Effects expertise. Runway does it with one click.</li>
-        <li><strong>Web-based:</strong> Everything runs in the browser. No massive software downloads, no GPU requirements, no render waiting. Upload, generate, edit, export — all from a Chrome tab.</li>
+        <li><strong>Kwaliteit van videogeneratie:</strong> Gen-3 Alpha levert de meest consistent indrukwekkende AI-video die er is. De beweging is soepel, camerabewegingen voelen natuurlijk, belichting gedraagt zich realistisch en de cinematografische kwaliteit ligt een klasse boven de concurrentie. Clips van vijf seconden zouden vaak uit stockbibliotheken kunnen komen.</li>
+        <li><strong>Beeld-naar-video:</strong> Geef Runway een stilstaand beeld en het animeert dat overtuigend. Dit is uitzonderlijk nuttig voor productfoto's, conceptkunst en marketingbeelden. De resultaten zijn voorspelbaarder dan bij tekst-naar-video, omdat jij het startbeeld bepaalt.</li>
+        <li><strong>Bewerkingssuite:</strong> De AI-tools die niet genereren, zoals achtergrondverwijdering, inpainting, objectverwijdering en motion brush, zijn productieklaar. Voor YouTubers en contentmakers rechtvaardigen alleen al deze functies het abonnement. Een achtergrond uit video verwijderen vereiste vroeger After Effects-kennis. Runway doet het met één klik.</li>
+        <li><strong>Webgebaseerd:</strong> Alles draait in de browser. Geen enorme softwaredownloads, geen GPU-eisen, geen wachttijden voor renderen. Uploaden, genereren, bewerken, exporteren: alles vanuit een Chrome-tabblad.</li>
       </ul>
 
-      <h2>What Falls Short</h2>
+      <h2>Waar het tekortschiet</h2>
       <ul>
-        <li><strong>Credit system:</strong> Runway uses a credit-based system that burns through quickly. The Standard plan at $12/month includes 625 credits — enough for roughly 25 five-second clips. Professional use requires the Pro plan at $28/month with 2,250 credits, and even that runs out fast during heavy production periods.</li>
-        <li><strong>Duration limits:</strong> Generated clips are limited to about 10 seconds. For longer videos, you must generate multiple clips and stitch them together. Maintaining visual consistency across multiple generations requires careful prompting.</li>
-        <li><strong>Prompt control:</strong> Getting exactly the video you envision requires significant prompt iteration. The gap between what you describe and what Runway generates can be frustrating. Plan for multiple attempts per clip.</li>
-        <li><strong>Audio:</strong> Generated videos have no audio. You need to add music, voiceover, and sound effects separately. This adds workflow steps compared to traditional video production.</li>
-        <li><strong>Commercial licensing:</strong> Read the terms carefully. The Standard plan has restrictions on commercial use that may affect business users.</li>
+        <li><strong>Creditsysteem:</strong> Runway werkt met een creditsysteem dat snel opraakt. Het Standard-abonnement van $12 per maand bevat 625 credits, genoeg voor ongeveer 25 clips van vijf seconden. Professioneel gebruik vereist het Pro-abonnement van $28 per maand met 2.250 credits, en zelfs dat raakt snel op tijdens drukke productieperiodes.</li>
+        <li><strong>Duurlimieten:</strong> Gegenereerde clips zijn beperkt tot ongeveer 10 seconden. Voor langere video's moet je meerdere clips genereren en aan elkaar plakken. Visuele consistentie behouden over meerdere generaties vraagt zorgvuldige prompts.</li>
+        <li><strong>Promptcontrole:</strong> Precies de video krijgen die je voor ogen hebt vraagt veel promptiteraties. Het verschil tussen wat je beschrijft en wat Runway genereert kan frustrerend zijn. Reken op meerdere pogingen per clip.</li>
+        <li><strong>Audio:</strong> Gegenereerde video's hebben geen geluid. Muziek, voice-over en geluidseffecten moet je apart toevoegen. Dat voegt stappen toe aan de workflow vergeleken met traditionele videoproductie.</li>
+        <li><strong>Commerciële licenties:</strong> Lees de voorwaarden zorgvuldig. Het Standard-abonnement kent beperkingen voor commercieel gebruik die zakelijke gebruikers kunnen raken.</li>
       </ul>
 
       <h2>Runway vs Sora vs Pika</h2>
-      <p><strong>Runway</strong> currently produces the most reliable, highest-quality video generation. The editing tools add significant value beyond just generation. Best overall package for video creators.</p>
-      <p><strong>Sora</strong> (OpenAI) has shown impressive demos and can produce stunning results, but availability is limited and consistency is lower. Included with ChatGPT Plus, which adds value if you already subscribe.</p>
-      <p><strong>Pika</strong> is more affordable and easier to use for simple video generation, but the quality and feature depth are behind Runway. Good for beginners and casual use.</p>
+      <p><strong>Runway</strong> levert op dit moment de betrouwbaarste videogeneratie van de hoogste kwaliteit. De bewerkingstools voegen aanzienlijke waarde toe naast het genereren zelf. Het beste totaalpakket voor videomakers.</p>
+      <p><strong>Sora</strong> (OpenAI) heeft indrukwekkende demo's laten zien en kan verbluffende resultaten opleveren, maar de beschikbaarheid is beperkt en de consistentie lager. Het zit in ChatGPT Plus, wat extra waarde biedt als je al een abonnement hebt.</p>
+      <p><strong>Pika</strong> is goedkoper en eenvoudiger voor simpele videogeneratie, maar de kwaliteit en functiediepte blijven achter bij Runway. Goed voor beginners en casual gebruik.</p>
 
-      <h2>Pricing</h2>
-      <p>Free tier with limited credits. Standard at $12/month (625 credits). Pro at $28/month (2,250 credits). Unlimited at $76/month. Enterprise at custom pricing. For professional use, the Pro plan at $28/month is the sweet spot — enough credits for regular content production without the unlimited plan's premium price.</p>
+      <h2>Prijzen</h2>
+      <p>Gratis niveau met beperkte credits. Standard voor $12 per maand (625 credits). Pro voor $28 per maand (2.250 credits). Unlimited voor $76 per maand. Enterprise tegen maatwerkprijzen. Voor professioneel gebruik is Pro voor $28 per maand het sweet spot: genoeg credits voor reguliere contentproductie zonder de premiumprijs van het onbeperkte abonnement.</p>
 
-      <h2>The Verdict</h2>
-      <p>Runway earns an <strong>A</strong> because it offers the best combination of AI video generation and AI video editing available. The generation quality leads the industry, and the editing tools add practical value that competitors lack. The grade is held back from A+ by the aggressive credit system, short duration limits, and the prompt iteration required to get specific results. If video is part of your content or marketing workflow, Runway is the tool to invest in. Start with the Standard plan to test, then upgrade to Pro once you confirm it fits your workflow.</p>
+      <h2>Het oordeel</h2>
+      <p>Runway verdient een <strong>A</strong> omdat het de beste combinatie van AI-videogeneratie en AI-videobewerking biedt. De generatiekwaliteit loopt voorop in de sector en de bewerkingstools bieden praktische waarde die concurrenten missen. Het cijfer blijft onder de A+ door het agressieve creditsysteem, de korte duurlimieten en de promptiteraties die nodig zijn voor specifieke resultaten. Als video onderdeel is van je content- of marketingworkflow, is Runway de tool om in te investeren. Begin met het Standard-abonnement om te testen en upgrade naar Pro zodra je weet dat het bij je workflow past.</p>

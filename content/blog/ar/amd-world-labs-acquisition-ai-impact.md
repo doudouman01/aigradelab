@@ -1,85 +1,85 @@
 ---
-title: "AMD Acquires World Labs for $8.2B: What It Means for the AI Chip Race"
-description: "AMD's all-stock acquisition of Fei-Fei Li's World Labs reshapes the AI hardware landscape. Here's what developers, businesses, and AI tool users need to know."
-category: "Lab Notes"
+title: "AMD تستحوذ على World Labs مقابل 8.2 مليار دولار: ماذا يعني ذلك لسباق رقائق الذكاء الاصطناعي"
+description: "استحواذ AMD بالأسهم الكاملة على World Labs التي أسستها فاي-فاي لي يعيد تشكيل مشهد عتاد الذكاء الاصطناعي. إليك ما يحتاج المطورون والشركات ومستخدمو أدوات الذكاء الاصطناعي إلى معرفته."
+category: "ملاحظات المختبر"
 categorySlug: "lab-notes"
 date: "2026-11-20"
-readTime: "8 دقائق للقراءة"
+readTime: "وقت القراءة: 8 دقائق"
 ---
 
-<h2>The Deal That Reshapes AI Hardware</h2>
+<h2>الصفقة التي تعيد تشكيل عتاد الذكاء الاصطناعي</h2>
 
-<p>AMD just made the boldest move in its AI history. On November 17, 2026, the chipmaker completed its acquisition of World Labs, the spatial-intelligence research lab founded by Dr. Fei-Fei Li, in an all-stock deal valued at approximately $8.2 billion. Li, widely regarded as the "Godmother of AI" for creating ImageNet, will join AMD as Executive Vice President and Chief Scientist, reporting directly to CEO Lisa Su.</p>
+<p>اتخذت AMD للتو أجرأ خطوة في تاريخها في مجال الذكاء الاصطناعي. ففي 17 نوفمبر 2026، أتمّت الشركة المصنِّعة للرقائق استحواذها على World Labs، مختبر أبحاث الذكاء المكاني الذي أسسته الدكتورة فاي-فاي لي، في صفقة بالأسهم الكاملة تبلغ قيمتها نحو 8.2 مليار دولار. وستنضم لي، التي تُعرف على نطاق واسع بلقب «العرّابة» للذكاء الاصطناعي لابتكارها ImageNet، إلى AMD بمنصب نائبة الرئيس التنفيذي وكبيرة العلماء، وسترتبط مباشرةً بالرئيسة التنفيذية ليزا سو.</p>
 
-<p>This isn't just another corporate acquisition. It's a signal that the AI chip war is entering a new phase — one where hardware companies need in-house model expertise to stay competitive.</p>
+<p>هذه ليست مجرد صفقة استحواذ عادية. إنها إشارة إلى أن حرب رقائق الذكاء الاصطناعي تدخل مرحلة جديدة، تحتاج فيها شركات العتاد إلى خبرة داخلية في النماذج كي تبقى قادرة على المنافسة.</p>
 
-<h2>What Is World Labs?</h2>
+<h2>ما هي World Labs؟</h2>
 
-<p>World Labs builds spatial-intelligence models — AI systems that generate, reconstruct, and simulate interactive 3D environments from text, image, and video inputs. Their flagship product, Atlas, focuses on predicting new camera views from 2D images, with applications spanning robotics, industrial design, and autonomous systems.</p>
+<p>تبني World Labs نماذج للذكاء المكاني، وهي أنظمة ذكاء اصطناعي تولّد بيئات ثلاثية الأبعاد تفاعلية وتعيد بناءها وتحاكيها انطلاقًا من مدخلات نصية وصورية ومرئية. ويركّز منتجها الرئيسي Atlas على التنبؤ بزوايا كاميرا جديدة من صور ثنائية الأبعاد، مع تطبيقات تشمل الروبوتات والتصميم الصناعي والأنظمة ذاتية القيادة.</p>
 
-<p>Founded in 2024, World Labs closed a $230 million Series A with investors including Andreessen Horowitz, Nvidia, and — notably — AMD itself. The $8.2 billion acquisition price represents a massive valuation jump in just two years, reflecting how valuable AI research talent has become.</p>
+<p>تأسست World Labs في 2024، وأغلقت جولة تمويل من الفئة A بقيمة 230 مليون دولار بمشاركة مستثمرين من بينهم Andreessen Horowitz وNvidia، وAMD نفسها على نحو لافت. ويمثّل سعر الاستحواذ البالغ 8.2 مليار دولار قفزة هائلة في التقييم خلال عامين فقط، مما يعكس القيمة التي بلغتها المواهب البحثية في الذكاء الاصطناعي.</p>
 
-<h2>Why AMD Needed This Deal</h2>
+<h2>لماذا احتاجت AMD إلى هذه الصفقة؟</h2>
 
-<p>AMD has been playing catch-up with Nvidia in the AI accelerator market for years. While AMD's MI300X and MI400 series GPUs have gained traction in data centers, Nvidia's CUDA ecosystem and deep software stack have kept it firmly in the lead for AI training and inference workloads.</p>
+<p>ظلّت AMD لسنوات تحاول اللحاق بـ Nvidia في سوق مسرّعات الذكاء الاصطناعي. ورغم أن معالجات الرسوميات MI300X وسلسلة MI400 من AMD اكتسبت حضورًا في مراكز البيانات، فإن منظومة CUDA من Nvidia وحزمتها البرمجية العميقة أبقتاها متقدمة بوضوح في أحمال تدريب الذكاء الاصطناعي والاستدلال.</p>
 
-<p>The World Labs acquisition gives AMD something it couldn't build overnight: a world-class AI research team that understands how frontier models work from the inside out. When you're designing the next generation of AI chips, knowing how models actually behave — their memory patterns, compute bottlenecks, and optimization opportunities — is invaluable.</p>
+<p>يمنح الاستحواذ على World Labs شركة AMD ما لم تكن لتبنيه بين عشية وضحاها: فريق أبحاث ذكاء اصطناعي عالمي المستوى يفهم كيف تعمل النماذج الرائدة من الداخل. فحين تصمّم الجيل القادم من رقائق الذكاء الاصطناعي، تصبح معرفة سلوك النماذج الفعلي — أنماط استخدامها للذاكرة، واختناقات الحوسبة، وفرص التحسين — أمرًا لا يُقدَّر بثمن.</p>
 
-<p>As Lisa Su put it: "Building the compute platforms for the next generation of AI requires a deep understanding of how models are evolving."</p>
+<p>وكما عبّرت ليزا سو: «إن بناء منصات الحوسبة للجيل القادم من الذكاء الاصطناعي يتطلب فهمًا عميقًا لكيفية تطور النماذج».</p>
 
-<h3>AMD's AI Acquisition Spree</h3>
+<h3>سلسلة استحواذات AMD في الذكاء الاصطناعي</h3>
 
-<p>World Labs isn't an isolated move. AMD has been on an aggressive acquisition path:</p>
+<p>World Labs ليست خطوة معزولة. فقد سلكت AMD مسارًا هجوميًا في الاستحواذات:</p>
 
 <ul>
-<li><strong>Hugging Face ($13B)</strong> — Gave AMD control of the largest open-source AI model hub</li>
-<li><strong>World Labs ($8.2B)</strong> — Brings spatial intelligence research and Fei-Fei Li's leadership</li>
-<li><strong>Xilinx ($50B, 2022)</strong> — Added FPGA capabilities for edge AI</li>
+<li><strong>Hugging Face (13 مليار دولار)</strong> — منحت AMD السيطرة على أكبر منصة لنماذج الذكاء الاصطناعي مفتوحة المصدر</li>
+<li><strong>World Labs (8.2 مليار دولار)</strong> — تجلب أبحاث الذكاء المكاني وقيادة فاي-فاي لي</li>
+<li><strong>Xilinx (50 مليار دولار، 2022)</strong> — أضافت قدرات FPGA للذكاء الاصطناعي على الأطراف</li>
 </ul>
 
-<p>Together, these acquisitions paint a picture of a company building an end-to-end AI ecosystem — from models and research, to open-source community, to silicon.</p>
+<p>تعطي هذه الاستحواذات مجتمعةً صورة شركة تبني منظومة ذكاء اصطناعي متكاملة — من النماذج والأبحاث، إلى مجتمع المصدر المفتوح، وصولًا إلى السيليكون.</p>
 
-<h2>The Nvidia Factor: Perfect Timing</h2>
+<h2>عامل Nvidia: توقيت مثالي</h2>
 
-<p>The timing couldn't be more dramatic. AMD's acquisition closed just days after Nvidia's founder and CEO Jensen Huang resigned on November 12, 2026, amid personal controversies. CFO Colette Kress is serving as interim CEO while the board searches for a permanent replacement.</p>
+<p>لا يمكن أن يكون التوقيت أكثر إثارة. فقد أُغلقت صفقة AMD بعد أيام قليلة من استقالة مؤسس Nvidia ورئيسها التنفيذي جنسن هوانغ في 12 نوفمبر 2026 وسط جدل شخصي. وتتولى المديرة المالية كوليت كريس منصب الرئيس التنفيذي بالإنابة بينما يبحث مجلس الإدارة عن بديل دائم.</p>
 
-<p>Nvidia's leadership vacuum creates a window of opportunity. While Nvidia's technology and product roadmap remain strong, corporate transitions at this scale inevitably slow decision-making. AMD now has both momentum and stability on its side.</p>
+<p>يخلق الفراغ القيادي في Nvidia نافذة فرصة. فبينما تظل تقنيات Nvidia وخارطة منتجاتها قوية، تُبطئ التحولات المؤسسية بهذا الحجم اتخاذ القرار حتمًا. وتملك AMD الآن الزخم والاستقرار معًا.</p>
 
-<h2>What This Means for AI الأداةs and Developers</h2>
+<h2>ماذا يعني ذلك لأدوات الذكاء الاصطناعي والمطورين</h2>
 
-<p>For the broader AI ecosystem — including the tools and platforms we review here at AIالتقييمLab — this acquisition has several implications:</p>
+<p>بالنسبة إلى منظومة الذكاء الاصطناعي الأوسع — بما فيها الأدوات والمنصات التي نراجعها هنا في AIGradeLab — لهذا الاستحواذ عدة انعكاسات:</p>
 
-<h3>1. More Competition = Better السعرs</h3>
+<h3>1. منافسة أكبر = أسعار أفضل</h3>
 
-<p>AMD's deeper understanding of AI workloads should produce chips that are more competitive with Nvidia's offerings. More competition in AI hardware means lower cloud computing costs, which ultimately translates to cheaper AI tools for end users.</p>
+<p>ينبغي أن يُنتج فهم AMD الأعمق لأحمال الذكاء الاصطناعي رقائق أكثر قدرة على منافسة عروض Nvidia. والمنافسة الأكبر في عتاد الذكاء الاصطناعي تعني تكاليف أقل للحوسبة السحابية، مما ينعكس في النهاية على أدوات ذكاء اصطناعي أرخص للمستخدم النهائي.</p>
 
-<h3>2. Open Ecosystem Gets Stronger</h3>
+<h3>2. المنظومة المفتوحة تزداد قوة</h3>
 
-<p>With Hugging Face and World Labs under its umbrella, AMD is positioning itself as the champion of open AI. If you're building with open-source models on AMD hardware, you'll likely see better optimization, more tutorials, and tighter integration.</p>
+<p>مع انضواء Hugging Face وWorld Labs تحت مظلتها، تضع AMD نفسها في موقع المدافع عن الذكاء الاصطناعي المفتوح. وإذا كنت تبني باستخدام نماذج مفتوحة المصدر على عتاد AMD، فمن المرجح أن ترى تحسينًا أفضل ودروسًا أكثر وتكاملًا أوثق.</p>
 
-<h3>3. Spatial AI Goes Mainstream</h3>
+<h3>3. الذكاء المكاني يدخل التيار الرئيسي</h3>
 
-<p>World Labs' spatial intelligence research — 3D environment generation, scene understanding, robotic simulation — will now have AMD's hardware resources behind it. Expect spatial AI tools to mature faster, benefiting industries from architecture to gaming to autonomous vehicles.</p>
+<p>ستحظى أبحاث World Labs في الذكاء المكاني — توليد البيئات ثلاثية الأبعاد وفهم المشاهد والمحاكاة الروبوتية — بدعم موارد عتاد AMD. توقّع أن تنضج أدوات الذكاء المكاني بسرعة أكبر، بما يفيد قطاعات من العمارة إلى الألعاب إلى المركبات ذاتية القيادة.</p>
 
-<h3>4. The AI Chip Duopoly Solidifies</h3>
+<h3>4. ترسّخ ثنائية احتكار رقائق الذكاء الاصطناعي</h3>
 
-<p>The AI hardware market is crystallizing into two camps: Nvidia (even without Jensen) and AMD. Intel's AI efforts have stalled, and while Google's TPUs and Amazon's Trainium serve their cloud customers well, they don't compete in the broader market. For AI tool companies choosing their infrastructure, AMD is now a much more credible alternative.</p>
+<p>يتبلور سوق عتاد الذكاء الاصطناعي في معسكرين: Nvidia (حتى من دون جنسن) وAMD. أما جهود Intel في الذكاء الاصطناعي فقد تعثرت، ورغم أن وحدات TPU من Google وTrainium من Amazon تخدم عملاءهما السحابيين جيدًا، فإنها لا تنافس في السوق الأوسع. وبالنسبة إلى شركات أدوات الذكاء الاصطناعي التي تختار بنيتها التحتية، أصبحت AMD الآن بديلًا أكثر مصداقية بكثير.</p>
 
-<h2>What to Watch Next</h2>
+<h2>ما الذي ينبغي متابعته لاحقًا</h2>
 
-<p>Several key milestones will determine whether this acquisition delivers on its promise:</p>
+<p>ستحدد عدة محطات رئيسية ما إذا كان هذا الاستحواذ سيفي بوعده:</p>
 
 <ul>
-<li><strong>Fei-Fei Li's first AMD keynote</strong> — Her vision for integrating spatial AI into AMD's hardware roadmap</li>
-<li><strong>MI500 series</strong> — The first AMD GPUs designed with World Labs' input on model behavior</li>
-<li><strong>Nvidia's new CEO</strong> — Who takes the helm and how aggressively they respond</li>
-<li><strong>Cloud provider adoption</strong> — Whether AWS, Azure, and GCP increase their AMD GPU offerings</li>
+<li><strong>أول كلمة رئيسية لفاي-فاي لي في AMD</strong> — رؤيتها لدمج الذكاء المكاني في خارطة عتاد AMD</li>
+<li><strong>سلسلة MI500</strong> — أولى معالجات الرسوميات من AMD المصمَّمة بمساهمة World Labs حول سلوك النماذج</li>
+<li><strong>الرئيس التنفيذي الجديد لـ Nvidia</strong> — من سيتولى القيادة ومدى حدّة ردّه</li>
+<li><strong>اعتماد مزوّدي الخدمات السحابية</strong> — هل ستزيد AWS وAzure وGCP عروضها من معالجات AMD الرسومية</li>
 </ul>
 
 <h2>الخلاصة</h2>
 
-<p>AMD's acquisition of World Labs is the most significant AI hardware move of 2026. By bringing Fei-Fei Li and her research team in-house, AMD gains the model expertise it needs to design chips that don't just run AI workloads — but are purpose-built for them. Combined with the Nvidia leadership upheaval, the AI chip race just got genuinely competitive.</p>
+<p>استحواذ AMD على World Labs هو أهم خطوة في عتاد الذكاء الاصطناعي في 2026. فبضمّها فاي-فاي لي وفريقها البحثي إلى صفوفها، تكتسب AMD خبرة النماذج التي تحتاجها لتصميم رقائق لا تكتفي بتشغيل أحمال الذكاء الاصطناعي بل صُمّمت خصيصًا لها. ومع اضطراب القيادة في Nvidia، أصبح سباق رقائق الذكاء الاصطناعي تنافسيًا بحق.</p>
 
-<p>For anyone building, using, or evaluating AI tools, that's good news. Competition drives innovation, lowers costs, and expands choice. The era of a single dominant AI chip vendor may be ending.</p>
+<p>وهذا خبر جيد لكل من يبني أدوات الذكاء الاصطناعي أو يستخدمها أو يقيّمها. فالمنافسة تدفع الابتكار وتخفض التكاليف وتوسّع الخيارات. وقد يكون عصر المورّد الواحد المهيمن على رقائق الذكاء الاصطناعي يقترب من نهايته.</p>
 
-<p><em>تابع AIالتقييمLab لآخر المستجدات for our ongoing coverage of AI infrastructure developments and how they impact the tools you use every day.</em></p>
+<p><em>تابعوا AIGradeLab لمواصلة تغطيتنا لتطورات بنية الذكاء الاصطناعي التحتية وتأثيرها على الأدوات التي تستخدمونها كل يوم.</em></p>

@@ -1,11 +1,11 @@
 ---
-title: "Sora مراجعة 2026: OpenAI's AI Video Generator — تم اختباره وتقييمه"
-description: "اختبرنا Sora for AI video generation from text prompts. Quality, speed, pricing, and how it compares to Runway and Kling. Full review with scores. محدّث نوفمبر 2026."
+title: "Sora Review 2026: OpenAI's AI Video Generator — Tested and Graded"
+description: "We tested Sora for AI video generation from text prompts. Quality, speed, pricing, and how it compares to Runway and Kling. Full review with scores. Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "11 دقائق للقراءة"
+readTime: "11 min read"
 grade: "B+"
 scores_ux: 8.0
 scores_quality: 8.5
@@ -19,10 +19,10 @@ toolName: "Sora"
 <p>Sora is OpenAI's text-to-video generator — describe a scene and Sora creates a video clip. The hype was enormous when it launched, and the question remains: does Sora deliver on the promise of AI-generated video? After extensive testing, the answer is yes — with caveats. Sora produces stunning clips at its best, but consistency is the problem. And the biggest selling point isn't quality — it's price. Sora is included with ChatGPT Plus ($20/month), making it the cheapest way to access AI video generation.</p>
 
 <h2>Sora Scores</h2>
-<div class="score-card"><h3>Overall التقييم: B+</h3>
+<div class="score-card"><h3>Overall Grade: B+</h3>
   <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
   <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
 </div>
@@ -43,7 +43,7 @@ toolName: "Sora"
 
 <h2>Where Sora Falls Short</h2>
 
-<h3>Inconsistent جودة المخرجات</h3>
+<h3>Inconsistent Output Quality</h3>
 <p>This is Sora's biggest weakness. The same prompt can produce a stunning clip on one generation and a mediocre one on the next. Human anatomy is particularly unreliable — hands with wrong finger counts, faces that morph mid-clip, bodies that move unnaturally. Expect to generate 3-5 versions of each prompt to get one usable clip. Runway delivers more consistent results on the first try.</p>
 
 <h3>Slow Generation Times</h3>
@@ -78,14 +78,14 @@ toolName: "Sora"
   <tbody>
     <tr><td>التقييم</td><td><strong>B+</strong></td><td><strong>A</strong></td><td><strong>B+</strong></td></tr>
     <tr><td>Best output quality</td><td>Excellent</td><td>Excellent</td><td>Very good</td></tr>
-    <tr><td>العيوبistency</td><td>Inconsistent</td><td>العيوبistent</td><td>Moderate</td></tr>
+    <tr><td>Consistency</td><td>Inconsistent</td><td>Consistent</td><td>Moderate</td></tr>
     <tr><td>Clip length</td><td>~10-20 sec</td><td>~10 sec</td><td>~30 sec</td></tr>
     <tr><td>Generation speed</td><td>Slow</td><td>Fast</td><td>Moderate</td></tr>
     <tr><td>Editing tools</td><td>None</td><td>Full suite</td><td>Basic</td></tr>
     <tr><td>Control</td><td>Prompt only</td><td>Motion brush, camera</td><td>Motion control</td></tr>
     <tr><td>السعر</td><td>$20/mo (with ChatGPT)</td><td>$12-76/mo</td><td>Free / $8/mo</td></tr>
-    <tr><td>Free tier</td><td>No</td><td>Limited</td><td>Yes</td></tr>
-    <tr><td>Best for</td><td>ChatGPT users</td><td>Production quality</td><td>Longer clips</td></tr>
+    <tr><td>خطة مجانية</td><td>No</td><td>Limited</td><td>Yes</td></tr>
+    <tr><td>الأفضل لـ</td><td>ChatGPT users</td><td>Production quality</td><td>Longer clips</td></tr>
   </tbody>
 </table>
 
@@ -107,7 +107,7 @@ toolName: "Sora"
   <li><strong>Video editing</strong> — no editing tools, generation only</li>
 </ul>
 
-<h2>المزايا and العيوب Summary</h2>
+<h2>Pros and Cons Summary</h2>
 <h3>المزايا</h3>
 <ul>
   <li>Stunning output at its best — cinematic quality</li>
@@ -128,7 +128,7 @@ toolName: "Sora"
 
 <h2>Final Verdict: B+</h2>
 <p>Sora's best outputs rival anything in AI video. The problem is getting those best outputs consistently. If you already pay for ChatGPT Plus, Sora is a fantastic bonus — experiment with AI video generation at zero additional cost. If video is a core part of your workflow and you need reliable, consistent, production-quality results, Runway Gen-3 is worth the separate subscription.</p>
-<p><strong>Our recommendation:</strong> If you have ChatGPT Plus, use Sora for creative exploration and social media clips. If you need AI video for professional work, add Runway ($12-28/month) for consistent quality. For a full comparison, read our <a href="/ar/blog/best-ai-video-tools-2026">Best AI Video الأداةs 2026</a> guide.</p>
+<p><strong>Our recommendation:</strong> If you have ChatGPT Plus, use Sora for creative exploration and social media clips. If you need AI video for professional work, add Runway ($12-28/month) for consistent quality. For a full comparison, read our <a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> guide.</p>
 
 <h2>الأسئلة الشائعة</h2>
 
@@ -147,4 +147,4 @@ toolName: "Sora"
 <h3>Why is Sora so slow?</h3>
 <p>Sora processes video generation on shared infrastructure with all ChatGPT users. During peak hours, queue times increase. ChatGPT Pro ($200/month) offers priority access with faster generation.</p>
 
-<p><em>Sora was tested by AIالتقييمLab across creative, commercial, and social media video workflows. التقييم reflects practical value as of November 2026. Access verified through ChatGPT Plus and Pro subscriptions.</em></p>
+<p><em>Sora was tested by AIGradeLab across creative, commercial, and social media video workflows. Grade reflects practical value as of November 2026. Access verified through ChatGPT Plus and Pro subscriptions.</em></p>

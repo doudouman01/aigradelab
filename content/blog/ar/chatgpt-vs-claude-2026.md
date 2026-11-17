@@ -1,21 +1,21 @@
 ---
 title: "ChatGPT vs Claude in 2026: Which AI Assistant Actually Wins?"
-description: "اختبرنا ChatGPT and Claude head-to-head across writing, coding, reasoning, and daily tasks. Here are the grades and our honest verdict."
+description: "We tested ChatGPT and Claude head-to-head across writing, coding, reasoning, and daily tasks. Here are the grades and our honest verdict."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-09-11"
 lastTested: "Sep 2026"
-readTime: "12 دقائق للقراءة"
+readTime: "12 min read"
 ---
 
-<h2>The Two Heavyweights of AI, التقييمd Side by Side</h2>
+<h2>The Two Heavyweights of AI, Graded Side by Side</h2>
       <p>ChatGPT and Claude are the two most popular AI assistants in 2026, but they serve very different strengths. We tested both extensively across real-world tasks to find out which one deserves your $20/month — or if you need both.</p>
 
-      <h2>ChatGPT — Our التقييم: A</h2>
+      <h2>ChatGPT — Our Grade: A</h2>
       <div class="score-card"><h3>ChatGPT Scores</h3>
         <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
         <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-        <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+        <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
         <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
         <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
       </div>
@@ -34,11 +34,11 @@ readTime: "12 دقائق للقراءة"
         <li><strong>Honesty:</strong> More prone to confidently stating incorrect information rather than admitting uncertainty.</li>
       </ul>
 
-      <h2>Claude — Our التقييم: A</h2>
+      <h2>Claude — Our Grade: A</h2>
       <div class="score-card"><h3>Claude Scores</h3>
         <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
         <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-        <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+        <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
         <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
         <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
       </div>

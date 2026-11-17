@@ -1,11 +1,11 @@
 ---
-title: "Runway ML レビュー2026： The Best AI Video Generator? 評価"
-description: "テストしました Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
+title: "Runway MLレビュー2026：最高のAI動画生成ツール？評価を公開"
+description: "動画生成、編集、クリエイティブなワークフローでRunway Gen-3を検証しました。評価結果と、月額28ドルのProプランに価値があるかをご紹介します。"
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
 lastTested: "Sep 2026"
-readTime: "10 分で読めます"
+readTime: "読了時間：10分"
 grade: "A"
 scores_ux: 8.0
 scores_quality: 9.0
@@ -15,36 +15,36 @@ scores_support: 7.5
 toolName: "Runway"
 ---
 
-<h2>What Runway Does</h2>
-      <p>Runway is an AI creative platform focused on video. Its flagship feature, Gen-3 Alpha, generates video clips from text prompts or images. But Runway is more than a generator — it also offers AI-powered video editing tools: background removal, inpainting, motion tracking, color grading, audio cleanup, and green screen effects. Think of it as an AI-native Adobe Premiere alternative.</p>
+<h2>Runwayでできること</h2>
+      <p>Runwayは、動画に特化したAIクリエイティブプラットフォームです。主力機能のGen-3 Alphaは、テキストプロンプトや画像から動画クリップを生成します。ただしRunwayは単なる生成ツールではなく、背景除去、インペインティング、モーショントラッキング、カラーグレーディング、音声のクリーンアップ、グリーンスクリーン効果など、AIによる動画編集ツールも備えています。AIネイティブなAdobe Premiereの代替と考えるとよいでしょう。</p>
 
-      <h2>テスト内容</h2>
-      <p>We used Runway for three weeks across different workflows: generating b-roll footage for YouTube videos, creating product showcase clips, making social media video ads, editing existing footage with AI tools, and experimenting with creative effects. We used both the text-to-video and image-to-video modes extensively.</p>
+      <h2>検証内容</h2>
+      <p>3週間にわたり、さまざまなワークフローでRunwayを使用しました。YouTube動画用のBロール素材の生成、商品紹介クリップの作成、SNS向け動画広告の制作、既存の映像のAIツールによる編集、クリエイティブな効果の実験です。テキストから動画、画像から動画の両方のモードを幅広く使用しました。</p>
 
-      <h2>What Works Well</h2>
+      <h2>優れている点</h2>
       <ul>
-        <li><strong>Video generation quality:</strong> Gen-3 Alpha produces the most consistently impressive AI video available. Motion is smooth, camera movements feel natural, lighting behaves realistically, and the overall cinematic quality is a tier above competitors. Five-second clips regularly look like they could come from stock footage libraries.</li>
-        <li><strong>Image-to-video:</strong> Feed Runway a still image and it animates it convincingly. This is exceptionally useful for product photos, concept art, and marketing visuals. The results are more predictable than text-to-video because you control the starting frame.</li>
-        <li><strong>Editing suite:</strong> The non-generation AI tools — background removal, inpainting, object removal, motion brush — are production-ready. For YouTubers and content creators, these features alone justify the subscription. Removing a background from video used to require After Effects expertise. Runway does it with one click.</li>
-        <li><strong>Web-based:</strong> Everything runs in the browser. No massive software downloads, no GPU requirements, no render waiting. Upload, generate, edit, export — all from a Chrome tab.</li>
+        <li><strong>動画生成の品質：</strong>Gen-3 Alphaは、現在利用できるAI動画の中で最も安定して印象的な結果を出します。動きは滑らかで、カメラワークは自然、照明の挙動もリアルで、全体的な映画のような品質は競合より一段上です。5秒のクリップは、ストック映像ライブラリのものと言われても違和感がないほどです。</li>
+        <li><strong>画像から動画：</strong>静止画をRunwayに入力すると、説得力のあるアニメーションにしてくれます。商品写真、コンセプトアート、マーケティング用ビジュアルに非常に便利です。開始フレームを自分で決められるため、テキストから動画よりも結果が予測しやすくなります。</li>
+        <li><strong>編集スイート：</strong>背景除去、インペインティング、オブジェクト除去、モーションブラシといった、生成以外のAIツールは実務で使えるレベルです。YouTuberやコンテンツクリエイターにとっては、これらの機能だけでも契約する価値があります。動画の背景除去は、以前はAfter Effectsの専門知識が必要でしたが、Runwayならワンクリックでできます。</li>
+        <li><strong>ウェブベース：</strong>すべてがブラウザ上で動作します。大容量のソフトウェアのダウンロードも、GPUの要件も、レンダリングの待ち時間もありません。アップロード、生成、編集、書き出しまで、Chromeのタブ1つで完結します。</li>
       </ul>
 
-      <h2>What Falls Short</h2>
+      <h2>物足りない点</h2>
       <ul>
-        <li><strong>Credit system:</strong> Runway uses a credit-based system that burns through quickly. The Standard plan at $12/month includes 625 credits — enough for roughly 25 five-second clips. Professional use requires the Pro plan at $28/month with 2,250 credits, and even that runs out fast during heavy production periods.</li>
-        <li><strong>Duration limits:</strong> Generated clips are limited to about 10 seconds. For longer videos, you must generate multiple clips and stitch them together. Maintaining visual consistency across multiple generations requires careful prompting.</li>
-        <li><strong>Prompt control:</strong> Getting exactly the video you envision requires significant prompt iteration. The gap between what you describe and what Runway generates can be frustrating. Plan for multiple attempts per clip.</li>
-        <li><strong>Audio:</strong> Generated videos have no audio. You need to add music, voiceover, and sound effects separately. This adds workflow steps compared to traditional video production.</li>
-        <li><strong>Commercial licensing:</strong> Read the terms carefully. The Standard plan has restrictions on commercial use that may affect business users.</li>
+        <li><strong>クレジット制：</strong>Runwayはクレジット制で、すぐに消費されます。月額12ドルのStandardプランには625クレジットが含まれ、5秒のクリップ約25本分です。業務で使うなら月額28ドルのProプラン（2,250クレジット）が必要ですが、それでも制作が集中する時期にはすぐに使い切ってしまいます。</li>
+        <li><strong>長さの制限：</strong>生成されるクリップは約10秒までです。それより長い動画にするには、複数のクリップを生成してつなぎ合わせる必要があります。複数の生成にわたって見た目の一貫性を保つには、慎重なプロンプト作成が求められます。</li>
+        <li><strong>プロンプトの制御：</strong>思い描いた通りの動画を得るには、プロンプトを何度も調整する必要があります。説明した内容と実際に生成される結果とのギャップには、もどかしさを感じることもあります。1つのクリップにつき複数回の試行を見込んでおきましょう。</li>
+        <li><strong>音声：</strong>生成された動画には音声がありません。音楽、ナレーション、効果音は別途追加する必要があり、従来の動画制作と比べて工程が増えます。</li>
+        <li><strong>商用ライセンス：</strong>利用規約をよく確認してください。Standardプランには商用利用に関する制限があり、ビジネスユーザーに影響する可能性があります。</li>
       </ul>
 
       <h2>Runway vs Sora vs Pika</h2>
-      <p><strong>Runway</strong> currently produces the most reliable, highest-quality video generation. The editing tools add significant value beyond just generation. Best overall package for video creators.</p>
-      <p><strong>Sora</strong> (OpenAI) has shown impressive demos and can produce stunning results, but availability is limited and consistency is lower. Included with ChatGPT Plus, which adds value if you already subscribe.</p>
-      <p><strong>Pika</strong> is more affordable and easier to use for simple video generation, but the quality and feature depth are behind Runway. Good for beginners and casual use.</p>
+      <p><strong>Runway</strong>は現在、最も信頼性が高く、最高品質の動画生成を実現しています。編集ツールが生成にとどまらない大きな価値を加えており、動画クリエイターにとって総合的に最も優れたパッケージです。</p>
+      <p><strong>Sora</strong>（OpenAI）は印象的なデモを公開しており、見事な結果を出すこともありますが、利用可能な環境が限られ、一貫性も劣ります。ChatGPT Plusに含まれているため、すでに契約している方にはお得です。</p>
+      <p><strong>Pika</strong>はより手頃な価格で、シンプルな動画生成なら使いやすいものの、品質と機能の深さではRunwayに及びません。初心者やカジュアルな利用に向いています。</p>
 
-      <h2>Pricing</h2>
-      <p>Free tier with limited credits. Standard at $12/month (625 credits). Pro at $28/month (2,250 credits). Unlimited at $76/month. Enterprise at custom pricing. For professional use, the Pro plan at $28/month is the sweet spot — enough credits for regular content production without the unlimited plan's premium price.</p>
+      <h2>料金</h2>
+      <p>無料プランには限られたクレジットが付きます。Standardは月額12ドル（625クレジット）、Proは月額28ドル（2,250クレジット）、Unlimitedは月額76ドル、Enterpriseは個別見積もりです。業務利用なら、月額28ドルのProプランが最適です。定期的なコンテンツ制作に十分なクレジットがあり、Unlimitedプランほど高額になりません。</p>
 
-      <h2>The Verdict</h2>
-      <p>Runway earns an <strong>A</strong> because it offers the best combination of AI video generation and AI video editing available. The generation quality leads the industry, and the editing tools add practical value that competitors lack. The grade is held back from A+ by the aggressive credit system, short duration limits, and the prompt iteration required to get specific results. If video is part of your content or marketing workflow, Runway is the tool to invest in. Start with the Standard plan to test, then upgrade to Pro once you confirm it fits your workflow.</p>
+      <h2>総合評価</h2>
+      <p>RunwayがAを獲得した理由は、AI動画生成とAI動画編集の組み合わせが現在最も優れているからです。生成の品質は業界トップで、編集ツールは競合にはない実用的な価値を加えています。A+に届かなかったのは、消費の早いクレジット制、短い長さの制限、特定の結果を得るために必要なプロンプトの試行錯誤のためです。動画がコンテンツやマーケティングのワークフローの一部であるなら、Runwayは投資する価値のあるツールです。まずStandardプランで試し、ワークフローに合うと確認できたらProにアップグレードしましょう。</p>

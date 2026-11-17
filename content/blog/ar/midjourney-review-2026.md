@@ -1,11 +1,11 @@
 ---
-title: "Midjourney مراجعة 2026: V8.2 Makes It the Undisputed Image King. تقييمنا"
-description: "اختبرنا Midjourney V8.2 for marketing visuals, concept art, and creative projects. Edit Model, 2K native, video clips. Here is our updated grade. November 2026."
+title: "Midjourney Review 2026: V8.2 Makes It the Undisputed Image King. Our Grade"
+description: "We tested Midjourney V8.2 for marketing visuals, concept art, and creative projects. Edit Model, 2K native, video clips. Here is our updated grade. November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 دقائق للقراءة"
+readTime: "12 min read"
 grade: "A"
 scores_ux: 7.5
 scores_quality: 9.8
@@ -26,7 +26,7 @@ toolName: "Midjourney"
   <li><strong>V8.2 (July 24, 2026):</strong> Current default. Bolder aesthetics, reduced misfire rates, and the Edit Model — the biggest workflow change since Midjourney launched.</li>
 </ul>
 
-<h2>ما اختبرناه</h2>
+<h2>What We Tested</h2>
 <p>We used Midjourney V8.2 for six weeks across different use cases: marketing visuals for social media campaigns, concept art for brand development, product mockups, blog and article illustrations, photorealistic portraits, architectural visualization, and short video clip generation.</p>
 
 <h2>What Works Well</h2>
@@ -60,7 +60,7 @@ toolName: "Midjourney"
     <tr><td>Text in images</td><td>Good</td><td><strong>Excellent</strong></td><td>Strong</td><td>Strong</td></tr>
     <tr><td>Editing</td><td>Edit Model (new)</td><td><strong>Conversational (best)</strong></td><td>Limited</td><td>Multi-reference</td></tr>
     <tr><td>GIFs/Video</td><td>Short clips (Pro+)</td><td><strong>GIFs + SVG</strong></td><td>No</td><td>No</td></tr>
-    <tr><td>Free tier</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes (dev)</td></tr>
+    <tr><td>خطة مجانية</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes (dev)</td></tr>
     <tr><td>API</td><td>No</td><td>Yes</td><td>Yes</td><td><strong>Yes (cheapest)</strong></td></tr>
     <tr><td>السعر</td><td>$10-120/mo</td><td>$20/mo (Plus)</td><td>Free-$20/mo</td><td>$0.03/image</td></tr>
   </tbody>
@@ -118,4 +118,4 @@ toolName: "Midjourney"
 <h3>Is Midjourney worth $30/month?</h3>
 <p>If you generate images regularly and care about aesthetic quality — yes. The Standard plan with unlimited Relax mode makes the per-image cost effectively zero. If you generate occasionally, ChatGPT Images (included with Plus) or free tools like Leonardo AI are better value.</p>
 
-<p><em>Midjourney V8.2 was tested by AIالتقييمLab over six weeks of daily use. التقييم reflects performance as of November 2026. Pricing verified on midjourney.com on November 14, 2026.</em></p>
+<p><em>Midjourney V8.2 was tested by AIGradeLab over six weeks of daily use. Grade reflects performance as of November 2026. Pricing verified on midjourney.com on November 14, 2026.</em></p>

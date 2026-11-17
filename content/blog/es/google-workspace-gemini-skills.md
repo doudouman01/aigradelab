@@ -1,10 +1,10 @@
 ---
-title: "Google Workspace Gets Custom AI Skills: Build Your Own Gemini Automations"
-description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Here's what it means for business productivity."
+title: "Google Workspace Recibe Skills IA Personalizadas: Crea tus Propias Automatizaciones Gemini"
+description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Esto es lo que it means for business productivity."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-22"
-readTime: "7 min de lectura"
+readTime: "7 min read"
 ---
 
 <h2>Gemini Skills Are Rolling Out Across Google Workspace</h2>
@@ -24,7 +24,7 @@ readTime: "7 min de lectura"
 <li><strong>Meeting notes formatter</strong> — Converts raw meeting transcripts into your team's standard format with action items, owners, and deadlines</li>
 <li><strong>Email response template</strong> — Drafts customer replies following your support team's tone, escalation rules, and product terminology</li>
 <li><strong>Financial report analyzer</strong> — Summarizes spreadsheet data using your company's KPI definitions and reporting format</li>
-<li><strong>Code review checklist</strong> — Reviews code snippets against your team's specific standards and conventions</li>
+<li><strong>Code review checklist</strong> — Reseñas code snippets against your team's specific standards and conventions</li>
 </ul>
 
 <h2>Where Skills Work</h2>
@@ -64,7 +64,7 @@ readTime: "7 min de lectura"
 <p>Skills represent a shift in how businesses use AI. Instead of every employee crafting their own prompts (with wildly varying quality), organizations can create standardized Skills that encode their best practices. This means:</p>
 
 <ul>
-<li><strong>Desventajasistency</strong> — Every team member produces output that follows the same standards</li>
+<li><strong>Consistency</strong> — Every team member produces output that follows the same standards</li>
 <li><strong>Onboarding</strong> — New hires can use organizational Skills immediately without learning institutional knowledge first</li>
 <li><strong>Quality control</strong> — Skills can embed review criteria and compliance requirements</li>
 <li><strong>Scalability</strong> — Build once, deploy to hundreds of users</li>
@@ -82,7 +82,7 @@ readTime: "7 min de lectura"
 
 <ol>
 <li>Check your Workspace edition — Skills require Business Standard or higher</li>
-<li>Enable Gemini features in the Admin Desventajasole if not already active</li>
+<li>Enable Gemini features in the Admin Console if not already active</li>
 <li>Access Workspace Studio to create and manage organization-wide Skills</li>
 <li>Start with 2-3 high-impact Skills that address your team's most repetitive AI tasks</li>
 </ol>
@@ -105,9 +105,9 @@ readTime: "7 min de lectura"
 <li><strong>Version control</strong> — Keep notes on what you changed and why. Skills evolve as your processes do.</li>
 </ul>
 
-<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">HerramientaCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
+<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">ToolCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
 
-<h2>En resumen</h2>
+<h2>Conclusión</h2>
 
 <p>Google Workspace Skills are the most practically useful AI feature Google has shipped this quarter. They solve a real problem — inconsistent AI outputs across teams — with a straightforward solution. Combined with expanded Gemini in Gmail, video generation in Vids, and the new Decisions API, Google is making a strong case that Workspace is the AI-first productivity suite for businesses.</p>
 

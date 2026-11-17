@@ -1,11 +1,11 @@
 ---
-title: "Runway ML مراجعة 2026: The Best AI Video Generator? تقييمنا"
-description: "اختبرنا Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
+title: "Runway ML Review 2026: The Best AI Video Generator? Our Grade"
+description: "We tested Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
 lastTested: "Sep 2026"
-readTime: "10 دقائق للقراءة"
+readTime: "10 min read"
 grade: "A"
 scores_ux: 8.0
 scores_quality: 9.0
@@ -18,7 +18,7 @@ toolName: "Runway"
 <h2>What Runway Does</h2>
       <p>Runway is an AI creative platform focused on video. Its flagship feature, Gen-3 Alpha, generates video clips from text prompts or images. But Runway is more than a generator — it also offers AI-powered video editing tools: background removal, inpainting, motion tracking, color grading, audio cleanup, and green screen effects. Think of it as an AI-native Adobe Premiere alternative.</p>
 
-      <h2>ما اختبرناه</h2>
+      <h2>What We Tested</h2>
       <p>We used Runway for three weeks across different workflows: generating b-roll footage for YouTube videos, creating product showcase clips, making social media video ads, editing existing footage with AI tools, and experimenting with creative effects. We used both the text-to-video and image-to-video modes extensively.</p>
 
       <h2>What Works Well</h2>
@@ -43,7 +43,7 @@ toolName: "Runway"
       <p><strong>Sora</strong> (OpenAI) has shown impressive demos and can produce stunning results, but availability is limited and consistency is lower. Included with ChatGPT Plus, which adds value if you already subscribe.</p>
       <p><strong>Pika</strong> is more affordable and easier to use for simple video generation, but the quality and feature depth are behind Runway. Good for beginners and casual use.</p>
 
-      <h2>Pricing</h2>
+      <h2>التسعير</h2>
       <p>Free tier with limited credits. Standard at $12/month (625 credits). Pro at $28/month (2,250 credits). Unlimited at $76/month. Enterprise at custom pricing. For professional use, the Pro plan at $28/month is the sweet spot — enough credits for regular content production without the unlimited plan's premium price.</p>
 
       <h2>The Verdict</h2>

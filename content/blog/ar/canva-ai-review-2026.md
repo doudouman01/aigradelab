@@ -1,11 +1,11 @@
 ---
-title: "Canva AI مراجعة 2026: Magic Studio Worth It? تقييمنا Inside"
-description: "اختبرنا Canva Magic Studio for social media graphics, presentations, and brand design. Here is our honest grade and who should use it."
+title: "Canva AI Review 2026: Magic Studio Worth It? Our Grade Inside"
+description: "We tested Canva Magic Studio for social media graphics, presentations, and brand design. Here is our honest grade and who should use it."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
 lastTested: "Sep 2026"
-readTime: "10 دقائق للقراءة"
+readTime: "10 min read"
 grade: "A"
 scores_ux: 9.5
 scores_quality: 8.0
@@ -19,7 +19,7 @@ affiliateUrl: "https://partner.canva.com/aigradelab"
 <h2>What Canva AI Does</h2>
       <p>Canva Magic Studio is a suite of AI-powered features built into the Canva design platform. It includes Magic Design (generate designs from text prompts), Magic Write (AI text generation), Magic Edit (AI-powered image editing), Magic Eraser (remove objects from images), text-to-image generation, and Magic Animate. Unlike standalone AI tools, these features are woven directly into Canva's drag-and-drop design workflow.</p>
 
-      <h2>ما اختبرناه</h2>
+      <h2>What We Tested</h2>
       <p>We used Canva Magic Studio for two weeks to create social media graphics, Instagram carousels, YouTube thumbnails, pitch deck presentations, and brand marketing materials. We compared the AI features against standalone alternatives like Midjourney for images and ChatGPT for copy.</p>
 
       <h2>What Works Well</h2>
@@ -44,7 +44,7 @@ affiliateUrl: "https://partner.canva.com/aigradelab"
       <p><strong>Midjourney</strong> wins on image quality. Best when you need stunning visuals and are willing to learn prompt engineering.</p>
       <p><strong>Adobe</strong> (Firefly + Creative Suite) wins on professional capability. Best for professional designers and agencies working on high-end brand projects.</p>
 
-      <h2>Pricing</h2>
+      <h2>التسعير</h2>
       <p>Canva Free includes basic editing and limited AI uses. Canva Pro at $13/month (billed monthly) or $120/year includes all Magic Studio features, 1TB storage, brand kit, premium templates, and background remover. Canva Teams at $10/person/month (minimum 3 people) adds team collaboration features. The value at $13/month is excellent — few tools offer this breadth of features at this price.</p>
 
       <h2>The Verdict</h2>

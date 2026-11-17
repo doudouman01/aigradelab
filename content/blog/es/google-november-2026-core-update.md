@@ -1,10 +1,10 @@
 ---
-title: "Google's November 2026 Core Update: What Changed and What It Means for AI Websites"
-description: "Google's third core update of 2026 is rolling out. Here's what AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
+title: "Google November 2026 Core Update: Qué Cambió y Qué Significa para Sitios Web de IA"
+description: "Google's third core update of 2026 is rolling out. Esto es lo que AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
-readTime: "10 min de lectura"
+readTime: "10 min read"
 ---
 
 <h2>Another Core Update, Another Round of Ranking Volatility</h2>
@@ -34,9 +34,9 @@ readTime: "10 min de lectura"
 
 <p>Gemini 4 Hydrogen is positioned as a high-speed model optimized for daily coding tasks and agent execution. It's lighter and faster than Gemini 4 Carbon (released November 10), which is Google's heavyweight model for complex engineering and scientific reasoning.</p>
 
-<h2>The Search Desventajasole Data Gap</h2>
+<h2>The Search Console Data Gap</h2>
 
-<p>Adding complexity to this week: Google confirmed a logging error in the Search Desventajasole Generative AI report that undercounted impressions from November 9 to 11. If you noticed a suspicious dip in your AI-related search impressions during those dates, it's a data anomaly, not a traffic drop.</p>
+<p>Adding complexity to this week: Google confirmed a logging error in the Search Console Generative AI report that undercounted impressions from November 9 to 11. If you noticed a suspicious dip in your AI-related search impressions during those dates, it's a data anomaly, not a traffic drop.</p>
 
 <p>Google has acknowledged the issue on its data anomalies page. The numbers should normalize going forward, but the November 9-11 data will remain undercounted in historical reports.</p>
 
@@ -55,15 +55,15 @@ readTime: "10 min de lectura"
 <li><strong>Transactional content is relatively stable.</strong> Buying guides, comparison pages, and "best of" lists with genuine product evaluation methodology are showing less volatility than informational content.</li>
 </ul>
 
-<h2>What This Means for AI Herramienta Websites</h2>
+<h2>What This Means for AI Tool Websites</h2>
 
-<p>If you run a site that reviews, compares, or covers AI tools — as we do here at AINotaLab — here's how to think about this update:</p>
+<p>If you run a site that reviews, compares, or covers AI tools — as we do here at AIGradeLab — here's how to think about this update:</p>
 
 <h3>1. Original Testing Is Your Moat</h3>
 
 <p>Google is getting better at distinguishing between someone who actually used a tool and someone who rewrote the marketing page. If your reviews include original screenshots, specific test results, real use-case examples, and honest limitations, you're in good shape. If your content could have been written without ever opening the tool, it's vulnerable.</p>
 
-<p>At AINotaLab, every graded review includes hands-on testing with documented methodology — this is exactly the kind of content Google's algorithm evolution keeps rewarding.</p>
+<p>At AIGradeLab, every graded review includes hands-on testing with documented methodology — this is exactly the kind of content Google's algorithm evolution keeps rewarding.</p>
 
 <h3>2. Update Your Existing Content</h3>
 
@@ -88,7 +88,7 @@ readTime: "10 min de lectura"
 <ul>
 <li>Structure your content with clear, factual statements that can be easily extracted</li>
 <li>Use data, numbers, and specific comparisons — AI overviews love concrete details</li>
-<li>Include structured data (Preguntas frecuentes schema, review schema, comparison tables)</li>
+<li>Include structured data (Preguntas Frecuentes schema, review schema, comparison tables)</li>
 <li>Make your unique value proposition obvious — why should Google cite your page instead of a competitor's?</li>
 </ul>
 
@@ -106,10 +106,10 @@ readTime: "10 min de lectura"
 
 <ol>
 <li><strong>Wait for the rollout to complete.</strong> Rankings often fluctuate significantly during a core update and stabilize afterward. Don't make reactive changes until the update is fully rolled out (expected around November 24).</li>
-<li><strong>Identify affected pages specifically.</strong> Use Search Desventajasole to find which pages lost impressions or clicks. Look for patterns — is it a specific content type, category, or age of content?</li>
+<li><strong>Identify affected pages specifically.</strong> Use Search Console to find which pages lost impressions or clicks. Look for patterns — is it a specific content type, category, or age of content?</li>
 <li><strong>Audit affected pages honestly.</strong> Would a knowledgeable human in your field find this page genuinely useful? Does it contain information they couldn't get from the tool's own marketing page? If not, that's your diagnosis.</li>
 <li><strong>Improve, don't panic-publish.</strong> The recovery path is upgrading existing content quality, not flooding your site with new thin content to compensate for volume losses.</li>
-<li><strong>Check the Search Desventajasole data gap.</strong> Remember the November 9-11 logging error. If your biggest dip is in those dates, it may be a measurement issue, not a ranking issue. Cross-reference with analytics tools to confirm.</li>
+<li><strong>Check the Search Console data gap.</strong> Remember the November 9-11 logging error. If your biggest dip is in those dates, it may be a measurement issue, not a ranking issue. Cross-reference with analytics tools to confirm.</li>
 </ol>
 
 <h2>Timeline: What Comes Next</h2>
@@ -126,10 +126,10 @@ readTime: "10 min de lectura"
 
 <p>We'll update this article when Google confirms the rollout is complete and when enough post-update data is available to draw firmer conclusions.</p>
 
-<h2>En resumen</h2>
+<h2>Conclusión</h2>
 
 <p>The November 2026 Core Update is not revolutionary on its own — it's the continuation of a direction Google has been moving in all year. Original expertise, genuine testing, editorial depth, and content that serves users better than an AI summary can on its own. If that describes your content, this update is working in your favor.</p>
 
 <p>The bigger story this week is the shift to Gemini 4 Hydrogen powering AI Overviews. That's the change that will shape traffic patterns for AI tool websites into 2027.</p>
 
-<p><em>While you wait for rankings to stabilize, make sure your site is running fast with the right tools. Check out our free <a href="https://toolcraftkit.com">site optimization tools at HerramientaCraftKit</a> — including our SEO meta tag checker and page speed analyzer.</em></p>
+<p><em>While you wait for rankings to stabilize, make sure your site is running fast with the right tools. Check out our free <a href="https://toolcraftkit.com">site optimization tools at ToolCraftKit</a> — including our SEO meta tag checker and page speed analyzer.</em></p>

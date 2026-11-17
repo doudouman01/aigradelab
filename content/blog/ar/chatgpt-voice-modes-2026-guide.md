@@ -4,7 +4,7 @@ description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
-readTime: "7 دقائق للقراءة"
+readTime: "7 min read"
 ---
 
 <h2>The Voice Transition Is Coming</h2>
@@ -55,7 +55,7 @@ readTime: "7 دقائق للقراءة"
 
 <p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
 
-<h3>الخطة المجانية Users</h3>
+<h3>Free Tier Users</h3>
 
 <p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
 
@@ -77,7 +77,7 @@ readTime: "7 دقائق للقراءة"
 
 <p>If you've built any processes around ChatGPT's voice features — daily briefings, brainstorming sessions, hands-free note-taking — test them with GPT-Live during the transition period to catch any behavioral differences.</p>
 
-<h3>3. Check Your API التكاملs</h3>
+<h3>3. Check Your API Integrations</h3>
 
 <p>Developers should review the GPT-Live API documentation and test their integrations well before the December 11 deadline. Don't wait for the last day.</p>
 
@@ -91,7 +91,7 @@ readTime: "7 دقائق للقراءة"
 <li><strong>ElevenLabs</strong> — For custom voice generation and voice-first applications</li>
 </ul>
 
-<h2>The Bigger Picture: Voice AI Is العيوبolidating</h2>
+<h2>The Bigger Picture: Voice AI Is Consolidating</h2>
 
 <p>OpenAI's decision to retire older voice modes reflects a broader trend in AI: consolidation around native multimodal models. Rather than bolting voice capabilities onto text models, the industry is building models that understand audio, text, images, and video natively.</p>
 
@@ -111,4 +111,4 @@ readTime: "7 دقائق للقراءة"
 
 <p>For most users, you won't notice a thing on December 12. Voice in ChatGPT will just work — and work better than it ever has.</p>
 
-<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at الأداةCraftKit to stay on top of your AI evaluations.</em></p>
+<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at ToolCraftKit to stay on top of your AI evaluations.</em></p>

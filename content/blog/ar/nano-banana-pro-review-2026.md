@@ -1,11 +1,11 @@
 ---
-title: "Nano Banana Pro مراجعة 2026: Google's Photorealism King? تقييمنا"
-description: "اختبرنا Google's Nano Banana Pro (Gemini 3 Pro Image) for photorealism, text rendering, and creative work. 2-5 second generation, up to 4K. Our honest grade. November 2026."
+title: "Nano Banana Pro Review 2026: Google's Photorealism King? Our Grade"
+description: "We tested Google's Nano Banana Pro (Gemini 3 Pro Image) for photorealism, text rendering, and creative work. 2-5 second generation, up to 4K. Our honest grade. November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "11 دقائق للقراءة"
+readTime: "11 min read"
 grade: "A"
 scores_ux: 8.5
 scores_quality: 9.0
@@ -18,14 +18,14 @@ toolName: "Nano Banana Pro"
 <h2>What Nano Banana Pro Is</h2>
 <p>Nano Banana Pro is Google's latest image generation model — officially called Gemini 3 Pro Image. It is built directly into Google Gemini, powers image generation across Google Ads, Slides, and AI Mode in Search, and has quickly become the photorealism leader in AI image generation. The name comes from Google's internal model naming convention, and despite sounding whimsical, the technology behind it is serious.</p>
 
-<h2>ما اختبرناه</h2>
+<h2>What We Tested</h2>
 <p>We used Nano Banana Pro for four weeks through Google Gemini (free and paid tiers) and the API: photorealistic portraits, product photography, lifestyle imagery, text-in-image rendering, creative and artistic generation, and speed benchmarks. We compared results directly against Midjourney v8.2, ChatGPT Images 2.6, and FLUX.2 Pro.</p>
 
 <h2>How It Fits in Google's Image Model Lineup</h2>
 <p>Google offers multiple image models, which can be confusing. Here is how they relate:</p>
 <table>
   <thead>
-    <tr><th>Model</th><th>Family</th><th>الأفضل لـ</th><th>API السعر/Image</th></tr>
+    <tr><th>Model</th><th>Family</th><th>الأفضل لـ</th><th>API Price/Image</th></tr>
   </thead>
   <tbody>
     <tr><td>Nano Banana</td><td>Gemini Flash</td><td>Quick iterations</td><td>~$0.039</td></tr>
@@ -42,10 +42,10 @@ toolName: "Nano Banana Pro"
   <li><strong>Photorealism — best in market:</strong> In blind comparisons, Nano Banana Pro produces the most convincing photorealistic images of any AI generator we tested. Skin textures look natural, lighting behaves physically correctly, materials (metal, glass, fabric) render with accurate reflections and transparency. For product photography, headshots, and realistic lifestyle imagery, it wins every side-by-side test against Midjourney, ChatGPT, and FLUX.2.</li>
   <li><strong>Speed — 2 to 5 seconds:</strong> Generation speed is remarkably fast. A designer exploring 20 creative directions generates all of them with Nano Banana Pro in the time Imagen 4 Ultra takes to produce 3. For iterative workflows where you try many variations quickly, this speed advantage is transformative.</li>
   <li><strong>Text rendering:</strong> Strong text accuracy inside images — better than Midjourney, close to ChatGPT Images 2.6 and Ideogram. For posters, product labels, and social graphics with short text, the output is publication-ready.</li>
-  <li><strong>Resolution up to 4K (preview):</strong> الدعمs 1K, 2K, and 4K output (4K still in preview). The 2K output is sharp enough for print materials and high-resolution digital displays. الدعمed aspect ratios cover every common format: 1:1, 16:9, 9:16, 4:3, 3:4, and more.</li>
+  <li><strong>Resolution up to 4K (preview):</strong> Supports 1K, 2K, and 4K output (4K still in preview). The 2K output is sharp enough for print materials and high-resolution digital displays. Supported aspect ratios cover every common format: 1:1, 16:9, 9:16, 4:3, 3:4, and more.</li>
   <li><strong>Free through Gemini:</strong> Access Nano Banana Pro for free through the Gemini app — no subscription required. The free tier has daily limits, but it is enough to test the technology and generate a handful of images per day. AI Plus ($7.99/month) and AI Pro ($20/month) increase the limits significantly.</li>
   <li><strong>SynthID watermarking:</strong> All Nano Banana Pro outputs embed an invisible SynthID watermark in the pixel data — digital provenance that can be detected to verify an image was AI-generated. This matters for transparency and content authenticity.</li>
-  <li><strong>التكامل across Google products:</strong> Nano Banana Pro powers image generation in Google Ads, Slides, and Search's AI Mode. For businesses already using Google's ecosystem, the image generation is built in — no separate tool needed.</li>
+  <li><strong>Integration across Google products:</strong> Nano Banana Pro powers image generation in Google Ads, Slides, and Search's AI Mode. For businesses already using Google's ecosystem, the image generation is built in — no separate tool needed.</li>
 </ul>
 
 <h2>What Falls Short</h2>
@@ -70,10 +70,10 @@ toolName: "Nano Banana Pro"
     <tr><td>Speed</td><td><strong>2-5 sec</strong></td><td>10-60 sec</td><td>6-25 sec</td></tr>
     <tr><td>Editing workflow</td><td>Basic</td><td>Edit Model</td><td><strong>Conversational (best)</strong></td></tr>
     <tr><td>GIFs/Animation</td><td>No</td><td>Short clips</td><td><strong>Yes</strong></td></tr>
-    <tr><td>Free tier</td><td><strong>Yes (generous)</strong></td><td>No</td><td>Yes (limited)</td></tr>
+    <tr><td>خطة مجانية</td><td><strong>Yes (generous)</strong></td><td>No</td><td>Yes (limited)</td></tr>
     <tr><td>Max resolution</td><td><strong>4K (preview)</strong></td><td>2K</td><td>2K</td></tr>
     <tr><td>API available</td><td>Yes</td><td>No</td><td>Yes</td></tr>
-    <tr><td>Best for</td><td>Product photos, headshots</td><td>Marketing, creative art</td><td>Versatile creation</td></tr>
+    <tr><td>الأفضل لـ</td><td>Product photos, headshots</td><td>Marketing, creative art</td><td>Versatile creation</td></tr>
   </tbody>
 </table>
 
@@ -128,4 +128,4 @@ toolName: "Nano Banana Pro"
 <h3>Can I use Nano Banana Pro for commercial projects?</h3>
 <p>Yes, on paid plans. All outputs include invisible SynthID watermarks for provenance tracking. Check Google's current terms of service for specific commercial usage rights.</p>
 
-<p><em>Nano Banana Pro was tested by AIالتقييمLab over four weeks through Gemini and API access. التقييم reflects performance as of November 2026. Pricing verified against Google's official documentation on November 14, 2026.</em></p>
+<p><em>Nano Banana Pro was tested by AIGradeLab over four weeks through Gemini and API access. Grade reflects performance as of November 2026. Pricing verified against Google's official documentation on November 14, 2026.</em></p>

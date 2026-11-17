@@ -1,11 +1,11 @@
 ---
-title: "GPT Image 2.6 مراجعة 2026: GIFs, Faster Generation, and What Actually Changed"
-description: "اختبرنا OpenAI's GPT Image 2.6 released November 4, 2026. GIF creation, reference images, SVG export, and 50% faster generation. Here is our honest grade."
+title: "GPT Image 2.6 Review 2026: GIFs, Faster Generation, and What Actually Changed"
+description: "We tested OpenAI's GPT Image 2.6 released November 4, 2026. GIF creation, reference images, SVG export, and 50% faster generation. Here is our honest grade."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "10 دقائق للقراءة"
+readTime: "10 min read"
 grade: "A"
 scores_ux: 9.0
 scores_quality: 8.5
@@ -27,7 +27,7 @@ toolName: "ChatGPT Images 2.6"
   <li><strong>50% faster generation:</strong> OpenAI claims Images 2.6 generates 50% faster than Images 2.5. In our testing, Flare produced images in as little as 6 seconds at low quality settings. Sunburst was slower but noticeably faster than the previous generation.</li>
 </ul>
 
-<h2>ما اختبرناه</h2>
+<h2>What We Tested</h2>
 <p>We used GPT Image 2.6 for 10 days across real use cases: social media graphics with text overlays, product photography mockups, animated GIFs for marketing, brand-consistent image series using reference images, photo editing and style transfer, and SVG icon generation. We compared quality against Images 2.5 (previous version) and Midjourney v8.2.</p>
 
 <h2>What Works Well</h2>
@@ -62,7 +62,7 @@ toolName: "ChatGPT Images 2.6"
     <tr><td>Reference images</td><td><strong>Yes</strong></td><td>Style references</td><td>No</td></tr>
     <tr><td>Conversational editing</td><td><strong>Best</strong></td><td>Limited</td><td>Limited</td></tr>
     <tr><td>Speed</td><td>6-25 seconds</td><td>10-60 seconds</td><td><strong>2-5 seconds</strong></td></tr>
-    <tr><td>Free tier</td><td>Yes (limited)</td><td>No</td><td>Yes</td></tr>
+    <tr><td>خطة مجانية</td><td>Yes (limited)</td><td>No</td><td>Yes</td></tr>
     <tr><td>السعر</td><td>$20/mo (ChatGPT Plus)</td><td>$10-120/mo</td><td>Free-$20/mo</td></tr>
   </tbody>
 </table>
@@ -78,7 +78,7 @@ toolName: "ChatGPT Images 2.6"
 </ul>
 <p>The pace of iteration — three major versions in seven months — shows how aggressively OpenAI is investing in image generation to compete with Midjourney and Google.</p>
 
-<h2>Pricing</h2>
+<h2>التسعير</h2>
 <p>GPT Image 2.6 is available through ChatGPT on all tiers:</p>
 <table>
   <thead>
@@ -114,4 +114,4 @@ toolName: "ChatGPT Images 2.6"
 <h3>Is GPT Image 2.6 free?</h3>
 <p>Yes, it is available on ChatGPT Free with limited generations. Plus ($20/month) gives standard access. Pro ($200/month) gives priority and highest limits.</p>
 
-<p><em>GPT Image 2.6 was tested by AIالتقييمLab during its first 10 days after launch. التقييم reflects performance as of November 14, 2026. Features verified against OpenAI's official release announcement from November 4, 2026.</em></p>
+<p><em>GPT Image 2.6 was tested by AIGradeLab during its first 10 days after launch. Grade reflects performance as of November 14, 2026. Features verified against OpenAI's official release announcement from November 4, 2026.</em></p>

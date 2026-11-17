@@ -1,17 +1,17 @@
 ---
 title: "ChatGPT vs Perplexity 2026: Which AI Should You Use for Research?"
-description: "اختبرنا ChatGPT and Perplexity head-to-head for research, accuracy, sources, and everyday use. Full comparison with scores. محدّث نوفمبر 2026."
+description: "We tested ChatGPT and Perplexity head-to-head for research, accuracy, sources, and everyday use. Full comparison with scores. Updated November 2026."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "Nov 2026"
-readTime: "12 دقائق للقراءة"
+readTime: "12 min read"
 ---
 
 <h2>Two AIs, Two Philosophies</h2>
 <p>ChatGPT and Perplexity approach the same question — "help me find accurate information" — from opposite directions. ChatGPT is a conversational AI that can also search the web. Perplexity is a search engine that uses AI to synthesize results. The difference matters: ChatGPT writes confidently, sometimes without evidence. Perplexity cites every claim, sometimes at the cost of creativity. We tested both across 50+ real research tasks to find where each excels.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
     <tr><th>Feature</th><th>ChatGPT</th><th>Perplexity</th></tr>
@@ -27,7 +27,7 @@ readTime: "12 دقائق للقراءة"
     <tr><td>Video generation</td><td>Sora (included)</td><td>No</td></tr>
     <tr><td>Voice mode</td><td>Yes (natural)</td><td>No</td></tr>
     <tr><td>File analysis</td><td>Yes</td><td>Limited</td></tr>
-    <tr><td>Best for</td><td>Everything + research</td><td>Research + fact-checking</td></tr>
+    <tr><td>الأفضل لـ</td><td>Everything + research</td><td>Research + fact-checking</td></tr>
   </tbody>
 </table>
 
@@ -57,7 +57,7 @@ readTime: "12 دقائق للقراءة"
 <p>Perplexity is faster for research. Type a question and get a sourced answer in seconds — no conversation, no context-setting, no prompt engineering. The interface is clean and focused: question, answer, sources, follow-up questions. ChatGPT's conversational interface is more powerful but slower for quick factual lookups.</p>
 <p>Perplexity's follow-up questions are particularly useful — they guide you deeper into a topic without having to think about what to ask next. For research rabbit holes, this guided exploration surfaces information you didn't know to look for.</p>
 
-<h2>الخطة المجانية Comparison</h2>
+<h2>Free Tier Comparison</h2>
 <table>
   <thead>
     <tr><th>Feature</th><th>ChatGPT Free</th><th>Perplexity Free</th></tr>
@@ -105,7 +105,7 @@ readTime: "12 دقائق للقراءة"
 <h2>Final Take</h2>
 <p><strong>Perplexity</strong> is the best research AI available — every answer sourced, verifiable, and trustworthy. For students, journalists, researchers, and professionals who need accurate information with citations, Perplexity is essential.</p>
 <p><strong>ChatGPT</strong> is the best all-around AI — research plus writing plus images plus video plus voice plus code in one platform. For anyone who needs a single AI tool, ChatGPT covers the most ground.</p>
-<p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. اقرأ مراجعتنا الكاملة لـ <a href="/ar/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/ar/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
+<p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. Read our full <a href="/ar/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/ar/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
 
 <h2>الأسئلة الشائعة</h2>
 
@@ -121,4 +121,4 @@ readTime: "12 دقائق للقراءة"
 <h3>Is Perplexity good for students?</h3>
 <p>Excellent. Every answer comes with sources you can cite in papers. The academic focus mode filters for scholarly sources. It's the closest thing to an AI research assistant that professors would approve of — because every claim is verifiable.</p>
 
-<p><em>Both tools were tested by AIالتقييمLab across research, writing, and fact-checking workflows. التقييمs reflect practical value as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>Both tools were tested by AIGradeLab across research, writing, and fact-checking workflows. Grades reflect practical value as of November 2026. Pricing verified on each platform's website.</em></p>

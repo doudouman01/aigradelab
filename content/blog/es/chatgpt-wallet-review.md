@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT Wallet Review: OpenAI Lets AI Agents Pay for You"
+title: "Reseña de ChatGPT Wallet: OpenAI Deja que los Agentes IA Paguen por Ti"
 description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. Probamos it and graded it. Here's our full review."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
 lastTested: "2026-11-15"
-readTime: "9 min de lectura"
+readTime: "9 min read"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -37,7 +37,7 @@ toolName: "ChatGPT Wallet"
 
 <p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
 
-<h2>Lo que nos gustad</h2>
+<h2>What We Liked</h2>
 
 <h3>Security Architecture Is Thoughtful</h3>
 
@@ -86,13 +86,13 @@ toolName: "ChatGPT Wallet"
 
 <p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
 
-<h2>Pricing</h2>
+<h2>Precios</h2>
 
 <p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
 
 <p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
 
-<h2>Privacy and Data Desventajasiderations</h2>
+<h2>Privacy and Data Considerations</h2>
 
 <p>OpenAI states that purchase data is used to improve the shopping experience but can be managed through your privacy settings. Key considerations:</p>
 
@@ -103,13 +103,13 @@ toolName: "ChatGPT Wallet"
 <li>Purchase data is not used for model training (per OpenAI's Pro subscriber data policy)</li>
 </ul>
 
-<h2>Who Should Use ChatGPT Wallet</h2>
+<h2>Quién Debería Usar ChatGPT Wallet</h2>
 
 <p><strong>Good fit:</strong> ChatGPT Pro subscribers who already use the dot agent regularly, frequent online shoppers who value time savings, professionals who expense routine purchases, and early adopters who want to experience the future of agentic commerce.</p>
 
 <p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
 
-<h2>Our Nota: B+</h2>
+<h2>Nuestra Nota: B+</h2>
 
 <table>
 <thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>
@@ -126,4 +126,4 @@ toolName: "ChatGPT Wallet"
 
 <p>This grade will likely move up as OpenAI expands access and improves reliability. We'll retest when Plus tier access and international support arrive.</p>
 
-<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">HerramientaCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>
+<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">ToolCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>

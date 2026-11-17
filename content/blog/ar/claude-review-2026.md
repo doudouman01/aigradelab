@@ -1,11 +1,11 @@
 ---
-title: "Claude مراجعة 2026: The Best AI for Writing and Coding? تقييمنا"
-description: "اختبرنا Claude Opus 5.5 for writing, coding, reasoning, and daily tasks. Here is our honest grade and whether Claude Pro is worth $20/month. محدّث نوفمبر 2026."
+title: "Claude Review 2026: The Best AI for Writing and Coding? Our Grade"
+description: "We tested Claude Opus 5.5 for writing, coding, reasoning, and daily tasks. Here is our honest grade and whether Claude Pro is worth $20/month. Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "13 دقائق للقراءة"
+readTime: "13 min read"
 grade: "A"
 scores_ux: 8.5
 scores_quality: 9.5
@@ -18,7 +18,7 @@ toolName: "Claude"
 <h2>What Claude Does</h2>
 <p>Claude is Anthropic's AI assistant — and in 2026, it has become the fastest-growing AI tool on the market. Searches for "Claude AI" grew 611% between October 2024 and September 2026. Claude's website received 967.9 million visits in June 2026, a 236% increase from February. The growth is driven by one thing: output quality. When the text needs to sound human, when the code needs to work, and when the reasoning needs to be careful — Claude is what professionals reach for.</p>
 
-<h2>ما اختبرناه</h2>
+<h2>What We Tested</h2>
 <p>We used Claude Pro daily for eight weeks across every major use case: professional writing (emails, reports, proposals), coding (Next.js, Python, bug fixing), research and analysis (document review, competitive analysis), creative writing (blog posts, marketing copy), and complex reasoning (multi-step problems, strategy development). We compared outputs against ChatGPT and Gemini on identical prompts.</p>
 
 <h2>The Current Model: Opus 5.5</h2>
@@ -56,7 +56,7 @@ toolName: "Claude"
     <tr><td>Image generation</td><td><strong>ChatGPT</strong></td><td>Claude has none</td></tr>
     <tr><td>Ecosystem breadth</td><td><strong>ChatGPT</strong></td><td>Plugins, GPTs, DALL-E, Sora</td></tr>
     <tr><td>Google integration</td><td><strong>Gemini</strong></td><td>Native Gmail, Drive, Docs access</td></tr>
-    <tr><td>Free tier</td><td><strong>Gemini</strong></td><td>Most generous free access</td></tr>
+    <tr><td>خطة مجانية</td><td><strong>Gemini</strong></td><td>Most generous free access</td></tr>
   </tbody>
 </table>
 
@@ -111,4 +111,4 @@ toolName: "Claude"
 <h3>What is the difference between Opus, Sonnet, and Haiku?</h3>
 <p><strong>Opus 5.5</strong> is the flagship — best quality, slowest, Pro only. <strong>Sonnet 5.5</strong> is the balanced option — strong quality, faster, available on free tier. <strong>Haiku 5.5</strong> is the fastest and cheapest — best for high-volume API use where speed matters more than depth.</p>
 
-<p><em>Claude was tested by AIالتقييمLab over eight weeks of daily professional use. التقييم reflects performance as of November 2026. Pricing verified on claude.ai on November 14, 2026.</em></p>
+<p><em>Claude was tested by AIGradeLab over eight weeks of daily professional use. Grade reflects performance as of November 2026. Pricing verified on claude.ai on November 14, 2026.</em></p>

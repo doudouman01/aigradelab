@@ -1,11 +1,11 @@
 ---
-title: "Cursor AI مراجعة 2026: The Best AI Code Editor? تقييمنا"
-description: "اختبرنا Cursor for real-world coding — Composer 1.5, agent mode, codebase indexing. Here is our honest grade, pricing breakdown, and whether it is worth $30/month. محدّث نوفمبر 2026."
+title: "Cursor AI Review 2026: The Best AI Code Editor? Our Grade"
+description: "We tested Cursor for real-world coding — Composer 1.5, agent mode, codebase indexing. Here is our honest grade, pricing breakdown, and whether it is worth $30/month. Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 دقائق للقراءة"
+readTime: "12 min read"
 grade: "A"
 scores_ux: 8.8
 scores_quality: 9.2
@@ -18,7 +18,7 @@ toolName: "Cursor"
 <h2>What Cursor Does</h2>
 <p>Cursor is an AI-native code editor built as a fork of VS Code. It does not add AI to an editor — it rebuilds the editing experience around AI. Every part of the workflow is AI-aware: autocomplete predicts multi-line sequences based on your project's patterns, chat understands your full codebase, and Composer edits multiple files simultaneously from natural language descriptions. In 2026, Cursor has become the editor that professional developers recommend most often.</p>
 
-<h2>ما اختبرناه</h2>
+<h2>What We Tested</h2>
 <p>We used Cursor daily for six weeks on real projects: a Next.js SaaS application, a Python data pipeline, bug fixing across multiple repositories, and implementing new features from plain-English descriptions. We compared output quality against GitHub Copilot, Claude Code, and manual coding.</p>
 
 <h2>What Has Changed Since September 2026</h2>
@@ -58,8 +58,8 @@ toolName: "Cursor"
     <tr><td>Codebase awareness</td><td>Full project index</td><td>Limited</td><td>Full repo</td></tr>
     <tr><td>Multi-file editing</td><td>Composer (best)</td><td>Agent (newer)</td><td>Yes (terminal)</td></tr>
     <tr><td>Autonomous mode</td><td>Agent mode</td><td>Coding agent</td><td>Full autonomy</td></tr>
-    <tr><td>Best for</td><td>In-the-flow daily coding</td><td>Teams, multi-IDE</td><td>Large delegated tasks</td></tr>
-    <tr><td>Free tier</td><td>Yes (limited)</td><td>Yes (2,000/month)</td><td>No (needs Claude Pro)</td></tr>
+    <tr><td>الأفضل لـ</td><td>In-the-flow daily coding</td><td>Teams, multi-IDE</td><td>Large delegated tasks</td></tr>
+    <tr><td>خطة مجانية</td><td>Yes (limited)</td><td>Yes (2,000/month)</td><td>No (needs Claude Pro)</td></tr>
     <tr><td>Pro price</td><td>$30/month</td><td>$10/month</td><td>$20/month</td></tr>
   </tbody>
 </table>
@@ -74,7 +74,7 @@ toolName: "Cursor"
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Limited completions, basic chat</td></tr>
     <tr><td>Plus</td><td>$8/month</td><td>More completions, standard models</td></tr>
-    <tr><td>Premium</td><td>$30/month</td><td>Full agent mode, premium models, highest limits</td></tr>
+    <tr><td>متقدمة</td><td>$30/month</td><td>Full agent mode, premium models, highest limits</td></tr>
     <tr><td>Business</td><td>$40/user/month</td><td>Team features, admin controls, SSO</td></tr>
   </tbody>
 </table>
@@ -116,4 +116,4 @@ toolName: "Cursor"
 <h3>Does Cursor work with JetBrains?</h3>
 <p>No. Cursor is VS Code only. JetBrains users should use GitHub Copilot or the JetBrains AI Assistant.</p>
 
-<p><em>Cursor was tested by AIالتقييمLab over six weeks of daily use on real-world projects. التقييم reflects performance as of November 2026. Pricing verified on cursor.com on November 14, 2026.</em></p>
+<p><em>Cursor was tested by AIGradeLab over six weeks of daily use on real-world projects. Grade reflects performance as of November 2026. Pricing verified on cursor.com on November 14, 2026.</em></p>

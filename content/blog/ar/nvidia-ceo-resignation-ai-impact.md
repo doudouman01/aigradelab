@@ -4,7 +4,7 @@ description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Here's w
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
-readTime: "8 دقائق للقراءة"
+readTime: "8 min read"
 ---
 
 <h2>The End of an Era at Nvidia</h2>
@@ -87,4 +87,4 @@ readTime: "8 دقائق للقراءة"
 
 <p>We'll be updating this analysis as the earnings call and CEO search develop. Bookmark this page and check back.</p>
 
-<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at الأداةCraftKit</a> — no GPU drama required.</em></p>
+<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at ToolCraftKit</a> — no GPU drama required.</em></p>

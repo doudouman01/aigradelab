@@ -1,11 +1,11 @@
 ---
 title: "ChatGPT vs Claude vs Gemini in 2026: The Only Comparison You Need"
-description: "اختبرنا ChatGPT (GPT-5.5), Claude (Opus 5.5), and Gemini (3.1 Pro) head-to-head on writing, coding, reasoning, research, and daily tasks. محدّث نوفمبر 2026 with grades."
+description: "We tested ChatGPT (GPT-5.5), Claude (Opus 5.5), and Gemini (3.1 Pro) head-to-head on writing, coding, reasoning, research, and daily tasks. Updated November 2026 with grades."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "16 دقائق للقراءة"
+readTime: "16 min read"
 ---
 
 <h2>Three AI Giants, One Honest Comparison</h2>
@@ -21,7 +21,7 @@ readTime: "16 دقائق للقراءة"
     <tr><td>Maker</td><td>OpenAI</td><td>Anthropic</td><td>Google</td></tr>
     <tr><td>Top model</td><td>GPT-5.5</td><td>Opus 5.5</td><td>Gemini 3.1 Pro</td></tr>
     <tr><td>Pro price</td><td>$20/month</td><td>$20/month</td><td>$20/month</td></tr>
-    <tr><td>Free tier</td><td>Yes (GPT-4o mini)</td><td>Yes (limited Sonnet)</td><td>Yes (generous)</td></tr>
+    <tr><td>خطة مجانية</td><td>Yes (GPT-4o mini)</td><td>Yes (limited Sonnet)</td><td>Yes (generous)</td></tr>
     <tr><td>Context window</td><td>1M tokens (API)</td><td>200K tokens</td><td>1M tokens</td></tr>
     <tr><td>Web search</td><td>Yes (built-in)</td><td>Yes</td><td>Yes (Google Search)</td></tr>
     <tr><td>Image generation</td><td>Yes (Images 2.6)</td><td>No</td><td>Yes (Nano Banana)</td></tr>
@@ -30,15 +30,15 @@ readTime: "16 دقائق للقراءة"
     <tr><td>Coding agent</td><td>Yes (Codex)</td><td>Yes (Claude Code)</td><td>No dedicated agent</td></tr>
     <tr><td>File analysis</td><td>PDFs, spreadsheets, images</td><td>PDFs, images, large docs</td><td>PDFs, images, video, audio</td></tr>
     <tr><td>Ecosystem</td><td>Plugins, GPT Store, DALL-E, Sora</td><td>Projects, Artifacts, MCP</td><td>Gmail, Drive, Docs, Maps, YouTube</td></tr>
-    <tr><td>Best for</td><td>Versatility & creation</td><td>Quality & reasoning</td><td>Google Workspace users</td></tr>
+    <tr><td>الأفضل لـ</td><td>Versatility & creation</td><td>Quality & reasoning</td><td>Google Workspace users</td></tr>
   </tbody>
 </table>
 
-<h2>ChatGPT (GPT-5.5) — Our التقييم: A</h2>
+<h2>ChatGPT (GPT-5.5) — Our Grade: A</h2>
 <div class="score-card"><h3>ChatGPT Scores</h3>
   <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
   <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
   <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
 </div>
@@ -62,11 +62,11 @@ readTime: "16 دقائق للقراءة"
   <li><strong>Honesty:</strong> ChatGPT is more likely to confidently state incorrect information rather than admitting uncertainty. Claude's tendency to say "I'm not sure" is actually a feature, not a bug.</li>
 </ul>
 
-<h2>Claude (Opus 5.5) — Our التقييم: A</h2>
+<h2>Claude (Opus 5.5) — Our Grade: A</h2>
 <div class="score-card"><h3>Claude Scores</h3>
   <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
   <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
 </div>
@@ -91,11 +91,11 @@ readTime: "16 دقائق للقراءة"
   <li><strong>Free tier is limited:</strong> Claude's free tier restricts you to a less capable model with lower limits. ChatGPT and Gemini both offer more generous free access.</li>
 </ul>
 
-<h2>Gemini (3.1 Pro) — Our التقييم: A</h2>
+<h2>Gemini (3.1 Pro) — Our Grade: A</h2>
 <div class="score-card"><h3>Gemini Scores</h3>
   <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
   <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
 </div>
@@ -107,7 +107,7 @@ readTime: "16 دقائق للقراءة"
 <ul>
   <li><strong>Google Workspace integration:</strong> This is Gemini's decisive advantage. "Summarize the last email from Sarah," "Find the Q3 report in my Drive," "Create a new Doc with meeting notes from today's calendar" — Gemini handles these naturally because it has direct access to your Google data. ChatGPT and Claude cannot touch your Google workspace.</li>
   <li><strong>Multimodal range:</strong> Gemini handles text, images, video, and audio natively. Upload a YouTube video and ask questions about it. Analyze audio files. Generate images with Nano Banana Pro. The multimodal breadth matches ChatGPT and exceeds Claude.</li>
-  <li><strong>Free tier:</strong> Gemini's free tier is the most generous — access to the latest model with high usage limits. For users testing AI tools or with moderate needs, Gemini Free may be all you need.</li>
+  <li><strong>خطة مجانية:</strong> Gemini's free tier is the most generous — access to the latest model with high usage limits. For users testing AI tools or with moderate needs, Gemini Free may be all you need.</li>
   <li><strong>Value at $20/month:</strong> Gemini Advanced ($20/month) comes bundled with Google One AI Premium, which includes 2TB of Google storage. You get the AI assistant plus cloud storage — better value than ChatGPT or Claude at the same price.</li>
   <li><strong>Real-time information:</strong> Built on Google Search, Gemini always has access to current information. The real-time data is consistently fresher than ChatGPT's Bing-based search.</li>
   <li><strong>Gemini Live:</strong> The voice conversation mode with natural back-and-forth is polished and practical for hands-free brainstorming and note-taking.</li>
@@ -161,7 +161,7 @@ readTime: "16 دقائق للقراءة"
   <tbody>
     <tr><td>Free</td><td>GPT-4o mini, limited</td><td>Sonnet, limited</td><td>Full model, generous limits</td></tr>
     <tr><td>Pro / Plus</td><td>$20/mo</td><td>$20/mo</td><td>$20/mo (+ 2TB storage)</td></tr>
-    <tr><td>Premium</td><td>$200/mo (Pro)</td><td>—</td><td>—</td></tr>
+    <tr><td>متقدمة</td><td>$200/mo (Pro)</td><td>—</td><td>—</td></tr>
     <tr><td>Teams</td><td>$25-30/user/mo</td><td>$25-30/user/mo</td><td>Included in Workspace</td></tr>
   </tbody>
 </table>
@@ -186,4 +186,4 @@ readTime: "16 دقائق للقراءة"
 <h3>Which is best for coding in 2026?</h3>
 <p><strong>Claude</strong> — Claude Code leads on developer benchmarks and is the preferred tool for professional developers doing complex, multi-file work. ChatGPT's Codex is strong for cloud-sandboxed tasks. Gemini lacks a dedicated coding agent.</p>
 
-<p><em>All three AI assistants were tested by AIالتقييمLab using identical prompts across six task categories. التقييمs reflect performance as of November 2026. Pricing verified on each platform's official website on November 14, 2026.</em></p>
+<p><em>All three AI assistants were tested by AIGradeLab using identical prompts across six task categories. Grades reflect performance as of November 2026. Pricing verified on each platform's official website on November 14, 2026.</em></p>

@@ -1,11 +1,11 @@
 ---
-title: "Claude Fable 5.2 Review: Anthropic's Fastest Frontier Model, تم اختباره وتقييمه"
-description: "Claude Fable 5.2 delivers 30% faster responses with improved coding and reasoning. اختبرنا Anthropic's latest model across real-world tasks and graded it on UX, quality, value, integration, and support."
+title: "Claude Fable 5.2 Review: Anthropic's Fastest Frontier Model, Tested and Graded"
+description: "Claude Fable 5.2 delivers 30% faster responses with improved coding and reasoning. We tested Anthropic's latest model across real-world tasks and graded it on UX, quality, value, integration, and support."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-19"
 lastTested: "2026-11-17"
-readTime: "10 دقائق للقراءة"
+readTime: "10 min read"
 grade: "A"
 scores_ux: 9
 scores_quality: 9
@@ -18,12 +18,12 @@ toolName: "Claude Fable 5.2"
 <h2>Claude Fable 5.2 at a Glance</h2>
 
 <div style="margin: 1.5rem 0; padding: 1.5rem; border-left: 4px solid #2563eb;">
-  <strong>AIالتقييمLab التقييم: A</strong><br>
-  UX: 9/10 | Quality: 9/10 | Value: 8/10 | التكامل: 8/10 | الدعم: 8/10<br><br>
+  <strong>AIGradeLab Grade: A</strong><br>
+  UX: 9/10 | Quality: 9/10 | Value: 8/10 | Integration: 8/10 | Support: 8/10<br><br>
   <strong>Bottom line:</strong> Claude Fable 5.2 is a significant step forward for Anthropic — faster, smarter, and more capable than any previous Claude model in its tier. The 30% speed improvement is real and noticeable. The main limitation is that the even more powerful Mythos tier remains restricted to select organizations.
 </div>
 
-<h2>ما الجديد in Claude Fable 5.2</h2>
+<h2>What's New in Claude Fable 5.2</h2>
 
 <p>Anthropic released Claude Fable 5.2 and Claude Mythos 5.2 on November 9, 2026 — strategically timed one day before the company's IPO roadshow began. The release represents the latest generation of Anthropic's model family, sitting alongside Claude Opus 5.5, Sonnet 5.5, and Haiku 5.5.</p>
 
@@ -81,7 +81,7 @@ What kept it from 10: still occasionally loses context on very long conversation
 <p>Claude is available across several tiers:</p>
 
 <ul>
-  <li><strong>Free tier:</strong> Access to Fable 5.2 with usage limits</li>
+  <li><strong>خطة مجانية:</strong> Access to Fable 5.2 with usage limits</li>
   <li><strong>Pro:</strong> Higher limits, priority access</li>
   <li><strong>Team and Enterprise:</strong> Collaboration features, admin controls</li>
   <li><strong>API:</strong> Pay-per-token for developers (model string: <code>claude-fable-5-2</code>)</li>
@@ -92,7 +92,7 @@ What kept it from 10: still occasionally loses context on very long conversation
 <p>What earned the 8: competitive pricing, generous free tier, strong API rates.<br>
 What kept it from 9: Mythos tier restrictions create a ceiling; enterprise pricing is not transparent.</p>
 
-<h2>التكامل Score: 8/10</h2>
+<h2>Integration Score: 8/10</h2>
 
 <h3>Growing Ecosystem, Not Yet Dominant</h3>
 
@@ -111,7 +111,7 @@ What kept it from 9: Mythos tier restrictions create a ceiling; enterprise prici
 <p>What earned the 8: MCP protocol, Claude Meetings, growing workplace integrations, solid API.<br>
 What kept it from 9: Google and Microsoft ecosystems still have deeper native AI integration; some integrations are beta-only.</p>
 
-<h2>الدعم Score: 8/10</h2>
+<h2>Support Score: 8/10</h2>
 
 <p>Anthropic's documentation has improved substantially in 2026. The API docs are clear, with good examples and prompt engineering guides. The community is active and growing. Enterprise support is responsive.</p>
 
@@ -136,7 +136,7 @@ What kept it from 9: consumer support is still limited compared to Google or Mic
       <th>Model</th>
       <th>الأفضل لـ</th>
       <th>Speed</th>
-      <th>AIالتقييمLab التقييم</th>
+      <th>AIGradeLab Grade</th>
     </tr>
   </thead>
   <tbody>
@@ -179,4 +179,4 @@ What kept it from 9: consumer support is still limited compared to Google or Mic
 
 <p>The only thing keeping Fable 5.2 from an A+ is the Mythos restriction. If you're a power user who wants the absolute best Claude has to offer, you're locked out of the top tier unless you're at a select organization. For everyone else, Fable 5.2 is the best Claude has ever been — and it's available today.</p>
 
-<p><em>Want to test your AI workflow without spending a dime? Browse the free productivity tools at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">الأداةCraftKit.com</a> — timers, converters, generators, and more.</em></p>
+<p><em>Want to test your AI workflow without spending a dime? Browse the free productivity tools at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a> — timers, converters, generators, and more.</em></p>

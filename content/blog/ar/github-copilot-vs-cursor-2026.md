@@ -1,17 +1,17 @@
 ---
 title: "GitHub Copilot vs Cursor 2026: Which AI Coding Tool Wins?"
-description: "اختبرنا GitHub Copilot and Cursor side by side for code completion, chat, debugging, and multi-file editing. Full head-to-head comparison. محدّث نوفمبر 2026."
+description: "We tested GitHub Copilot and Cursor side by side for code completion, chat, debugging, and multi-file editing. Full head-to-head comparison. Updated November 2026."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 دقائق للقراءة"
+readTime: "14 min read"
 ---
 
 <h2>The Two AI Coding Giants Go Head-to-Head</h2>
 <p>GitHub Copilot and Cursor are the two dominant AI coding tools in 2026. Copilot is the Microsoft-backed powerhouse integrated into VS Code and JetBrains. Cursor is the challenger — a fork of VS Code rebuilt from the ground up around AI. Both promise to make developers 2-5x more productive. We tested both across real development workflows to find out which one actually delivers.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
     <tr><th>Feature</th><th>GitHub Copilot</th><th>Cursor</th></tr>
@@ -19,14 +19,14 @@ readTime: "14 دقائق للقراءة"
   <tbody>
     <tr><td><strong>التقييم</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
     <tr><td>السعر</td><td>$10-19/mo</td><td>$20/mo (Pro)</td></tr>
-    <tr><td>Free tier</td><td>Yes (2,000 completions/mo)</td><td>Yes (limited)</td></tr>
+    <tr><td>خطة مجانية</td><td>Yes (2,000 completions/mo)</td><td>Yes (limited)</td></tr>
     <tr><td>Code completion</td><td>Excellent</td><td>Excellent</td></tr>
     <tr><td>AI chat</td><td>Good</td><td>Superior</td></tr>
     <tr><td>Multi-file editing</td><td>Limited</td><td>Best-in-class</td></tr>
     <tr><td>Codebase awareness</td><td>Good</td><td>Superior</td></tr>
     <tr><td>Editor</td><td>VS Code / JetBrains plugin</td><td>Standalone (VS Code fork)</td></tr>
     <tr><td>Model choice</td><td>GPT-4o, Claude</td><td>GPT-4o, Claude, custom</td></tr>
-    <tr><td>Best for</td><td>Devs who stay in VS Code</td><td>AI-first developers</td></tr>
+    <tr><td>الأفضل لـ</td><td>Devs who stay in VS Code</td><td>AI-first developers</td></tr>
   </tbody>
 </table>
 
@@ -139,6 +139,6 @@ readTime: "14 دقائق للقراءة"
 <p>GitHub Copilot — it's simpler, cheaper, and works inside the editor beginners are already learning (VS Code). Cursor's advanced features are more valuable for experienced developers.</p>
 
 <h3>What about Claude Code and Windsurf?</h3>
-<p>Claude Code (Anthropic's CLI tool) is an agent that works from the terminal — different from both. Windsurf (formerly Codeium) is another AI editor worth considering, positioned between Copilot's price and Cursor's features. Read our <a href="/ar/blog/best-ai-coding-tools-2026">Best AI Coding الأداةs 2026</a> for the full comparison.</p>
+<p>Claude Code (Anthropic's CLI tool) is an agent that works from the terminal — different from both. Windsurf (formerly Codeium) is another AI editor worth considering, positioned between Copilot's price and Cursor's features. Read our <a href="/ar/blog/best-ai-coding-tools-2026">Best AI Coding Tools 2026</a> for the full comparison.</p>
 
-<p><em>Both tools were tested by AIالتقييمLab across TypeScript, Python, and React projects over 30 days. التقييمs reflect practical development productivity as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>Both tools were tested by AIGradeLab across TypeScript, Python, and React projects over 30 days. Grades reflect practical development productivity as of November 2026. Pricing verified on each platform's website.</em></p>

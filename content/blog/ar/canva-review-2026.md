@@ -1,11 +1,11 @@
 ---
-title: "Canva مراجعة 2026: AI Design for Everyone — تم اختباره وتقييمه"
-description: "اختبرنا Canva's AI-powered design platform — Magic Studio, text-to-image, video editing, and brand kits. Full review with scores. محدّث نوفمبر 2026."
+title: "Canva Review 2026: AI Design for Everyone — Tested and Graded"
+description: "We tested Canva's AI-powered design platform — Magic Studio, text-to-image, video editing, and brand kits. Full review with scores. Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "13 دقائق للقراءة"
+readTime: "13 min read"
 grade: "A"
 scores_ux: 9.5
 scores_quality: 8.5
@@ -15,15 +15,15 @@ scores_support: 8.0
 toolName: "Canva"
 ---
 
-<h2>Canva in 2026: The Design الأداة That Ate Everything</h2>
+<h2>Canva in 2026: The Design Tool That Ate Everything</h2>
 <p>Canva is no longer just a design tool — it is a full creative platform. Presentations, social media graphics, videos, websites, whiteboards, print materials, brand kits, and now AI-powered generation for all of it. With Magic Studio, Canva has integrated AI into every part of the design workflow: generate images from text, remove backgrounds with one click, resize designs for every platform, translate text across languages, and create entire presentations from a prompt.</p>
 <p>At $13/month for Canva Pro (or free for the basic version), the value proposition is hard to beat. We tested every major feature across real design workflows.</p>
 
 <h2>Canva Scores</h2>
-<div class="score-card"><h3>Overall التقييم: A</h3>
+<div class="score-card"><h3>Overall Grade: A</h3>
   <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل السعر</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
   <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
@@ -106,7 +106,7 @@ toolName: "Canva"
 <h3>Canva vs ChatGPT (GPT Image)</h3>
 <p>ChatGPT's GPT Image generates stunning AI images but can't create complete designs — no layouts, no text placement, no templates. Canva creates complete, ready-to-use designs with AI assistance. Use GPT Image for custom illustrations, use Canva for everything else.</p>
 
-<h2>المزايا and العيوب Summary</h2>
+<h2>Pros and Cons Summary</h2>
 <h3>المزايا</h3>
 <ul>
   <li>Easiest design tool available — zero learning curve</li>
@@ -143,4 +143,4 @@ toolName: "Canva"
 <h3>Is Canva AI art good enough for commercial use?</h3>
 <p>For social media posts and presentations — yes. For hero images, advertising campaigns, or brand-critical visuals — consider Midjourney or GPT Image for higher quality AI generation, then bring the images into Canva for layout.</p>
 
-<p><em>Canva was tested by AIالتقييمLab across social media, presentations, video, and print design workflows. التقييم reflects practical value for non-designers as of November 2026. Pricing verified on canva.com.</em></p>
+<p><em>Canva was tested by AIGradeLab across social media, presentations, video, and print design workflows. Grade reflects practical value for non-designers as of November 2026. Pricing verified on canva.com.</em></p>

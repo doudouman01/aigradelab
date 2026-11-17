@@ -5,7 +5,7 @@ category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "10 دقائق للقراءة"
+readTime: "10 min read"
 ---
 
 <h2>Three Tiers, One Question: Do You Need to Pay?</h2>
@@ -132,4 +132,4 @@ readTime: "10 دقائق للقراءة"
 <h3>Does ChatGPT have a student discount?</h3>
 <p>No. Unlike Perplexity ($10/month for students), ChatGPT has no student pricing. Students can use the free tier or pay the full $20/month for Plus.</p>
 
-<p><em>All three ChatGPT tiers were tested by AIالتقييمLab for two weeks. Pricing and features verified on openai.com on November 14, 2026.</em></p>
+<p><em>All three ChatGPT tiers were tested by AIGradeLab for two weeks. Pricing and features verified on openai.com on November 14, 2026.</em></p>
