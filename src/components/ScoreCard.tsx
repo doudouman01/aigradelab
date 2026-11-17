@@ -1,23 +1,26 @@
 import { Scores, getGradeColor, computeGrade } from '../content/posts';
+import { getTranslations, isValidLocale } from '../lib/i18n';
 
-type Props = { scores: Scores | null };
+type Props = { scores: Scores | null; locale?: string };
 
-const labels: { key: keyof Scores; label: string }[] = [
-  { key: 'ux', label: 'Ease of Use' },
-  { key: 'quality', label: 'Output Quality' },
-  { key: 'value', label: 'Value for Money' },
-  { key: 'integration', label: 'Integration' },
-  { key: 'support', label: 'Support & Updates' },
-];
-
-export default function ScoreCard({ scores }: Props) {
+export default function ScoreCard({ scores, locale = 'en' }: Props) {
   if (!scores) return null;
   const grade = computeGrade(scores);
   const color = getGradeColor(grade);
+  const lang = isValidLocale(locale) ? locale : 'en';
+  const t = getTranslations(lang);
+
+  const labels: { key: keyof Scores; label: string }[] = [
+    { key: 'ux', label: t.scoreLabels.ux },
+    { key: 'quality', label: t.scoreLabels.quality },
+    { key: 'value', label: t.scoreLabels.value },
+    { key: 'integration', label: t.scoreLabels.integration },
+    { key: 'support', label: t.scoreLabels.support },
+  ];
 
   return (
     <div className="score-card">
-      <h3>Test Scores</h3>
+      <h3>{t.article.testScores}</h3>
       {labels.map(({ key, label }) => (
         <div className="score-row" key={key}>
           <span className="score-label">{label}</span>

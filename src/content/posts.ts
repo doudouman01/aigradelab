@@ -129,22 +129,22 @@ function loadPostFromFile(filePath: string): Post {
   };
 }
 
-let cachedPosts: Post[] | null = null;
+const postCache: Record<string, Post[]> = {};
 
-export function getPosts(): Post[] {
-  if (cachedPosts) return cachedPosts;
-  const blogDir = path.join(process.cwd(), 'content', 'blog');
+export function getPosts(locale: string = 'en'): Post[] {
+  if (postCache[locale]) return postCache[locale];
+  const blogDir = path.join(process.cwd(), 'content', 'blog', locale);
   if (!fs.existsSync(blogDir)) return [];
   const files = fs.readdirSync(blogDir).filter(f => f.endsWith('.md'));
   const posts = files.map(f => loadPostFromFile(path.join(blogDir, f)));
   posts.sort((a, b) => (b.date > a.date ? 1 : -1));
-  cachedPosts = posts;
+  postCache[locale] = posts;
   return posts;
 }
 
-export function getPostBySlug(slug: string): Post | undefined {
-  return getPosts().find(p => p.slug === slug);
+export function getPostBySlug(slug: string, locale: string = 'en'): Post | undefined {
+  return getPosts(locale).find(p => p.slug === slug);
 }
 
-// Keep backward compatibility
-export const posts: Post[] = getPosts();
+// Backward compatibility
+export const posts: Post[] = getPosts('en');
