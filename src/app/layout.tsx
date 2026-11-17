@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Script from 'next/script';
 import { Analytics } from '@vercel/analytics/next';
-import GoogleAnalytics from '@/components/GoogleAnalytics';
+import GoogleAnalytics from '../components/GoogleAnalytics';
 
 export const metadata: Metadata = {
   title: { default: 'AIGradeLab — Every AI Tool, Tested and Graded', template: '%s | AIGradeLab' },
