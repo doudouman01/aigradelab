@@ -1,11 +1,11 @@
 ---
-title: "Nano Banana Pro レビュー2026： Google's Photorealism King? 評価"
-description: "テストしました Google's Nano Banana Pro (Gemini 3 Pro Image) for photorealism, text rendering, and creative work. 2-5 second generation, up to 4K. Our honest grade. November 2026."
+title: "Nano Banana Pro レビュー 2026：Google's Photorealism King? Our Grade"
+description: "We tested Google's Nano Banana Pro (Gemini 3 Pro Image) for photorealism, text rendering, and creative work. 2-5 second generation, up to 4K. Our honest grade. November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "11 分で読めます"
+readTime: "11 min read"
 grade: "A"
 scores_ux: 8.5
 scores_quality: 9.0
@@ -25,7 +25,7 @@ toolName: "Nano Banana Pro"
 <p>Google offers multiple image models, which can be confusing. Here is how they relate:</p>
 <table>
   <thead>
-    <tr><th>Model</th><th>Family</th><th>おすすめ用途</th><th>API 価格/Image</th></tr>
+    <tr><th>Model</th><th>Family</th><th>Best For</th><th>API Price/Image</th></tr>
   </thead>
   <tbody>
     <tr><td>Nano Banana</td><td>Gemini Flash</td><td>Quick iterations</td><td>~$0.039</td></tr>
@@ -37,18 +37,18 @@ toolName: "Nano Banana Pro"
 </table>
 <p>Nano Banana Pro is the premium option in the Gemini family. Imagen 4 is a separate, standalone model line that is being sunset in favor of the Gemini-integrated Nano Banana models.</p>
 
-<h2>What Works Well</h2>
+<h2>良い点</h2>
 <ul>
   <li><strong>Photorealism — best in market:</strong> In blind comparisons, Nano Banana Pro produces the most convincing photorealistic images of any AI generator we tested. Skin textures look natural, lighting behaves physically correctly, materials (metal, glass, fabric) render with accurate reflections and transparency. For product photography, headshots, and realistic lifestyle imagery, it wins every side-by-side test against Midjourney, ChatGPT, and FLUX.2.</li>
   <li><strong>Speed — 2 to 5 seconds:</strong> Generation speed is remarkably fast. A designer exploring 20 creative directions generates all of them with Nano Banana Pro in the time Imagen 4 Ultra takes to produce 3. For iterative workflows where you try many variations quickly, this speed advantage is transformative.</li>
   <li><strong>Text rendering:</strong> Strong text accuracy inside images — better than Midjourney, close to ChatGPT Images 2.6 and Ideogram. For posters, product labels, and social graphics with short text, the output is publication-ready.</li>
-  <li><strong>Resolution up to 4K (preview):</strong> サポートs 1K, 2K, and 4K output (4K still in preview). The 2K output is sharp enough for print materials and high-resolution digital displays. サポートed aspect ratios cover every common format: 1:1, 16:9, 9:16, 4:3, 3:4, and more.</li>
+  <li><strong>Resolution up to 4K (preview):</strong> Supports 1K, 2K, and 4K output (4K still in preview). The 2K output is sharp enough for print materials and high-resolution digital displays. Supported aspect ratios cover every common format: 1:1, 16:9, 9:16, 4:3, 3:4, and more.</li>
   <li><strong>Free through Gemini:</strong> Access Nano Banana Pro for free through the Gemini app — no subscription required. The free tier has daily limits, but it is enough to test the technology and generate a handful of images per day. AI Plus ($7.99/month) and AI Pro ($20/month) increase the limits significantly.</li>
   <li><strong>SynthID watermarking:</strong> All Nano Banana Pro outputs embed an invisible SynthID watermark in the pixel data — digital provenance that can be detected to verify an image was AI-generated. This matters for transparency and content authenticity.</li>
-  <li><strong>連携機能 across Google products:</strong> Nano Banana Pro powers image generation in Google Ads, Slides, and Search's AI Mode. For businesses already using Google's ecosystem, the image generation is built in — no separate tool needed.</li>
+  <li><strong>Integration across Google products:</strong> Nano Banana Pro powers image generation in Google Ads, Slides, and Search's AI Mode. For businesses already using Google's ecosystem, the image generation is built in — no separate tool needed.</li>
 </ul>
 
-<h2>What Falls Short</h2>
+<h2>改善点</h2>
 <ul>
   <li><strong>Artistic flexibility trails Midjourney:</strong> Nano Banana Pro excels at photorealism but lacks Midjourney's artistic "eye." For creative, stylized, cinematic, or aesthetically composed images, Midjourney v8.2 produces more visually interesting results. Nano Banana Pro's output tends toward technically correct but safe — accurate rather than inspired.</li>
   <li><strong>Limited editing capabilities:</strong> Compared to ChatGPT Images 2.6's conversational editing workflow (describe changes, maintain context, iterate), Nano Banana Pro's editing is basic. You can generate and regenerate, but the iterative refinement loop is less smooth.</li>
@@ -77,10 +77,10 @@ toolName: "Nano Banana Pro"
   </tbody>
 </table>
 
-<h2>Pricing: November 2026</h2>
+<h2>料金: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Access Method</th><th>価格</th><th>Approximate Daily Limit</th></tr>
+    <tr><th>Access Method</th><th>Price</th><th>Approximate Daily Limit</th></tr>
   </thead>
   <tbody>
     <tr><td>Gemini Free</td><td>$0</td><td>Limited daily generations</td></tr>
@@ -107,7 +107,7 @@ toolName: "Nano Banana Pro"
   <li><strong>High-volume API users:</strong> At $0.134/image, the API cost is 4-7x more than FLUX.2 Pro or Imagen 4 Fast. For thousands of images per day, cheaper alternatives are more practical.</li>
 </ul>
 
-<h2>The Verdict</h2>
+<h2>総評</h2>
 <p>Nano Banana Pro earns an <strong>A</strong> because it is the best photorealistic AI image generator available in November 2026 — and it is free to try through Gemini. The speed (2-5 seconds), resolution (up to 4K), and photorealism quality set a new standard. The integration across Google's ecosystem adds practical value that standalone tools cannot match.</p>
 <p>The grade is held back from A+ by the limited artistic flexibility compared to Midjourney, the basic editing workflow compared to ChatGPT, the premium API pricing, and the lack of animation features. Nano Banana Pro wins the photorealism race decisively — but "best image generator" depends on what you are generating.</p>
 
@@ -128,4 +128,4 @@ toolName: "Nano Banana Pro"
 <h3>Can I use Nano Banana Pro for commercial projects?</h3>
 <p>Yes, on paid plans. All outputs include invisible SynthID watermarks for provenance tracking. Check Google's current terms of service for specific commercial usage rights.</p>
 
-<p><em>Nano Banana Pro was tested by AI評価Lab over four weeks through Gemini and API access. 評価 reflects performance as of November 2026. Pricing verified against Google's official documentation on November 14, 2026.</em></p>
+<p><em>Nano Banana Pro was tested by AIGradeLab over four weeks through Gemini and API access. Grade reflects performance as of November 2026. 料金 verified against Google's official documentation on November 14, 2026.</em></p>

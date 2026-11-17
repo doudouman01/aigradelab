@@ -1,6 +1,6 @@
 ---
-title: "Canva Review 2026: AI Design for Everyone — Tested and Graded"
-description: "We tested Canva's AI-powered design platform — Magic Studio, text-to-image, video editing, and brand kits. Full review with scores. Updated November 2026."
+title: "مراجعة Canva في 2026: أداة التصميم الشاملة مُختبرة ومُقيَّمة"
+description: "مراجعة شاملة لـ Canva مع تقييم شفاف من A+ إلى F."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -21,11 +21,11 @@ toolName: "Canva"
 
 <h2>Canva Scores</h2>
 <div class="score-card"><h3>Overall Grade: A</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
 <h2>Magic Studio: Canva's AI Features</h2>
@@ -78,7 +78,7 @@ toolName: "Canva"
 
 <h2>Who Should Use Canva?</h2>
 
-<h3>الأفضل لـ</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>Small businesses</strong> — professional designs without hiring a designer</li>
   <li><strong>Social media managers</strong> — Magic Resize + templates = fastest content production</li>
@@ -107,7 +107,7 @@ toolName: "Canva"
 <p>ChatGPT's GPT Image generates stunning AI images but can't create complete designs — no layouts, no text placement, no templates. Canva creates complete, ready-to-use designs with AI assistance. Use GPT Image for custom illustrations, use Canva for everything else.</p>
 
 <h2>Pros and Cons Summary</h2>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Easiest design tool available — zero learning curve</li>
   <li>Magic Studio AI features genuinely save time</li>
@@ -116,7 +116,7 @@ toolName: "Canva"
   <li>All-in-one — designs, presentations, videos, websites, print</li>
   <li>Free tier is genuinely usable</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Designs can look "Canva-ish" — experienced designers spot them</li>
   <li>Limited control compared to professional tools</li>
@@ -129,7 +129,7 @@ toolName: "Canva"
 <p>Canva has earned its place as the world's most popular design tool by being absurdly easy to use and absurdly good value. The AI features (Magic Studio) have made it even more powerful without adding complexity. For small businesses, content creators, and anyone who needs professional-looking designs without professional design skills, Canva is the clear choice.</p>
 <p><strong>Our recommendation:</strong> Start with Canva Free. Upgrade to Pro ($13/month) when you need Background Remover, Magic Resize, or premium templates. For most users, Pro pays for itself within the first week.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Canva Pro worth it in 2026?</h3>
 <p>Yes — for anyone creating visual content regularly. Background Remover, Magic Resize, premium templates, and 100M+ stock photos at $13/month is exceptional value. The free tier is fine for occasional use.</p>

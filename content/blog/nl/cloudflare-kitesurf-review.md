@@ -5,7 +5,7 @@ category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-20"
 lastTested: "2026-11-18"
-readTime: "9 min leestijd"
+readTime: "9 min read"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -23,7 +23,7 @@ toolName: "Cloudflare Kitesurf"
 
 <p>Kitesurf strips all of that away. It runs in V8 isolates on Cloudflare Workers, built with Rust and WebAssembly, and focuses solely on what an AI agent actually needs: load a page, execute JavaScript, extract content, and interact with elements.</p>
 
-<h2>Belangrijkste functies</h2>
+<h2>Key Features</h2>
 
 <h3>Lightweight Architecture</h3>
 
@@ -46,11 +46,11 @@ toolName: "Cloudflare Kitesurf"
 
 <p>The full source code is available for inspection, modification, and self-hosting. This matters for enterprise users who need to audit what their AI agents are running on, and for the developer community that can contribute improvements and extensions.</p>
 
-<h3>Cloudflare Workers Integratie</h3>
+<h3>Cloudflare Workers Integration</h3>
 
 <p>For Cloudflare customers, Kitesurf deploys directly onto Workers infrastructure with minimal configuration. It integrates with Browser Run, Cloudflare's existing managed-browser product, giving developers a migration path from Chromium-based automation.</p>
 
-<h2>Wat we hebben getest</h2>
+<h2>Wat We Hebben Getest</h2>
 
 <p>We evaluated Kitesurf across five scenarios typical of AI agent workflows:</p>
 
@@ -108,7 +108,7 @@ toolName: "Cloudflare Kitesurf"
 
 <p>Kitesurf's differentiation is clear: it's the only major option that doesn't use Chromium at all. That's both its advantage (efficiency) and its limitation (compatibility).</p>
 
-<h2>AICijferLab Verdict: B+</h2>
+<h2>AIGradeLab Verdict: B+</h2>
 
 <p>Cloudflare Kitesurf earns a <strong>B+</strong> for delivering on a genuinely innovative premise — a browser built for AI agents, not humans — and backing it up with open source. The resource efficiency gains are real and meaningful at scale. The "experimental" label and ecosystem immaturity keep it from an A, but this is a project to watch closely. If Cloudflare maintains momentum and the community builds out the tooling, Kitesurf could become the default browser for AI agent infrastructure.</p>
 
@@ -121,6 +121,6 @@ toolName: "Cloudflare Kitesurf"
 <tr><td>Quality / Reliability</td><td>8/10</td><td>Solid for core use cases, edge cases remain</td></tr>
 <tr><td>Value</td><td>8/10</td><td>Open source + major cost savings at scale</td></tr>
 <tr><td>Integratie</td><td>7/10</td><td>Great on Workers, more effort elsewhere</td></tr>
-<tr><td>Ondersteuning / Community</td><td>7/10</td><td>Cloudflare backing, early-stage community</td></tr>
+<tr><td>Support / Community</td><td>7/10</td><td>Cloudflare backing, early-stage community</td></tr>
 </tbody>
 </table>

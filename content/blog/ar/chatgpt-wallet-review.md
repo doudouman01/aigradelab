@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Wallet Review: OpenAI Lets AI Agents Pay for You"
-description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. We tested it and graded it. Here's our full review."
+title: "مراجعة ChatGPT Wallet: OpenAI تسمح لوكلاء الذكاء الاصطناعي بالدفع نيابة عنك"
+description: "ChatGPT Wallet يتيح لوكلاء الذكاء الاصطناعي إجراء عمليات شراء بدون كشف بيانات بطاقتك. اختبرناه وقيّمناه."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
@@ -86,7 +86,7 @@ toolName: "ChatGPT Wallet"
 
 <p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
 
-<h2>التسعير</h2>
+<h2>Pricing</h2>
 
 <p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
 
@@ -117,8 +117,8 @@ toolName: "ChatGPT Wallet"
 <tr><td>UX</td><td>7/10</td><td>Clean setup, but error handling needs polish</td></tr>
 <tr><td>Quality</td><td>8/10</td><td>Tokenized security is best-in-class for a v1</td></tr>
 <tr><td>Value</td><td>6/10</td><td>Pro-only pricing limits accessibility</td></tr>
-<tr><td>التكامل</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
-<tr><td>الدعم</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
+<tr><td>Integration</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
+<tr><td>Support</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
 </tbody>
 </table>
 

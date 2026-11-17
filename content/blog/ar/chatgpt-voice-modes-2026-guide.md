@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Is Retiring Advanced Voice: Everything You Need to Know About GPT-Live"
-description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Here's what GPT-Live replaces, what changes, and how to prepare for the transition."
+title: "ChatGPT يتقاعد عن Advanced Voice: كل ما تحتاج معرفته عن GPT-Live"
+description: "دليل شامل لأوضاع الصوت في ChatGPT — ما يتغير ومتى وما يجب فعله."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
@@ -105,7 +105,7 @@ readTime: "7 min read"
 
 <p>The cascade approach — speech to text to model to speech — is becoming a legacy architecture. If your business relies on voice AI, planning for native multimodal is the right long-term bet.</p>
 
-<h2>الخلاصة</h2>
+<h2>The Bottom Line</h2>
 
 <p>The retirement of Advanced and Standard Voice is a cleanup, not a downgrade. GPT-Live is objectively better in every measurable dimension. The main risk is for developers and businesses with hard-coded integrations against the old API endpoints — test now, migrate early, and you'll be fine.</p>
 

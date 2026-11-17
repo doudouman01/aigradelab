@@ -1,6 +1,6 @@
 ---
-title: "Grammarly Review 2026: Still Worth It? Tested and Graded"
-description: "We tested Grammarly's AI writing assistant for grammar, tone, plagiarism, and AI generation. Full review with scores. Is it still the best writing tool in 2026?"
+title: "مراجعة Grammarly في 2026: مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ Grammarly مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -20,11 +20,11 @@ toolName: "Grammarly"
 
 <h2>Grammarly Scores</h2>
 <div class="score-card"><h3>Overall Grade: B+</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
 <h2>What Grammarly Does Well</h2>
@@ -69,7 +69,7 @@ toolName: "Grammarly"
 
 <h2>Who Should Use Grammarly in 2026?</h2>
 
-<h3>الأفضل لـ</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>Non-native English speakers</strong> — the grammar and style corrections are invaluable</li>
   <li><strong>Professionals who write 10+ emails/day</strong> — tone detection prevents communication issues</li>
@@ -97,7 +97,7 @@ toolName: "Grammarly"
 <p>Claude excels at document analysis, nuanced writing, and long-form content creation. Grammarly excels at real-time inline corrections. They complement each other rather than compete. Use Claude to draft, use Grammarly to polish.</p>
 
 <h2>Pros and Cons Summary</h2>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Best-in-class grammar and style correction</li>
   <li>Works everywhere — browser, desktop, mobile</li>
@@ -105,7 +105,7 @@ toolName: "Grammarly"
   <li>Seamless, non-intrusive inline experience</li>
   <li>Plagiarism detection included in Premium</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>$12/month is steep for what's increasingly available free</li>
   <li>GrammarlyGO is mediocre compared to ChatGPT/Claude</li>
@@ -118,7 +118,7 @@ toolName: "Grammarly"
 <p>Grammarly remains the best real-time writing assistant for grammar, style, and tone. The inline integration — everywhere you type, with zero friction — is something no competitor matches. But the value proposition has weakened in 2026: ChatGPT and Claude offer superior AI writing for free or $20/month, and browser-based grammar checking is increasingly commoditized.</p>
 <p><strong>Our recommendation:</strong> Start with Grammarly Free + ChatGPT Free. If you write professionally in English every day and the tone detection + advanced suggestions save you time, upgrade to Premium. Skip GrammarlyGO — use Claude or ChatGPT for AI generation instead.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Grammarly worth paying for in 2026?</h3>
 <p>For professionals who write 10+ emails or documents daily in English — yes, Premium pays for itself in time saved. For casual users — the free tier plus ChatGPT covers most needs.</p>

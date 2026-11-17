@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT Test 2026: The World's Most Popular AI — Getestet und bewertet"
-description: "Wir haben getestet ChatGPT for writing, coding, research, images, voice, and video. Full review with scores. Is it still the best AI in 2026? Aktualisiert November 2026."
+title: "ChatGPT Bewertung 2026: The World's Most Popular AI — Getestet und Bewertet"
+description: "We tested ChatGPT for writing, coding, research, images, voice, and video. Full review with scores. Is it still the best AI in 2026? Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 Min. Lesezeit"
+readTime: "14 min read"
 grade: "A"
 scores_ux: 9.2
 scores_quality: 8.5
@@ -20,9 +20,9 @@ toolName: "ChatGPT"
 <p>With 200+ million weekly users, ChatGPT has become the default AI assistant for everyone from students to CEOs. But in 2026, Claude and Gemini have caught up in specific areas. Is ChatGPT still the one to beat? We tested every major feature.</p>
 
 <h2>ChatGPT Scores</h2>
-<div class="score-card"><h3>Overall Note: A</h3>
+<div class="score-card"><h3>Overall Grade: A</h3>
   <div class="score-row"><span class="score-label">Benutzerfreundlichkeit</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">Ausgabequalität</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Ergebnisqualität</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">Preis-Leistung</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
   <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
@@ -38,7 +38,7 @@ toolName: "ChatGPT"
 <p>For most users, GPT Image has replaced the need for Midjourney or DALL-E as a separate tool. It's not quite Midjourney-level for fine art and photography, but for practical business and creative use, it's more than enough.</p>
 
 <h3>Sora — AI Video Generation</h3>
-<p>ChatGPT Plus subscribers get access to Sora, OpenAI's AI video generator. Describe a scene and Sora creates video clips. The quality can be stunning, though consistency varies. For ChatGPT users, this means text, images, AND video generation in one subscription. Lesen Sie unsere vollständige <a href="/de/blog/sora-review-2026">Sora Review</a> for details.</p>
+<p>ChatGPT Plus subscribers get access to Sora, OpenAI's AI video generator. Describe a scene and Sora creates video clips. The quality can be stunning, though consistency varies. For ChatGPT users, this means text, images, AND video generation in one subscription. Lies unsere full <a href="/de/blog/sora-review-2026">Sora Review</a> for details.</p>
 
 <h3>Voice Mode — Conversational AI</h3>
 <p>ChatGPT's Advanced Voice Mode turns it into a real-time conversation partner. Natural speech, emotional range, multiple voice options, and the ability to interrupt and redirect mid-sentence. Use cases that work brilliantly: language practice, brainstorming out loud while driving, interview prep, and accessibility for users who prefer speaking to typing. The voice feels natural — not robotic.</p>
@@ -69,10 +69,10 @@ toolName: "ChatGPT"
 <h3>Privacy</h3>
 <p>By default, ChatGPT conversations may be used for model training. You can opt out in settings, and Team/Enterprise plans guarantee data isn't used for training. For sensitive business conversations, be aware of the default settings or use a Team plan.</p>
 
-<h2>ChatGPT Pricing</h2>
+<h2>ChatGPT Preise</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Preis</th><th>Hauptfunktionen</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>GPT-4o (limited), web browsing, basic image gen</td></tr>
@@ -103,9 +103,9 @@ toolName: "ChatGPT"
 </table>
 <p>For the full head-to-head, read our <a href="/de/blog/chatgpt-vs-claude-vs-gemini-2026">ChatGPT vs Claude vs Gemini 2026</a> comparison.</p>
 
-<h2>Wer sollte es nutzen ChatGPT?</h2>
+<h2>Who Should Use ChatGPT?</h2>
 
-<h3>Am besten für</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>Everyone</strong> — the most versatile AI available, good at everything</li>
   <li><strong>Content creators</strong> — text + images + video in one subscription</li>
@@ -114,7 +114,7 @@ toolName: "ChatGPT"
   <li><strong>Language learners</strong> — voice mode for conversation practice</li>
 </ul>
 
-<h3>Nachteileider Alternatives For</h3>
+<h3>Consider Alternatives For</h3>
 <ul>
   <li><strong>Deep analysis and research</strong> — Claude produces more careful, thorough output</li>
   <li><strong>Google Workspace users</strong> — Gemini integrates with Gmail, Drive, Docs</li>
@@ -122,8 +122,8 @@ toolName: "ChatGPT"
   <li><strong>Professional coding</strong> — Claude or Cursor for complex development</li>
 </ul>
 
-<h2>Vorteile and Nachteile Summary</h2>
-<h3>Vorteile</h3>
+<h2>Pros and Cons Summary</h2>
+<h3>Pros</h3>
 <ul>
   <li>Most versatile — text, images, video, voice, code, web browsing</li>
   <li>Best image generation with GPT Image</li>
@@ -133,7 +133,7 @@ toolName: "ChatGPT"
   <li>Voice mode — natural conversation interface</li>
   <li>Best free tier for general AI use</li>
 </ul>
-<h3>Nachteile</h3>
+<h3>Cons</h3>
 <ul>
   <li>Writing and analysis quality below Claude</li>
   <li>Hallucination risk — can be confidently wrong</li>
@@ -147,7 +147,7 @@ toolName: "ChatGPT"
 <p>But it's no longer the best at everything. Claude wins for deep analysis and writing quality. Gemini wins for Google integration. Perplexity wins for sourced research. The smartest approach: ChatGPT as your primary AI, with a specialist for your most important use case.</p>
 <p><strong>Our recommendation:</strong> Start with ChatGPT Free — it's the most generous free AI available. Upgrade to Plus ($20/month) when you want GPT Image, Sora, and higher limits. Add Claude Pro ($20/month) if analysis and writing quality are critical to your work.</p>
 
-<h2>Häufig gestellte Fragen</h2>
+<h2>Häufig Gestellte Fragen</h2>
 
 <h3>Is ChatGPT still the best AI in 2026?</h3>
 <p>The most versatile — yes. The best at everything — no. Claude beats it for writing and analysis. Gemini beats it for Google integration. ChatGPT wins overall because it does the most things well in one platform.</p>
@@ -161,4 +161,4 @@ toolName: "ChatGPT"
 <h3>ChatGPT Free vs Plus — what's the difference?</h3>
 <p>Free: GPT-4o with rate limits, basic image generation, web browsing. Plus ($20/month): higher limits, full GPT Image, Sora video, Advanced Voice Mode, Custom GPTs creation, file uploads. For daily users, Plus is worth the upgrade.</p>
 
-<p><em>ChatGPT was tested by AINoteLab across writing, research, coding, image generation, and business workflows. Note reflects overall versatility and value Stand November 2026. Pricing verified on openai.com.</em></p>
+<p><em>ChatGPT was tested by AIGradeLab across writing, research, coding, image generation, and business workflows. Grade reflects overall versatility and value as of November 2026. Preise verified on openai.com.</em></p>

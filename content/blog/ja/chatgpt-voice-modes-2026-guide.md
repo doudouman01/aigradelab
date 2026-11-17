@@ -1,114 +1,114 @@
 ---
-title: "ChatGPT Is Retiring Advanced Voice: Everything You Need to Know About GPT-Live"
-description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Here's what GPT-Live replaces, what changes, and how to prepare for the transition."
+title: "ChatGPTがAdvanced Voiceを終了：GPT-Liveについて知っておくべきすべてのこと"
+description: "OpenAIは2026年12月11日にAdvanced VoiceとStandard Voiceを終了します。GPT-Liveが何に置き換わるのか、何が変わるのか、移行にどう備えればよいのかをご紹介します。"
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
-readTime: "7 分で読めます"
+readTime: "読了時間：7分"
 ---
 
-<h2>The Voice Transition Is Coming</h2>
+<h2>音声機能の移行が始まります</h2>
 
-<p>OpenAI has confirmed that ChatGPT will retire both Advanced Voice and Standard Voice on December 11, 2026. The company is consolidating its voice capabilities around GPT-Live, its newer and more capable voice model. If you use ChatGPT's voice features regularly, here's everything you need to know about the switch.</p>
+<p>OpenAIは、ChatGPTのAdvanced VoiceとStandard Voiceの両方を2026年12月11日に終了することを確認しました。同社は、より新しく高性能な音声モデルであるGPT-Liveに音声機能を集約します。ChatGPTの音声機能を日常的に使っている方に向けて、この切り替えについて知っておくべきことをすべてご紹介します。</p>
 
-<h2>What's Being Retired</h2>
+<h2>終了するもの</h2>
 
 <h3>Standard Voice</h3>
 
-<p>Standard Voice was ChatGPT's original voice interaction mode — a cascade system that converted your speech to text, processed it through a text-based model, and converted the response back to speech. It worked, but conversations felt stilted. There were noticeable pauses between your question and the response, and the system couldn't handle interruptions naturally.</p>
+<p>Standard Voiceは、ChatGPTの最初の音声対話モードでした。音声をテキストに変換し、テキストベースのモデルで処理し、その応答を再び音声に変換するカスケード方式のシステムです。機能はしましたが、会話はぎこちなく感じられました。質問から応答までに目立つ間があり、割り込みを自然に処理することもできませんでした。</p>
 
 <h3>Advanced Voice</h3>
 
-<p>Advanced Voice launched in late 2024 as a significant upgrade. It introduced more natural-sounding voices, better handling of conversational patterns, and reduced latency. However, it was still fundamentally a cascade system — speech went through text before being processed — which limited how naturally the AI could converse.</p>
+<p>Advanced Voiceは2024年後半に、大幅なアップグレードとして登場しました。より自然に聞こえる声、会話パターンへのより良い対応、レイテンシの低減が導入されました。しかし、依然として基本的にはカスケード方式のシステムで、音声は処理の前にテキストを経由するため、AIがどれだけ自然に会話できるかには限界がありました。</p>
 
-<h2>What GPT-Live Brings</h2>
+<h2>GPT-Liveがもたらすもの</h2>
 
-<p>GPT-Live represents a fundamental architecture shift. Rather than the speech-to-text-to-speech cascade, GPT-Live processes audio natively. It can hear your tone, detect hesitation, understand emphasis, and respond in a way that feels more like a real conversation.</p>
+<p>GPT-Liveは、アーキテクチャの根本的な転換を意味します。音声からテキスト、そして音声へというカスケード方式ではなく、GPT-Liveは音声をネイティブに処理します。声のトーンを聞き取り、ためらいを検知し、強調を理解して、より実際の会話に近い形で応答できます。</p>
 
-<h3>Key Improvements Over Advanced Voice</h3>
+<h3>Advanced Voiceからの主な改善点</h3>
 
 <ul>
-<li><strong>True full-duplex</strong> — GPT-Live can listen while speaking, allowing natural interruptions and conversational back-and-forth without awkward pauses</li>
-<li><strong>Emotional awareness</strong> — The model picks up on tone and vocal cues, adjusting its responses accordingly</li>
-<li><strong>Lower latency</strong> — Responses feel nearly instantaneous, eliminating the "thinking" gaps that made voice AI feel robotic</li>
-<li><strong>Richer voice quality</strong> — More expressive and natural-sounding output voices</li>
-<li><strong>Multi-turn context</strong> — Better at maintaining conversation context across long voice sessions</li>
+<li><strong>真の全二重通信</strong>：GPT-Liveは話しながら聞くことができ、不自然な間なしに、自然な割り込みや会話のやり取りができます</li>
+<li><strong>感情への対応</strong>：モデルがトーンや声の手がかりを捉え、それに応じて応答を調整します</li>
+<li><strong>低レイテンシ</strong>：応答はほぼ瞬時に感じられ、音声AIをロボットのように感じさせていた「考え中」の間がなくなります</li>
+<li><strong>より豊かな音質</strong>：より表現力豊かで自然に聞こえる出力音声</li>
+<li><strong>マルチターンのコンテキスト</strong>：長い音声セッションを通じて、会話の文脈をより良く保てます</li>
 </ul>
 
-<h2>Timeline and Availability</h2>
+<h2>スケジュールと提供状況</h2>
 
 <table>
 <thead>
-<tr><th>Date</th><th>Event</th></tr>
+<tr><th>日付</th><th>出来事</th></tr>
 </thead>
 <tbody>
-<tr><td>November 10, 2026</td><td>OpenAI announces retirement of Advanced and Standard Voice</td></tr>
-<tr><td>November 10 - December 10</td><td>Transition period — all three voice modes available</td></tr>
-<tr><td>December 11, 2026</td><td>Advanced Voice and Standard Voice permanently disabled</td></tr>
-<tr><td>December 11+</td><td>GPT-Live becomes the sole voice interaction mode</td></tr>
+<tr><td>2026年11月10日</td><td>OpenAIがAdvanced VoiceとStandard Voiceの終了を発表</td></tr>
+<tr><td>11月10日〜12月10日</td><td>移行期間：3つの音声モードすべてが利用可能</td></tr>
+<tr><td>2026年12月11日</td><td>Advanced VoiceとStandard Voiceが完全に無効化</td></tr>
+<tr><td>12月11日以降</td><td>GPT-Liveが唯一の音声対話モードに</td></tr>
 </tbody>
 </table>
 
-<h2>Who Is Affected?</h2>
+<h2>影響を受けるのは誰か</h2>
 
-<h3>ChatGPT Plus and Pro Subscribers</h3>
+<h3>ChatGPT PlusおよびProの契約者</h3>
 
-<p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
+<p>有料プランをご利用の方は、すでにGPT-Liveを使えます。OpenAIは数か月前からGPT-Liveをデフォルトにしているため、最近音声機能を使っていれば、すでにGPT-Liveを使っている可能性が高く、移行はスムーズなはずです。</p>
 
-<h3>無料プラン Users</h3>
+<h3>無料プランのユーザー</h3>
 
-<p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
+<p>Standard Voiceを限定的に使えていた無料ユーザーは、GPT-Liveの限定的な利用へと移行します。無料プランの音声に関する具体的な利用制限は、12月以降の状況に合わせた更新がまだ行われていません。</p>
 
-<h3>API Developers</h3>
+<h3>APIの開発者</h3>
 
-<p>Developers using the Audio API endpoints should check their integration. The legacy voice endpoints will be deprecated alongside the consumer features. OpenAI's GPT-Live API offers different capabilities and pricing compared to the previous voice APIs.</p>
+<p>Audio APIのエンドポイントを使用している開発者は、ご自身の連携を確認してください。従来の音声エンドポイントは、一般向けの機能とともに廃止される予定です。OpenAIのGPT-Live APIは、これまでの音声APIとは機能と料金が異なります。</p>
 
-<h3>Enterprise and Team Users</h3>
+<h3>エンタープライズおよびチームのユーザー</h3>
 
-<p>Enterprise accounts with custom voice configurations should review their settings before December 11. Any workflows built around Advanced Voice's specific behavior patterns may need adjustment.</p>
+<p>カスタムの音声設定を使っているエンタープライズアカウントは、12月11日までに設定を見直してください。Advanced Voice特有の動作パターンを前提に構築したワークフローは、調整が必要になる場合があります。</p>
 
-<h2>What to Do Now</h2>
+<h2>今すぐやるべきこと</h2>
 
-<h3>1. Test GPT-Live Before the Switch</h3>
+<h3>1. 切り替え前にGPT-Liveを試す</h3>
 
-<p>If you haven't used GPT-Live yet, start now. Open ChatGPT, tap the voice icon, and confirm you're using GPT-Live (it should be the default). Spend a few sessions getting comfortable with its conversational style.</p>
+<p>まだGPT-Liveを使ったことがなければ、今すぐ始めましょう。ChatGPTを開いて音声アイコンをタップし、GPT-Liveを使っていることを確認してください（デフォルトになっているはずです）。何度かセッションを重ねて、その会話スタイルに慣れておきましょう。</p>
 
-<h3>2. Update Your Workflows</h3>
+<h3>2. ワークフローを更新する</h3>
 
-<p>If you've built any processes around ChatGPT's voice features — daily briefings, brainstorming sessions, hands-free note-taking — test them with GPT-Live during the transition period to catch any behavioral differences.</p>
+<p>デイリーブリーフィング、ブレインストーミング、ハンズフリーでのメモ取りなど、ChatGPTの音声機能を軸にしたプロセスを構築しているなら、移行期間中にGPT-Liveで試して、挙動の違いを把握しておきましょう。</p>
 
-<h3>3. Check Your API 連携機能s</h3>
+<h3>3. API連携を確認する</h3>
 
-<p>Developers should review the GPT-Live API documentation and test their integrations well before the December 11 deadline. Don't wait for the last day.</p>
+<p>開発者は、GPT-Live APIのドキュメントを確認し、12月11日の期限よりかなり前に連携をテストしてください。最終日まで待たないようにしましょう。</p>
 
-<h3>4. Explore Alternatives</h3>
+<h3>4. 代替手段を検討する</h3>
 
-<p>GPT-Live isn't the only game in town for voice AI. If you're evaluating options:</p>
-
-<ul>
-<li><strong>Google Gemini</strong> — Offers voice interaction through the Gemini app and Google Assistant</li>
-<li><strong>Claude</strong> — Anthropic offers voice mode with CarPlay support</li>
-<li><strong>ElevenLabs</strong> — For custom voice generation and voice-first applications</li>
-</ul>
-
-<h2>The Bigger Picture: Voice AI Is デメリットolidating</h2>
-
-<p>OpenAI's decision to retire older voice modes reflects a broader trend in AI: consolidation around native multimodal models. Rather than bolting voice capabilities onto text models, the industry is building models that understand audio, text, images, and video natively.</p>
-
-<p>This same trend is visible across the market:</p>
+<p>音声AIの選択肢はGPT-Liveだけではありません。選択肢を比較検討しているなら、次のものがあります。</p>
 
 <ul>
-<li>Google's Gemini 4 models are natively multimodal</li>
-<li>Bland AI just launched Tofu-1, a native speech-to-speech model</li>
-<li>Meta's Muse agent works across text and voice</li>
+<li><strong>Google Gemini</strong>：Geminiアプリと Google アシスタントを通じて音声対話を提供しています</li>
+<li><strong>Claude</strong>：Anthropicは、CarPlayに対応した音声モードを提供しています</li>
+<li><strong>ElevenLabs</strong>：カスタム音声の生成や、音声を中心としたアプリケーションに向いています</li>
 </ul>
 
-<p>The cascade approach — speech to text to model to speech — is becoming a legacy architecture. If your business relies on voice AI, planning for native multimodal is the right long-term bet.</p>
+<h2>より大きな視点：音声AIは集約に向かっている</h2>
+
+<p>OpenAIが旧来の音声モードを終了するという判断は、AI業界のより広い潮流を反映しています。それは、ネイティブなマルチモーダルモデルへの集約です。テキストモデルに音声機能を後付けするのではなく、業界は音声、テキスト、画像、動画をネイティブに理解するモデルを構築しています。</p>
+
+<p>同じ潮流は、市場全体で見られます。</p>
+
+<ul>
+<li>GoogleのGemini 4モデルはネイティブにマルチモーダルです</li>
+<li>Bland AIは、ネイティブの音声対音声モデルであるTofu-1を発表したばかりです</li>
+<li>MetaのMuseエージェントは、テキストと音声の両方で動作します</li>
+</ul>
+
+<p>音声からテキスト、モデル、そして音声へというカスケード方式は、過去のアーキテクチャになりつつあります。事業で音声AIに頼っているなら、ネイティブなマルチモーダルを前提に計画することが、長期的には正しい賭けです。</p>
 
 <h2>まとめ</h2>
 
-<p>The retirement of Advanced and Standard Voice is a cleanup, not a downgrade. GPT-Live is objectively better in every measurable dimension. The main risk is for developers and businesses with hard-coded integrations against the old API endpoints — test now, migrate early, and you'll be fine.</p>
+<p>Advanced VoiceとStandard Voiceの終了は、ダウングレードではなく整理です。GPT-Liveは、測定可能なあらゆる面で明らかに優れています。主なリスクは、旧APIエンドポイントに対してハードコードされた連携を持つ開発者や企業にあります。今のうちにテストし、早めに移行すれば問題ありません。</p>
 
-<p>For most users, you won't notice a thing on December 12. Voice in ChatGPT will just work — and work better than it ever has.</p>
+<p>ほとんどのユーザーは、12月12日になっても何の違いにも気づかないでしょう。ChatGPTの音声は変わらず動作し、これまで以上に良く動作します。</p>
 
-<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at ツールCraftKit to stay on top of your AI evaluations.</em></p>
+<p><em>AIツールのワークフローを整理したいなら、ToolCraftKitの無料の<a href="https://toolcraftkit.com">ポモドーロタイマー</a>や生産性ツールで、AIの評価作業を効率よく進めましょう。</em></p>

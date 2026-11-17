@@ -1,6 +1,6 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي للعقارات in 2026: 7 Tools Tested and Graded"
-description: "We tested the top AI tools for real estate agents — for listings, lead gen, virtual staging, CRM, and marketing. Every tool graded. Updated November 2026."
+title: "أفضل أدوات الذكاء الاصطناعي للعقارات في 2026"
+description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي للعقارات. كل أداة مُقيَّمة بشفافية. نوفمبر 2026."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-16"
@@ -11,10 +11,10 @@ readTime: "13 min read"
 <h2>AI in Real Estate: Close More, Work Less</h2>
 <p>Real estate is one of the industries where AI delivers the fastest ROI. Write listing descriptions in 30 seconds instead of 30 minutes. Stage empty rooms virtually for $30 instead of $3,000. Respond to leads at 2 AM with an AI chatbot. Generate neighborhood guides, market analyses, and client emails without typing a word. We tested the AI tools that help agents sell more while working smarter.</p>
 
-<h2>مقارنة سريعة</h2>
+<h2>Quick Comparison</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>الأداة</th><th>Category</th><th>السعر</th><th>الأفضل لـ</th></tr>
+    <tr><th>#</th><th>Tool</th><th>Category</th><th>Price</th><th>Best For</th></tr>
   </thead>
   <tbody>
     <tr><td>1</td><td>ChatGPT</td><td>General AI assistant</td><td>Free / $20/mo</td><td>Listings, emails, marketing</td></tr>
@@ -48,7 +48,7 @@ readTime: "13 min read"
   <li><strong>Apply Design ($29/month):</strong> Higher quality renders, more customization options</li>
   <li><strong>REimagineHome ($19/month):</strong> Good quality, easy interface, exterior staging included</li>
 </ul>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>95%+ cheaper than physical staging</li>
   <li>Results in minutes, not days</li>
@@ -56,7 +56,7 @@ readTime: "13 min read"
   <li>No furniture rental, no scheduling, no cleanup</li>
   <li>Exterior renovation visualization available</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Must disclose virtual staging in listings (legal requirement in most areas)</li>
   <li>Occasional unrealistic furniture proportions</li>
@@ -79,7 +79,7 @@ readTime: "13 min read"
 
 <h2>4. Follow Up Boss — Best AI CRM — $58-499/mo</h2>
 <p>Follow Up Boss is the CRM built for real estate teams, and its AI features focus on what matters most: lead follow-up. AI lead scoring identifies your hottest prospects. Smart lists automatically segment leads by behavior (viewed listings, opened emails, visited website). AI-suggested follow-up actions tell you who to call and when. For agents who lose deals because leads fall through the cracks, Follow Up Boss plugs the holes.</p>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>AI lead scoring prioritizes your hottest prospects</li>
   <li>Automatic follow-up reminders based on lead behavior</li>
@@ -87,31 +87,31 @@ readTime: "13 min read"
   <li>Team distribution and accountability tracking</li>
   <li>Phone, email, and text from one platform</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>$58/month starting price is significant for solo agents</li>
   <li>Learning curve for full feature utilization</li>
   <li>Best value for teams, expensive for individuals</li>
 </ul>
-<p><strong>التسعير:</strong> Grow $58/month. Pro $139/month. Platform $499/month (teams).</p>
+<p><strong>Pricing:</strong> Grow $58/month. Pro $139/month. Platform $499/month (teams).</p>
 <p><strong>ROI:</strong> One additional closed deal from better follow-up pays for 2+ years of the subscription.</p>
 
 <h2>5. Lofty (formerly Chime) — Best Full AI Platform — $449+/mo</h2>
 <p>Lofty is the all-in-one AI-powered real estate platform — CRM, website, IDX, lead generation, AI assistant, marketing automation, and transaction management. The AI assistant (Lofty AI) engages leads via text message, qualifies them, and schedules appointments automatically. For teams and brokerages willing to invest in a complete platform, Lofty replaces 5+ separate tools.</p>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>AI assistant engages and qualifies leads 24/7 via text</li>
   <li>All-in-one: CRM, website, IDX, marketing, transactions</li>
   <li>Behavioral AI predicts which leads will convert</li>
   <li>Automated drip campaigns based on lead behavior</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>$449+/month is expensive — designed for teams and top producers</li>
   <li>Complex platform with significant setup time</li>
   <li>Long-term contract often required</li>
 </ul>
-<p><strong>التسعير:</strong> Starting at $449/month. Team pricing varies.</p>
+<p><strong>Pricing:</strong> Starting at $449/month. Team pricing varies.</p>
 <p><strong>ROI:</strong> Best for agents spending $1,000+/month on lead generation. The AI qualification and follow-up increase conversion rates on leads you're already paying for.</p>
 
 <h2>6. Grammarly — Best for Agent Communication — Free / $12/mo</h2>
@@ -164,7 +164,7 @@ readTime: "13 min read"
   <li>Canva Pro ($13) — marketing</li>
 </ul>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>What is the best AI tool for real estate agents?</h3>
 <p><strong>ChatGPT Plus ($20/month)</strong> — it handles listing descriptions, client emails, social media, and marketing at the lowest cost. Add Canva ($13/month) for design and you've covered 80% of an agent's AI needs for $33/month.</p>

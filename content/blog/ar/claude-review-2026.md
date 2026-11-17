@@ -1,6 +1,6 @@
 ---
-title: "Claude Review 2026: The Best AI for Writing and Coding? Our Grade"
-description: "We tested Claude Opus 5.5 for writing, coding, reasoning, and daily tasks. Here is our honest grade and whether Claude Pro is worth $20/month. Updated November 2026."
+title: "مراجعة Claude في 2026: مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ Claude من Anthropic مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -56,14 +56,14 @@ toolName: "Claude"
     <tr><td>Image generation</td><td><strong>ChatGPT</strong></td><td>Claude has none</td></tr>
     <tr><td>Ecosystem breadth</td><td><strong>ChatGPT</strong></td><td>Plugins, GPTs, DALL-E, Sora</td></tr>
     <tr><td>Google integration</td><td><strong>Gemini</strong></td><td>Native Gmail, Drive, Docs access</td></tr>
-    <tr><td>خطة مجانية</td><td><strong>Gemini</strong></td><td>Most generous free access</td></tr>
+    <tr><td>Free tier</td><td><strong>Gemini</strong></td><td>Most generous free access</td></tr>
   </tbody>
 </table>
 
 <h2>Pricing: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>السعر</th><th>What You Get</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>What You Get</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Sonnet model, limited usage</td></tr>
@@ -94,7 +94,7 @@ toolName: "Claude"
 <p>The grade is held back from A+ by the absence of image and video generation, the more limited free tier, and the smaller ecosystem compared to ChatGPT. These are real gaps that force Claude users to maintain a second AI subscription for visual content.</p>
 <p>The bottom line: if you can only afford one AI tool and need images, choose ChatGPT. If you can afford one AI tool and need the best output, choose Claude. If you can afford two — Claude for quality work and ChatGPT for everything else is the most productive combination in 2026.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Claude better than ChatGPT?</h3>
 <p>For writing quality, coding, and complex reasoning — yes. For image generation, video, ecosystem breadth, and all-in-one versatility — no. Both earn an A grade for different strengths.</p>

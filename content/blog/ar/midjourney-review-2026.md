@@ -1,6 +1,6 @@
 ---
-title: "Midjourney Review 2026: V8.2 Makes It the Undisputed Image King. Our Grade"
-description: "We tested Midjourney V8.2 for marketing visuals, concept art, and creative projects. Edit Model, 2K native, video clips. Here is our updated grade. November 2026."
+title: "مراجعة Midjourney في 2026: أداة توليد الصور مُقيَّمة"
+description: "مراجعة شاملة لـ Midjourney مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -60,9 +60,9 @@ toolName: "Midjourney"
     <tr><td>Text in images</td><td>Good</td><td><strong>Excellent</strong></td><td>Strong</td><td>Strong</td></tr>
     <tr><td>Editing</td><td>Edit Model (new)</td><td><strong>Conversational (best)</strong></td><td>Limited</td><td>Multi-reference</td></tr>
     <tr><td>GIFs/Video</td><td>Short clips (Pro+)</td><td><strong>GIFs + SVG</strong></td><td>No</td><td>No</td></tr>
-    <tr><td>خطة مجانية</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes (dev)</td></tr>
+    <tr><td>Free tier</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes (dev)</td></tr>
     <tr><td>API</td><td>No</td><td>Yes</td><td>Yes</td><td><strong>Yes (cheapest)</strong></td></tr>
-    <tr><td>السعر</td><td>$10-120/mo</td><td>$20/mo (Plus)</td><td>Free-$20/mo</td><td>$0.03/image</td></tr>
+    <tr><td>Price</td><td>$10-120/mo</td><td>$20/mo (Plus)</td><td>Free-$20/mo</td><td>$0.03/image</td></tr>
   </tbody>
 </table>
 
@@ -78,7 +78,7 @@ toolName: "Midjourney"
     <tr><td>Mega</td><td>$120</td><td>$1,152/yr</td><td>60 hrs</td><td>Unlimited + video</td></tr>
   </tbody>
 </table>
-<p><strong>أفضل قيمة:</strong> Standard at $30/month. Unlimited Relax mode means your per-image cost approaches zero if you are patient. Basic at $10/month is too limited for regular use — the 3.3 GPU hours run out fast.</p>
+<p><strong>Best value:</strong> Standard at $30/month. Unlimited Relax mode means your per-image cost approaches zero if you are patient. Basic at $10/month is too limited for regular use — the 3.3 GPU hours run out fast.</p>
 
 <h2>Who Should Use Midjourney</h2>
 <ul>
@@ -101,7 +101,7 @@ toolName: "Midjourney"
 <p>The grade stays at A instead of A+ because the lack of a free tier, no API, subscription-only pricing, and ongoing copyright litigation are real limitations that competitors do not share. Midjourney is the best at what it does — but what it does is narrower than ChatGPT's everything-in-one-tool approach.</p>
 <p>For creators and marketers who value visual quality above all else, Midjourney is essential. Start with the Standard plan ($30/month) — the unlimited Relax mode makes it the best value for serious users.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Midjourney still the best AI image generator in 2026?</h3>
 <p>For artistic quality, yes — V8.2 is the clear leader. For photorealism, Nano Banana Pro edges ahead. For versatility and features, ChatGPT Images 2.6 offers more (GIFs, SVG, editing). It depends on what "best" means for your use case.</p>

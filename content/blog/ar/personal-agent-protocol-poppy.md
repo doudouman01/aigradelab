@@ -1,6 +1,6 @@
 ---
-title: "Personal Agent Protocol (Poppy): The New Standard That Lets AI Agents Act on Your Behalf"
-description: "Sierra released Poppy 1.0 on November 13, 2026 — an open protocol that defines how personal AI agents connect to businesses, authenticate users, and complete tasks. Shopify and Meta are already on board."
+title: "بروتوكول الوكيل الشخصي (Poppy): المعيار الجديد الذي يتيح لوكلاء الذكاء الاصطناعي التصرف نيابة عنك"
+description: "Sierra أطلقت Poppy 1.0 — بروتوكول يحدد كيف يتصل وكيل الذكاء الاصطناعي الشخصي بالشركات."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-19"
@@ -151,7 +151,7 @@ readTime: "8 min read"
 
 <p>The model is sound in theory. The real test will be at scale — when millions of agents are transacting simultaneously across thousands of businesses.</p>
 
-<h2>الخلاصة</h2>
+<h2>The Bottom Line</h2>
 
 <p>Poppy 1.0 is one of those infrastructure releases that doesn't get the headlines of a new model launch but may end up mattering more. It's the plumbing that will enable AI agents to move from "answering questions" to "doing things" — and doing things means interacting with businesses on your behalf.</p>
 

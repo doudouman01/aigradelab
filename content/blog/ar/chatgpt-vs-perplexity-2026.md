@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT vs Perplexity 2026: Which AI Should You Use for Research?"
-description: "We tested ChatGPT and Perplexity head-to-head for research, accuracy, sources, and everyday use. Full comparison with scores. Updated November 2026."
+title: "ChatGPT مقابل Perplexity في 2026: أيهما أفضل للبحث؟"
+description: "مقارنة شاملة بين ChatGPT و Perplexity للبحث والإجابة على الأسئلة."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
@@ -11,14 +11,14 @@ readTime: "12 min read"
 <h2>Two AIs, Two Philosophies</h2>
 <p>ChatGPT and Perplexity approach the same question — "help me find accurate information" — from opposite directions. ChatGPT is a conversational AI that can also search the web. Perplexity is a search engine that uses AI to synthesize results. The difference matters: ChatGPT writes confidently, sometimes without evidence. Perplexity cites every claim, sometimes at the cost of creativity. We tested both across 50+ real research tasks to find where each excels.</p>
 
-<h2>مقارنة سريعة</h2>
+<h2>Quick Comparison</h2>
 <table>
   <thead>
     <tr><th>Feature</th><th>ChatGPT</th><th>Perplexity</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>التقييم</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
-    <tr><td>السعر</td><td>Free / $20/mo</td><td>Free / $20/mo</td></tr>
+    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
+    <tr><td>Price</td><td>Free / $20/mo</td><td>Free / $20/mo</td></tr>
     <tr><td>Source citations</td><td>Sometimes</td><td>Always (numbered)</td></tr>
     <tr><td>Accuracy</td><td>Good (can hallucinate)</td><td>Very good (source-backed)</td></tr>
     <tr><td>Writing quality</td><td>Very good</td><td>Good (factual tone)</td></tr>
@@ -27,7 +27,7 @@ readTime: "12 min read"
     <tr><td>Video generation</td><td>Sora (included)</td><td>No</td></tr>
     <tr><td>Voice mode</td><td>Yes (natural)</td><td>No</td></tr>
     <tr><td>File analysis</td><td>Yes</td><td>Limited</td></tr>
-    <tr><td>الأفضل لـ</td><td>Everything + research</td><td>Research + fact-checking</td></tr>
+    <tr><td>Best for</td><td>Everything + research</td><td>Research + fact-checking</td></tr>
   </tbody>
 </table>
 
@@ -107,7 +107,7 @@ readTime: "12 min read"
 <p><strong>ChatGPT</strong> is the best all-around AI — research plus writing plus images plus video plus voice plus code in one platform. For anyone who needs a single AI tool, ChatGPT covers the most ground.</p>
 <p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. Read our full <a href="/ar/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/ar/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Perplexity more accurate than ChatGPT?</h3>
 <p>For factual research — yes. Perplexity cites sources on every claim, making verification instant. ChatGPT can be confidently wrong without sources. For research accuracy, Perplexity is the safer choice.</p>

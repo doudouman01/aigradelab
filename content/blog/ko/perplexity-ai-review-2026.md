@@ -1,11 +1,11 @@
 ---
-title: "Perplexity AI 리뷰 2026: The Best AI Research Tool? 평가"
-description: "테스트했습니다 Perplexity AI for research, fact-checking, and daily questions. Comet browser, model picker, shopping, Academic mode. 2026년 11월 업데이트."
+title: "Perplexity AI 리뷰 2026: The Best AI Research Tool? Our Grade"
+description: "We tested Perplexity AI for research, fact-checking, and daily questions. Comet browser, model picker, shopping, Academic mode. Updated November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 분 소요"
+readTime: "12 min read"
 grade: "A"
 scores_ux: 9.2
 scores_quality: 9.0
@@ -30,7 +30,7 @@ toolName: "Perplexity"
 <h2>테스트 내용</h2>
 <p>We used Perplexity daily for six weeks: academic research for articles, fact-checking claims, product research before purchasing, competitive intelligence, breaking news verification, and daily quick questions. We compared against ChatGPT Search, Google, and manual research workflows.</p>
 
-<h2>What Works Well</h2>
+<h2>장점</h2>
 <ul>
   <li><strong>Citation system — still the gold standard:</strong> Every claim gets a numbered inline citation that you can click to verify. This is not a list of sources at the bottom — it is a specific citation tied to each fact. For any task where accuracy matters — journalism, academic work, competitive analysis, legal research — this fundamentally changes how trustworthy AI answers feel. ChatGPT has improved its citations, but Perplexity's remain more precise and verifiable.</li>
   <li><strong>Focus modes are unique:</strong> No other AI tool lets you restrict searches to specific source types. Academic mode pulls from peer-reviewed papers and scholarly sources — invaluable for literature reviews. Reddit mode surfaces real user opinions and experiences — perfect for product research. YouTube mode finds relevant videos. These modes exist nowhere else.</li>
@@ -41,7 +41,7 @@ toolName: "Perplexity"
   <li><strong>Student pricing:</strong> $10/month for verified students — half the price of any competitor's Pro tier. For academic research, this is the best value in AI.</li>
 </ul>
 
-<h2>What Falls Short</h2>
+<h2>단점</h2>
 <ul>
   <li><strong>Cannot create content:</strong> Perplexity finds and summarizes information. It does not write blog posts, draft emails, generate images, run code, or create presentations. If you need research AND creation, you need Perplexity plus Claude or ChatGPT.</li>
   <li><strong>No memory across sessions:</strong> Every conversation starts fresh. Perplexity does not remember your preferences, your role, or your past research. For ongoing projects that build on previous findings, this is a real limitation compared to ChatGPT's persistent memory.</li>
@@ -63,15 +63,15 @@ toolName: "Perplexity"
     <tr><td>Content creation</td><td>No</td><td><strong>Yes (full ChatGPT)</strong></td><td>No</td></tr>
     <tr><td>Image generation</td><td>No</td><td><strong>Yes (Images 2.6)</strong></td><td>No</td></tr>
     <tr><td>Shopping</td><td>Yes (PayPal)</td><td>Yes (product cards)</td><td><strong>Yes (Shopping tab)</strong></td></tr>
-    <tr><td>가격</td><td>Free / $20 Pro</td><td>Free / $20 Plus</td><td>Free</td></tr>
+    <tr><td>Price</td><td>Free / $20 Pro</td><td>Free / $20 Plus</td><td>Free</td></tr>
     <tr><td>Best for</td><td>Verified research</td><td>Research + creation</td><td>Browsing + local search</td></tr>
   </tbody>
 </table>
 
-<h2>Pricing: November 2026</h2>
+<h2>가격: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>가격</th><th>주요 기능</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Unlimited quick searches, 5 Pro searches/day</td></tr>
@@ -86,7 +86,7 @@ toolName: "Perplexity"
 <ul>
   <li><strong>Researchers and academics:</strong> The Academic focus mode + citation system is purpose-built for scholarly work. At $10/month for students, it is unbeatable.</li>
   <li><strong>Journalists and fact-checkers:</strong> Every claim cited, every source linked. Verification is built into the workflow.</li>
-  <li><strong>Knowledge workers who need accuracy:</strong> 단점ultants, analysts, lawyers — anyone whose work depends on verifiable information.</li>
+  <li><strong>Knowledge workers who need accuracy:</strong> Consultants, analysts, lawyers — anyone whose work depends on verifiable information.</li>
   <li><strong>Product researchers:</strong> Before any purchase, Perplexity delivers cited comparisons faster than hours of Google tab-hopping.</li>
   <li><strong>Anyone who wants a cleaner search experience:</strong> No ads, no SEO spam, just answers with sources.</li>
 </ul>
@@ -97,7 +97,7 @@ toolName: "Perplexity"
   <li><strong>Local search users:</strong> Google Maps integration, local business listings, and directions are still Google's domain. Perplexity is not a Google replacement for "restaurants near me."</li>
 </ul>
 
-<h2>The Verdict</h2>
+<h2>최종 평가</h2>
 <p>Perplexity earns an <strong>A</strong> — maintaining its grade from September — because the citation system, focus modes, and model picker make it the most trustworthy AI research tool available. The additions since September (Comet browser, shopping, finance, Max tier) expand its utility without diluting what makes it special.</p>
 <p>The grade stays at A instead of A+ because it cannot create content, has no memory across sessions, and the source quality varies. Perplexity does one thing — research — better than anyone else. But it only does that one thing.</p>
 <p>For most people, the optimal setup is Perplexity (free or Pro) for research plus Claude or ChatGPT for creation. Together, they cover the full research-to-output workflow. Perplexity finds the verified facts; the other tool turns them into polished output.</p>
@@ -119,4 +119,4 @@ toolName: "Perplexity"
 <h3>Can Perplexity replace ChatGPT?</h3>
 <p>For research — it is better. For writing, coding, image generation, and general AI assistance — no. Most power users keep both.</p>
 
-<p><em>Perplexity was tested by AI등급Lab over six weeks of daily research use. 등급 reflects performance as of November 2026. Pricing verified on perplexity.ai on November 14, 2026.</em></p>
+<p><em>Perplexity was tested by AIGradeLab over six weeks of daily research use. Grade reflects performance as of November 2026. 가격 verified on perplexity.ai on November 14, 2026.</em></p>

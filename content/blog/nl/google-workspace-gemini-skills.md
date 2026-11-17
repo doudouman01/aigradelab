@@ -4,7 +4,7 @@ description: "Google is rolling out Skills in Workspace — reusable custom inst
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-22"
-readTime: "7 min leestijd"
+readTime: "7 min read"
 ---
 
 <h2>Gemini Skills Are Rolling Out Across Google Workspace</h2>
@@ -64,7 +64,7 @@ readTime: "7 min leestijd"
 <p>Skills represent a shift in how businesses use AI. Instead of every employee crafting their own prompts (with wildly varying quality), organizations can create standardized Skills that encode their best practices. This means:</p>
 
 <ul>
-<li><strong>Nadelenistency</strong> — Every team member produces output that follows the same standards</li>
+<li><strong>Consistency</strong> — Every team member produces output that follows the same standards</li>
 <li><strong>Onboarding</strong> — New hires can use organizational Skills immediately without learning institutional knowledge first</li>
 <li><strong>Quality control</strong> — Skills can embed review criteria and compliance requirements</li>
 <li><strong>Scalability</strong> — Build once, deploy to hundreds of users</li>
@@ -82,7 +82,7 @@ readTime: "7 min leestijd"
 
 <ol>
 <li>Check your Workspace edition — Skills require Business Standard or higher</li>
-<li>Enable Gemini features in the Admin Nadelenole if not already active</li>
+<li>Enable Gemini features in the Admin Console if not already active</li>
 <li>Access Workspace Studio to create and manage organization-wide Skills</li>
 <li>Start with 2-3 high-impact Skills that address your team's most repetitive AI tasks</li>
 </ol>

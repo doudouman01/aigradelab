@@ -1,6 +1,6 @@
 ---
-title: "Cursor AI Review 2026: The Best AI Code Editor? Our Grade"
-description: "We tested Cursor for real-world coding — Composer 1.5, agent mode, codebase indexing. Here is our honest grade, pricing breakdown, and whether it is worth $30/month. Updated November 2026."
+title: "مراجعة Cursor AI في 2026: محرر الكود بالذكاء الاصطناعي مُقيَّم"
+description: "مراجعة شاملة لـ Cursor AI مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -58,8 +58,8 @@ toolName: "Cursor"
     <tr><td>Codebase awareness</td><td>Full project index</td><td>Limited</td><td>Full repo</td></tr>
     <tr><td>Multi-file editing</td><td>Composer (best)</td><td>Agent (newer)</td><td>Yes (terminal)</td></tr>
     <tr><td>Autonomous mode</td><td>Agent mode</td><td>Coding agent</td><td>Full autonomy</td></tr>
-    <tr><td>الأفضل لـ</td><td>In-the-flow daily coding</td><td>Teams, multi-IDE</td><td>Large delegated tasks</td></tr>
-    <tr><td>خطة مجانية</td><td>Yes (limited)</td><td>Yes (2,000/month)</td><td>No (needs Claude Pro)</td></tr>
+    <tr><td>Best for</td><td>In-the-flow daily coding</td><td>Teams, multi-IDE</td><td>Large delegated tasks</td></tr>
+    <tr><td>Free tier</td><td>Yes (limited)</td><td>Yes (2,000/month)</td><td>No (needs Claude Pro)</td></tr>
     <tr><td>Pro price</td><td>$30/month</td><td>$10/month</td><td>$20/month</td></tr>
   </tbody>
 </table>
@@ -69,12 +69,12 @@ toolName: "Cursor"
 <h2>Pricing: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>السعر</th><th>What You Get</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>What You Get</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Limited completions, basic chat</td></tr>
     <tr><td>Plus</td><td>$8/month</td><td>More completions, standard models</td></tr>
-    <tr><td>متقدمة</td><td>$30/month</td><td>Full agent mode, premium models, highest limits</td></tr>
+    <tr><td>Premium</td><td>$30/month</td><td>Full agent mode, premium models, highest limits</td></tr>
     <tr><td>Business</td><td>$40/user/month</td><td>Team features, admin controls, SSO</td></tr>
   </tbody>
 </table>
@@ -99,7 +99,7 @@ toolName: "Cursor"
 <p>The grade is held back from A+ by the VS Code limitation (which excludes a large portion of developers), the usage limits on Premium (which frustrate power users during intense coding sessions), and the sparse documentation. If Cursor adds JetBrains support and removes the usage ceiling, it becomes an easy A+.</p>
 <p>For VS Code developers who code daily, Cursor is not just recommended — it is essential. Start with the free tier to see the difference, then upgrade to Premium when you hit the limits. You will hit them fast.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Cursor free?</h3>
 <p>Yes, Cursor has a free tier with limited completions and basic chat. Plus at $8/month and Premium at $30/month unlock more features and higher limits.</p>

@@ -1,6 +1,6 @@
 ---
-title: "Claude Fable 5.2 Review: Anthropic's Fastest Frontier Model, Tested and Graded"
-description: "Claude Fable 5.2 delivers 30% faster responses with improved coding and reasoning. We tested Anthropic's latest model across real-world tasks and graded it on UX, quality, value, integration, and support."
+title: "مراجعة Claude Fable 5.2: أسرع نموذج متقدم من Anthropic مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ Claude Fable 5.2 و Mythos 5.2 مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-19"
@@ -81,7 +81,7 @@ What kept it from 10: still occasionally loses context on very long conversation
 <p>Claude is available across several tiers:</p>
 
 <ul>
-  <li><strong>خطة مجانية:</strong> Access to Fable 5.2 with usage limits</li>
+  <li><strong>Free tier:</strong> Access to Fable 5.2 with usage limits</li>
   <li><strong>Pro:</strong> Higher limits, priority access</li>
   <li><strong>Team and Enterprise:</strong> Collaboration features, admin controls</li>
   <li><strong>API:</strong> Pay-per-token for developers (model string: <code>claude-fable-5-2</code>)</li>
@@ -134,7 +134,7 @@ What kept it from 9: consumer support is still limited compared to Google or Mic
   <thead>
     <tr>
       <th>Model</th>
-      <th>الأفضل لـ</th>
+      <th>Best For</th>
       <th>Speed</th>
       <th>AIGradeLab Grade</th>
     </tr>

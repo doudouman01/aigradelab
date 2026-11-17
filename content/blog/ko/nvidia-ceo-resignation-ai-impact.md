@@ -1,90 +1,90 @@
 ---
-title: "Nvidia's CEO Resignation: What Jensen Huang's Exit Means for AI Hardware"
-description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Here's what it means for AI GPU pricing, the competitive landscape, and the tools you use every day."
+title: "Nvidia CEO 사임: Jensen Huang의 퇴진이 AI 하드웨어에 의미하는 것"
+description: "Jensen Huang이 2026년 11월 11일 Nvidia CEO에서 사임했습니다. AI GPU 가격, 경쟁 구도, 그리고 매일 사용하는 도구에 어떤 의미가 있는지 정리했습니다."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
-readTime: "8 분 소요"
+readTime: "읽기 시간: 8분"
 ---
 
-<h2>The End of an Era at Nvidia</h2>
+<h2>Nvidia의 한 시대가 끝나다</h2>
 
-<p>On November 11, 2026, Jensen Huang — the co-founder who built Nvidia from a graphics card company into the most consequential AI hardware maker on the planet — resigned as president, CEO, and board member. The resignation was effective immediately.</p>
+<p>2026년 11월 11일, Nvidia를 그래픽 카드 회사에서 지구상에서 가장 영향력 있는 AI 하드웨어 제조사로 키운 공동 창업자 Jensen Huang이 사장, CEO, 이사직에서 사임했습니다. 사임은 즉시 효력을 발생했습니다.</p>
 
-<p>Nvidia's board appointed CFO Colette Kress as interim CEO while it conducts a search for a permanent successor. Harvey C. Jones, formerly CEO of Synopsys, was named the company's first-ever independent board chair.</p>
+<p>Nvidia 이사회는 후임자를 찾는 동안 CFO인 Colette Kress를 임시 CEO로 임명했습니다. Synopsys의 전 CEO인 Harvey C. Jones는 회사 사상 최초의 독립 이사회 의장으로 지명되었습니다.</p>
 
-<p>After 33 years at the helm, Huang's departure marks the biggest leadership shake-up in the AI industry since OpenAI's boardroom drama in late 2023. But unlike that crisis, Nvidia's transition has immediate implications for every company and individual using AI tools today.</p>
+<p>33년간 회사를 이끈 Huang의 퇴진은 2023년 말 OpenAI 이사회 파동 이후 AI 업계 최대의 리더십 격변입니다. 하지만 그 사태와 달리 Nvidia의 전환은 오늘날 AI 도구를 사용하는 모든 기업과 개인에게 즉각적인 영향을 미칩니다.</p>
 
-<h2>What Happened: The Timeline</h2>
+<h2>무슨 일이 있었나: 타임라인</h2>
 
-<p>The crisis unfolded in less than a week:</p>
+<p>이 위기는 일주일도 안 되는 기간에 전개되었습니다.</p>
 
 <ul>
-<li><strong>November 8:</strong> Nvidia's board announced an independent investigation into reports that Huang had been the target of a foreign intelligence effort. The board said it had "confidence in Jensen and his leadership team."</li>
-<li><strong>November 8 (same day):</strong> Huang publicly admitted to an extramarital affair with Alice Huang (no relation), an executive at chip reseller Megaspeed, whom U.S. intelligence officials suspected was recruited as part of a Chinese espionage campaign.</li>
-<li><strong>November 11-12:</strong> Reports surfaced of a second relationship involving an executive who reports directly to Huang.</li>
-<li><strong>November 12:</strong> Huang resigned. No reason was given in the official announcement.</li>
+<li><strong>11월 8일:</strong> Nvidia 이사회는 Huang이 외국 정보 활동의 표적이 되었다는 보도에 대한 독립 조사를 발표했습니다. 이사회는 "Jensen과 그의 리더십 팀에 대한 신뢰가 있다"고 밝혔습니다.</li>
+<li><strong>11월 8일 (같은 날):</strong> Huang은 칩 재판매업체 Megaspeed의 임원 Alice Huang(친척 관계 아님)과의 혼외 관계를 공개적으로 인정했습니다. 미국 정보 당국은 그녀가 중국 첩보 활동의 일환으로 포섭되었다고 의심했습니다.</li>
+<li><strong>11월 11-12일:</strong> Huang에게 직접 보고하는 임원이 연루된 두 번째 관계에 대한 보도가 나왔습니다.</li>
+<li><strong>11월 12일:</strong> Huang이 사임했습니다. 공식 발표에는 이유가 제시되지 않았습니다.</li>
 </ul>
 
-<p>The board stated it expects operations, customer commitments, and the product roadmap to continue without interruption. Nvidia's Q3 fiscal 2027 earnings report remains scheduled for November 17 — today.</p>
+<p>이사회는 운영, 고객 약속, 제품 로드맵이 중단 없이 계속될 것으로 기대한다고 밝혔습니다. Nvidia의 2027 회계연도 3분기 실적 발표는 예정대로 11월 17일, 즉 오늘로 잡혀 있습니다.</p>
 
-<h2>Who Is Colette Kress?</h2>
+<h2>Colette Kress는 누구인가?</h2>
 
-<p>Colette Kress has served as Nvidia's Executive Vice President and CFO since 2013. She's the person who has explained Nvidia's financial story to Wall Street through the entire AI boom. She'll continue in the CFO role alongside her interim CEO duties.</p>
+<p>Colette Kress는 2013년부터 Nvidia의 수석 부사장 겸 CFO를 맡아 왔습니다. AI 붐 내내 월가에 Nvidia의 재무 스토리를 설명해 온 인물입니다. 그녀는 임시 CEO 직무와 함께 CFO 역할을 계속 수행합니다.</p>
 
-<p>In her first statement, Kress said she is "committed to building on the extraordinary foundation Jensen created over the last 33 years" and that the focus remains on execution and customer commitments.</p>
+<p>첫 성명에서 Kress는 "Jensen이 지난 33년 동안 만들어 낸 특별한 토대를 바탕으로 발전시키는 데 전념하고 있다"고 밝히며 실행과 고객 약속에 계속 집중하겠다고 말했습니다.</p>
 
-<p>Nvidia has said it will consider both internal and external candidates for the permanent CEO position. No timeline has been given for the search.</p>
+<p>Nvidia는 정식 CEO 자리에 내부와 외부 후보를 모두 고려하겠다고 밝혔습니다. 선정 일정은 공개되지 않았습니다.</p>
 
-<h2>What This Means for AI Hardware</h2>
+<h2>AI 하드웨어에 의미하는 바</h2>
 
-<p>Nvidia currently commands roughly 80-90% of the AI training chip market. Its GPUs power the data centers behind ChatGPT, Claude, Gemini, and virtually every major AI tool you use. The question everyone is asking: does this change anything?</p>
+<p>Nvidia는 현재 AI 학습용 칩 시장의 약 80-90%를 차지하고 있습니다. 이들의 GPU는 ChatGPT, Claude, Gemini를 비롯해 여러분이 사용하는 사실상 모든 주요 AI 도구 뒤의 데이터센터를 구동합니다. 모두가 묻는 질문은 이것입니다. 이것이 무언가를 바꿀까요?</p>
 
-<h3>Short Term: Business as Usual</h3>
+<h3>단기: 평소와 다름없음</h3>
 
-<p>The honest answer for the next 6-12 months is: probably not much. Nvidia's product roadmap — including the Blackwell Ultra architecture and the upcoming Rubin platform — was set well before this crisis. Hardware development cycles run years ahead, and the engineering teams driving those roadmaps are still in place.</p>
+<p>향후 6-12개월에 대한 솔직한 답은 아마 크게 달라지지 않을 것이라는 점입니다. Blackwell Ultra 아키텍처와 다가오는 Rubin 플랫폼을 포함한 Nvidia의 제품 로드맵은 이번 위기 훨씬 전에 정해졌습니다. 하드웨어 개발 주기는 수년 앞서 진행되며, 그 로드맵을 이끄는 엔지니어링 팀은 그대로 있습니다.</p>
 
-<p>Cloud providers (AWS, Azure, Google Cloud) have long-term purchase agreements with Nvidia that won't change because of a CEO transition. If you're using AI tools today, the infrastructure behind them isn't going anywhere.</p>
+<p>클라우드 제공업체(AWS, Azure, Google Cloud)는 Nvidia와 장기 구매 계약을 맺고 있으며 CEO 교체로 달라지지 않습니다. 오늘 AI 도구를 사용하고 있다면 그 뒤의 인프라는 어디로 가지 않습니다.</p>
 
-<h3>Medium Term: The Competition Gets Interesting</h3>
+<h3>중기: 경쟁이 흥미로워진다</h3>
 
-<p>Where things get genuinely interesting is in the competitive landscape. Nvidia under Jensen Huang was famously aggressive about maintaining its moat — through CUDA lock-in, strategic partnerships, and sheer execution speed. A leadership vacuum, even a temporary one, creates openings.</p>
+<p>진짜로 흥미로워지는 부분은 경쟁 구도입니다. Jensen Huang 체제의 Nvidia는 CUDA 락인, 전략적 파트너십, 압도적인 실행 속도를 통해 해자를 유지하는 데 매우 공격적이기로 유명했습니다. 일시적이라 해도 리더십 공백은 틈을 만듭니다.</p>
 
-<p><strong>AMD is already moving.</strong> Just weeks ago, AMD finalized its $8.2 billion acquisition of World Labs, bringing AI pioneer Fei-Fei Li on board as chief scientist. AMD also acquired Hugging Face for $13 billion earlier this year. With Nvidia's leadership in transition, AMD has its best window yet to win enterprise AI customers who've been looking for a credible alternative.</p>
+<p><strong>AMD는 이미 움직이고 있습니다.</strong> 불과 몇 주 전 AMD는 82억 달러 규모의 World Labs 인수를 마무리하며 AI 선구자 Fei-Fei Li를 최고 과학자로 영입했습니다. AMD는 올해 초 Hugging Face도 130억 달러에 인수했습니다. Nvidia의 리더십이 전환기에 있는 지금, AMD는 신뢰할 만한 대안을 찾아온 기업 AI 고객을 확보할 수 있는 가장 좋은 기회를 맞았습니다.</p>
 
-<p><strong>Custom silicon is accelerating.</strong> Google's TPUs, Amazon's Trainium chips, and Microsoft's Maia accelerators are all gaining ground. A Nvidia without Jensen's personal relationships with CEOs like Satya Nadella and Sundar Pichai may find it harder to defend its premium pricing.</p>
+<p><strong>자체 실리콘이 가속화되고 있습니다.</strong> Google의 TPU, Amazon의 Trainium 칩, Microsoft의 Maia 가속기 모두 입지를 넓히고 있습니다. Satya Nadella, Sundar Pichai 같은 CEO들과 Jensen의 개인적 관계가 없는 Nvidia는 프리미엄 가격을 방어하기가 더 어려워질 수 있습니다.</p>
 
-<h3>Long Term: GPU Pricing Could Shift</h3>
+<h3>장기: GPU 가격이 변할 수 있다</h3>
 
-<p>For end users of AI tools, the most meaningful impact could be on pricing. Nvidia's dominant market position has allowed it to maintain extremely high margins on its data center GPUs. If competition intensifies during this transition period, cloud providers could eventually pass savings through to AI tool pricing.</p>
+<p>AI 도구의 최종 사용자에게 가장 의미 있는 영향은 가격일 수 있습니다. 지배적인 시장 지위 덕분에 Nvidia는 데이터센터 GPU에서 매우 높은 마진을 유지할 수 있었습니다. 이 전환기에 경쟁이 심화되면 클라우드 제공업체가 결국 절감분을 AI 도구 가격에 반영할 수 있습니다.</p>
 
-<p>This won't happen overnight. But it's the kind of structural shift worth watching over the next 12-24 months.</p>
+<p>하룻밤에 일어날 일은 아닙니다. 그러나 향후 12-24개월 동안 지켜볼 만한 구조적 변화입니다.</p>
 
-<h2>The Espionage Angle: What We Know</h2>
+<h2>첩보 측면: 알려진 사실</h2>
 
-<p>The national security dimension of this story is still developing. U.S. intelligence officials have expressed concern that Alice Huang may have been part of a broader effort to access sensitive information about Nvidia's AI chip technology — technology that is subject to strict U.S. export controls to China.</p>
+<p>이 사건의 국가 안보 측면은 아직 전개 중입니다. 미국 정보 당국은 Alice Huang이 중국에 대한 엄격한 미국 수출 통제의 대상인 Nvidia의 AI 칩 기술에 관한 민감한 정보에 접근하려는 더 큰 시도의 일부였을 수 있다는 우려를 표명했습니다.</p>
 
-<p>Nvidia's board said it has "no reason to believe that NVIDIA secrets or national security had been compromised." However, the investigation is ongoing, and the full picture may take months to emerge.</p>
+<p>Nvidia 이사회는 "NVIDIA의 기밀이나 국가 안보가 침해되었다고 믿을 이유가 없다"고 밝혔습니다. 그러나 조사는 진행 중이며 전모가 드러나기까지 수개월이 걸릴 수 있습니다.</p>
 
-<p>For the AI industry at large, this episode underscores just how high the geopolitical stakes around AI hardware have become. The U.S.-China chip war isn't just a policy debate — it's playing out in the personal lives of tech executives.</p>
+<p>AI 업계 전반에 이번 사건은 AI 하드웨어를 둘러싼 지정학적 이해관계가 얼마나 커졌는지를 보여 줍니다. 미중 칩 전쟁은 단순한 정책 논쟁이 아니라 기술 임원들의 사생활 속에서도 벌어지고 있습니다.</p>
 
-<h2>What to Watch Next</h2>
+<h2>다음으로 주목할 것</h2>
 
-<p>Several things to monitor in the coming weeks and months:</p>
+<p>앞으로 몇 주와 몇 달 동안 지켜볼 사항은 다음과 같습니다.</p>
 
 <ul>
-<li><strong>Today's earnings call (November 17):</strong> This will be Kress's first public appearance as interim CEO. Watch for any changes in guidance, customer tone, or product timeline signals.</li>
-<li><strong>The CEO search:</strong> Who Nvidia picks as its next leader will signal whether the company doubles down on AI-first strategy or pivots toward a more diversified approach.</li>
-<li><strong>AMD's moves:</strong> Expect AMD to be aggressive in courting Nvidia enterprise customers during this transition period.</li>
-<li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
+<li><strong>오늘의 실적 발표 (11월 17일):</strong> 임시 CEO로서 Kress의 첫 공개 석상입니다. 가이던스 변화, 고객 어조, 제품 일정 신호를 주목하십시오.</li>
+<li><strong>CEO 선정:</strong> Nvidia가 누구를 차기 리더로 선택하느냐가 AI 우선 전략을 더욱 강화할지, 더 다각화된 접근으로 선회할지를 보여 줄 것입니다.</li>
+<li><strong>AMD의 행보:</strong> AMD가 이 전환기에 Nvidia의 기업 고객을 공격적으로 공략할 것으로 예상됩니다.</li>
+<li><strong>수출 통제 영향:</strong> 조사에서 보안 침해가 드러나면 AI 공급망 전체에 영향을 미치는 더 엄격한 수출 규제가 촉발될 수 있습니다.</li>
 </ul>
 
 <h2>결론</h2>
 
-<p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
+<p>Jensen Huang은 Nvidia를 운영했을 뿐 아니라 여러 면에서 그 자체가 <em>Nvidia</em>였습니다. 그의 비전이 게이밍 GPU 회사를 AI 혁명의 중추로 바꿨습니다. 그의 퇴진은 업계의 분수령입니다.</p>
 
-<p>For now, the AI tools you rely on will keep working exactly as they do today. The infrastructure is too deeply embedded and the contracts too long-term for anything to change quickly. But the competitive dynamics that determine how much you pay for AI, how fast models improve, and which platforms lead the market are all suddenly more fluid than they've been in years.</p>
+<p>당분간 여러분이 의존하는 AI 도구는 오늘과 똑같이 계속 작동할 것입니다. 인프라는 너무 깊이 자리 잡았고 계약은 너무 장기적이어서 어떤 것도 빠르게 바뀌지 않습니다. 하지만 AI에 얼마를 지불하는지, 모델이 얼마나 빨리 개선되는지, 어떤 플랫폼이 시장을 이끄는지를 결정하는 경쟁 역학은 수년 만에 가장 유동적이 되었습니다.</p>
 
-<p>We'll be updating this analysis as the earnings call and CEO search develop. Bookmark this page and check back.</p>
+<p>실적 발표와 CEO 선정이 진행됨에 따라 이 분석을 업데이트하겠습니다. 이 페이지를 북마크하고 다시 확인해 주십시오.</p>
 
-<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at 도구CraftKit</a> — no GPU drama required.</em></p>
+<p><em>AI 환경이 변하는 동안 생산성을 유지해야 하나요? GPU 드라마가 필요 없는 <a href="https://toolcraftkit.com">ToolCraftKit의 무료 생산성 도구</a>를 확인해 보십시오.</em></p>

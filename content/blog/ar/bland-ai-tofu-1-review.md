@@ -1,6 +1,6 @@
 ---
-title: "Bland AI Tofu-1 Review: Full-Duplex Voice AI That Hears Through the Noise"
-description: "Bland's Tofu-1 is a speech-to-speech model that listens, reasons, and replies in audio during phone calls. We examine its claims, limitations, and enterprise potential."
+title: "مراجعة Bland AI Tofu-1: نموذج صوتي Full-Duplex للمكالمات الصعبة"
+description: "Tofu-1 من Bland AI هو نموذج صوت إلى صوت Full-Duplex مصمم للمكالمات في ظروف صعبة. اختبرناه وقيّمناه."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-21"
@@ -74,7 +74,7 @@ toolName: "Bland AI Tofu-1"
 <tr><td>Full duplex</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
 <tr><td>Target use case</td><td>Enterprise calls</td><td>General assistant</td><td>Open source</td></tr>
 <tr><td>Availability</td><td>Research preview</td><td>GA (Pro)</td><td>Open weights</td></tr>
-<tr><td>التسعير</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
+<tr><td>Pricing</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
 </tbody>
 </table>
 
@@ -117,7 +117,7 @@ toolName: "Bland AI Tofu-1"
 <tr><td>UX / Developer Experience</td><td>7/10</td><td>Bland's platform is polished, Tofu-1 integration TBD</td></tr>
 <tr><td>Quality / Reliability</td><td>8/10</td><td>Strong claims, unverified independently</td></tr>
 <tr><td>Value</td><td>5/10</td><td>Can't assess — no pricing available</td></tr>
-<tr><td>التكامل</td><td>6/10</td><td>Research preview, limited access</td></tr>
+<tr><td>Integration</td><td>6/10</td><td>Research preview, limited access</td></tr>
 <tr><td>Support / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
 </tbody>
 </table>

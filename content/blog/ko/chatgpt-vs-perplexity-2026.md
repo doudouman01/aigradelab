@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT vs Perplexity 2026: Which AI Should You Use for Research?"
-description: "테스트했습니다 ChatGPT and Perplexity head-to-head for research, accuracy, sources, and everyday use. Full comparison with scores. 2026년 11월 업데이트."
+title: "ChatGPT vs Perplexity 2026 비교: Which AI Should You Use for Research?"
+description: "We tested ChatGPT and Perplexity head-to-head for research, accuracy, sources, and everyday use. Full comparison with scores. Updated November 2026."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "Nov 2026"
-readTime: "12 분 소요"
+readTime: "12 min read"
 ---
 
 <h2>Two AIs, Two Philosophies</h2>
@@ -17,8 +17,8 @@ readTime: "12 분 소요"
     <tr><th>Feature</th><th>ChatGPT</th><th>Perplexity</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>등급</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
-    <tr><td>가격</td><td>Free / $20/mo</td><td>Free / $20/mo</td></tr>
+    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
+    <tr><td>Price</td><td>Free / $20/mo</td><td>Free / $20/mo</td></tr>
     <tr><td>Source citations</td><td>Sometimes</td><td>Always (numbered)</td></tr>
     <tr><td>Accuracy</td><td>Good (can hallucinate)</td><td>Very good (source-backed)</td></tr>
     <tr><td>Writing quality</td><td>Very good</td><td>Good (factual tone)</td></tr>
@@ -57,7 +57,7 @@ readTime: "12 분 소요"
 <p>Perplexity is faster for research. Type a question and get a sourced answer in seconds — no conversation, no context-setting, no prompt engineering. The interface is clean and focused: question, answer, sources, follow-up questions. ChatGPT's conversational interface is more powerful but slower for quick factual lookups.</p>
 <p>Perplexity's follow-up questions are particularly useful — they guide you deeper into a topic without having to think about what to ask next. For research rabbit holes, this guided exploration surfaces information you didn't know to look for.</p>
 
-<h2>무료 플랜 Comparison</h2>
+<h2>Free Tier Comparison</h2>
 <table>
   <thead>
     <tr><th>Feature</th><th>ChatGPT Free</th><th>Perplexity Free</th></tr>
@@ -81,7 +81,7 @@ readTime: "12 분 소요"
 <p>The workflow: research with Perplexity (get the facts and sources), create with ChatGPT (write the content, make the images). Each tool does what it does best.</p>
 <p>If you can only afford one: <strong>ChatGPT Plus</strong> — it does research adequately and everything else well. <strong>Perplexity Pro</strong> only if research is your primary AI use case.</p>
 
-<h2>The Verdict</h2>
+<h2>최종 평가</h2>
 <table>
   <thead>
     <tr><th>Category</th><th>Winner</th></tr>
@@ -105,7 +105,7 @@ readTime: "12 분 소요"
 <h2>Final Take</h2>
 <p><strong>Perplexity</strong> is the best research AI available — every answer sourced, verifiable, and trustworthy. For students, journalists, researchers, and professionals who need accurate information with citations, Perplexity is essential.</p>
 <p><strong>ChatGPT</strong> is the best all-around AI — research plus writing plus images plus video plus voice plus code in one platform. For anyone who needs a single AI tool, ChatGPT covers the most ground.</p>
-<p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. 전체 리뷰 읽기: <a href="/ko/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/ko/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
+<p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. 자세한 내용: full <a href="/ko/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/ko/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
 
 <h2>자주 묻는 질문</h2>
 
@@ -121,4 +121,4 @@ readTime: "12 분 소요"
 <h3>Is Perplexity good for students?</h3>
 <p>Excellent. Every answer comes with sources you can cite in papers. The academic focus mode filters for scholarly sources. It's the closest thing to an AI research assistant that professors would approve of — because every claim is verifiable.</p>
 
-<p><em>Both tools were tested by AI등급Lab across research, writing, and fact-checking workflows. 등급s reflect practical value as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>Both tools were tested by AIGradeLab across research, writing, and fact-checking workflows. Grades reflect practical value as of November 2026. 가격 verified on each platform's website.</em></p>

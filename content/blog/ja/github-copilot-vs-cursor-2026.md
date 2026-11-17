@@ -1,11 +1,11 @@
 ---
-title: "GitHub Copilot vs Cursor 2026: Which AI Coding Tool Wins?"
-description: "テストしました GitHub Copilot and Cursor side by side for code completion, chat, debugging, and multi-file editing. Full head-to-head comparison. 2026年11月更新."
+title: "GitHub Copilot vs Cursor 2026年比較：Which AI Coding Tool Wins?"
+description: "We tested GitHub Copilot and Cursor side by side for code completion, chat, debugging, and multi-file editing. Full head-to-head comparison. Updated November 2026."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 分で読めます"
+readTime: "14 min read"
 ---
 
 <h2>The Two AI Coding Giants Go Head-to-Head</h2>
@@ -17,8 +17,8 @@ readTime: "14 分で読めます"
     <tr><th>Feature</th><th>GitHub Copilot</th><th>Cursor</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>評価</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
-    <tr><td>価格</td><td>$10-19/mo</td><td>$20/mo (Pro)</td></tr>
+    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
+    <tr><td>Price</td><td>$10-19/mo</td><td>$20/mo (Pro)</td></tr>
     <tr><td>Free tier</td><td>Yes (2,000 completions/mo)</td><td>Yes (limited)</td></tr>
     <tr><td>Code completion</td><td>Excellent</td><td>Excellent</td></tr>
     <tr><td>AI chat</td><td>Good</td><td>Superior</td></tr>
@@ -67,7 +67,7 @@ readTime: "14 分で読めます"
 </ul>
 <p>Cursor's model flexibility is broader — you can bring your own API key for any model and switch per-conversation. Copilot's model options are more curated but cover the most popular choices.</p>
 
-<h2>Pricing Comparison</h2>
+<h2>料金 Comparison</h2>
 <table>
   <thead>
     <tr><th>Plan</th><th>GitHub Copilot</th><th>Cursor</th></tr>
@@ -101,7 +101,7 @@ readTime: "14 分で読めます"
   <li>You want maximum model flexibility</li>
 </ul>
 
-<h2>The Verdict</h2>
+<h2>総評</h2>
 <table>
   <thead>
     <tr><th>Category</th><th>Winner</th></tr>
@@ -113,7 +113,7 @@ readTime: "14 分で読めます"
     <tr><td>Codebase Awareness</td><td>Cursor</td></tr>
     <tr><td>Agent Mode</td><td>Cursor (slight edge)</td></tr>
     <tr><td>Editor Flexibility</td><td>Copilot (works in any editor)</td></tr>
-    <tr><td>価格</td><td>Copilot ($10 vs $20)</td></tr>
+    <tr><td>Price</td><td>Copilot ($10 vs $20)</td></tr>
     <tr><td>Enterprise/Team</td><td>Copilot (GitHub ecosystem)</td></tr>
     <tr><td><strong>Overall</strong></td><td><strong>Cursor (for AI power) / Copilot (for value)</strong></td></tr>
   </tbody>
@@ -139,6 +139,6 @@ readTime: "14 分で読めます"
 <p>GitHub Copilot — it's simpler, cheaper, and works inside the editor beginners are already learning (VS Code). Cursor's advanced features are more valuable for experienced developers.</p>
 
 <h3>What about Claude Code and Windsurf?</h3>
-<p>Claude Code (Anthropic's CLI tool) is an agent that works from the terminal — different from both. Windsurf (formerly Codeium) is another AI editor worth considering, positioned between Copilot's price and Cursor's features. Read our <a href="/ja/blog/best-ai-coding-tools-2026">Best AI Coding ツールs 2026</a> for the full comparison.</p>
+<p>Claude Code (Anthropic's CLI tool) is an agent that works from the terminal — different from both. Windsurf (formerly Codeium) is another AI editor worth considering, positioned between Copilot's price and Cursor's features. 詳しくは <a href="/ja/blog/best-ai-coding-tools-2026">Best AI Coding Tools 2026</a> for the full comparison.</p>
 
-<p><em>Both tools were tested by AI評価Lab across TypeScript, Python, and React projects over 30 days. 評価s reflect practical development productivity as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>Both tools were tested by AIGradeLab across TypeScript, Python, and React projects over 30 days. Grades reflect practical development productivity as of November 2026. 料金 verified on each platform's website.</em></p>

@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Review 2026: The World's Most Popular AI — Tested and Graded"
-description: "We tested ChatGPT for writing, coding, research, images, voice, and video. Full review with scores. Is it still the best AI in 2026? Updated November 2026."
+title: "مراجعة ChatGPT في 2026: أداة الذكاء الاصطناعي الأكثر شعبية مُقيَّمة"
+description: "مراجعة شاملة لـ ChatGPT مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
@@ -21,11 +21,11 @@ toolName: "ChatGPT"
 
 <h2>ChatGPT Scores</h2>
 <div class="score-card"><h3>Overall Grade: A</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
 <h2>Everything ChatGPT Can Do in 2026</h2>
@@ -72,7 +72,7 @@ toolName: "ChatGPT"
 <h2>ChatGPT Pricing</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>السعر</th><th>الميزات الرئيسية</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>GPT-4o (limited), web browsing, basic image gen</td></tr>
@@ -97,7 +97,7 @@ toolName: "ChatGPT"
     <tr><td>Real-time information</td><td><strong>Gemini</strong></td></tr>
     <tr><td>Custom AI assistants</td><td><strong>ChatGPT</strong> (GPTs)</td></tr>
     <tr><td>Privacy</td><td><strong>Claude</strong></td></tr>
-    <tr><td>خطة مجانية</td><td><strong>Gemini</strong></td></tr>
+    <tr><td>Free tier</td><td><strong>Gemini</strong></td></tr>
     <tr><td>Document analysis</td><td><strong>Claude</strong> (200K+ context)</td></tr>
   </tbody>
 </table>
@@ -105,7 +105,7 @@ toolName: "ChatGPT"
 
 <h2>Who Should Use ChatGPT?</h2>
 
-<h3>الأفضل لـ</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>Everyone</strong> — the most versatile AI available, good at everything</li>
   <li><strong>Content creators</strong> — text + images + video in one subscription</li>
@@ -123,7 +123,7 @@ toolName: "ChatGPT"
 </ul>
 
 <h2>Pros and Cons Summary</h2>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Most versatile — text, images, video, voice, code, web browsing</li>
   <li>Best image generation with GPT Image</li>
@@ -133,7 +133,7 @@ toolName: "ChatGPT"
   <li>Voice mode — natural conversation interface</li>
   <li>Best free tier for general AI use</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Writing and analysis quality below Claude</li>
   <li>Hallucination risk — can be confidently wrong</li>
@@ -147,7 +147,7 @@ toolName: "ChatGPT"
 <p>But it's no longer the best at everything. Claude wins for deep analysis and writing quality. Gemini wins for Google integration. Perplexity wins for sourced research. The smartest approach: ChatGPT as your primary AI, with a specialist for your most important use case.</p>
 <p><strong>Our recommendation:</strong> Start with ChatGPT Free — it's the most generous free AI available. Upgrade to Plus ($20/month) when you want GPT Image, Sora, and higher limits. Add Claude Pro ($20/month) if analysis and writing quality are critical to your work.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is ChatGPT still the best AI in 2026?</h3>
 <p>The most versatile — yes. The best at everything — no. Claude beats it for writing and analysis. Gemini beats it for Google integration. ChatGPT wins overall because it does the most things well in one platform.</p>

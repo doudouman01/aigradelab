@@ -4,7 +4,7 @@ description: "Anthropic launched its IPO roadshow on November 10, offering 825 m
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-18"
-readTime: "8 min leestijd"
+readTime: "8 min read"
 ---
 
 <h2>Anthropic Is Going Public — And It Could Be the Largest IPO Ever</h2>
@@ -41,7 +41,7 @@ readTime: "8 min leestijd"
 
 <p>In its S-1 filing, Anthropic hinted at approaching a scenario where "AI accelerates AI development." That's not just marketing — the company is investing heavily in automated research pipelines, and more capital means more compute for training frontier models.</p>
 
-<h3>2. Pricing Pressure Could Actually Help You</h3>
+<h3>2. Prijzen Pressure Could Actually Help You</h3>
 
 <p>Going public means Anthropic will face quarterly earnings pressure and investor scrutiny on user growth metrics. That typically pushes companies to <strong>lower barriers to entry</strong> rather than raise prices. We expect:</p>
 
@@ -126,7 +126,7 @@ readTime: "8 min leestijd"
   <li><strong>Model performance:</strong> The timing of Fable 5.2 and Mythos 5.2 releases is designed to show technical leadership</li>
 </ul>
 
-<h2>The Bigger Picture: AI Industry Nadelenolidation</h2>
+<h2>The Bigger Picture: AI Industry Consolidation</h2>
 
 <p>Anthropic's IPO comes during a week of massive AI industry shifts. Nvidia's CEO Jensen Huang resigned on November 12. AMD completed its $8.2 billion acquisition of World Labs. Google released two new Gemini 4 models. OpenAI launched ChatGPT Wallet.</p>
 

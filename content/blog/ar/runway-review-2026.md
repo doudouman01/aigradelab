@@ -1,6 +1,6 @@
 ---
-title: "Runway Review 2026: Best AI Video Generator — Tested and Graded"
-description: "We tested Runway Gen-3 for AI video generation, editing, and production. Full review with scores. The best AI video tool? Updated November 2026."
+title: "مراجعة Runway في 2026: أداة فيديو الذكاء الاصطناعي مُقيَّمة"
+description: "مراجعة شاملة لـ Runway مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
@@ -20,11 +20,11 @@ toolName: "Runway"
 
 <h2>Runway Scores</h2>
 <div class="score-card"><h3>Overall Grade: A</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
 <h2>Gen-3 Alpha: The Best AI Video Generation</h2>
@@ -70,7 +70,7 @@ toolName: "Runway"
 <h2>Runway Pricing</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>السعر</th><th>Credits</th><th>الأفضل لـ</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>Credits</th><th>Best For</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>125 (one-time)</td><td>Testing the platform</td></tr>
@@ -92,8 +92,8 @@ toolName: "Runway"
     <tr><td>Creative control</td><td><strong>Runway</strong> (Motion Brush, camera)</td></tr>
     <tr><td>Editing tools</td><td><strong>Runway</strong> (full suite)</td></tr>
     <tr><td>Clip length</td><td><strong>Kling</strong> (up to 30 sec)</td></tr>
-    <tr><td>السعر</td><td><strong>Sora</strong> (included with ChatGPT)</td></tr>
-    <tr><td>خطة مجانية</td><td><strong>Kling</strong></td></tr>
+    <tr><td>Price</td><td><strong>Sora</strong> (included with ChatGPT)</td></tr>
+    <tr><td>Free tier</td><td><strong>Kling</strong></td></tr>
     <tr><td>Speed</td><td><strong>Runway</strong></td></tr>
   </tbody>
 </table>
@@ -101,7 +101,7 @@ toolName: "Runway"
 
 <h2>Who Should Use Runway?</h2>
 
-<h3>الأفضل لـ</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>YouTubers and content creators</strong> — generation + editing in one platform</li>
   <li><strong>Marketing teams</strong> — ad creative, product videos, social content</li>
@@ -118,7 +118,7 @@ toolName: "Runway"
 </ul>
 
 <h2>Pros and Cons Summary</h2>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Best and most consistent AI video quality available</li>
   <li>Full editing suite — background removal, inpainting, motion tracking</li>
@@ -127,7 +127,7 @@ toolName: "Runway"
   <li>Web-based — no downloads, no GPU required</li>
   <li>Fast generation times (1-2 minutes per clip)</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Expensive — Pro at $28/month is the practical minimum</li>
   <li>Credits burn fast with regular use</li>
@@ -140,7 +140,7 @@ toolName: "Runway"
 <p>Runway is the best AI video platform in 2026 — period. Gen-3 Alpha produces the highest quality, most consistent AI video available, and the editing suite transforms it from a toy into a production tool. The price is the barrier: at $28-76/month, it's a real investment. But for creators and professionals who make video regularly, the combination of generation quality + editing tools + creative control makes Runway the clear leader.</p>
 <p><strong>Our recommendation:</strong> Try the free tier (125 credits) to test quality. If AI video is part of your regular workflow, go straight to Pro ($28/month). For occasional use, Sora with ChatGPT ($20/month) is the better value. For the budget option, try Kling's free tier first.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Runway worth $28/month?</h3>
 <p>For regular video creators — yes. The combination of generation quality + editing tools pays for itself by replacing separate subscriptions and freelancer costs. For occasional use — Sora with ChatGPT ($20/month) is better value.</p>

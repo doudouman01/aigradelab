@@ -4,7 +4,7 @@ description: "Sierra released Poppy 1.0 on November 13, 2026 — an open protoco
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-19"
-readTime: "8 Min. Lesezeit"
+readTime: "8 min read"
 ---
 
 <h2>AI Agents Just Got a Front Door to Every Business</h2>
@@ -137,7 +137,7 @@ readTime: "8 Min. Lesezeit"
 
 <p>The key word is "you." Poppy is designed with user control at its center. You authenticate, you grant permissions, you can revoke access at any time. The agent acts on your behalf, not on its own.</p>
 
-<h2>Security Nachteileiderations</h2>
+<h2>Security Considerations</h2>
 
 <p>Poppy's security model is worth examining closely:</p>
 

@@ -1,6 +1,6 @@
 ---
-title: "Cloudflare Kitesurf Review: The Open-Source Browser Built for AI Agents"
-description: "Cloudflare's Kitesurf is a lightweight browser engine designed for AI agents, not humans. We test its capabilities, limitations, and grade it for the AIGradeLab system."
+title: "مراجعة Cloudflare Kitesurf: متصفح مفتوح المصدر مصمم لوكلاء الذكاء الاصطناعي"
+description: "Kitesurf من Cloudflare متصفح خفيف مفتوح المصدر مصمم لوكلاء الذكاء الاصطناعي. اختبرناه وقيّمناه."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-20"
@@ -23,7 +23,7 @@ toolName: "Cloudflare Kitesurf"
 
 <p>Kitesurf strips all of that away. It runs in V8 isolates on Cloudflare Workers, built with Rust and WebAssembly, and focuses solely on what an AI agent actually needs: load a page, execute JavaScript, extract content, and interact with elements.</p>
 
-<h2>الميزات الرئيسية</h2>
+<h2>Key Features</h2>
 
 <h3>Lightweight Architecture</h3>
 
@@ -120,7 +120,7 @@ toolName: "Cloudflare Kitesurf"
 <tr><td>UX / Developer Experience</td><td>7/10</td><td>Clean API, but docs need work</td></tr>
 <tr><td>Quality / Reliability</td><td>8/10</td><td>Solid for core use cases, edge cases remain</td></tr>
 <tr><td>Value</td><td>8/10</td><td>Open source + major cost savings at scale</td></tr>
-<tr><td>التكامل</td><td>7/10</td><td>Great on Workers, more effort elsewhere</td></tr>
+<tr><td>Integration</td><td>7/10</td><td>Great on Workers, more effort elsewhere</td></tr>
 <tr><td>Support / Community</td><td>7/10</td><td>Cloudflare backing, early-stage community</td></tr>
 </tbody>
 </table>

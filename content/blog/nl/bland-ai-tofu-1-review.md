@@ -5,7 +5,7 @@ category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-21"
 lastTested: "2026-11-18"
-readTime: "9 min leestijd"
+readTime: "9 min read"
 grade: "B"
 scores_ux: 7
 scores_quality: 8
@@ -74,7 +74,7 @@ toolName: "Bland AI Tofu-1"
 <tr><td>Full duplex</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
 <tr><td>Target use case</td><td>Enterprise calls</td><td>General assistant</td><td>Open source</td></tr>
 <tr><td>Availability</td><td>Research preview</td><td>GA (Pro)</td><td>Open weights</td></tr>
-<tr><td>Pricing</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
+<tr><td>Prijzen</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
 </tbody>
 </table>
 
@@ -103,7 +103,7 @@ toolName: "Bland AI Tofu-1"
 
 <p>Tofu-1 is the first model in what Bland describes as a planned family of speech-to-speech models, suggesting that more specialized variants may follow.</p>
 
-<h2>AICijferLab Verdict: B</h2>
+<h2>AIGradeLab Verdict: B</h2>
 
 <p>Bland AI's Tofu-1 earns a <strong>B</strong> — a grade that reflects genuine technical ambition held back by a lack of verifiable evidence. The concept of a full-duplex speech-to-speech model optimized for noisy enterprise calls is exactly what the market needs. If the claims hold up under independent testing, this could be an A-tier product.</p>
 
@@ -118,6 +118,6 @@ toolName: "Bland AI Tofu-1"
 <tr><td>Quality / Reliability</td><td>8/10</td><td>Strong claims, unverified independently</td></tr>
 <tr><td>Value</td><td>5/10</td><td>Can't assess — no pricing available</td></tr>
 <tr><td>Integratie</td><td>6/10</td><td>Research preview, limited access</td></tr>
-<tr><td>Ondersteuning / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
+<tr><td>Support / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
 </tbody>
 </table>

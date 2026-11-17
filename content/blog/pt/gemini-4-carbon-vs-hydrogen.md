@@ -1,12 +1,13 @@
 ---
-title: "Gemini 4 Carbon vs Hydrogen: Qual Modelo de IA do Google Você Deve Usar?"
+title: "Gemini 4 Carbon vs Hydrogen: Which Google AI Model Should You Use?"
 description: "Google released two Gemini 4 models in one week — Carbon for complex reasoning and Hydrogen for fast coding and agents. We compare features, speed, pricing, and use cases to help you pick the right one."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "2026-11-17"
-readTime: "9 min de leitura"
+readTime: "9 min read"
 ---
+
 <h2>Two New Gemini Models, One Big Decision</h2>
 
 <p>Google had a busy week. On November 10, 2026, it released <strong>Gemini 4 Carbon</strong> — described as its most capable model ever, positioned above Gemini 4 Argon. Two days later, on November 12, <strong>Gemini 4 Hydrogen</strong> went generally available as a high-speed model built for daily coding and agent execution.</p>
@@ -39,7 +40,7 @@ readTime: "9 min de leitura"
 
 <p>The value score of 7 reflects this reality: Carbon is excellent at what it does, but most users don't need a frontier model for their daily work. If you're paying for AI Ultra just to access Carbon but mostly use it for email drafts, you're overpaying.</p>
 
-<h3>Melhor Para</h3>
+<h3>Best For</h3>
 
 <p>Researchers, engineers, data scientists, and anyone working on problems where getting the right answer matters more than getting a fast answer. If your prompts regularly exceed 50,000 tokens or involve multi-step technical reasoning, Carbon is worth the premium.</p>
 
@@ -65,7 +66,7 @@ readTime: "9 min de leitura"
 
 <p>Hydrogen trades depth for speed. On complex multi-step reasoning tasks — particularly in math and science — it makes more errors than Carbon. It's also more likely to produce shallow answers on nuanced topics. The quality score of 7 reflects the trade-off: Hydrogen is not trying to be the smartest model in the room; it's trying to be the most useful one for everyday work.</p>
 
-<h3>Melhor Para</h3>
+<h3>Best For</h3>
 
 <p>Developers who need a fast coding assistant, teams building AI-powered agents and automations, and anyone who values response time over raw reasoning power. If you're using Google's AI tools in Workspace (Gmail, Docs, Sheets), Hydrogen is the model doing the heavy lifting behind the scenes.</p>
 
@@ -74,7 +75,7 @@ readTime: "9 min de leitura"
 <table>
   <thead>
     <tr>
-      <th>Recurso</th>
+      <th>Feature</th>
       <th>Gemini 4 Carbon</th>
       <th>Gemini 4 Hydrogen</th>
     </tr>
@@ -122,7 +123,7 @@ readTime: "9 min de leitura"
     </tr>
     <tr>
       <td><strong>AI Overviews</strong></td>
-      <td>Não</td>
+      <td>No</td>
       <td>Yes (hardest queries)</td>
     </tr>
   </tbody>

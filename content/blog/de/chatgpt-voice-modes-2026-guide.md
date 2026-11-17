@@ -1,10 +1,10 @@
 ---
-title: "ChatGPT Is Retiring Advanced Voice: Alles was Sie wissen müssen About GPT-Live"
+title: "ChatGPT Is Retiring Advanced Voice: Everything You Need to Know About GPT-Live"
 description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Here's what GPT-Live replaces, what changes, and how to prepare for the transition."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
-readTime: "7 Min. Lesezeit"
+readTime: "7 min read"
 ---
 
 <h2>The Voice Transition Is Coming</h2>
@@ -55,7 +55,7 @@ readTime: "7 Min. Lesezeit"
 
 <p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
 
-<h3>Kostenlos Users</h3>
+<h3>Free Tier Users</h3>
 
 <p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
 
@@ -91,7 +91,7 @@ readTime: "7 Min. Lesezeit"
 <li><strong>ElevenLabs</strong> — For custom voice generation and voice-first applications</li>
 </ul>
 
-<h2>The Bigger Picture: Voice AI Is Nachteileolidating</h2>
+<h2>The Bigger Picture: Voice AI Is Consolidating</h2>
 
 <p>OpenAI's decision to retire older voice modes reflects a broader trend in AI: consolidation around native multimodal models. Rather than bolting voice capabilities onto text models, the industry is building models that understand audio, text, images, and video natively.</p>
 

@@ -1,6 +1,6 @@
 ---
-title: "Perplexity AI Review 2026: The Best AI Research Tool? Our Grade"
-description: "We tested Perplexity AI for research, fact-checking, and daily questions. Comet browser, model picker, shopping, Academic mode. Updated November 2026."
+title: "مراجعة Perplexity AI في 2026: محرك بحث الذكاء الاصطناعي مُقيَّم"
+description: "مراجعة شاملة لـ Perplexity AI مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -63,15 +63,15 @@ toolName: "Perplexity"
     <tr><td>Content creation</td><td>No</td><td><strong>Yes (full ChatGPT)</strong></td><td>No</td></tr>
     <tr><td>Image generation</td><td>No</td><td><strong>Yes (Images 2.6)</strong></td><td>No</td></tr>
     <tr><td>Shopping</td><td>Yes (PayPal)</td><td>Yes (product cards)</td><td><strong>Yes (Shopping tab)</strong></td></tr>
-    <tr><td>السعر</td><td>Free / $20 Pro</td><td>Free / $20 Plus</td><td>Free</td></tr>
-    <tr><td>الأفضل لـ</td><td>Verified research</td><td>Research + creation</td><td>Browsing + local search</td></tr>
+    <tr><td>Price</td><td>Free / $20 Pro</td><td>Free / $20 Plus</td><td>Free</td></tr>
+    <tr><td>Best for</td><td>Verified research</td><td>Research + creation</td><td>Browsing + local search</td></tr>
   </tbody>
 </table>
 
 <h2>Pricing: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>السعر</th><th>الميزات الرئيسية</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Unlimited quick searches, 5 Pro searches/day</td></tr>
@@ -102,7 +102,7 @@ toolName: "Perplexity"
 <p>The grade stays at A instead of A+ because it cannot create content, has no memory across sessions, and the source quality varies. Perplexity does one thing — research — better than anyone else. But it only does that one thing.</p>
 <p>For most people, the optimal setup is Perplexity (free or Pro) for research plus Claude or ChatGPT for creation. Together, they cover the full research-to-output workflow. Perplexity finds the verified facts; the other tool turns them into polished output.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Perplexity better than Google?</h3>
 <p>For research questions that need synthesized answers with sources — yes. For local search, shopping, maps, and image search — Google is still better. They serve different needs.</p>

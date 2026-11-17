@@ -1,6 +1,6 @@
 ---
-title: "Runway ML Review 2026: The Best AI Video Generator? Our Grade"
-description: "We tested Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
+title: "مراجعة Runway ML في 2026: مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ Runway ML مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
@@ -43,7 +43,7 @@ toolName: "Runway"
       <p><strong>Sora</strong> (OpenAI) has shown impressive demos and can produce stunning results, but availability is limited and consistency is lower. Included with ChatGPT Plus, which adds value if you already subscribe.</p>
       <p><strong>Pika</strong> is more affordable and easier to use for simple video generation, but the quality and feature depth are behind Runway. Good for beginners and casual use.</p>
 
-      <h2>التسعير</h2>
+      <h2>Pricing</h2>
       <p>Free tier with limited credits. Standard at $12/month (625 credits). Pro at $28/month (2,250 credits). Unlimited at $76/month. Enterprise at custom pricing. For professional use, the Pro plan at $28/month is the sweet spot — enough credits for regular content production without the unlimited plan's premium price.</p>
 
       <h2>The Verdict</h2>

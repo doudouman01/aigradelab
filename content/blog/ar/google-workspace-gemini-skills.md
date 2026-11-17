@@ -1,6 +1,6 @@
 ---
-title: "Google Workspace Gets Custom AI Skills: Build Your Own Gemini Automations"
-description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Here's what it means for business productivity."
+title: "Google Workspace يحصل على مهارات Gemini المخصصة: ابنِ أتمتتك الخاصة"
+description: "المهارات في Google Workspace تتيح تعليمات مخصصة قابلة لإعادة الاستخدام لـ Gemini."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-22"
@@ -107,7 +107,7 @@ readTime: "7 min read"
 
 <p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">ToolCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
 
-<h2>الخلاصة</h2>
+<h2>The Bottom Line</h2>
 
 <p>Google Workspace Skills are the most practically useful AI feature Google has shipped this quarter. They solve a real problem — inconsistent AI outputs across teams — with a straightforward solution. Combined with expanded Gemini in Gmail, video generation in Vids, and the new Decisions API, Google is making a strong case that Workspace is the AI-first productivity suite for businesses.</p>
 

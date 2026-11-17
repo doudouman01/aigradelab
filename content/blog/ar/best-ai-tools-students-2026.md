@@ -1,6 +1,6 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي للطلاب in 2026: 8 Tools That Actually Help You Learn"
-description: "We tested the best AI tools for studying, writing essays, research, and exam prep. Free and student-priced options. Updated November 2026."
+title: "أفضل أدوات الذكاء الاصطناعي للطلاب في 2026"
+description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي للطلاب. كل أداة مُقيَّمة بشفافية. نوفمبر 2026."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
@@ -11,10 +11,10 @@ readTime: "13 min read"
 <h2>AI Tools That Help You Learn, Not Just Cheat</h2>
 <p>The best AI tools for students in 2026 are not the ones that write your essays for you — professors can detect that. The best tools are the ones that help you understand concepts faster, research more efficiently, organize your work, and study smarter. We tested every major AI tool from a student's perspective: budget, learning value, and academic integrity.</p>
 
-<h2>مقارنة سريعة</h2>
+<h2>Quick Comparison</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>الأداة</th><th>الأفضل لـ</th><th>Student Price</th><th>خطة مجانية</th></tr>
+    <tr><th>#</th><th>Tool</th><th>Best For</th><th>Student Price</th><th>Free Tier</th></tr>
   </thead>
   <tbody>
     <tr><td>1</td><td>Perplexity</td><td>Research with sources</td><td>$10/mo (Education Pro)</td><td>Yes (5 Pro/day)</td></tr>
@@ -157,7 +157,7 @@ readTime: "13 min read"
 </ul>
 <p>For students who use AI heavily across multiple courses. The combination of Perplexity for sourced research and ChatGPT for everything else covers every academic need.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is using AI cheating?</h3>
 <p>It depends on how you use it and your university's policy. Using AI to understand concepts, get feedback on your work, and research more efficiently is generally accepted. Submitting AI-generated work as your own is plagiarism at every university. When in doubt, ask your professor.</p>

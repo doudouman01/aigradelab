@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT Free vs Plus vs Pro in 2026: Is $20/Month Worth It?"
-description: "We compared ChatGPT Free, Plus ($20/mo), and Pro ($200/mo) side by side. What you get, what you miss, and exactly when to upgrade. November 2026."
+title: "ChatGPT المجاني مقابل المدفوع في 2026: هل Plus يستحق 20 دولار شهرياً؟"
+description: "مقارنة شاملة بين ChatGPT المجاني و Plus و Pro. أيهما يناسبك."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-14"
@@ -115,7 +115,7 @@ readTime: "10 min read"
 <p><strong>Upgrade to Plus ($20/month)</strong> when you use AI daily and start noticing the free tier's limitations — slower responses during peak times, lower quality on complex tasks, image generation limits, or missing Deep Research.</p>
 <p><strong>Upgrade to Pro ($200/month)</strong> only if you hit Plus limits multiple times per week and AI is a core part of your work that generates revenue. For 95% of users, Plus is the ceiling.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is ChatGPT Free good enough?</h3>
 <p>For casual use — quick questions, basic writing, simple research — yes. For daily professional use, studying, coding, or any task where quality matters — upgrade to Plus. The model difference (GPT-4o mini vs GPT-5.5) is significant.</p>

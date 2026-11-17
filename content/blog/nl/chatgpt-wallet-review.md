@@ -1,11 +1,11 @@
 ---
 title: "ChatGPT Wallet Review: OpenAI Lets AI Agents Pay for You"
-description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. We hebben getest it and graded it. Here's our full review."
+description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. We tested it and graded it. Here's our full review."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
 lastTested: "2026-11-15"
-readTime: "9 min leestijd"
+readTime: "9 min read"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -37,7 +37,7 @@ toolName: "ChatGPT Wallet"
 
 <p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
 
-<h2>Wat we goed vindend</h2>
+<h2>What We Liked</h2>
 
 <h3>Security Architecture Is Thoughtful</h3>
 
@@ -45,7 +45,7 @@ toolName: "ChatGPT Wallet"
 
 <p>The biometric confirmation step adds a critical human-in-the-loop check. You always see exactly what you're buying and how much you're paying before anything is charged. This isn't just a "confirm" button — it's a full transaction summary with biometric verification.</p>
 
-<h3>Major Card Network Ondersteuning from Day One</h3>
+<h3>Major Card Network Support from Day One</h3>
 
 <p>Launching with Visa, Mastercard, and American Express covers the vast majority of credit and debit cards in the US market. This isn't a startup trying to get merchants to adopt a new payment rail — it's built on existing payment infrastructure that merchants already accept.</p>
 
@@ -86,13 +86,13 @@ toolName: "ChatGPT Wallet"
 
 <p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
 
-<h2>Pricing</h2>
+<h2>Prijzen</h2>
 
 <p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
 
 <p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
 
-<h2>Privacy and Data Nadeleniderations</h2>
+<h2>Privacy and Data Considerations</h2>
 
 <p>OpenAI states that purchase data is used to improve the shopping experience but can be managed through your privacy settings. Key considerations:</p>
 
@@ -109,7 +109,7 @@ toolName: "ChatGPT Wallet"
 
 <p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
 
-<h2>Our Cijfer: B+</h2>
+<h2>Ons Cijfer: B+</h2>
 
 <table>
 <thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>

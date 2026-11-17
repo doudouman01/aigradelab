@@ -1,11 +1,12 @@
 ---
-title: "Google November 2026 Core Update: O Que Mudou e O Que Significa para Sites de IA"
-description: "Google's third core update of 2026 is rolling out. Veja o que AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
+title: "Google's November 2026 Core Update: What Changed and What It Means for AI Websites"
+description: "Google's third core update of 2026 is rolling out. Here's what AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
-readTime: "10 min de leitura"
+readTime: "10 min read"
 ---
+
 <h2>Another Core Update, Another Round of Ranking Volatility</h2>
 
 <p>Google started rolling out its November 2026 Core Update on November 10, 2026. It's the third broad core update of the year — following the March and May updates — and Google says the rollout could take up to two weeks to complete, putting the estimated finish around November 24.</p>
@@ -33,9 +34,9 @@ readTime: "10 min de leitura"
 
 <p>Gemini 4 Hydrogen is positioned as a high-speed model optimized for daily coding tasks and agent execution. It's lighter and faster than Gemini 4 Carbon (released November 10), which is Google's heavyweight model for complex engineering and scientific reasoning.</p>
 
-<h2>The Search Contrasole Data Gap</h2>
+<h2>The Search Console Data Gap</h2>
 
-<p>Adding complexity to this week: Google confirmed a logging error in the Search Contrasole Generative AI report that undercounted impressions from November 9 to 11. If you noticed a suspicious dip in your AI-related search impressions during those dates, it's a data anomaly, not a traffic drop.</p>
+<p>Adding complexity to this week: Google confirmed a logging error in the Search Console Generative AI report that undercounted impressions from November 9 to 11. If you noticed a suspicious dip in your AI-related search impressions during those dates, it's a data anomaly, not a traffic drop.</p>
 
 <p>Google has acknowledged the issue on its data anomalies page. The numbers should normalize going forward, but the November 9-11 data will remain undercounted in historical reports.</p>
 
@@ -54,7 +55,7 @@ readTime: "10 min de leitura"
 <li><strong>Transactional content is relatively stable.</strong> Buying guides, comparison pages, and "best of" lists with genuine product evaluation methodology are showing less volatility than informational content.</li>
 </ul>
 
-<h2>O Que Isso Significa para AI Tool Websites</h2>
+<h2>What This Means for AI Tool Websites</h2>
 
 <p>If you run a site that reviews, compares, or covers AI tools — as we do here at AIGradeLab — here's how to think about this update:</p>
 
@@ -105,10 +106,10 @@ readTime: "10 min de leitura"
 
 <ol>
 <li><strong>Wait for the rollout to complete.</strong> Rankings often fluctuate significantly during a core update and stabilize afterward. Don't make reactive changes until the update is fully rolled out (expected around November 24).</li>
-<li><strong>Identify affected pages specifically.</strong> Use Search Contrasole to find which pages lost impressions or clicks. Look for patterns — is it a specific content type, category, or age of content?</li>
+<li><strong>Identify affected pages specifically.</strong> Use Search Console to find which pages lost impressions or clicks. Look for patterns — is it a specific content type, category, or age of content?</li>
 <li><strong>Audit affected pages honestly.</strong> Would a knowledgeable human in your field find this page genuinely useful? Does it contain information they couldn't get from the tool's own marketing page? If not, that's your diagnosis.</li>
 <li><strong>Improve, don't panic-publish.</strong> The recovery path is upgrading existing content quality, not flooding your site with new thin content to compensate for volume losses.</li>
-<li><strong>Check the Search Contrasole data gap.</strong> Remember the November 9-11 logging error. If your biggest dip is in those dates, it may be a measurement issue, not a ranking issue. Cross-reference with analytics tools to confirm.</li>
+<li><strong>Check the Search Console data gap.</strong> Remember the November 9-11 logging error. If your biggest dip is in those dates, it may be a measurement issue, not a ranking issue. Cross-reference with analytics tools to confirm.</li>
 </ol>
 
 <h2>Timeline: What Comes Next</h2>

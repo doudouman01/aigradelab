@@ -1,6 +1,6 @@
 ---
-title: "Nano Banana Pro Review 2026: Google's Photorealism King? Our Grade"
-description: "We tested Google's Nano Banana Pro (Gemini 3 Pro Image) for photorealism, text rendering, and creative work. 2-5 second generation, up to 4K. Our honest grade. November 2026."
+title: "مراجعة Nano Banana Pro في 2026: مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ Nano Banana Pro مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -25,7 +25,7 @@ toolName: "Nano Banana Pro"
 <p>Google offers multiple image models, which can be confusing. Here is how they relate:</p>
 <table>
   <thead>
-    <tr><th>Model</th><th>Family</th><th>الأفضل لـ</th><th>API Price/Image</th></tr>
+    <tr><th>Model</th><th>Family</th><th>Best For</th><th>API Price/Image</th></tr>
   </thead>
   <tbody>
     <tr><td>Nano Banana</td><td>Gemini Flash</td><td>Quick iterations</td><td>~$0.039</td></tr>
@@ -70,17 +70,17 @@ toolName: "Nano Banana Pro"
     <tr><td>Speed</td><td><strong>2-5 sec</strong></td><td>10-60 sec</td><td>6-25 sec</td></tr>
     <tr><td>Editing workflow</td><td>Basic</td><td>Edit Model</td><td><strong>Conversational (best)</strong></td></tr>
     <tr><td>GIFs/Animation</td><td>No</td><td>Short clips</td><td><strong>Yes</strong></td></tr>
-    <tr><td>خطة مجانية</td><td><strong>Yes (generous)</strong></td><td>No</td><td>Yes (limited)</td></tr>
+    <tr><td>Free tier</td><td><strong>Yes (generous)</strong></td><td>No</td><td>Yes (limited)</td></tr>
     <tr><td>Max resolution</td><td><strong>4K (preview)</strong></td><td>2K</td><td>2K</td></tr>
     <tr><td>API available</td><td>Yes</td><td>No</td><td>Yes</td></tr>
-    <tr><td>الأفضل لـ</td><td>Product photos, headshots</td><td>Marketing, creative art</td><td>Versatile creation</td></tr>
+    <tr><td>Best for</td><td>Product photos, headshots</td><td>Marketing, creative art</td><td>Versatile creation</td></tr>
   </tbody>
 </table>
 
 <h2>Pricing: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Access Method</th><th>السعر</th><th>Approximate Daily Limit</th></tr>
+    <tr><th>Access Method</th><th>Price</th><th>Approximate Daily Limit</th></tr>
   </thead>
   <tbody>
     <tr><td>Gemini Free</td><td>$0</td><td>Limited daily generations</td></tr>
@@ -111,7 +111,7 @@ toolName: "Nano Banana Pro"
 <p>Nano Banana Pro earns an <strong>A</strong> because it is the best photorealistic AI image generator available in November 2026 — and it is free to try through Gemini. The speed (2-5 seconds), resolution (up to 4K), and photorealism quality set a new standard. The integration across Google's ecosystem adds practical value that standalone tools cannot match.</p>
 <p>The grade is held back from A+ by the limited artistic flexibility compared to Midjourney, the basic editing workflow compared to ChatGPT, the premium API pricing, and the lack of animation features. Nano Banana Pro wins the photorealism race decisively — but "best image generator" depends on what you are generating.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>What is Nano Banana Pro?</h3>
 <p>Nano Banana Pro is Google's latest AI image generation model, officially called Gemini 3 Pro Image. It is built into Google Gemini and excels at photorealistic image generation.</p>

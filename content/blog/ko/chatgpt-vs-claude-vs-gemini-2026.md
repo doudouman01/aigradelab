@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT vs Claude vs Gemini in 2026: The Only Comparison You Need"
-description: "테스트했습니다 ChatGPT (GPT-5.5), Claude (Opus 5.5), and Gemini (3.1 Pro) head-to-head on writing, coding, reasoning, research, and daily tasks. 2026년 11월 업데이트 with grades."
+title: "ChatGPT vs Claude vs Gemini 2026 비교: The Only Comparison You Need"
+description: "We tested ChatGPT (GPT-5.5), Claude (Opus 5.5), and Gemini (3.1 Pro) head-to-head on writing, coding, reasoning, research, and daily tasks. Updated November 2026 with grades."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "16 분 소요"
+readTime: "16 min read"
 ---
 
 <h2>Three AI Giants, One Honest Comparison</h2>
@@ -34,16 +34,16 @@ readTime: "16 분 소요"
   </tbody>
 </table>
 
-<h2>ChatGPT (GPT-5.5) — Our 등급: A</h2>
+<h2>ChatGPT (GPT-5.5) — 평가: A</h2>
 <div class="score-card"><h3>ChatGPT Scores</h3>
   <div class="score-row"><span class="score-label">사용 편의성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">출력 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">결과 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">가성비</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">통합</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">연동성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">지원</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
 </div>
 
-<h3>The Verdict on ChatGPT</h3>
+<h3>최종 평가 on ChatGPT</h3>
 <p>ChatGPT remains the most popular AI assistant for a reason — it does everything. GPT-5.5, which became the default model in April 2026, handles writing, analysis, coding, image generation (Images 2.6 with GIFs), video generation (Sora), web search (1B+ searches/week), voice conversations, data analysis with Python, and file processing. No other tool matches this breadth of capability in a single subscription.</p>
 
 <h3>Where ChatGPT Wins</h3>
@@ -62,16 +62,16 @@ readTime: "16 분 소요"
   <li><strong>Honesty:</strong> ChatGPT is more likely to confidently state incorrect information rather than admitting uncertainty. Claude's tendency to say "I'm not sure" is actually a feature, not a bug.</li>
 </ul>
 
-<h2>Claude (Opus 5.5) — Our 등급: A</h2>
+<h2>Claude (Opus 5.5) — 평가: A</h2>
 <div class="score-card"><h3>Claude Scores</h3>
   <div class="score-row"><span class="score-label">사용 편의성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">출력 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">결과 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">가성비</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">통합</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">연동성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">지원</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
 </div>
 
-<h3>The Verdict on Claude</h3>
+<h3>최종 평가 on Claude</h3>
 <p>Claude has become the thinking person's AI. Opus 5.5 dominates on output quality — the writing is more natural, the reasoning is more careful, and the coding is best-in-class. Claude Code has turned Anthropic into a serious player in the developer ecosystem. Searches for "Claude AI" grew 611% between October 2024 and September 2026, making it the fastest-growing AI assistant.</p>
 
 <h3>Where Claude Wins</h3>
@@ -91,16 +91,16 @@ readTime: "16 분 소요"
   <li><strong>Free tier is limited:</strong> Claude's free tier restricts you to a less capable model with lower limits. ChatGPT and Gemini both offer more generous free access.</li>
 </ul>
 
-<h2>Gemini (3.1 Pro) — Our 등급: A</h2>
+<h2>Gemini (3.1 Pro) — 평가: A</h2>
 <div class="score-card"><h3>Gemini Scores</h3>
   <div class="score-row"><span class="score-label">사용 편의성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">출력 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">결과 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
   <div class="score-row"><span class="score-label">가성비</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">통합</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">연동성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">지원</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
 </div>
 
-<h3>The Verdict on Gemini</h3>
+<h3>최종 평가 on Gemini</h3>
 <p>Gemini's killer feature is not the model — it is Google. If your work lives in Gmail, Google Drive, Google Docs, Google Calendar, Google Maps, and YouTube, Gemini connects to all of it natively. Ask it to summarize yesterday's emails, find that document you worked on last week, or schedule a meeting based on your calendar — no copy-pasting, no uploads. Gemini 3.1 Pro also leads on abstract reasoning benchmarks and offers the best value free tier.</p>
 
 <h3>Where Gemini Wins</h3>
@@ -153,7 +153,7 @@ readTime: "16 분 소요"
 <h3>If you can pay for all three ($60/month)</h3>
 <p>You cover every workflow. Claude for deep work, ChatGPT for breadth and creation, Gemini for Google integration. For a working professional, $60/month is a rounding error compared to the time saved.</p>
 
-<h2>Pricing Comparison: November 2026</h2>
+<h2>가격 Comparison: November 2026</h2>
 <table>
   <thead>
     <tr><th>Tier</th><th>ChatGPT</th><th>Claude</th><th>Gemini</th></tr>
@@ -186,4 +186,4 @@ readTime: "16 분 소요"
 <h3>Which is best for coding in 2026?</h3>
 <p><strong>Claude</strong> — Claude Code leads on developer benchmarks and is the preferred tool for professional developers doing complex, multi-file work. ChatGPT's Codex is strong for cloud-sandboxed tasks. Gemini lacks a dedicated coding agent.</p>
 
-<p><em>All three AI assistants were tested by AI등급Lab using identical prompts across six task categories. 등급s reflect performance as of November 2026. Pricing verified on each platform's official website on November 14, 2026.</em></p>
+<p><em>All three AI assistants were tested by AIGradeLab using identical prompts across six task categories. Grades reflect performance as of November 2026. 가격 verified on each platform's official website on November 14, 2026.</em></p>

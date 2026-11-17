@@ -1,11 +1,11 @@
 ---
-title: "Bland AI Tofu-1 Review: Full-Duplex Voice AI That Hears Through the Noise"
+title: "Bland AI Tofu-1 Bewertung: Full-Duplex Voice AI That Hears Through the Noise"
 description: "Bland's Tofu-1 is a speech-to-speech model that listens, reasons, and replies in audio during phone calls. We examine its claims, limitations, and enterprise potential."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-21"
 lastTested: "2026-11-18"
-readTime: "9 Min. Lesezeit"
+readTime: "9 min read"
 grade: "B"
 scores_ux: 7
 scores_quality: 8
@@ -74,7 +74,7 @@ toolName: "Bland AI Tofu-1"
 <tr><td>Full duplex</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
 <tr><td>Target use case</td><td>Enterprise calls</td><td>General assistant</td><td>Open source</td></tr>
 <tr><td>Availability</td><td>Research preview</td><td>GA (Pro)</td><td>Open weights</td></tr>
-<tr><td>Pricing</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
+<tr><td>Preise</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
 </tbody>
 </table>
 
@@ -103,7 +103,7 @@ toolName: "Bland AI Tofu-1"
 
 <p>Tofu-1 is the first model in what Bland describes as a planned family of speech-to-speech models, suggesting that more specialized variants may follow.</p>
 
-<h2>AINoteLab Verdict: B</h2>
+<h2>AIGradeLab Verdict: B</h2>
 
 <p>Bland AI's Tofu-1 earns a <strong>B</strong> — a grade that reflects genuine technical ambition held back by a lack of verifiable evidence. The concept of a full-duplex speech-to-speech model optimized for noisy enterprise calls is exactly what the market needs. If the claims hold up under independent testing, this could be an A-tier product.</p>
 

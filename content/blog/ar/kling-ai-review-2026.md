@@ -1,6 +1,6 @@
 ---
-title: "Kling AI Review 2026: The Runway Alternative — Tested and Graded"
-description: "We tested Kling AI for video generation, motion control, and longer clips. Full review with scores. Better value than Runway? Updated November 2026."
+title: "مراجعة Kling AI في 2026: أداة الفيديو بالذكاء الاصطناعي مُقيَّمة"
+description: "مراجعة شاملة لـ Kling AI مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-18"
@@ -20,11 +20,11 @@ toolName: "Kling AI"
 
 <h2>Kling AI Scores</h2>
 <div class="score-card"><h3>Overall Grade: B+</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
 </div>
 
 <h2>What Kling Does Well</h2>
@@ -38,7 +38,7 @@ toolName: "Kling AI"
 <h3>Best Value in AI Video</h3>
 <p>Kling's pricing undercuts every competitor:</p>
 <ul>
-  <li><strong>خطة مجانية:</strong> Generous daily generations — enough to test extensively before paying</li>
+  <li><strong>Free tier:</strong> Generous daily generations — enough to test extensively before paying</li>
   <li><strong>Standard:</strong> ~$8/month for regular use</li>
   <li><strong>Pro:</strong> Higher limits at reasonable pricing</li>
 </ul>
@@ -70,7 +70,7 @@ toolName: "Kling AI"
 <h2>Kling AI Pricing</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>السعر</th><th>الميزات الرئيسية</th></tr>
+    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Daily free generations, watermark</td></tr>
@@ -85,22 +85,22 @@ toolName: "Kling AI"
     <tr><th>Feature</th><th>Kling AI</th><th>Runway Gen-3</th><th>Sora</th></tr>
   </thead>
   <tbody>
-    <tr><td>التقييم</td><td><strong>B+</strong></td><td><strong>A</strong></td><td><strong>B+</strong></td></tr>
+    <tr><td>Grade</td><td><strong>B+</strong></td><td><strong>A</strong></td><td><strong>B+</strong></td></tr>
     <tr><td>Clip length</td><td>Up to 30 sec</td><td>~10 sec</td><td>~10-20 sec</td></tr>
     <tr><td>Output quality</td><td>Very good</td><td>Excellent</td><td>Excellent (inconsistent)</td></tr>
     <tr><td>Consistency</td><td>Good</td><td>Best</td><td>Inconsistent</td></tr>
     <tr><td>Motion control</td><td>Good</td><td>Best (Motion Brush)</td><td>Prompt only</td></tr>
     <tr><td>Editing tools</td><td>Basic</td><td>Full suite</td><td>None</td></tr>
-    <tr><td>خطة مجانية</td><td>Yes (generous)</td><td>125 credits (one-time)</td><td>No</td></tr>
+    <tr><td>Free tier</td><td>Yes (generous)</td><td>125 credits (one-time)</td><td>No</td></tr>
     <tr><td>Price (paid)</td><td>~$8/mo</td><td>$12-76/mo</td><td>$20/mo (ChatGPT)</td></tr>
     <tr><td>Data location</td><td>China</td><td>USA</td><td>USA</td></tr>
-    <tr><td>الأفضل لـ</td><td>Budget + long clips</td><td>Production quality</td><td>ChatGPT users</td></tr>
+    <tr><td>Best for</td><td>Budget + long clips</td><td>Production quality</td><td>ChatGPT users</td></tr>
   </tbody>
 </table>
 
 <h2>Who Should Use Kling?</h2>
 
-<h3>الأفضل لـ</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>Budget-conscious creators</strong> — best AI video at the lowest price</li>
   <li><strong>Longer sequences needed</strong> — 30-second clips eliminate stitching</li>
@@ -118,7 +118,7 @@ toolName: "Kling AI"
 </ul>
 
 <h2>Pros and Cons Summary</h2>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Longest AI clips available — up to 30 seconds</li>
   <li>Best value — generous free tier, $8/month for paid</li>
@@ -126,7 +126,7 @@ toolName: "Kling AI"
   <li>Excellent image-to-video capability</li>
   <li>Quality improving rapidly with each update</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Quality below Runway Gen-3 Alpha</li>
   <li>China-based — data privacy considerations</li>
@@ -140,7 +140,7 @@ toolName: "Kling AI"
 <p>Kling AI is the best value in AI video generation. The combination of longer clips (30 seconds), a generous free tier, and paid plans starting at ~$8/month makes it the most accessible AI video tool available. The quality is genuinely good — below Runway but above most alternatives. For creators on a budget, social media content, and anyone who wants to experiment with AI video without significant investment, Kling is the place to start.</p>
 <p><strong>Our recommendation:</strong> Start with Kling's free tier — it's generous enough to produce real content. If you need higher quality for client work, add Runway ($12-28/month). For the full comparison, read our <a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> guide.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Kling AI free?</h3>
 <p>Yes — Kling offers a generous free tier with daily generation limits. No credit card required. Paid plans start at ~$8/month for more generations and no watermark.</p>

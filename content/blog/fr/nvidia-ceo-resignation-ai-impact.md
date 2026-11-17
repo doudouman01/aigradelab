@@ -4,7 +4,7 @@ description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Here's w
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
-readTime: "8 min de lecture"
+readTime: "8 min read"
 ---
 
 <h2>The End of an Era at Nvidia</h2>
@@ -54,7 +54,7 @@ readTime: "8 min de lecture"
 
 <p><strong>Custom silicon is accelerating.</strong> Google's TPUs, Amazon's Trainium chips, and Microsoft's Maia accelerators are all gaining ground. A Nvidia without Jensen's personal relationships with CEOs like Satya Nadella and Sundar Pichai may find it harder to defend its premium pricing.</p>
 
-<h3>Long Term: GPU Pricing Could Shift</h3>
+<h3>Long Term: GPU Tarifs Could Shift</h3>
 
 <p>For end users of AI tools, the most meaningful impact could be on pricing. Nvidia's dominant market position has allowed it to maintain extremely high margins on its data center GPUs. If competition intensifies during this transition period, cloud providers could eventually pass savings through to AI tool pricing.</p>
 
@@ -79,7 +79,7 @@ readTime: "8 min de lecture"
 <li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
 </ul>
 
-<h2>En résumé</h2>
+<h2>Conclusion</h2>
 
 <p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
 
@@ -87,4 +87,4 @@ readTime: "8 min de lecture"
 
 <p>We'll be updating this analysis as the earnings call and CEO search develop. Bookmark this page and check back.</p>
 
-<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at OutilCraftKit</a> — no GPU drama required.</em></p>
+<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at ToolCraftKit</a> — no GPU drama required.</em></p>

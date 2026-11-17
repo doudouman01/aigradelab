@@ -1,6 +1,6 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي للشركات الصغيرة in 2026: 10 Tools That Actually Save Money"
-description: "We tested the best AI tools for small businesses — from marketing to accounting to customer support. Real ROI, real prices, real results. Updated November 2026."
+title: "أفضل أدوات الذكاء الاصطناعي للشركات الصغيرة في 2026"
+description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي للشركات الصغيرة. كل أداة مُقيَّمة بشفافية. نوفمبر 2026."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-15"
@@ -11,10 +11,10 @@ readTime: "16 min read"
 <h2>AI for Small Business: Skip the Hype, Find the ROI</h2>
 <p>Most "best AI tools" lists are written for enterprise teams with unlimited budgets. Small businesses need tools that pay for themselves — fast. We tested dozens of AI tools and selected the 10 that deliver the highest ROI for businesses with 1-50 employees. Every tool on this list either saves measurable time, replaces a more expensive solution, or directly generates revenue.</p>
 
-<h2>مقارنة سريعة</h2>
+<h2>Quick Comparison</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>الأداة</th><th>Category</th><th>السعر</th><th>Monthly ROI</th></tr>
+    <tr><th>#</th><th>Tool</th><th>Category</th><th>Price</th><th>Monthly ROI</th></tr>
   </thead>
   <tbody>
     <tr><td>1</td><td>ChatGPT</td><td>General AI assistant</td><td>Free / $20/mo</td><td>5-10 hours saved</td></tr>
@@ -172,7 +172,7 @@ readTime: "16 min read"
   <li><strong>Total: $33/month</strong> (with room for Tidio or Descript)</li>
 </ul>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>What is the best AI tool for a one-person business?</h3>
 <p><strong>ChatGPT Plus ($20/month)</strong> — it handles writing, research, images, data analysis, and customer communication. Add Canva Free for design and you're covered.</p>

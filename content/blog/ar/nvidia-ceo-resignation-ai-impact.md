@@ -1,6 +1,6 @@
 ---
-title: "Nvidia's CEO Resignation: What Jensen Huang's Exit Means for AI Hardware"
-description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Here's what it means for AI GPU pricing, the competitive landscape, and the tools you use every day."
+title: "استقالة رئيس Nvidia التنفيذي: ماذا يعني خروج Jensen Huang لأجهزة الذكاء الاصطناعي"
+description: "Jensen Huang يستقيل من Nvidia بعد 33 عاماً. إليك ما يعنيه هذا لأسعار GPU وسوق الذكاء الاصطناعي."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
@@ -79,7 +79,7 @@ readTime: "8 min read"
 <li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
 </ul>
 
-<h2>الخلاصة</h2>
+<h2>The Bottom Line</h2>
 
 <p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
 

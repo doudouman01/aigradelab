@@ -4,7 +4,7 @@ description: "Sierra released Poppy 1.0 on November 13, 2026 — an open protoco
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-19"
-readTime: "8 분 소요"
+readTime: "8 min read"
 ---
 
 <h2>AI Agents Just Got a Front Door to Every Business</h2>
@@ -121,7 +121,7 @@ readTime: "8 분 소요"
 
 <p>Poppy is built on existing standards (OAuth, JWT, HTTPS, OpenAPI, MCP), so most businesses can implement it using tools they already have.</p>
 
-<h2>What This Means for AI 도구 Users</h2>
+<h2>What This Means for AI Tool Users</h2>
 
 <p>If you use AI agents — Claude, ChatGPT, Gemini, or Meta's Muse — Poppy matters because it's the infrastructure that will determine <strong>what your agent can actually do for you</strong>.</p>
 
@@ -137,7 +137,7 @@ readTime: "8 분 소요"
 
 <p>The key word is "you." Poppy is designed with user control at its center. You authenticate, you grant permissions, you can revoke access at any time. The agent acts on your behalf, not on its own.</p>
 
-<h2>Security 단점iderations</h2>
+<h2>Security Considerations</h2>
 
 <p>Poppy's security model is worth examining closely:</p>
 
@@ -157,4 +157,4 @@ readTime: "8 분 소요"
 
 <p>The speed of adoption is what makes Poppy notable. Shopify's platform-wide rollout and Meta's Muse integration mean Poppy is already live at massive scale. If other ecommerce platforms follow, the protocol could become the standard way AI agents interact with the commercial internet within months, not years.</p>
 
-<p><em>Building AI-powered tools? Explore the free utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">도구CraftKit.com</a> — QR generators, invoice builders, PDF tools, and more.</em></p>
+<p><em>Building AI-powered tools? Explore the free utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a> — QR generators, invoice builders, PDF tools, and more.</em></p>

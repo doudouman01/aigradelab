@@ -1,6 +1,6 @@
 ---
-title: "Google Gemini Review 2026: Google's AI Assistant — Tested and Graded"
-description: "We tested Google Gemini for research, writing, coding, and Google Workspace integration. Full review with scores. How does it compare to ChatGPT and Claude? Updated November 2026."
+title: "مراجعة Gemini في 2026: مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ Google Gemini مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
@@ -21,11 +21,11 @@ toolName: "Google Gemini"
 
 <h2>Gemini Scores</h2>
 <div class="score-card"><h3>Overall Grade: B+</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
 <h2>What Gemini Does Well</h2>
@@ -95,7 +95,7 @@ toolName: "Google Gemini"
     <tr><td>Google integration</td><td>Best</td><td>None</td><td>None</td></tr>
     <tr><td>Image generation</td><td>Good (Imagen)</td><td>Best (GPT Image)</td><td>None</td></tr>
     <tr><td>Code assistance</td><td>Good</td><td>Very good</td><td>Best</td></tr>
-    <tr><td>خطة مجانية</td><td>Best</td><td>Very good</td><td>Limited</td></tr>
+    <tr><td>Free tier</td><td>Best</td><td>Very good</td><td>Limited</td></tr>
     <tr><td>Privacy</td><td>Concerns</td><td>Good</td><td>Best</td></tr>
     <tr><td>Price (paid)</td><td>$20/mo</td><td>$20/mo</td><td>$20/mo</td></tr>
   </tbody>
@@ -103,7 +103,7 @@ toolName: "Google Gemini"
 
 <h2>Who Should Use Gemini?</h2>
 
-<h3>الأفضل لـ</h3>
+<h3>Best For</h3>
 <ul>
   <li><strong>Google Workspace users</strong> — the AI + Gmail + Drive + Docs integration is unmatched</li>
   <li><strong>Research and real-time information</strong> — fastest access to current data</li>
@@ -121,7 +121,7 @@ toolName: "Google Gemini"
 </ul>
 
 <h2>Pros and Cons Summary</h2>
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Best Google ecosystem integration — Gmail, Drive, Docs, Sheets, Maps</li>
   <li>Real-time Google Search built in — always current information</li>
@@ -130,7 +130,7 @@ toolName: "Google Gemini"
   <li>Strong multimodal capabilities — images, video, audio</li>
   <li>1M+ token context window on Advanced</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Output quality trails ChatGPT and Claude</li>
   <li>More hallucinations than competitors</li>
@@ -144,7 +144,7 @@ toolName: "Google Gemini"
 <p>But for raw AI quality — writing, analysis, reasoning, and creative work — Gemini sits behind both Claude and ChatGPT. If you live in Google's ecosystem and want AI that connects to everything, Gemini is the right choice. If you want the best AI output regardless of ecosystem, choose Claude (analysis) or ChatGPT (versatility).</p>
 <p><strong>Our recommendation:</strong> Use Gemini Free for Google-integrated tasks and real-time research. For serious writing and analysis, pair it with Claude Pro ($20/month). Read our <a href="/ar/blog/chatgpt-vs-claude-vs-gemini-2026">ChatGPT vs Claude vs Gemini</a> comparison for the detailed breakdown.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Is Gemini better than ChatGPT?</h3>
 <p>For Google integration and real-time search — yes. For writing quality, creative tasks, and image generation — no. They're both $20/month for paid tiers. Choose based on whether Google integration or output quality matters more to you.</p>

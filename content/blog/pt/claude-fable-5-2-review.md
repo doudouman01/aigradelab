@@ -1,19 +1,20 @@
 ---
-title: "Análise do Claude Fable 5.2: O Modelo de Fronteira Mais Rápido da Anthropic, Testado e Avaliado"
-description: "Claude Fable 5.2 delivers 30% faster responses with improved coding and reasoning. Testamos Anthropic's latest model across real-world tasks and graded it on UX, quality, value, integration, and support."
+title: "Análise Claude Fable 5.2: Anthropic's Fastest Frontier Model, Tested and Graded"
+description: "Claude Fable 5.2 delivers 30% faster responses with improved coding and reasoning. We tested Anthropic's latest model across real-world tasks and graded it on UX, quality, value, integration, and support."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-19"
 lastTested: "2026-11-17"
-readTime: "10 min de leitura"
+readTime: "10 min read"
 grade: "A"
-scores_ux: "9"
-scores_quality: "9"
-scores_value: "8"
-scores_integration: "8"
-scores_support: "8"
+scores_ux: 9
+scores_quality: 9
+scores_value: 8
+scores_integration: 8
+scores_support: 8
 toolName: "Claude Fable 5.2"
 ---
+
 <h2>Claude Fable 5.2 at a Glance</h2>
 
 <div style="margin: 1.5rem 0; padding: 1.5rem; border-left: 4px solid #2563eb;">
@@ -80,15 +81,15 @@ What kept it from 10: still occasionally loses context on very long conversation
 <p>Claude is available across several tiers:</p>
 
 <ul>
-  <li><strong>Plano gratuito:</strong> Access to Fable 5.2 with usage limits</li>
+  <li><strong>Free tier:</strong> Access to Fable 5.2 with usage limits</li>
   <li><strong>Pro:</strong> Higher limits, priority access</li>
   <li><strong>Team and Enterprise:</strong> Collaboration features, admin controls</li>
   <li><strong>API:</strong> Pay-per-token for developers (model string: <code>claude-fable-5-2</code>)</li>
 </ul>
 
-<p>The value proposition is strong for most users. The plano gratuito is generous enough for casual use, and the Pro plan competes well with ChatGPT Plus. Where the value equation gets complicated is at the top end — the Mythos tier models are restricted to select organizations, so power users who need the absolute best performance can't simply pay more to get it.</p>
+<p>The value proposition is strong for most users. The free tier is generous enough for casual use, and the Pro plan competes well with ChatGPT Plus. Where the value equation gets complicated is at the top end — the Mythos tier models are restricted to select organizations, so power users who need the absolute best performance can't simply pay more to get it.</p>
 
-<p>What earned the 8: competitive pricing, generous plano gratuito, strong API rates.<br>
+<p>What earned the 8: competitive pricing, generous free tier, strong API rates.<br>
 What kept it from 9: Mythos tier restrictions create a ceiling; enterprise pricing is not transparent.</p>
 
 <h2>Integration Score: 8/10</h2>
@@ -117,7 +118,7 @@ What kept it from 9: Google and Microsoft ecosystems still have deeper native AI
 <p>What earned the 8: good documentation, active community, responsive enterprise support.<br>
 What kept it from 9: consumer support is still limited compared to Google or Microsoft; troubleshooting AI-specific issues sometimes requires deep community knowledge.</p>
 
-<h2>Quem Deve Usar Claude Fable 5.2?</h2>
+<h2>Who Should Use Claude Fable 5.2?</h2>
 
 <p><strong>Developers and engineers:</strong> The coding improvements alone justify switching to Fable 5.2. If you're using Claude Code or the API for development work, you'll see immediate benefits.</p>
 
@@ -133,7 +134,7 @@ What kept it from 9: consumer support is still limited compared to Google or Mic
   <thead>
     <tr>
       <th>Model</th>
-      <th>Melhor Para</th>
+      <th>Best For</th>
       <th>Speed</th>
       <th>AIGradeLab Grade</th>
     </tr>

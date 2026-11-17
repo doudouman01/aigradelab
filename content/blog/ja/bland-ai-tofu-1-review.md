@@ -1,11 +1,11 @@
 ---
-title: "Bland AI Tofu-1 Review: Full-Duplex Voice AI That Hears Through the Noise"
-description: "Bland's Tofu-1 is a speech-to-speech model that listens, reasons, and replies in audio during phone calls. We examine its claims, limitations, and enterprise potential."
+title: "Bland AI Tofu-1レビュー：騒音の中でも聞き取る全二重の音声AI"
+description: "BlandのTofu-1は、電話の通話中に聞き、推論し、音声で返答する音声対音声モデルです。その主張、限界、エンタープライズでの可能性を検証しました。"
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-21"
 lastTested: "2026-11-18"
-readTime: "9 分で読めます"
+readTime: "読了時間：9分"
 grade: "B"
 scores_ux: 7
 scores_quality: 8
@@ -15,109 +15,109 @@ scores_support: 6
 toolName: "Bland AI Tofu-1"
 ---
 
-<h2>What Is Tofu-1?</h2>
+<h2>Tofu-1とは</h2>
 
-<p>Tofu-1 is Bland's first speech-to-speech model, announced on November 13, 2026 as a research preview. Unlike most voice AI agents that work as cascades — converting speech to text, processing with a language model, then converting back to speech — Tofu-1 processes audio directly. It hears, reasons, and replies without ever leaving the audio domain.</p>
+<p>Tofu-1は、Blandが初めて発表した音声対音声モデルで、2026年11月13日にリサーチプレビューとして発表されました。音声をテキストに変換し、言語モデルで処理し、再び音声に戻すカスケード方式で動作する大半の音声AIエージェントとは異なり、Tofu-1は音声を直接処理します。音声の領域を離れることなく、聞き、推論し、返答します。</p>
 
-<p>The San Francisco-based voice AI startup built Tofu-1 specifically for high-stakes phone calls that happen in less-than-ideal conditions: moving cars, hospital rooms, weak cellular signals, and environments with multiple people talking simultaneously.</p>
+<p>サンフランシスコ拠点の音声AIスタートアップであるBlandは、走行中の車内、病室、電波の弱い場所、複数の人が同時に話している環境など、理想的とは言えない条件で行われる重要な電話のために、Tofu-1を開発しました。</p>
 
-<h2>The Problem Tofu-1 Solves</h2>
+<h2>Tofu-1が解決する問題</h2>
 
-<p>Here's the scenario Bland uses to illustrate the challenge: a television is playing in the background. The caller says "no." The television says "yes." Which answer does the AI record?</p>
+<p>Blandが課題を説明するために使うシナリオは次のとおりです。背景でテレビがついています。発信者が「いいえ」と言います。テレビは「はい」と言います。AIはどちらの答えを記録するべきでしょうか。</p>
 
-<p>Traditional cascade voice agents struggle with this because they lose audio context during the speech-to-text conversion. Background noise, tone of voice, hesitation patterns, and speaker identification all get flattened into a text transcript before the AI ever processes them.</p>
+<p>従来のカスケード型の音声エージェントは、音声をテキストに変換する過程で音声のコンテキストが失われるため、これを苦手としています。背景ノイズ、声のトーン、ためらいのパターン、話者の識別といった情報は、AIが処理する前に、すべてテキストの書き起こしへと平坦化されてしまいます。</p>
 
-<p>Tofu-1 claims to solve this by keeping everything in the audio domain. The model identifies which speaker each phrase belongs to and filters accordingly, separating the caller's voice from televisions, crying children, road noise, hospital intercoms, and other environmental sounds.</p>
+<p>Tofu-1は、すべてを音声の領域にとどめることでこの問題を解決すると主張しています。モデルは、それぞれのフレーズがどの話者のものかを識別して適切にフィルタリングし、発信者の声をテレビ、泣いている子ども、道路の騒音、病院の館内放送などの環境音から切り分けます。</p>
 
-<h2>Key Claims</h2>
+<h2>主な主張</h2>
 
-<h3>Full-Duplex Communication</h3>
+<h3>全二重通信</h3>
 
-<p>Tofu-1 can listen and speak simultaneously — true full-duplex operation. This means it can handle natural conversational patterns like interruptions, overlapping speech, and mid-sentence corrections without the awkward pauses that plague most voice AI systems.</p>
+<p>Tofu-1は、聞きながら同時に話すことができる、真の全二重動作が可能です。つまり、割り込み、重なり合う発話、文の途中での言い直しといった自然な会話パターンを、ほとんどの音声AIシステムを悩ませる不自然な間なしに処理できます。</p>
 
-<h3>Speaker Separation</h3>
+<h3>話者の分離</h3>
 
-<p>The model claims to distinguish between the primary caller and background voices, even when they're speaking simultaneously. In Bland's "TV Test" demonstration (which the company labels as illustrative, not recorded model output), the agent correctly attributes conflicting responses to the right source.</p>
+<p>このモデルは、同時に話している場合でも、主たる発信者と背景の声を区別できるとしています。Blandの「TVテスト」のデモ（同社は、実際のモデルの出力ではなく説明用のものと表示しています）では、エージェントが矛盾する返答を正しい発信元に結びつけています。</p>
 
-<h3>Environmental Noise Handling</h3>
+<h3>環境ノイズへの対応</h3>
 
-<p>Beyond voice separation, Tofu-1 is designed to maintain conversation quality in noisy environments — highway driving, busy hospital wards, crowded public spaces. The model preserves its ability to understand and respond even when signal quality degrades.</p>
+<p>声の分離にとどまらず、Tofu-1は高速道路の運転中、混雑した病棟、人の多い公共の場といった騒がしい環境でも、会話の品質を維持するよう設計されています。信号品質が低下しても、理解して応答する能力を保ちます。</p>
 
-<h3>Human-Like Performance</h3>
+<h3>人間に近い性能</h3>
 
-<p>Bland's self-reported metric: over 92% of participants in screenings could not identify Tofu-1 as an AI. This is a bold claim, though it comes with the caveat that it's entirely self-reported with no published methodology or third-party verification.</p>
+<p>Blandが自己申告している指標は、スクリーニングに参加した人の92%以上が、Tofu-1がAIであると見抜けなかったというものです。大胆な主張ですが、すべて自己申告であり、手法の公表も第三者による検証もないという但し書きが付きます。</p>
 
-<h2>What We Don't Know Yet</h2>
+<h2>まだわかっていないこと</h2>
 
-<p>Here's where the review gets complicated. Tofu-1 is in research preview, and Bland has withheld several critical pieces of information:</p>
+<p>ここからレビューは難しくなります。Tofu-1はリサーチプレビューの段階にあり、Blandはいくつかの重要な情報を公開していません。</p>
 
 <ul>
-<li><strong>No published benchmarks</strong> — No standardized test results against established voice AI benchmarks</li>
-<li><strong>No model size disclosed</strong> — We can't assess infrastructure requirements</li>
-<li><strong>No pricing announced</strong> — Impossible to calculate cost per call or compare with competitors</li>
-<li><strong>No latency metrics</strong> — Response time is critical for phone conversations, and no numbers have been shared</li>
-<li><strong>No third-party testing</strong> — The 92% human-indistinguishable claim has not been independently verified</li>
+<li><strong>ベンチマークの未公開</strong>：確立された音声AIのベンチマークに対する標準化されたテスト結果がありません</li>
+<li><strong>モデルサイズの未開示</strong>：必要なインフラ要件を評価できません</li>
+<li><strong>料金の未発表</strong>：通話あたりのコストの計算も、競合との比較もできません</li>
+<li><strong>レイテンシの指標なし</strong>：電話の会話では応答時間が重要ですが、数値は公開されていません</li>
+<li><strong>第三者によるテストなし</strong>：「92%が人間と区別できなかった」という主張は、独立した検証を受けていません</li>
 </ul>
 
-<p>This information gap is the primary reason for our grade. The technology concept is compelling, but we can't verify the claims.</p>
+<p>この情報不足が、今回の評価の最大の理由です。技術コンセプトは魅力的ですが、その主張を検証することができません。</p>
 
-<h2>Competitive Landscape</h2>
+<h2>競合状況</h2>
 
-<p>Tofu-1 enters a rapidly growing voice AI market. Here's how it compares to known alternatives:</p>
+<p>Tofu-1は、急成長している音声AI市場に参入します。既知の代替製品との比較は次のとおりです。</p>
 
 <table>
 <thead>
-<tr><th>Feature</th><th>Bland Tofu-1</th><th>OpenAI GPT-Live</th><th>Nvidia VoiceChat</th></tr>
+<tr><th>機能</th><th>Bland Tofu-1</th><th>OpenAI GPT-Live</th><th>Nvidia VoiceChat</th></tr>
 </thead>
 <tbody>
-<tr><td>Architecture</td><td>Speech-to-speech</td><td>Multimodal</td><td>Speech-to-speech</td></tr>
-<tr><td>Full duplex</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-<tr><td>Target use case</td><td>Enterprise calls</td><td>General assistant</td><td>Open source</td></tr>
-<tr><td>Availability</td><td>Research preview</td><td>GA (Pro)</td><td>Open weights</td></tr>
-<tr><td>Pricing</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
+<tr><td>アーキテクチャ</td><td>音声対音声</td><td>マルチモーダル</td><td>音声対音声</td></tr>
+<tr><td>全二重</td><td>あり</td><td>あり</td><td>あり</td></tr>
+<tr><td>想定する用途</td><td>エンタープライズの通話</td><td>汎用アシスタント</td><td>オープンソース</td></tr>
+<tr><td>提供状況</td><td>リサーチプレビュー</td><td>一般提供（Pro）</td><td>オープンウェイト</td></tr>
+<tr><td>料金</td><td>未発表</td><td>プランに含まれる</td><td>無料（セルフホスト）</td></tr>
 </tbody>
 </table>
 
-<p>Bland's differentiation is its laser focus on enterprise phone calls in challenging audio environments. While GPT-Live and competitors target general conversational AI, Tofu-1 is purpose-built for the specific problems of business telephony.</p>
+<p>Blandの差別化要因は、厳しい音声環境でのエンタープライズ向け電話通話に徹底的に絞っていることです。GPT-Liveやその競合が汎用の会話AIを対象としているのに対し、Tofu-1はビジネスの電話業務特有の課題のために作られています。</p>
 
-<h2>Who Should Pay Attention</h2>
+<h2>注目すべき人</h2>
 
-<p><strong>Yes, watch this closely:</strong></p>
+<p><strong>はい、注視する価値があります：</strong></p>
 <ul>
-<li>Contact centers handling high-volume inbound calls</li>
-<li>Healthcare organizations with phone-based patient interactions</li>
-<li>Insurance companies processing claims by phone</li>
-<li>Financial services firms with compliance-sensitive phone operations</li>
+<li>大量のインバウンド通話を扱うコンタクトセンター</li>
+<li>電話での患者対応を行う医療機関</li>
+<li>電話で保険金請求を処理する保険会社</li>
+<li>コンプライアンスに敏感な電話業務を持つ金融サービス企業</li>
 </ul>
 
-<p><strong>Not yet actionable for:</strong></p>
+<p><strong>まだ実用的ではない人：</strong></p>
 <ul>
-<li>Small businesses looking for a phone bot today (research preview only)</li>
-<li>Developers wanting to build on top of it (no public API yet)</li>
-<li>Anyone needing transparent pricing for budget planning</li>
+<li>今すぐ使える電話ボットを探している中小企業（リサーチプレビューのみ）</li>
+<li>それを土台に開発したい開発者（公開APIはまだありません）</li>
+<li>予算計画のために明確な料金を必要とする方</li>
 </ul>
 
-<h2>Bland AI: Company Context</h2>
+<h2>Bland AIについて</h2>
 
-<p>Founded in 2023 by Isaiah Granet and Sobhan Nejad, Bland raised over $100 million by mid-2026, including a $50 million round in June 2026. The company processes over 3.5 million calls per week for enterprise clients including Samsara and Kin Insurance. Bland's standard pricing starts at $0.14/minute on the self-service tier.</p>
+<p>2023年にIsaiah GranetとSobhan Nejadによって設立されたBlandは、2026年半ばまでに1億ドル以上を調達しており、2026年6月には5,000万ドルのラウンドも実施しました。同社は、SamsaraやKin Insuranceなどのエンタープライズ顧客向けに、週あたり350万件以上の通話を処理しています。Blandの標準料金は、セルフサービスプランで1分あたり0.14ドルからです。</p>
 
-<p>Tofu-1 is the first model in what Bland describes as a planned family of speech-to-speech models, suggesting that more specialized variants may follow.</p>
+<p>Tofu-1は、Blandが計画していると説明する音声対音声モデルのファミリーの最初のモデルであり、今後さらに特化した派生モデルが登場する可能性を示唆しています。</p>
 
-<h2>AI評価Lab Verdict: B</h2>
+<h2>AIGradeLabの総合評価：B</h2>
 
-<p>Bland AI's Tofu-1 earns a <strong>B</strong> — a grade that reflects genuine technical ambition held back by a lack of verifiable evidence. The concept of a full-duplex speech-to-speech model optimized for noisy enterprise calls is exactly what the market needs. If the claims hold up under independent testing, this could be an A-tier product.</p>
+<p>Bland AIのTofu-1は<strong>B</strong>を獲得しました。この評価は、確かな技術的野心を持ちながらも、検証可能な証拠の不足によって抑えられていることを反映しています。騒がしいエンタープライズの通話に最適化された、全二重の音声対音声モデルというコンセプトは、まさに市場が求めているものです。もし主張が独立したテストで裏付けられれば、Aクラスの製品になり得ます。</p>
 
-<p>But "research preview" with no benchmarks, no pricing, and no third-party validation means we're grading a promise, not a product. We'll revisit when Tofu-1 moves to general availability with published performance data.</p>
+<p>しかし、ベンチマークも、料金も、第三者による検証もない「リサーチプレビュー」では、私たちが評価しているのは製品ではなく、約束です。Tofu-1が一般提供に移行し、性能データが公開された時点で、改めて評価します。</p>
 
 <table>
 <thead>
-<tr><th>Category</th><th>Score</th><th>Notes</th></tr>
+<tr><th>カテゴリー</th><th>スコア</th><th>備考</th></tr>
 </thead>
 <tbody>
-<tr><td>UX / Developer Experience</td><td>7/10</td><td>Bland's platform is polished, Tofu-1 integration TBD</td></tr>
-<tr><td>Quality / Reliability</td><td>8/10</td><td>Strong claims, unverified independently</td></tr>
-<tr><td>Value</td><td>5/10</td><td>Can't assess — no pricing available</td></tr>
-<tr><td>連携機能</td><td>6/10</td><td>Research preview, limited access</td></tr>
-<tr><td>サポート / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
+<tr><td>UX／開発者体験</td><td>7/10</td><td>Blandのプラットフォームは洗練されているが、Tofu-1との統合は未定</td></tr>
+<tr><td>品質／信頼性</td><td>8/10</td><td>強い主張だが、独立した検証はなし</td></tr>
+<tr><td>コストパフォーマンス</td><td>5/10</td><td>料金が公開されていないため評価不可</td></tr>
+<tr><td>連携性</td><td>6/10</td><td>リサーチプレビューで、アクセスは限定的</td></tr>
+<tr><td>サポート／コミュニティ</td><td>6/10</td><td>エンタープライズ向けで、公開コミュニティはまだなし</td></tr>
 </tbody>
 </table>

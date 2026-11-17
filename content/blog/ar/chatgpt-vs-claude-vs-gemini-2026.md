@@ -1,6 +1,6 @@
 ---
-title: "ChatGPT vs Claude vs Gemini in 2026: The Only Comparison You Need"
-description: "We tested ChatGPT (GPT-5.5), Claude (Opus 5.5), and Gemini (3.1 Pro) head-to-head on writing, coding, reasoning, research, and daily tasks. Updated November 2026 with grades."
+title: "ChatGPT مقابل Claude مقابل Gemini في 2026: المقارنة الثلاثية الكبرى"
+description: "مقارنة شاملة بين ChatGPT و Claude و Gemini عبر جميع المعايير."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-14"
@@ -21,7 +21,7 @@ readTime: "16 min read"
     <tr><td>Maker</td><td>OpenAI</td><td>Anthropic</td><td>Google</td></tr>
     <tr><td>Top model</td><td>GPT-5.5</td><td>Opus 5.5</td><td>Gemini 3.1 Pro</td></tr>
     <tr><td>Pro price</td><td>$20/month</td><td>$20/month</td><td>$20/month</td></tr>
-    <tr><td>خطة مجانية</td><td>Yes (GPT-4o mini)</td><td>Yes (limited Sonnet)</td><td>Yes (generous)</td></tr>
+    <tr><td>Free tier</td><td>Yes (GPT-4o mini)</td><td>Yes (limited Sonnet)</td><td>Yes (generous)</td></tr>
     <tr><td>Context window</td><td>1M tokens (API)</td><td>200K tokens</td><td>1M tokens</td></tr>
     <tr><td>Web search</td><td>Yes (built-in)</td><td>Yes</td><td>Yes (Google Search)</td></tr>
     <tr><td>Image generation</td><td>Yes (Images 2.6)</td><td>No</td><td>Yes (Nano Banana)</td></tr>
@@ -30,17 +30,17 @@ readTime: "16 min read"
     <tr><td>Coding agent</td><td>Yes (Codex)</td><td>Yes (Claude Code)</td><td>No dedicated agent</td></tr>
     <tr><td>File analysis</td><td>PDFs, spreadsheets, images</td><td>PDFs, images, large docs</td><td>PDFs, images, video, audio</td></tr>
     <tr><td>Ecosystem</td><td>Plugins, GPT Store, DALL-E, Sora</td><td>Projects, Artifacts, MCP</td><td>Gmail, Drive, Docs, Maps, YouTube</td></tr>
-    <tr><td>الأفضل لـ</td><td>Versatility & creation</td><td>Quality & reasoning</td><td>Google Workspace users</td></tr>
+    <tr><td>Best for</td><td>Versatility & creation</td><td>Quality & reasoning</td><td>Google Workspace users</td></tr>
   </tbody>
 </table>
 
 <h2>ChatGPT (GPT-5.5) — Our Grade: A</h2>
 <div class="score-card"><h3>ChatGPT Scores</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
 </div>
 
 <h3>The Verdict on ChatGPT</h3>
@@ -64,11 +64,11 @@ readTime: "16 min read"
 
 <h2>Claude (Opus 5.5) — Our Grade: A</h2>
 <div class="score-card"><h3>Claude Scores</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
 </div>
 
 <h3>The Verdict on Claude</h3>
@@ -93,11 +93,11 @@ readTime: "16 min read"
 
 <h2>Gemini (3.1 Pro) — Our Grade: A</h2>
 <div class="score-card"><h3>Gemini Scores</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
 </div>
 
 <h3>The Verdict on Gemini</h3>
@@ -107,7 +107,7 @@ readTime: "16 min read"
 <ul>
   <li><strong>Google Workspace integration:</strong> This is Gemini's decisive advantage. "Summarize the last email from Sarah," "Find the Q3 report in my Drive," "Create a new Doc with meeting notes from today's calendar" — Gemini handles these naturally because it has direct access to your Google data. ChatGPT and Claude cannot touch your Google workspace.</li>
   <li><strong>Multimodal range:</strong> Gemini handles text, images, video, and audio natively. Upload a YouTube video and ask questions about it. Analyze audio files. Generate images with Nano Banana Pro. The multimodal breadth matches ChatGPT and exceeds Claude.</li>
-  <li><strong>خطة مجانية:</strong> Gemini's free tier is the most generous — access to the latest model with high usage limits. For users testing AI tools or with moderate needs, Gemini Free may be all you need.</li>
+  <li><strong>Free tier:</strong> Gemini's free tier is the most generous — access to the latest model with high usage limits. For users testing AI tools or with moderate needs, Gemini Free may be all you need.</li>
   <li><strong>Value at $20/month:</strong> Gemini Advanced ($20/month) comes bundled with Google One AI Premium, which includes 2TB of Google storage. You get the AI assistant plus cloud storage — better value than ChatGPT or Claude at the same price.</li>
   <li><strong>Real-time information:</strong> Built on Google Search, Gemini always has access to current information. The real-time data is consistently fresher than ChatGPT's Bing-based search.</li>
   <li><strong>Gemini Live:</strong> The voice conversation mode with natural back-and-forth is polished and practical for hands-free brainstorming and note-taking.</li>
@@ -161,12 +161,12 @@ readTime: "16 min read"
   <tbody>
     <tr><td>Free</td><td>GPT-4o mini, limited</td><td>Sonnet, limited</td><td>Full model, generous limits</td></tr>
     <tr><td>Pro / Plus</td><td>$20/mo</td><td>$20/mo</td><td>$20/mo (+ 2TB storage)</td></tr>
-    <tr><td>متقدمة</td><td>$200/mo (Pro)</td><td>—</td><td>—</td></tr>
+    <tr><td>Premium</td><td>$200/mo (Pro)</td><td>—</td><td>—</td></tr>
     <tr><td>Teams</td><td>$25-30/user/mo</td><td>$25-30/user/mo</td><td>Included in Workspace</td></tr>
   </tbody>
 </table>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Which AI is best overall in 2026?</h3>
 <p><strong>ChatGPT</strong> for versatility, <strong>Claude</strong> for quality, <strong>Gemini</strong> for Google users. There is no single best — it depends on your primary use case.</p>

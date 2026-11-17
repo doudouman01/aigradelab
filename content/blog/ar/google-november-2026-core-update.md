@@ -1,6 +1,6 @@
 ---
-title: "Google's November 2026 Core Update: What Changed and What It Means for AI Websites"
-description: "Google's third core update of 2026 is rolling out. Here's what AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
+title: "تحديث Google الأساسي لنوفمبر 2026: ما تغيّر وماذا يعني لمواقع الذكاء الاصطناعي"
+description: "تحديث Google الأساسي الثالث لعام 2026 بدأ في 10 نوفمبر. إليك ما يجب أن تعرفه."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
@@ -126,7 +126,7 @@ readTime: "10 min read"
 
 <p>We'll update this article when Google confirms the rollout is complete and when enough post-update data is available to draw firmer conclusions.</p>
 
-<h2>الخلاصة</h2>
+<h2>The Bottom Line</h2>
 
 <p>The November 2026 Core Update is not revolutionary on its own — it's the continuation of a direction Google has been moving in all year. Original expertise, genuine testing, editorial depth, and content that serves users better than an AI summary can on its own. If that describes your content, this update is working in your favor.</p>
 

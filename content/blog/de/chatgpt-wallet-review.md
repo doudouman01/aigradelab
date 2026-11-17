@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT Wallet Review: OpenAI Lets AI Agents Pay for You"
-description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. Wir haben getestet it and graded it. Here's our full review."
+title: "ChatGPT Wallet Bewertung: OpenAI Lets AI Agents Pay for You"
+description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. We tested it and graded it. Here's our full review."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
 lastTested: "2026-11-15"
-readTime: "9 Min. Lesezeit"
+readTime: "9 min read"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -37,7 +37,7 @@ toolName: "ChatGPT Wallet"
 
 <p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
 
-<h2>Was uns gefälltd</h2>
+<h2>What We Liked</h2>
 
 <h3>Security Architecture Is Thoughtful</h3>
 
@@ -78,7 +78,7 @@ toolName: "ChatGPT Wallet"
 <p>ChatGPT Wallet enters a space where, frankly, there isn't much direct competition yet:</p>
 
 <ul>
-<li><strong>Google Gemini:</strong> No equivalent payment feature Stand November 2026. Google Pay integration has been rumored but not shipped.</li>
+<li><strong>Google Gemini:</strong> No equivalent payment feature as of November 2026. Google Pay integration has been rumored but not shipped.</li>
 <li><strong>Claude (Anthropic):</strong> No payment capability. Anthropic has been focused on its IPO roadshow rather than commerce features.</li>
 <li><strong>Sierra's Poppy Protocol:</strong> The Personal Agent Protocol (Poppy 1.0, released November 13) defines how agents connect to businesses, with payments as a future extension — but it's a protocol, not a consumer product. Shopify and Meta's Muse are early adopters.</li>
 <li><strong>Apple Intelligence:</strong> Apple Pay integration with Siri has been available, but it's limited to Apple's ecosystem and doesn't offer the same agent-driven shopping experience.</li>
@@ -86,13 +86,13 @@ toolName: "ChatGPT Wallet"
 
 <p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
 
-<h2>Pricing</h2>
+<h2>Preise</h2>
 
 <p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
 
 <p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
 
-<h2>Privacy and Data Nachteileiderations</h2>
+<h2>Privacy and Data Considerations</h2>
 
 <p>OpenAI states that purchase data is used to improve the shopping experience but can be managed through your privacy settings. Key considerations:</p>
 
@@ -103,13 +103,13 @@ toolName: "ChatGPT Wallet"
 <li>Purchase data is not used for model training (per OpenAI's Pro subscriber data policy)</li>
 </ul>
 
-<h2>Wer sollte es nutzen ChatGPT Wallet</h2>
+<h2>Who Should Use ChatGPT Wallet</h2>
 
 <p><strong>Good fit:</strong> ChatGPT Pro subscribers who already use the dot agent regularly, frequent online shoppers who value time savings, professionals who expense routine purchases, and early adopters who want to experience the future of agentic commerce.</p>
 
 <p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
 
-<h2>Our Note: B+</h2>
+<h2>Unsere Note: B+</h2>
 
 <table>
 <thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>

@@ -1,6 +1,6 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي المجانية in 2026: 12 Tools That Cost Nothing"
-description: "We tested the best free AI tools across writing, image generation, coding, research, and productivity. No trials, no hidden costs — genuinely free. Updated November 2026."
+title: "أفضل أدوات الذكاء الاصطناعي المجانية في 2026"
+description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي المجانية — ChatGPT و Gemini و Canva والمزيد. محدّث نوفمبر 2026."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
@@ -14,7 +14,7 @@ readTime: "15 min read"
 <h2>Quick Comparison: Best Free AI Tools 2026</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>الأداة</th><th>Category</th><th>What You Get Free</th><th>Paid Upgrade</th></tr>
+    <tr><th>#</th><th>Tool</th><th>Category</th><th>What You Get Free</th><th>Paid Upgrade</th></tr>
   </thead>
   <tbody>
     <tr><td>1</td><td>ChatGPT</td><td>AI Assistant</td><td>GPT-4o mini, web search, image gen (limited)</td><td>$20/mo Plus</td></tr>
@@ -125,7 +125,7 @@ readTime: "15 min read"
 </ul>
 <p>Start free, identify which tool you hit the limit on first, and upgrade only that one. Most people only need to pay for 1-2 AI tools to cover their workflow.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>What is the best free AI tool overall?</h3>
 <p><strong>Google Gemini Free</strong> — the most generous free tier with access to the latest model, Google integration, image generation, and voice conversations.</p>

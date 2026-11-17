@@ -1,6 +1,6 @@
 ---
-title: "أفضل أدوات البرمجة بالذكاء الاصطناعي in 2026: 8 Tools Tested and Graded"
-description: "We tested the top AI coding assistants for real-world development — Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and more. Every tool graded with honest verdicts. Updated November 2026."
+title: "أفضل أدوات البرمجة بالذكاء الاصطناعي في 2026: أدوات مُختبرة ومُقيَّمة"
+description: "اختبرنا أفضل أدوات البرمجة بالذكاء الاصطناعي — GitHub Copilot و Cursor و Claude Code والمزيد. كل أداة مُقيَّمة. نوفمبر 2026."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
@@ -14,7 +14,7 @@ readTime: "16 min read"
 <h2>Quick Comparison: November 2026</h2>
 <table>
   <thead>
-    <tr><th>Rank</th><th>الأداة</th><th>التقييم</th><th>Type</th><th>الأفضل لـ</th><th>السعر</th></tr>
+    <tr><th>Rank</th><th>Tool</th><th>Grade</th><th>Type</th><th>Best For</th><th>Price</th></tr>
   </thead>
   <tbody>
     <tr><td>1</td><td>Cursor</td><td><strong>A</strong></td><td>AI-native IDE</td><td>Daily coding in VS Code</td><td>Free / $8 Plus / $30 Premium</td></tr>
@@ -33,11 +33,11 @@ readTime: "16 min read"
 
 <h2>1. Cursor — Grade: A</h2>
 <div class="score-card"><h3>Cursor Scores</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
 <p>Cursor is the strongest daily driver for most developers in 2026. Built as a VS Code fork, it indexes your entire project and uses the full codebase as context for every suggestion. Composer 1.5, Cursor's proprietary agentic model launched in February 2026, handles multi-file edits from plain-English descriptions — describe a feature and it creates, modifies, and connects files across your project.</p>
@@ -48,7 +48,7 @@ readTime: "16 min read"
 <h3>Pricing (October 2026)</h3>
 <p>Free tier with limited completions. Plus at $8/month. Premium at $30/month. GitHub Copilot moved to usage-based billing in June 2026, making direct price comparisons harder — but Cursor Premium at $30/month with full agent access is the benchmark for serious users.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Deep codebase awareness — indexes your entire project</li>
   <li>Composer for multi-file edits from natural language</li>
@@ -56,22 +56,22 @@ readTime: "16 min read"
   <li>Built on VS Code — all extensions and keybindings carry over</li>
   <li>Tab completion predicts multi-line sequences better than Copilot</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>VS Code only — no JetBrains, Neovim, or Xcode support</li>
   <li>Usage limits on premium requests — heavy users burn through quickly</li>
   <li>Performance can degrade with very large monorepos</li>
   <li>Documentation is sparse — most learning happens through community</li>
 </ul>
-<p><strong>الحكم:</strong> The best AI code editor for VS Code users who want the deepest AI integration. If you code daily and use VS Code, switching to Cursor is the highest-impact change you can make.</p>
+<p><strong>Verdict:</strong> The best AI code editor for VS Code users who want the deepest AI integration. If you code daily and use VS Code, switching to Cursor is the highest-impact change you can make.</p>
 
 <h2>2. Claude Code — Grade: A</h2>
 <div class="score-card"><h3>Claude Code Scores</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
 </div>
 
 <p>Claude Code is Anthropic's terminal-native coding agent. Where Cursor works inside an IDE, Claude Code runs from the command line and takes on entire coding tasks — "build me this feature," "refactor this module," "fix the bug in this stack trace." It understands entire repositories, reads and writes files across your project, runs tests, and iterates until the task is done.</p>
@@ -79,10 +79,10 @@ readTime: "16 min read"
 <h3>Why It Ranks #2</h3>
 <p>Claude Code wins on reasoning quality. On SWE-bench and other agentic coding benchmarks, Claude consistently leads. The model's ability to hold complex, multi-file context and reason about architectural decisions is genuinely superior to alternatives. For large refactoring tasks, implementing features across a codebase, or debugging subtle issues, Claude Code is the tool senior developers reach for.</p>
 
-<h3>التسعير</h3>
+<h3>Pricing</h3>
 <p>Requires Claude Pro ($20/month) or API usage. Multi-agent workflows with background agents launched in early 2026, adding parallel task execution.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Highest code quality on benchmarks — leads SWE-bench</li>
   <li>Repository-wide understanding — reads your entire codebase</li>
@@ -90,22 +90,22 @@ readTime: "16 min read"
   <li>Multi-agent support for parallel tasks</li>
   <li>Best at complex, multi-file refactoring</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Terminal-only — assumes command-line comfort</li>
   <li>No GUI — steeper learning curve than Cursor</li>
   <li>Requires Node.js installation</li>
   <li>Can burn through API credits quickly on large tasks</li>
 </ul>
-<p><strong>الحكم:</strong> The power tool for senior developers who want to delegate entire features. Pair Cursor (for in-the-flow coding) with Claude Code (for large delegated tasks) and you have the strongest AI coding setup available.</p>
+<p><strong>Verdict:</strong> The power tool for senior developers who want to delegate entire features. Pair Cursor (for in-the-flow coding) with Claude Code (for large delegated tasks) and you have the strongest AI coding setup available.</p>
 
 <h2>3. GitHub Copilot — Grade: A-</h2>
 <div class="score-card"><h3>Copilot Scores</h3>
-  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
 <p>GitHub Copilot is the most widely deployed AI coding assistant with 68% market share. It works in VS Code, JetBrains, Neovim, Visual Studio, and Xcode. Powered by GPT-5.3-Codex, it now includes a coding agent for multi-file tasks, PR summaries, and native GitHub integration. The free tier with 2,000 completions makes it the most accessible option for students and hobbyists.</p>
@@ -116,7 +116,7 @@ readTime: "16 min read"
 <h3>Pricing (October 2026)</h3>
 <p>Free tier (2,000 completions/month). Individual at $10/month. Business at $19/user/month. Enterprise at custom pricing. GitHub moved to usage-based AI Credits billing in June 2026 — heavy users may pay more than the base subscription.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Works in 40+ IDEs — VS Code, JetBrains, Neovim, Xcode, Visual Studio</li>
   <li>Most generous free tier — 2,000 completions/month</li>
@@ -125,122 +125,122 @@ readTime: "16 min read"
   <li>Coding agent for multi-file tasks (2026)</li>
   <li>68% market share — largest community and support ecosystem</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Code quality trails Cursor and Claude Code on complex tasks</li>
   <li>Less deep codebase understanding than Cursor</li>
   <li>Usage-based billing can get expensive for heavy users</li>
   <li>Agent mode is newer and less mature than Cursor's</li>
 </ul>
-<p><strong>الحكم:</strong> The safe, universal choice. Best for teams using JetBrains IDEs, developers who want AI without changing their editor, and anyone who values GitHub integration. Not the most powerful, but the most practical for the widest range of developers.</p>
+<p><strong>Verdict:</strong> The safe, universal choice. Best for teams using JetBrains IDEs, developers who want AI without changing their editor, and anyone who values GitHub integration. Not the most powerful, but the most practical for the widest range of developers.</p>
 
 <h2>4. OpenAI Codex — Grade: B+</h2>
 
 <p>OpenAI Codex runs coding tasks in a cloud sandbox accessible through ChatGPT. You describe what you want built, and Codex spins up an isolated environment, writes the code, runs tests, and delivers the result. It is fundamentally different from IDE-based tools — you do not see the code being written in real-time. You delegate a task and get back a result.</p>
 
-<h3>التسعير</h3>
+<h3>Pricing</h3>
 <p>Included with ChatGPT Plus ($20/month). Available as a cloud-sandboxed coding environment within the ChatGPT interface.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>No local setup required — everything runs in the cloud</li>
   <li>Included with ChatGPT Plus — no extra cost</li>
   <li>Good for isolated coding tasks and prototypes</li>
   <li>Access to OpenAI's latest models</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Cannot work on your local codebase directly</li>
   <li>Limited visibility into the coding process</li>
   <li>Less suited for large, existing projects</li>
   <li>Sandboxed environment has limitations</li>
 </ul>
-<p><strong>الحكم:</strong> Best for ChatGPT users who want coding assistance without a dedicated coding tool. Good for prototypes and isolated tasks, but not a replacement for Cursor or Claude Code for daily development work.</p>
+<p><strong>Verdict:</strong> Best for ChatGPT users who want coding assistance without a dedicated coding tool. Good for prototypes and isolated tasks, but not a replacement for Cursor or Claude Code for daily development work.</p>
 
 <h2>5. Devin Desktop (formerly Windsurf) — Grade: B+</h2>
 
 <p>Devin Desktop, formerly known as Windsurf and originally built by the Codeium team, positions itself as the value alternative to Cursor. It offers similar features — AI autocomplete, chat, and multi-file editing — at a lower price point with a more generous free tier. The Cascade feature handles multi-step coding tasks autonomously.</p>
 
-<h3>التسعير</h3>
+<h3>Pricing</h3>
 <p>Free tier available with generous limits. Pro at $20/month.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Most generous free tier among AI coding editors</li>
   <li>Cascade for autonomous multi-step tasks</li>
   <li>Familiar VS Code-based interface</li>
   <li>Good value at $20/month</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Code quality a step behind Cursor's best output</li>
   <li>Smaller community and fewer resources</li>
   <li>Brand confusion from rename (Codeium → Windsurf → Devin Desktop)</li>
 </ul>
-<p><strong>الحكم:</strong> The best free AI coding option and a strong value pick at $20/month. Ideal for developers evaluating AI coding tools for the first time or those who want solid AI assistance without the Cursor Premium price tag.</p>
+<p><strong>Verdict:</strong> The best free AI coding option and a strong value pick at $20/month. Ideal for developers evaluating AI coding tools for the first time or those who want solid AI assistance without the Cursor Premium price tag.</p>
 
 <h2>6. Kiro (AWS) — Grade: B+</h2>
 
 <p>Kiro is Amazon Web Services' entry into the AI coding space. Designed for developers working within the AWS ecosystem, it offers AI-assisted coding with deep integration into AWS services — Lambda, DynamoDB, S3, CloudFormation templates. For full-stack AWS development, the contextual suggestions are more relevant than generic tools.</p>
 
-<h3>التسعير</h3>
+<h3>Pricing</h3>
 <p>Free tier available. Pro at $19/month.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Deep AWS service integration</li>
   <li>Relevant suggestions for serverless and cloud development</li>
   <li>Competitive pricing at $19/month</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Value diminishes significantly outside the AWS ecosystem</li>
   <li>Smaller community than Copilot or Cursor</li>
   <li>General coding quality trails the top three</li>
 </ul>
-<p><strong>الحكم:</strong> The best choice for developers deeply embedded in AWS. If your daily work involves Lambda, DynamoDB, and CloudFormation, the contextual awareness saves real time. For anything else, Cursor or Copilot is the better pick.</p>
+<p><strong>Verdict:</strong> The best choice for developers deeply embedded in AWS. If your daily work involves Lambda, DynamoDB, and CloudFormation, the contextual awareness saves real time. For anything else, Cursor or Copilot is the better pick.</p>
 
 <h2>7. Bolt — Grade: B</h2>
 
 <p>Bolt takes a fundamentally different approach — instead of assisting developers, it lets anyone build full-stack web applications from natural language descriptions. Describe what you want, and Bolt generates a working application with frontend, backend, and database. The results are genuinely impressive for prototypes and simple apps.</p>
 
-<h3>التسعير</h3>
+<h3>Pricing</h3>
 <p>Free tier available. Starter at $20/month. Pro and Team plans for higher usage.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Non-developers can build real applications</li>
   <li>Impressively fast from description to working app</li>
   <li>Generates deployable full-stack code</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Production-quality code requires developer intervention</li>
   <li>Complex applications still need professional development</li>
   <li>Limited control over architecture decisions</li>
 </ul>
-<p><strong>الحكم:</strong> The best app builder for non-developers. Excellent for MVPs, prototypes, and validating ideas quickly. Not a replacement for professional development on complex projects.</p>
+<p><strong>Verdict:</strong> The best app builder for non-developers. Excellent for MVPs, prototypes, and validating ideas quickly. Not a replacement for professional development on complex projects.</p>
 
 <h2>8. Lovable — Grade: B</h2>
 
 <p>Lovable competes directly with Bolt in the AI app builder space. It generates working web applications from natural language, with a focus on clean UI and deployable output. The generated code tends to be cleaner and more maintainable than Bolt's, but the generation process is slower.</p>
 
-<h3>التسعير</h3>
+<h3>Pricing</h3>
 <p>Free tier available. Starter at $20/month.</p>
 
-<h3>المزايا</h3>
+<h3>Pros</h3>
 <ul>
   <li>Cleaner generated code than Bolt</li>
   <li>Better default UI design</li>
   <li>Good GitHub integration for iterating on generated code</li>
 </ul>
-<h3>العيوب</h3>
+<h3>Cons</h3>
 <ul>
   <li>Slower generation than Bolt</li>
   <li>Same fundamental limitations as all app builders</li>
   <li>Still requires developers for serious applications</li>
 </ul>
-<p><strong>الحكم:</strong> The higher-quality alternative to Bolt. Choose Lovable when code quality matters more than speed. For entrepreneurs validating ideas, either tool works — Bolt is faster, Lovable is cleaner.</p>
+<p><strong>Verdict:</strong> The higher-quality alternative to Bolt. Choose Lovable when code quality matters more than speed. For entrepreneurs validating ideas, either tool works — Bolt is faster, Lovable is cleaner.</p>
 
 <h2>Which AI Coding Tool Should You Choose?</h2>
 <ul>
@@ -256,7 +256,7 @@ readTime: "16 min read"
 <h3>The Power Setup ($50/month)</h3>
 <p>The most productive AI coding stack in 2026: <strong>Cursor Premium ($30)</strong> for in-the-flow coding + <strong>Claude Pro ($20)</strong> for Claude Code on large delegated tasks. This combination covers both interactive and autonomous coding and delivers the highest code quality available.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>What is the best AI coding tool in 2026?</h3>
 <p><strong>Cursor</strong> for daily IDE coding. <strong>Claude Code</strong> for complex multi-file tasks. <strong>GitHub Copilot</strong> for the broadest accessibility and team use.</p>

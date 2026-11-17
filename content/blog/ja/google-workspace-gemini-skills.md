@@ -1,114 +1,114 @@
 ---
-title: "Google Workspace Gets Custom AI Skills: Build Your Own Gemini Automations"
-description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Here's what it means for business productivity."
+title: "Google WorkspaceにカスタムAIスキルが登場：独自のGemini自動化を構築"
+description: "Googleは、ドキュメント、スプレッドシート、Gmailなどで使えるGemini向けの再利用可能なカスタム指示「スキル」をWorkspaceに展開しています。ビジネスの生産性にとっての意味をご紹介します。"
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-22"
-readTime: "7 分で読めます"
+readTime: "読了時間：7分"
 ---
 
-<h2>Gemini Skills Are Rolling Out Across Google Workspace</h2>
+<h2>Geminiのスキルが Google Workspace 全体に展開中</h2>
 
-<p>Google is deploying one of the most practical AI features we've seen this year: Skills in Google Workspace. Announced during the week of November 13, 2026, Skills are reusable, custom instructions that guide Gemini to apply your team's specific rules, templates, and reference files — consistently, every time.</p>
+<p>Googleは、今年見てきた中で最も実用的なAI機能の1つ、Google Workspaceのスキルを展開しています。2026年11月13日の週に発表されたスキルは、チーム独自のルール、テンプレート、参照ファイルをGeminiに一貫して適用させる、再利用可能なカスタム指示です。</p>
 
-<p>Think of it as building your own Gemini automations without writing code. Instead of re-explaining your formatting preferences, company terminology, or review processes every time you prompt Gemini, you create a Skill once and apply it across Workspace apps.</p>
+<p>コードを書かずに、自分だけのGemini自動化を構築するようなものと考えてください。書式の好み、社内用語、レビューのプロセスをGeminiにプロンプトするたびに説明し直す代わりに、スキルを一度作成すれば、Workspaceのアプリ全体で適用できます。</p>
 
-<h2>What Are Gemini Skills?</h2>
+<h2>Geminiのスキルとは</h2>
 
-<p>A Skill is a saved set of instructions that tells Gemini how to handle a specific type of task. When you invoke a Skill, Gemini follows those instructions using whatever context you provide — a document, a spreadsheet, an email thread.</p>
+<p>スキルとは、特定の種類のタスクをGeminiがどう処理するかを指示する、保存された指示のセットです。スキルを呼び出すと、Geminiは、ドキュメント、スプレッドシート、メールのスレッドなど、あなたが提供するコンテキストを使って、その指示に従います。</p>
 
-<h3>Examples of What You Can Build</h3>
+<h3>作成できるものの例</h3>
 
 <ul>
-<li><strong>Brand voice reviewer</strong> — A Skill that checks any document against your company's style guide and flags deviations</li>
-<li><strong>Meeting notes formatter</strong> — Converts raw meeting transcripts into your team's standard format with action items, owners, and deadlines</li>
-<li><strong>Email response template</strong> — Drafts customer replies following your support team's tone, escalation rules, and product terminology</li>
-<li><strong>Financial report analyzer</strong> — Summarizes spreadsheet data using your company's KPI definitions and reporting format</li>
-<li><strong>Code review checklist</strong> — Reviews code snippets against your team's specific standards and conventions</li>
+<li><strong>ブランドボイスのレビュアー</strong>：あらゆるドキュメントを自社のスタイルガイドに照らしてチェックし、逸脱を指摘するスキル</li>
+<li><strong>議事録フォーマッター</strong>：生の会議の書き起こしを、アクションアイテム、担当者、期限を含むチーム標準の形式に変換します</li>
+<li><strong>メール返信テンプレート</strong>：サポートチームのトーン、エスカレーションのルール、製品用語に沿って、顧客への返信を下書きします</li>
+<li><strong>財務レポートの分析</strong>：自社のKPIの定義とレポート形式を使って、スプレッドシートのデータを要約します</li>
+<li><strong>コードレビューのチェックリスト</strong>：チーム固有の基準や規約に照らして、コードスニペットをレビューします</li>
 </ul>
 
-<h2>Where Skills Work</h2>
+<h2>スキルが使える場所</h2>
 
-<p>Skills are rolling out across two environments:</p>
+<p>スキルは、2つの環境に展開されています。</p>
 
 <h3>Google Workspace Studio</h3>
 
-<p>Workspace Studio is Google's low-code/no-code platform for building business automations. Skills created here can be shared across your organization and integrated into broader workflow automations.</p>
+<p>Workspace Studioは、ビジネスの自動化を構築するためのGoogleのローコード／ノーコードプラットフォームです。ここで作成したスキルは、組織全体で共有でき、より広範なワークフローの自動化に組み込むことができます。</p>
 
-<h3>Workspace Apps</h3>
+<h3>Workspaceアプリ</h3>
 
-<p>Skills are available directly within the Workspace apps you already use: Docs, Sheets, Slides, Gmail, and Meet. This means you can invoke a Skill from the Gemini side panel while working on a document, without switching to a separate tool.</p>
+<p>スキルは、すでにお使いのWorkspaceアプリ（ドキュメント、スプレッドシート、スライド、Gmail、Meet）内で直接利用できます。つまり、別のツールに切り替えることなく、ドキュメントの作業中にGeminiのサイドパネルからスキルを呼び出せます。</p>
 
-<h2>Also This Week: Gemini Expands in Gmail</h2>
+<h2>今週のもう1つの話題：GmailでのGeminiの拡大</h2>
 
-<p>Alongside the Skills rollout, Google is expanding Gemini in Gmail to more Workspace users aged 18 and older. Previously limited to specific plan tiers, Gemini-powered features in Gmail — smart compose, email summarization, reply suggestions — are becoming available to a broader set of Workspace accounts.</p>
+<p>スキルの展開に合わせて、GoogleはGmailのGeminiを、18歳以上のより多くのWorkspaceユーザーに拡大します。これまで特定のプランに限られていた、スマート作成、メールの要約、返信の提案といったGmailのGemini搭載機能が、より幅広いWorkspaceアカウントで使えるようになります。</p>
 
-<p>The expansion covers both Rapid Release and Scheduled Release domains, meaning most organizations should see the features within the next few weeks.</p>
+<p>この拡大は、即時リリースドメインと計画リリースドメインの両方が対象で、ほとんどの組織で今後数週間以内に機能が表示されるはずです。</p>
 
-<h2>Gemini Omni 1.2 Flash in Google Vids</h2>
+<h2>Google VidsのGemini Omni 1.2 Flash</h2>
 
-<p>Google also updated Google Vids with Gemini Omni 1.2 Flash, bringing longer-duration video generation (up to 15 seconds) with improved character consistency and vocal realism. Users get three free 15-second clips per month.</p>
+<p>Googleは、Google VidsもGemini Omni 1.2 Flashで更新し、キャラクターの一貫性と声のリアルさを向上させた、より長い動画の生成（最大15秒）に対応しました。ユーザーは、月に3本まで無料で15秒のクリップを作成できます。</p>
 
-<p>For businesses creating quick product demos, social content, or internal training videos, this is a meaningful upgrade. The 15-second limit and three-per-month cap keep it firmly in the "supplement your video workflow" category rather than replacing dedicated video tools.</p>
+<p>手早い製品デモ、SNS用コンテンツ、社内研修動画を作る企業にとって、これは意味のあるアップグレードです。15秒の上限と月3本という制限により、専用の動画ツールに取って代わるものではなく、あくまで「動画ワークフローを補完する」位置づけにとどまります。</p>
 
 <h2>Gemini Decisions API</h2>
 
-<p>On November 11, Google launched the Gemini Decisions API, powered by the new Gemini Decision 1 model. Available through the Gemini API and Google AI Studio, this API is designed for applications that need structured decision-making rather than free-form text generation.</p>
+<p>11月11日、Googleは新しいGemini Decision 1モデルを搭載したGemini Decisions APIを発表しました。Gemini APIとGoogle AI Studioから利用でき、自由形式のテキスト生成ではなく、構造化された意思決定を必要とするアプリケーション向けに設計されています。</p>
 
-<p>Use cases include routing customer support tickets, prioritizing task queues, and making binary go/no-go decisions based on structured data inputs. The Decisions API returns structured outputs with confidence scores, making it easier to integrate into automated workflows.</p>
+<p>ユースケースには、カスタマーサポートのチケットの振り分け、タスクキューの優先順位付け、構造化データの入力に基づく二択の可否判断などがあります。Decisions APIは信頼度スコア付きの構造化された出力を返すため、自動化されたワークフローに組み込みやすくなっています。</p>
 
-<h2>What This Means for Business Productivity</h2>
+<h2>ビジネスの生産性にとっての意味</h2>
 
-<h3>The Skill Economy Is Coming</h3>
+<h3>スキル経済の到来</h3>
 
-<p>Skills represent a shift in how businesses use AI. Instead of every employee crafting their own prompts (with wildly varying quality), organizations can create standardized Skills that encode their best practices. This means:</p>
-
-<ul>
-<li><strong>デメリットistency</strong> — Every team member produces output that follows the same standards</li>
-<li><strong>Onboarding</strong> — New hires can use organizational Skills immediately without learning institutional knowledge first</li>
-<li><strong>Quality control</strong> — Skills can embed review criteria and compliance requirements</li>
-<li><strong>Scalability</strong> — Build once, deploy to hundreds of users</li>
-</ul>
-
-<h3>Competition with Microsoft Copilot</h3>
-
-<p>Google's Skills feature directly competes with Microsoft's Copilot agents and custom instructions in the M365 ecosystem. The approaches differ — Google's Skills are more template-driven while Microsoft's Copilot agents can be more agentic — but the goal is the same: let businesses customize AI behavior without code.</p>
-
-<p>For organizations choosing between Google Workspace and Microsoft 365, AI customization capabilities are becoming a decision factor alongside traditional feature comparisons.</p>
-
-<h2>How to Get Started</h2>
-
-<h3>For Workspace Admins</h3>
-
-<ol>
-<li>Check your Workspace edition — Skills require Business Standard or higher</li>
-<li>Enable Gemini features in the Admin デメリットole if not already active</li>
-<li>Access Workspace Studio to create and manage organization-wide Skills</li>
-<li>Start with 2-3 high-impact Skills that address your team's most repetitive AI tasks</li>
-</ol>
-
-<h3>For Individual Users</h3>
-
-<ol>
-<li>Open any Workspace app (Docs, Sheets, Gmail)</li>
-<li>Open the Gemini side panel</li>
-<li>Look for the Skills option in the prompt interface</li>
-<li>Create personal Skills or use organization-shared ones</li>
-</ol>
-
-<h3>Skill Design Tips</h3>
+<p>スキルは、企業のAIの使い方の転換を象徴しています。すべての従業員が品質にばらつきのある独自のプロンプトを作る代わりに、組織はベストプラクティスを組み込んだ標準化されたスキルを作成できます。これには次のような意味があります。</p>
 
 <ul>
-<li><strong>Be specific</strong> — Vague instructions produce vague results. Include examples of good and bad output.</li>
-<li><strong>Include reference files</strong> — Attach your style guide, templates, or sample documents to give Gemini concrete examples.</li>
-<li><strong>Test iteratively</strong> — Run your Skill against different inputs to find edge cases before sharing it with your team.</li>
-<li><strong>Version control</strong> — Keep notes on what you changed and why. Skills evolve as your processes do.</li>
+<li><strong>一貫性</strong>：すべてのチームメンバーが、同じ基準に沿った成果物を作れます</li>
+<li><strong>オンボーディング</strong>：新入社員は、社内の知識を先に学ばなくても、組織のスキルをすぐに使えます</li>
+<li><strong>品質管理</strong>：スキルにレビュー基準やコンプライアンス要件を組み込めます</li>
+<li><strong>スケーラビリティ</strong>：一度作れば、何百人ものユーザーに展開できます</li>
 </ul>
 
-<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">ツールCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
+<h3>Microsoft Copilotとの競合</h3>
+
+<p>GoogleのスキルはM365エコシステムにおけるMicrosoftのCopilotエージェントやカスタム指示と直接競合します。アプローチは異なり、Googleのスキルはよりテンプレート主導で、MicrosoftのCopilotエージェントはよりエージェント的になり得ますが、目標は同じです。コードなしで、企業がAIの動作をカスタマイズできるようにすることです。</p>
+
+<p>Google WorkspaceとMicrosoft 365のどちらを選ぶか検討している組織にとって、AIのカスタマイズ機能は、従来の機能比較と並ぶ判断材料になりつつあります。</p>
+
+<h2>始め方</h2>
+
+<h3>Workspace管理者の方</h3>
+
+<ol>
+<li>Workspaceのエディションを確認します。スキルにはBusiness Standard以上が必要です</li>
+<li>まだ有効でなければ、管理コンソールでGemini機能を有効にします</li>
+<li>Workspace Studioにアクセスして、組織全体のスキルを作成、管理します</li>
+<li>チームで最も繰り返しの多いAIタスクに対応する、影響の大きいスキルを2〜3個から始めます</li>
+</ol>
+
+<h3>個人のユーザーの方</h3>
+
+<ol>
+<li>Workspaceのアプリ（ドキュメント、スプレッドシート、Gmailなど）を開きます</li>
+<li>Geminiのサイドパネルを開きます</li>
+<li>プロンプトのインターフェースでスキルのオプションを探します</li>
+<li>個人用のスキルを作成するか、組織で共有されているスキルを使います</li>
+</ol>
+
+<h3>スキル設計のヒント</h3>
+
+<ul>
+<li><strong>具体的にする：</strong>曖昧な指示は曖昧な結果を生みます。良い出力と悪い出力の例を含めましょう。</li>
+<li><strong>参照ファイルを含める：</strong>スタイルガイド、テンプレート、サンプルドキュメントを添付して、Geminiに具体的な例を示しましょう。</li>
+<li><strong>繰り返しテストする：</strong>チームと共有する前に、さまざまな入力でスキルを実行し、エッジケースを見つけましょう。</li>
+<li><strong>バージョン管理：</strong>何をなぜ変更したのかを記録しておきましょう。スキルはプロセスの変化とともに進化します。</li>
+</ul>
+
+<p>複数のツールにまたがる生産性のワークフローを管理しているなら、<a href="https://toolcraftkit.com">ToolCraftKit</a>では、請求書ジェネレーターからポモドーロタイマーまで、サブスクリプション費用を増やすことなくWorkspaceの環境を補完する無料のユーティリティを提供しています。</p>
 
 <h2>まとめ</h2>
 
-<p>Google Workspace Skills are the most practically useful AI feature Google has shipped this quarter. They solve a real problem — inconsistent AI outputs across teams — with a straightforward solution. Combined with expanded Gemini in Gmail, video generation in Vids, and the new Decisions API, Google is making a strong case that Workspace is the AI-first productivity suite for businesses.</p>
+<p>Google Workspaceのスキルは、Googleが今四半期にリリースした中で最も実用的なAI機能です。チーム間でAIの出力が一貫しないという現実の問題を、わかりやすい解決策で解決します。GmailでのGeminiの拡大、Vidsでの動画生成、新しいDecisions APIと合わせて、Workspaceはビジネス向けのAIファーストの生産性スイートであるというGoogleの主張には、説得力があります。</p>
 
-<p>The question isn't whether to start using Skills — it's which processes to standardize first.</p>
+<p>問題は、スキルを使い始めるかどうかではなく、どのプロセスから標準化するかです。</p>

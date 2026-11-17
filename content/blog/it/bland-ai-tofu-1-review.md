@@ -1,11 +1,11 @@
 ---
-title: "Recensione Bland AI Tofu-1: l'AI vocale full-duplex che sente attraverso il rumore"
-description: "Tofu-1 di Bland è un modello speech-to-speech che ascolta, ragiona e risponde in audio durante le telefonate. Esaminiamo le sue promesse, i limiti e il potenziale per le aziende."
+title: "Recensione Bland AI Tofu-1: Full-Duplex Voice AI That Hears Through the Noise"
+description: "Bland's Tofu-1 is a speech-to-speech model that listens, reasons, and replies in audio during phone calls. We examine its claims, limitations, and enterprise potential."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-21"
 lastTested: "2026-11-18"
-readTime: "9 min di lettura"
+readTime: "9 min read"
 grade: "B"
 scores_ux: 7
 scores_quality: 8
@@ -15,109 +15,109 @@ scores_support: 6
 toolName: "Bland AI Tofu-1"
 ---
 
-<h2>Che cos'è Tofu-1?</h2>
+<h2>What Is Tofu-1?</h2>
 
-<p>Tofu-1 è il primo modello speech-to-speech di Bland, annunciato il 13 novembre 2026 come anteprima di ricerca. A differenza della maggior parte degli agenti vocali AI, che funzionano a cascata — convertendo la voce in testo, elaborandola con un modello linguistico e riconvertendola in voce — Tofu-1 elabora l'audio direttamente. Ascolta, ragiona e risponde senza mai uscire dal dominio audio.</p>
+<p>Tofu-1 is Bland's first speech-to-speech model, announced on November 13, 2026 as a research preview. Unlike most voice AI agents that work as cascades — converting speech to text, processing with a language model, then converting back to speech — Tofu-1 processes audio directly. It hears, reasons, and replies without ever leaving the audio domain.</p>
 
-<p>La startup di AI vocale con sede a San Francisco ha costruito Tofu-1 specificamente per le telefonate ad alto rischio che avvengono in condizioni tutt'altro che ideali: auto in movimento, stanze d'ospedale, segnale cellulare debole e ambienti in cui parlano più persone contemporaneamente.</p>
+<p>The San Francisco-based voice AI startup built Tofu-1 specifically for high-stakes phone calls that happen in less-than-ideal conditions: moving cars, hospital rooms, weak cellular signals, and environments with multiple people talking simultaneously.</p>
 
-<h2>Il problema che Tofu-1 risolve</h2>
+<h2>The Problem Tofu-1 Solves</h2>
 
-<p>Ecco lo scenario che Bland usa per illustrare la sfida: in sottofondo c'è una televisione accesa. Chi chiama dice "no". La televisione dice "sì". Quale risposta registra l'AI?</p>
+<p>Here's the scenario Bland uses to illustrate the challenge: a television is playing in the background. The caller says "no." The television says "yes." Which answer does the AI record?</p>
 
-<p>Gli agenti vocali tradizionali a cascata faticano in questi casi perché perdono il contesto audio durante la conversione da voce a testo. Rumore di fondo, tono di voce, esitazioni e identificazione di chi parla vengono tutti appiattiti in una trascrizione testuale prima ancora che l'AI li elabori.</p>
+<p>Traditional cascade voice agents struggle with this because they lose audio context during the speech-to-text conversion. Background noise, tone of voice, hesitation patterns, and speaker identification all get flattened into a text transcript before the AI ever processes them.</p>
 
-<p>Tofu-1 dichiara di risolvere il problema mantenendo tutto nel dominio audio. Il modello identifica a quale interlocutore appartiene ogni frase e filtra di conseguenza, separando la voce di chi chiama da televisori, bambini che piangono, rumore stradale, interfoni ospedalieri e altri suoni ambientali.</p>
+<p>Tofu-1 claims to solve this by keeping everything in the audio domain. The model identifies which speaker each phrase belongs to and filters accordingly, separating the caller's voice from televisions, crying children, road noise, hospital intercoms, and other environmental sounds.</p>
 
-<h2>Le promesse principali</h2>
+<h2>Key Claims</h2>
 
-<h3>Comunicazione full-duplex</h3>
+<h3>Full-Duplex Communication</h3>
 
-<p>Tofu-1 può ascoltare e parlare contemporaneamente — un vero funzionamento full-duplex. Significa che può gestire schemi di conversazione naturali come interruzioni, sovrapposizioni e correzioni a metà frase, senza le pause imbarazzanti che affliggono la maggior parte dei sistemi di AI vocale.</p>
+<p>Tofu-1 can listen and speak simultaneously — true full-duplex operation. This means it can handle natural conversational patterns like interruptions, overlapping speech, and mid-sentence corrections without the awkward pauses that plague most voice AI systems.</p>
 
-<h3>Separazione degli interlocutori</h3>
+<h3>Speaker Separation</h3>
 
-<p>Il modello dichiara di distinguere tra chi chiama e le voci di sottofondo, anche quando parlano nello stesso momento. Nella dimostrazione "TV Test" di Bland (che l'azienda definisce illustrativa, non un output registrato del modello), l'agente attribuisce correttamente le risposte contrastanti alla fonte giusta.</p>
+<p>The model claims to distinguish between the primary caller and background voices, even when they're speaking simultaneously. In Bland's "TV Test" demonstration (which the company labels as illustrative, not recorded model output), the agent correctly attributes conflicting responses to the right source.</p>
 
-<h3>Gestione del rumore ambientale</h3>
+<h3>Environmental Noise Handling</h3>
 
-<p>Oltre alla separazione delle voci, Tofu-1 è progettato per mantenere la qualità della conversazione in ambienti rumorosi — guida in autostrada, reparti ospedalieri affollati, luoghi pubblici gremiti. Il modello conserva la capacità di capire e rispondere anche quando la qualità del segnale peggiora.</p>
+<p>Beyond voice separation, Tofu-1 is designed to maintain conversation quality in noisy environments — highway driving, busy hospital wards, crowded public spaces. The model preserves its ability to understand and respond even when signal quality degrades.</p>
 
-<h3>Prestazioni simili a quelle umane</h3>
+<h3>Human-Like Performance</h3>
 
-<p>La metrica dichiarata da Bland: oltre il 92% dei partecipanti ai test di selezione non è riuscito a riconoscere Tofu-1 come un'AI. È un'affermazione audace, ma con la riserva che è interamente autodichiarata, senza metodologia pubblicata né verifica di terze parti.</p>
+<p>Bland's self-reported metric: over 92% of participants in screenings could not identify Tofu-1 as an AI. This is a bold claim, though it comes with the caveat that it's entirely self-reported with no published methodology or third-party verification.</p>
 
-<h2>Cosa non sappiamo ancora</h2>
+<h2>What We Don't Know Yet</h2>
 
-<p>Qui la recensione si complica. Tofu-1 è in anteprima di ricerca e Bland ha tenuto riservate diverse informazioni fondamentali:</p>
+<p>Here's where the review gets complicated. Tofu-1 is in research preview, and Bland has withheld several critical pieces of information:</p>
 
 <ul>
-<li><strong>Nessun benchmark pubblicato</strong> — nessun risultato standardizzato rispetto ai benchmark consolidati dell'AI vocale</li>
-<li><strong>Dimensioni del modello non divulgate</strong> — non possiamo valutare i requisiti infrastrutturali</li>
-<li><strong>Nessun prezzo annunciato</strong> — impossibile calcolare il costo per chiamata o confrontarlo con i concorrenti</li>
-<li><strong>Nessuna metrica di latenza</strong> — il tempo di risposta è cruciale nelle conversazioni telefoniche e non è stato condiviso alcun dato</li>
-<li><strong>Nessun test di terze parti</strong> — l'affermazione del 92% di indistinguibilità dall'umano non è stata verificata in modo indipendente</li>
+<li><strong>No published benchmarks</strong> — No standardized test results against established voice AI benchmarks</li>
+<li><strong>No model size disclosed</strong> — We can't assess infrastructure requirements</li>
+<li><strong>No pricing announced</strong> — Impossible to calculate cost per call or compare with competitors</li>
+<li><strong>No latency metrics</strong> — Response time is critical for phone conversations, and no numbers have been shared</li>
+<li><strong>No third-party testing</strong> — The 92% human-indistinguishable claim has not been independently verified</li>
 </ul>
 
-<p>Questa mancanza di informazioni è il motivo principale del nostro voto. Il concetto tecnologico è convincente, ma non possiamo verificare le dichiarazioni.</p>
+<p>This information gap is the primary reason for our grade. The technology concept is compelling, but we can't verify the claims.</p>
 
-<h2>Il panorama competitivo</h2>
+<h2>Competitive Landscape</h2>
 
-<p>Tofu-1 entra in un mercato dell'AI vocale in rapida crescita. Ecco come si confronta con le alternative note:</p>
+<p>Tofu-1 enters a rapidly growing voice AI market. Here's how it compares to known alternatives:</p>
 
 <table>
 <thead>
-<tr><th>Caratteristica</th><th>Bland Tofu-1</th><th>OpenAI GPT-Live</th><th>Nvidia VoiceChat</th></tr>
+<tr><th>Feature</th><th>Bland Tofu-1</th><th>OpenAI GPT-Live</th><th>Nvidia VoiceChat</th></tr>
 </thead>
 <tbody>
-<tr><td>Architettura</td><td>Speech-to-speech</td><td>Multimodale</td><td>Speech-to-speech</td></tr>
-<tr><td>Full duplex</td><td>Sì</td><td>Sì</td><td>Sì</td></tr>
-<tr><td>Caso d'uso target</td><td>Chiamate aziendali</td><td>Assistente generale</td><td>Open source</td></tr>
-<tr><td>Disponibilità</td><td>Anteprima di ricerca</td><td>GA (Pro)</td><td>Pesi aperti</td></tr>
-<tr><td>Prezzi</td><td>Non annunciati</td><td>Incluso nel piano</td><td>Gratuito (self-host)</td></tr>
+<tr><td>Architecture</td><td>Speech-to-speech</td><td>Multimodal</td><td>Speech-to-speech</td></tr>
+<tr><td>Full duplex</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Target use case</td><td>Enterprise calls</td><td>General assistant</td><td>Open source</td></tr>
+<tr><td>Availability</td><td>Research preview</td><td>GA (Pro)</td><td>Open weights</td></tr>
+<tr><td>Prezzi</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
 </tbody>
 </table>
 
-<p>L'elemento distintivo di Bland è la concentrazione totale sulle telefonate aziendali in ambienti audio difficili. Mentre GPT-Live e i concorrenti puntano all'AI conversazionale generale, Tofu-1 è progettato apposta per i problemi specifici della telefonia aziendale.</p>
+<p>Bland's differentiation is its laser focus on enterprise phone calls in challenging audio environments. While GPT-Live and competitors target general conversational AI, Tofu-1 is purpose-built for the specific problems of business telephony.</p>
 
-<h2>Chi dovrebbe prestare attenzione</h2>
+<h2>Who Should Pay Attention</h2>
 
-<p><strong>Sì, da seguire da vicino:</strong></p>
+<p><strong>Yes, watch this closely:</strong></p>
 <ul>
-<li>Contact center che gestiscono grandi volumi di chiamate in entrata</li>
-<li>Organizzazioni sanitarie con interazioni telefoniche con i pazienti</li>
-<li>Compagnie assicurative che elaborano sinistri per telefono</li>
-<li>Società di servizi finanziari con operazioni telefoniche soggette a requisiti di conformità</li>
+<li>Contact centers handling high-volume inbound calls</li>
+<li>Healthcare organizations with phone-based patient interactions</li>
+<li>Insurance companies processing claims by phone</li>
+<li>Financial services firms with compliance-sensitive phone operations</li>
 </ul>
 
-<p><strong>Non ancora utilizzabile per:</strong></p>
+<p><strong>Not yet actionable for:</strong></p>
 <ul>
-<li>Piccole imprese che cercano un bot telefonico oggi (solo anteprima di ricerca)</li>
-<li>Sviluppatori che vogliono costruirci sopra (ancora nessuna API pubblica)</li>
-<li>Chiunque abbia bisogno di prezzi trasparenti per pianificare il budget</li>
+<li>Small businesses looking for a phone bot today (research preview only)</li>
+<li>Developers wanting to build on top of it (no public API yet)</li>
+<li>Anyone needing transparent pricing for budget planning</li>
 </ul>
 
-<h2>Bland AI: il contesto aziendale</h2>
+<h2>Bland AI: Company Context</h2>
 
-<p>Fondata nel 2023 da Isaiah Granet e Sobhan Nejad, Bland ha raccolto oltre 100 milioni di dollari entro metà 2026, incluso un round da 50 milioni a giugno 2026. L'azienda elabora oltre 3,5 milioni di chiamate a settimana per clienti enterprise tra cui Samsara e Kin Insurance. I prezzi standard di Bland partono da 0,14 $/minuto nel livello self-service.</p>
+<p>Founded in 2023 by Isaiah Granet and Sobhan Nejad, Bland raised over $100 million by mid-2026, including a $50 million round in June 2026. The company processes over 3.5 million calls per week for enterprise clients including Samsara and Kin Insurance. Bland's standard pricing starts at $0.14/minute on the self-service tier.</p>
 
-<p>Tofu-1 è il primo modello di quella che Bland descrive come una famiglia pianificata di modelli speech-to-speech, il che suggerisce che potrebbero seguire varianti più specializzate.</p>
+<p>Tofu-1 is the first model in what Bland describes as a planned family of speech-to-speech models, suggesting that more specialized variants may follow.</p>
 
-<h2>Il verdetto di AIGradeLab: B</h2>
+<h2>AIGradeLab Verdict: B</h2>
 
-<p>Tofu-1 di Bland AI ottiene una <strong>B</strong> — un voto che riflette una reale ambizione tecnica frenata dalla mancanza di prove verificabili. Il concetto di un modello speech-to-speech full-duplex ottimizzato per le chiamate aziendali rumorose è esattamente ciò di cui il mercato ha bisogno. Se le dichiarazioni reggeranno ai test indipendenti, potrebbe diventare un prodotto di livello A.</p>
+<p>Bland AI's Tofu-1 earns a <strong>B</strong> — a grade that reflects genuine technical ambition held back by a lack of verifiable evidence. The concept of a full-duplex speech-to-speech model optimized for noisy enterprise calls is exactly what the market needs. If the claims hold up under independent testing, this could be an A-tier product.</p>
 
-<p>Ma un'"anteprima di ricerca" senza benchmark, senza prezzi e senza validazione di terze parti significa che stiamo valutando una promessa, non un prodotto. Riesamineremo Tofu-1 quando passerà alla disponibilità generale con dati di prestazione pubblicati.</p>
+<p>But "research preview" with no benchmarks, no pricing, and no third-party validation means we're grading a promise, not a product. We'll revisit when Tofu-1 moves to general availability with published performance data.</p>
 
 <table>
 <thead>
-<tr><th>Categoria</th><th>Punteggio</th><th>Note</th></tr>
+<tr><th>Category</th><th>Score</th><th>Notes</th></tr>
 </thead>
 <tbody>
-<tr><td>UX / Esperienza per gli sviluppatori</td><td>7/10</td><td>La piattaforma di Bland è curata, integrazione di Tofu-1 da definire</td></tr>
-<tr><td>Qualità / Affidabilità</td><td>8/10</td><td>Dichiarazioni forti, non verificate in modo indipendente</td></tr>
-<tr><td>Rapporto qualità-prezzo</td><td>5/10</td><td>Impossibile valutare — nessun prezzo disponibile</td></tr>
-<tr><td>Integrazione</td><td>6/10</td><td>Anteprima di ricerca, accesso limitato</td></tr>
-<tr><td>Supporto / Community</td><td>6/10</td><td>Orientato alle aziende, ancora nessuna community pubblica</td></tr>
+<tr><td>UX / Developer Experience</td><td>7/10</td><td>Bland's platform is polished, Tofu-1 integration TBD</td></tr>
+<tr><td>Quality / Reliability</td><td>8/10</td><td>Strong claims, unverified independently</td></tr>
+<tr><td>Value</td><td>5/10</td><td>Can't assess — no pricing available</td></tr>
+<tr><td>Integrazione</td><td>6/10</td><td>Research preview, limited access</td></tr>
+<tr><td>Support / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
 </tbody>
 </table>

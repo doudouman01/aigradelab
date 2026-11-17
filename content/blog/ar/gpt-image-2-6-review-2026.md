@@ -1,6 +1,6 @@
 ---
-title: "GPT Image 2.6 Review 2026: GIFs, Faster Generation, and What Actually Changed"
-description: "We tested OpenAI's GPT Image 2.6 released November 4, 2026. GIF creation, reference images, SVG export, and 50% faster generation. Here is our honest grade."
+title: "مراجعة GPT Image 2.6 في 2026: مُختبر ومُقيَّم"
+description: "مراجعة شاملة لـ GPT Image 2.6 مع تقييم شفاف."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
@@ -62,8 +62,8 @@ toolName: "ChatGPT Images 2.6"
     <tr><td>Reference images</td><td><strong>Yes</strong></td><td>Style references</td><td>No</td></tr>
     <tr><td>Conversational editing</td><td><strong>Best</strong></td><td>Limited</td><td>Limited</td></tr>
     <tr><td>Speed</td><td>6-25 seconds</td><td>10-60 seconds</td><td><strong>2-5 seconds</strong></td></tr>
-    <tr><td>خطة مجانية</td><td>Yes (limited)</td><td>No</td><td>Yes</td></tr>
-    <tr><td>السعر</td><td>$20/mo (ChatGPT Plus)</td><td>$10-120/mo</td><td>Free-$20/mo</td></tr>
+    <tr><td>Free tier</td><td>Yes (limited)</td><td>No</td><td>Yes</td></tr>
+    <tr><td>Price</td><td>$20/mo (ChatGPT Plus)</td><td>$10-120/mo</td><td>Free-$20/mo</td></tr>
   </tbody>
 </table>
 
@@ -78,11 +78,11 @@ toolName: "ChatGPT Images 2.6"
 </ul>
 <p>The pace of iteration — three major versions in seven months — shows how aggressively OpenAI is investing in image generation to compete with Midjourney and Google.</p>
 
-<h2>التسعير</h2>
+<h2>Pricing</h2>
 <p>GPT Image 2.6 is available through ChatGPT on all tiers:</p>
 <table>
   <thead>
-    <tr><th>ChatGPT Plan</th><th>السعر</th><th>Image Access</th></tr>
+    <tr><th>ChatGPT Plan</th><th>Price</th><th>Image Access</th></tr>
   </thead>
   <tbody>
     <tr><td>Free</td><td>$0</td><td>Limited daily generations</td></tr>
@@ -97,7 +97,7 @@ toolName: "ChatGPT Images 2.6"
 <p>The grade is held back from A+ because the artistic quality still does not match Midjourney v8.2, the GIF feature has real limitations, and the speed improvements are less dramatic than claimed at higher quality settings.</p>
 <p>If you already use ChatGPT, Images 2.6 makes it a significantly more capable visual creation tool — the GIF and reference image features alone are worth exploring. If you need the absolute best image quality and are willing to pay for a separate subscription, Midjourney remains the aesthetic leader.</p>
 
-<h2>الأسئلة الشائعة</h2>
+<h2>FAQ</h2>
 
 <h3>Can ChatGPT make GIFs now?</h3>
 <p>Yes. GPT Image 2.6 (November 2026) introduced native GIF creation. Turn any prompt or existing image into a short animated GIF directly in ChatGPT. Available on all tiers including Free.</p>

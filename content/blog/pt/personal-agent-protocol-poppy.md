@@ -1,11 +1,12 @@
 ---
-title: "Personal Agent Protocol (Poppy): O Novo Padrão Que Permite Agentes de IA Agir em Seu Nome"
+title: "Personal Agent Protocol (Poppy): The New Standard That Lets AI Agents Act on Your Behalf"
 description: "Sierra released Poppy 1.0 on November 13, 2026 — an open protocol that defines how personal AI agents connect to businesses, authenticate users, and complete tasks. Shopify and Meta are already on board."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-19"
-readTime: "8 min de leitura"
+readTime: "8 min read"
 ---
+
 <h2>AI Agents Just Got a Front Door to Every Business</h2>
 
 <p>On November 13, 2026, Sierra released Personal Agent Protocol 1.0 — an open standard it calls <strong>Poppy</strong> — that defines how a person's AI agent connects to a business through its website, APIs, or business agent. The protocol is already live: Shopify auto-enabled it across its entire merchant platform, and Meta's Muse agent now looks for Poppy when visiting any website.</p>
@@ -99,7 +100,7 @@ readTime: "8 min de leitura"
 
 <p>Put them together and you get a world where your AI agent can browse Shopify stores, authenticate with your account, select products, pay with your wallet, and handle returns — all without you opening a browser.</p>
 
-<h2>O Que Isso Significa para Businesses</h2>
+<h2>What This Means for Businesses</h2>
 
 <p>If you run an online store, Poppy should be on your radar immediately. Here's why:</p>
 
@@ -120,7 +121,7 @@ readTime: "8 min de leitura"
 
 <p>Poppy is built on existing standards (OAuth, JWT, HTTPS, OpenAPI, MCP), so most businesses can implement it using tools they already have.</p>
 
-<h2>O Que Isso Significa para AI Tool Users</h2>
+<h2>What This Means for AI Tool Users</h2>
 
 <p>If you use AI agents — Claude, ChatGPT, Gemini, or Meta's Muse — Poppy matters because it's the infrastructure that will determine <strong>what your agent can actually do for you</strong>.</p>
 
@@ -136,7 +137,7 @@ readTime: "8 min de leitura"
 
 <p>The key word is "you." Poppy is designed with user control at its center. You authenticate, you grant permissions, you can revoke access at any time. The agent acts on your behalf, not on its own.</p>
 
-<h2>Security Contrasiderations</h2>
+<h2>Security Considerations</h2>
 
 <p>Poppy's security model is worth examining closely:</p>
 
