@@ -1,12 +1,11 @@
 ---
-title: "Google Workspace Gets Custom AI Skills: Build Your Own Gemini Automations"
-description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Here's what it means for business productivity."
+title: "Google Workspace Ganha Skills Personalizadas de IA: Crie Suas Próprias Automações Gemini"
+description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Veja o que it means for business productivity."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-22"
 readTime: "7 min de leitura"
 ---
-
 <h2>Gemini Skills Are Rolling Out Across Google Workspace</h2>
 
 <p>Google is deploying one of the most practical AI features we've seen this year: Skills in Google Workspace. Announced during the week of November 13, 2026, Skills are reusable, custom instructions that guide Gemini to apply your team's specific rules, templates, and reference files — consistently, every time.</p>
@@ -47,7 +46,7 @@ readTime: "7 min de leitura"
 
 <h2>Gemini Omni 1.2 Flash in Google Vids</h2>
 
-<p>Google also updated Google Vids with Gemini Omni 1.2 Flash, bringing longer-duration video generation (up to 15 seconds) with improved character consistency and vocal realism. Users get three free 15-second clips per month.</p>
+<p>Google also updated Google Vids with Gemini Omni 1.2 Flash, bringing longer-duration video generation (up to 15 seconds) with improved character consistency and vocal realism. Users get three free 15-second clips por mês.</p>
 
 <p>For businesses creating quick product demos, social content, or internal training videos, this is a meaningful upgrade. The 15-second limit and three-per-month cap keep it firmly in the "supplement your video workflow" category rather than replacing dedicated video tools.</p>
 
@@ -57,7 +56,7 @@ readTime: "7 min de leitura"
 
 <p>Use cases include routing customer support tickets, prioritizing task queues, and making binary go/no-go decisions based on structured data inputs. The Decisions API returns structured outputs with confidence scores, making it easier to integrate into automated workflows.</p>
 
-<h2>What This Means for Business Productivity</h2>
+<h2>O Que Isso Significa para Business Productivity</h2>
 
 <h3>The Skill Economy Is Coming</h3>
 
@@ -105,9 +104,9 @@ readTime: "7 min de leitura"
 <li><strong>Version control</strong> — Keep notes on what you changed and why. Skills evolve as your processes do.</li>
 </ul>
 
-<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">FerramentaCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
+<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">ToolCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
 
-<h2>Resumo</h2>
+<h2>Conclusão</h2>
 
 <p>Google Workspace Skills are the most practically useful AI feature Google has shipped this quarter. They solve a real problem — inconsistent AI outputs across teams — with a straightforward solution. Combined with expanded Gemini in Gmail, video generation in Vids, and the new Decisions API, Google is making a strong case that Workspace is the AI-first productivity suite for businesses.</p>
 

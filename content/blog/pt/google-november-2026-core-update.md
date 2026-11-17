@@ -1,12 +1,11 @@
 ---
-title: "Google's November 2026 Core Update: What Changed and What It Means for AI Websites"
-description: "Google's third core update of 2026 is rolling out. Here's what AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
+title: "Google November 2026 Core Update: O Que Mudou e O Que Significa para Sites de IA"
+description: "Google's third core update of 2026 is rolling out. Veja o que AI tool websites and content creators need to know about rankings, AI Overviews, and recovery."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
 readTime: "10 min de leitura"
 ---
-
 <h2>Another Core Update, Another Round of Ranking Volatility</h2>
 
 <p>Google started rolling out its November 2026 Core Update on November 10, 2026. It's the third broad core update of the year — following the March and May updates — and Google says the rollout could take up to two weeks to complete, putting the estimated finish around November 24.</p>
@@ -55,15 +54,15 @@ readTime: "10 min de leitura"
 <li><strong>Transactional content is relatively stable.</strong> Buying guides, comparison pages, and "best of" lists with genuine product evaluation methodology are showing less volatility than informational content.</li>
 </ul>
 
-<h2>What This Means for AI Ferramenta Websites</h2>
+<h2>O Que Isso Significa para AI Tool Websites</h2>
 
-<p>If you run a site that reviews, compares, or covers AI tools — as we do here at AINotaLab — here's how to think about this update:</p>
+<p>If you run a site that reviews, compares, or covers AI tools — as we do here at AIGradeLab — here's how to think about this update:</p>
 
 <h3>1. Original Testing Is Your Moat</h3>
 
 <p>Google is getting better at distinguishing between someone who actually used a tool and someone who rewrote the marketing page. If your reviews include original screenshots, specific test results, real use-case examples, and honest limitations, you're in good shape. If your content could have been written without ever opening the tool, it's vulnerable.</p>
 
-<p>At AINotaLab, every graded review includes hands-on testing with documented methodology — this is exactly the kind of content Google's algorithm evolution keeps rewarding.</p>
+<p>At AIGradeLab, every graded review includes hands-on testing with documented methodology — this is exactly the kind of content Google's algorithm evolution keeps rewarding.</p>
 
 <h3>2. Update Your Existing Content</h3>
 
@@ -88,7 +87,7 @@ readTime: "10 min de leitura"
 <ul>
 <li>Structure your content with clear, factual statements that can be easily extracted</li>
 <li>Use data, numbers, and specific comparisons — AI overviews love concrete details</li>
-<li>Include structured data (Perguntas frequentes schema, review schema, comparison tables)</li>
+<li>Include structured data (Perguntas Frequentes schema, review schema, comparison tables)</li>
 <li>Make your unique value proposition obvious — why should Google cite your page instead of a competitor's?</li>
 </ul>
 
@@ -126,10 +125,10 @@ readTime: "10 min de leitura"
 
 <p>We'll update this article when Google confirms the rollout is complete and when enough post-update data is available to draw firmer conclusions.</p>
 
-<h2>Resumo</h2>
+<h2>Conclusão</h2>
 
 <p>The November 2026 Core Update is not revolutionary on its own — it's the continuation of a direction Google has been moving in all year. Original expertise, genuine testing, editorial depth, and content that serves users better than an AI summary can on its own. If that describes your content, this update is working in your favor.</p>
 
 <p>The bigger story this week is the shift to Gemini 4 Hydrogen powering AI Overviews. That's the change that will shape traffic patterns for AI tool websites into 2027.</p>
 
-<p><em>While you wait for rankings to stabilize, make sure your site is running fast with the right tools. Check out our free <a href="https://toolcraftkit.com">site optimization tools at FerramentaCraftKit</a> — including our SEO meta tag checker and page speed analyzer.</em></p>
+<p><em>While you wait for rankings to stabilize, make sure your site is running fast with the right tools. Check out our free <a href="https://toolcraftkit.com">site optimization tools at ToolCraftKit</a> — including our SEO meta tag checker and page speed analyzer.</em></p>

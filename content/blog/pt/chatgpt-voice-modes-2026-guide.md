@@ -1,12 +1,11 @@
 ---
-title: "ChatGPT Is Retiring Advanced Voice: Everything You Need to Know About GPT-Live"
-description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Here's what GPT-Live replaces, what changes, and how to prepare for the transition."
+title: "ChatGPT Vai Aposentar o Advanced Voice: Tudo Que Você Precisa Saber Sobre o GPT-Live"
+description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Veja o que GPT-Live replaces, what changes, and how to prepare for the transition."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
 readTime: "7 min de leitura"
 ---
-
 <h2>The Voice Transition Is Coming</h2>
 
 <p>OpenAI has confirmed that ChatGPT will retire both Advanced Voice and Standard Voice on December 11, 2026. The company is consolidating its voice capabilities around GPT-Live, its newer and more capable voice model. If you use ChatGPT's voice features regularly, here's everything you need to know about the switch.</p>
@@ -53,9 +52,9 @@ readTime: "7 min de leitura"
 
 <h3>ChatGPT Plus and Pro Subscribers</h3>
 
-<p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
+<p>If you're on a plano pago, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
 
-<h3>Plano gratuito Users</h3>
+<h3>Free Tier Users</h3>
 
 <p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
 
@@ -77,7 +76,7 @@ readTime: "7 min de leitura"
 
 <p>If you've built any processes around ChatGPT's voice features — daily briefings, brainstorming sessions, hands-free note-taking — test them with GPT-Live during the transition period to catch any behavioral differences.</p>
 
-<h3>3. Check Your API Integraçãos</h3>
+<h3>3. Check Your API Integrations</h3>
 
 <p>Developers should review the GPT-Live API documentation and test their integrations well before the December 11 deadline. Don't wait for the last day.</p>
 
@@ -105,10 +104,10 @@ readTime: "7 min de leitura"
 
 <p>The cascade approach — speech to text to model to speech — is becoming a legacy architecture. If your business relies on voice AI, planning for native multimodal is the right long-term bet.</p>
 
-<h2>Resumo</h2>
+<h2>Conclusão</h2>
 
 <p>The retirement of Advanced and Standard Voice is a cleanup, not a downgrade. GPT-Live is objectively better in every measurable dimension. The main risk is for developers and businesses with hard-coded integrations against the old API endpoints — test now, migrate early, and you'll be fine.</p>
 
 <p>For most users, you won't notice a thing on December 12. Voice in ChatGPT will just work — and work better than it ever has.</p>
 
-<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at FerramentaCraftKit to stay on top of your AI evaluations.</em></p>
+<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at ToolCraftKit to stay on top of your AI evaluations.</em></p>

@@ -1,12 +1,11 @@
 ---
-title: "Nvidia's CEO Resignation: What Jensen Huang's Exit Means for AI Hardware"
-description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Here's what it means for AI GPU pricing, the competitive landscape, and the tools you use every day."
+title: "Renúncia do CEO da Nvidia: O Que a Saída de Jensen Huang Significa para o Hardware de IA"
+description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Veja o que it means for AI GPU pricing, the competitive landscape, and the tools you use every day."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
 readTime: "8 min de leitura"
 ---
-
 <h2>The End of an Era at Nvidia</h2>
 
 <p>On November 11, 2026, Jensen Huang — the co-founder who built Nvidia from a graphics card company into the most consequential AI hardware maker on the planet — resigned as president, CEO, and board member. The resignation was effective immediately.</p>
@@ -36,7 +35,7 @@ readTime: "8 min de leitura"
 
 <p>Nvidia has said it will consider both internal and external candidates for the permanent CEO position. No timeline has been given for the search.</p>
 
-<h2>What This Means for AI Hardware</h2>
+<h2>O Que Isso Significa para AI Hardware</h2>
 
 <p>Nvidia currently commands roughly 80-90% of the AI training chip market. Its GPUs power the data centers behind ChatGPT, Claude, Gemini, and virtually every major AI tool you use. The question everyone is asking: does this change anything?</p>
 
@@ -54,7 +53,7 @@ readTime: "8 min de leitura"
 
 <p><strong>Custom silicon is accelerating.</strong> Google's TPUs, Amazon's Trainium chips, and Microsoft's Maia accelerators are all gaining ground. A Nvidia without Jensen's personal relationships with CEOs like Satya Nadella and Sundar Pichai may find it harder to defend its premium pricing.</p>
 
-<h3>Long Term: GPU Pricing Could Shift</h3>
+<h3>Long Term: GPU Preços Could Shift</h3>
 
 <p>For end users of AI tools, the most meaningful impact could be on pricing. Nvidia's dominant market position has allowed it to maintain extremely high margins on its data center GPUs. If competition intensifies during this transition period, cloud providers could eventually pass savings through to AI tool pricing.</p>
 
@@ -68,7 +67,7 @@ readTime: "8 min de leitura"
 
 <p>For the AI industry at large, this episode underscores just how high the geopolitical stakes around AI hardware have become. The U.S.-China chip war isn't just a policy debate — it's playing out in the personal lives of tech executives.</p>
 
-<h2>What to Watch Next</h2>
+<h2>O Que Observar em Seguida</h2>
 
 <p>Several things to monitor in the coming weeks and months:</p>
 
@@ -79,7 +78,7 @@ readTime: "8 min de leitura"
 <li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
 </ul>
 
-<h2>Resumo</h2>
+<h2>Conclusão</h2>
 
 <p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
 
@@ -87,4 +86,4 @@ readTime: "8 min de leitura"
 
 <p>We'll be updating this analysis as the earnings call and CEO search develop. Bookmark this page and check back.</p>
 
-<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at FerramentaCraftKit</a> — no GPU drama required.</em></p>
+<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at ToolCraftKit</a> — no GPU drama required.</em></p>

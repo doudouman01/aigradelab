@@ -1,31 +1,30 @@
 ---
-title: "Canva Análise 2026: AI Design for Everyone — Testado e avaliado"
-description: "Testamos Canva's AI-powered design platform — Magic Studio, text-to-image, video editing, and brand kits. Full review with scores. Atualizado novembro 2026."
+title: "Canva Review 2026: AI Design for Everyone — Tested and Graded"
+description: "Testamos Canva's AI-powered design platform — Magic Studio, text-to-image, video editing, and brand kits. Full review with scores. Atualizado em novembro de 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
 readTime: "13 min de leitura"
 grade: "A"
-scores_ux: 9.5
-scores_quality: 8.5
-scores_value: 9.0
-scores_integration: 8.5
-scores_support: 8.0
+scores_ux: "9.5"
+scores_quality: "8.5"
+scores_value: "9.0"
+scores_integration: "8.5"
+scores_support: "8.0"
 toolName: "Canva"
 ---
-
-<h2>Canva in 2026: The Design Ferramenta That Ate Everything</h2>
+<h2>Canva in 2026: The Design Tool That Ate Everything</h2>
 <p>Canva is no longer just a design tool — it is a full creative platform. Presentations, social media graphics, videos, websites, whiteboards, print materials, brand kits, and now AI-powered generation for all of it. With Magic Studio, Canva has integrated AI into every part of the design workflow: generate images from text, remove backgrounds with one click, resize designs for every platform, translate text across languages, and create entire presentations from a prompt.</p>
-<p>At $13/month for Canva Pro (or free for the basic version), the value proposition is hard to beat. We tested every major feature across real design workflows.</p>
+<p>At $13/mês for Canva Pro (or free for the basic version), the value proposition is hard to beat. We tested every major feature across real design workflows.</p>
 
 <h2>Canva Scores</h2>
-<div class="score-card"><h3>Overall Nota: A</h3>
-  <div class="score-row"><span class="score-label">Facilidade de uso</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">Qualidade do resultado</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Custo-benefício</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Integração</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Suporte</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+<div class="score-card"><h3>Overall Grade: A</h3>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
 <h2>Magic Studio: Canva's AI Features</h2>
@@ -62,23 +61,23 @@ toolName: "Canva"
 <h2>Canva Free vs Pro vs Teams</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Free</th><th>Pro ($13/mo)</th><th>Teams ($10/user/mo)</th></tr>
+    <tr><th>Recurso</th><th>Free</th><th>Pro ($13/mo)</th><th>Teams ($10/usuário/mo)</th></tr>
   </thead>
   <tbody>
     <tr><td>Templates</td><td>250,000+</td><td>610,000+</td><td>610,000+</td></tr>
     <tr><td>Stock photos</td><td>1M+ free</td><td>100M+ premium</td><td>100M+ premium</td></tr>
-    <tr><td>Magic Design AI</td><td>Limited</td><td>Unlimited</td><td>Unlimited</td></tr>
-    <tr><td>Background Remover</td><td>No</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Magic Resize</td><td>No</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Brand Kit</td><td>No</td><td>1 kit</td><td>Multiple kits</td></tr>
+    <tr><td>Magic Design AI</td><td>Limitado</td><td>Unlimited</td><td>Unlimited</td></tr>
+    <tr><td>Background Remover</td><td>Não</td><td>Sim</td><td>Sim</td></tr>
+    <tr><td>Magic Resize</td><td>Não</td><td>Sim</td><td>Sim</td></tr>
+    <tr><td>Brand Kit</td><td>Não</td><td>1 kit</td><td>Multiple kits</td></tr>
     <tr><td>Storage</td><td>5 GB</td><td>1 TB</td><td>1 TB per user</td></tr>
-    <tr><td>Premium templates</td><td>No</td><td>Yes</td><td>Yes</td></tr>
+    <tr><td>Premium templates</td><td>Não</td><td>Sim</td><td>Sim</td></tr>
   </tbody>
 </table>
 
-<h2>Who Should Use Canva?</h2>
+<h2>Quem Deve Usar Canva?</h2>
 
-<h3>Ideal para</h3>
+<h3>Melhor Para</h3>
 <ul>
   <li><strong>Small businesses</strong> — professional designs without hiring a designer</li>
   <li><strong>Social media managers</strong> — Magic Resize + templates = fastest content production</li>
@@ -98,7 +97,7 @@ toolName: "Canva"
 <h2>Canva vs the Competition</h2>
 
 <h3>Canva vs Adobe Express</h3>
-<p>Adobe Express is Adobe's answer to Canva — similar template-based design with AI features. Adobe Express benefits from Firefly AI image generation (higher quality than Canva's) and Adobe Fonts. But Canva's template library is larger, the interface is more intuitive, and the free tier is more generous. For most users, Canva wins on ease and value.</p>
+<p>Adobe Express is Adobe's answer to Canva — similar template-based design with AI features. Adobe Express benefits from Firefly AI image generation (higher quality than Canva's) and Adobe Fonts. But Canva's template library is larger, the interface is more intuitive, and the plano gratuito is more generous. For most users, Canva wins on ease and value.</p>
 
 <h3>Canva vs Figma</h3>
 <p>Different tools for different users. Figma is for professional UI/UX designers building design systems and interactive prototypes. Canva is for everyone else who needs to create visual content. There's almost no overlap — choose based on whether you're designing interfaces or creating content.</p>
@@ -106,15 +105,15 @@ toolName: "Canva"
 <h3>Canva vs ChatGPT (GPT Image)</h3>
 <p>ChatGPT's GPT Image generates stunning AI images but can't create complete designs — no layouts, no text placement, no templates. Canva creates complete, ready-to-use designs with AI assistance. Use GPT Image for custom illustrations, use Canva for everything else.</p>
 
-<h2>Prós and Contras Summary</h2>
+<h2>Prós e Contras Summary</h2>
 <h3>Prós</h3>
 <ul>
   <li>Easiest design tool available — zero learning curve</li>
   <li>Magic Studio AI features genuinely save time</li>
-  <li>Best value — Pro at $13/month includes everything</li>
+  <li>Best value — Pro at $13/mês includes everything</li>
   <li>Massive template library for every use case</li>
   <li>All-in-one — designs, presentations, videos, websites, print</li>
-  <li>Free tier is genuinely usable</li>
+  <li>Plano gratuito is genuinely usable</li>
 </ul>
 <h3>Contras</h3>
 <ul>
@@ -122,25 +121,25 @@ toolName: "Canva"
   <li>Limited control compared to professional tools</li>
   <li>Magic Write text quality is basic</li>
   <li>No offline mode — requires internet</li>
-  <li>Export options limited on free tier</li>
+  <li>Export options limited on plano gratuito</li>
 </ul>
 
-<h2>Final Verdict: A</h2>
+<h2>Final Veredicto: A</h2>
 <p>Canva has earned its place as the world's most popular design tool by being absurdly easy to use and absurdly good value. The AI features (Magic Studio) have made it even more powerful without adding complexity. For small businesses, content creators, and anyone who needs professional-looking designs without professional design skills, Canva is the clear choice.</p>
-<p><strong>Our recommendation:</strong> Start with Canva Free. Upgrade to Pro ($13/month) when you need Background Remover, Magic Resize, or premium templates. For most users, Pro pays for itself within the first week.</p>
+<p><strong>Our recommendation:</strong> Start with Canva Free. Upgrade to Pro ($13/mês) when you need Background Remover, Magic Resize, or premium templates. For most users, Pro pays for itself within the first week.</p>
 
-<h2>Perguntas frequentes</h2>
+<h2>Perguntas Frequentes</h2>
 
 <h3>Is Canva Pro worth it in 2026?</h3>
-<p>Yes — for anyone creating visual content regularly. Background Remover, Magic Resize, premium templates, and 100M+ stock photos at $13/month is exceptional value. The free tier is fine for occasional use.</p>
+<p>Yes — for anyone creating visual content regularly. Background Remover, Magic Resize, premium templates, and 100M+ stock photos at $13/mês is exceptional value. The plano gratuito is fine for occasional use.</p>
 
 <h3>Can Canva replace Photoshop?</h3>
 <p>For social media graphics, presentations, and marketing materials — yes. For professional photo editing, compositing, and print production — no. Canva replaces the need for Photoshop for 80% of what most people use Photoshop for.</p>
 
 <h3>Is Canva good for business?</h3>
-<p>Excellent. The Teams plan ($10/user/month) adds Brand Kit, approval workflows, and shared templates. For small to medium businesses without a design team, Canva is the most cost-effective solution.</p>
+<p>Excellent. The Teams plan ($10/usuário/mês) adds Brand Kit, approval workflows, and shared templates. For small to medium businesses without a design team, Canva is the most cost-effective solution.</p>
 
 <h3>Is Canva AI art good enough for commercial use?</h3>
 <p>For social media posts and presentations — yes. For hero images, advertising campaigns, or brand-critical visuals — consider Midjourney or GPT Image for higher quality AI generation, then bring the images into Canva for layout.</p>
 
-<p><em>Canva was tested by AINotaLab across social media, presentations, video, and print design workflows. Nota reflects practical value for non-designers as of November 2026. Pricing verified on canva.com.</em></p>
+<p><em>Canva was tested by AIGradeLab across social media, presentations, video, and print design workflows. Grade reflects practical value for non-designers as of November 2026. Preços verified on canva.com.</em></p>

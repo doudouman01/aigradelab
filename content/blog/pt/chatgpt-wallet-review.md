@@ -7,14 +7,13 @@ date: "2026-11-17"
 lastTested: "2026-11-15"
 readTime: "9 min de leitura"
 grade: "B+"
-scores_ux: 7
-scores_quality: 8
-scores_value: 6
-scores_integration: 8
-scores_support: 7
+scores_ux: "7"
+scores_quality: "8"
+scores_value: "6"
+scores_integration: "8"
+scores_support: "7"
 toolName: "ChatGPT Wallet"
 ---
-
 <h2>What Is ChatGPT Wallet?</h2>
 
 <p>ChatGPT Wallet is OpenAI's new payment feature that lets AI agents — specifically ChatGPT's "dot" agent — complete purchases on your behalf without ever seeing your actual credit card number. Think of it as a secure intermediary layer between your payment method and the merchants your AI agent interacts with.</p>
@@ -37,7 +36,7 @@ toolName: "ChatGPT Wallet"
 
 <p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
 
-<h2>O que gostamosd</h2>
+<h2>O Que Gostamosd</h2>
 
 <h3>Security Architecture Is Thoughtful</h3>
 
@@ -45,7 +44,7 @@ toolName: "ChatGPT Wallet"
 
 <p>The biometric confirmation step adds a critical human-in-the-loop check. You always see exactly what you're buying and how much you're paying before anything is charged. This isn't just a "confirm" button — it's a full transaction summary with biometric verification.</p>
 
-<h3>Major Card Network Suporte from Day One</h3>
+<h3>Major Card Network Support from Day One</h3>
 
 <p>Launching with Visa, Mastercard, and American Express covers the vast majority of credit and debit cards in the US market. This isn't a startup trying to get merchants to adopt a new payment rail — it's built on existing payment infrastructure that merchants already accept.</p>
 
@@ -57,7 +56,7 @@ toolName: "ChatGPT Wallet"
 
 <h3>Pro-Only, US-Only: The Biggest Limitation</h3>
 
-<p>At $200/month, ChatGPT Pro is OpenAI's premium tier. Restricting Wallet to Pro users means the feature is only available to a small fraction of ChatGPT's 900+ million weekly active users. The average consumer who could most benefit from automated shopping isn't paying $200/month for an AI subscription.</p>
+<p>At $200/mês, ChatGPT Pro is OpenAI's premium tier. Restricting Wallet to Pro users means the feature is only available to a small fraction of ChatGPT's 900+ million weekly active users. The average consumer who could most benefit from automated shopping isn't paying $200/mês for an AI subscription.</p>
 
 <p>The US-only restriction further narrows the addressable market. OpenAI hasn't announced a timeline for international expansion, though the involvement of global card networks suggests it's planned.</p>
 
@@ -86,11 +85,11 @@ toolName: "ChatGPT Wallet"
 
 <p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
 
-<h2>Pricing</h2>
+<h2>Preços</h2>
 
-<p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
+<p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/mês). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
 
-<p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
+<p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/mês). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
 
 <h2>Privacy and Data Contrasiderations</h2>
 
@@ -103,13 +102,13 @@ toolName: "ChatGPT Wallet"
 <li>Purchase data is not used for model training (per OpenAI's Pro subscriber data policy)</li>
 </ul>
 
-<h2>Who Should Use ChatGPT Wallet</h2>
+<h2>Quem Deve Usar ChatGPT Wallet</h2>
 
 <p><strong>Good fit:</strong> ChatGPT Pro subscribers who already use the dot agent regularly, frequent online shoppers who value time savings, professionals who expense routine purchases, and early adopters who want to experience the future of agentic commerce.</p>
 
 <p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
 
-<h2>Our Nota: B+</h2>
+<h2>Nossa Nota: B+</h2>
 
 <table>
 <thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>
@@ -117,8 +116,8 @@ toolName: "ChatGPT Wallet"
 <tr><td>UX</td><td>7/10</td><td>Clean setup, but error handling needs polish</td></tr>
 <tr><td>Quality</td><td>8/10</td><td>Tokenized security is best-in-class for a v1</td></tr>
 <tr><td>Value</td><td>6/10</td><td>Pro-only pricing limits accessibility</td></tr>
-<tr><td>Integração</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
-<tr><td>Suporte</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
+<tr><td>Integration</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
+<tr><td>Support</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
 </tbody>
 </table>
 
@@ -126,4 +125,4 @@ toolName: "ChatGPT Wallet"
 
 <p>This grade will likely move up as OpenAI expands access and improves reliability. We'll retest when Plus tier access and international support arrive.</p>
 
-<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">FerramentaCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>
+<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">ToolCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>

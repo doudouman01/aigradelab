@@ -7,14 +7,13 @@ date: "2026-11-21"
 lastTested: "2026-11-18"
 readTime: "9 min de leitura"
 grade: "B"
-scores_ux: 7
-scores_quality: 8
-scores_value: 5
-scores_integration: 6
-scores_support: 6
+scores_ux: "7"
+scores_quality: "8"
+scores_value: "5"
+scores_integration: "6"
+scores_support: "6"
 toolName: "Bland AI Tofu-1"
 ---
-
 <h2>What Is Tofu-1?</h2>
 
 <p>Tofu-1 is Bland's first speech-to-speech model, announced on November 13, 2026 as a research preview. Unlike most voice AI agents that work as cascades — converting speech to text, processing with a language model, then converting back to speech — Tofu-1 processes audio directly. It hears, reasons, and replies without ever leaving the audio domain.</p>
@@ -67,14 +66,14 @@ toolName: "Bland AI Tofu-1"
 
 <table>
 <thead>
-<tr><th>Feature</th><th>Bland Tofu-1</th><th>OpenAI GPT-Live</th><th>Nvidia VoiceChat</th></tr>
+<tr><th>Recurso</th><th>Bland Tofu-1</th><th>OpenAI GPT-Live</th><th>Nvidia VoiceChat</th></tr>
 </thead>
 <tbody>
 <tr><td>Architecture</td><td>Speech-to-speech</td><td>Multimodal</td><td>Speech-to-speech</td></tr>
-<tr><td>Full duplex</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
+<tr><td>Full duplex</td><td>Sim</td><td>Sim</td><td>Sim</td></tr>
 <tr><td>Target use case</td><td>Enterprise calls</td><td>General assistant</td><td>Open source</td></tr>
 <tr><td>Availability</td><td>Research preview</td><td>GA (Pro)</td><td>Open weights</td></tr>
-<tr><td>Pricing</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
+<tr><td>Preços</td><td>Not announced</td><td>Included in plan</td><td>Free (self-host)</td></tr>
 </tbody>
 </table>
 
@@ -103,7 +102,7 @@ toolName: "Bland AI Tofu-1"
 
 <p>Tofu-1 is the first model in what Bland describes as a planned family of speech-to-speech models, suggesting that more specialized variants may follow.</p>
 
-<h2>AINotaLab Verdict: B</h2>
+<h2>AIGradeLab Veredicto: B</h2>
 
 <p>Bland AI's Tofu-1 earns a <strong>B</strong> — a grade that reflects genuine technical ambition held back by a lack of verifiable evidence. The concept of a full-duplex speech-to-speech model optimized for noisy enterprise calls is exactly what the market needs. If the claims hold up under independent testing, this could be an A-tier product.</p>
 
@@ -117,7 +116,7 @@ toolName: "Bland AI Tofu-1"
 <tr><td>UX / Developer Experience</td><td>7/10</td><td>Bland's platform is polished, Tofu-1 integration TBD</td></tr>
 <tr><td>Quality / Reliability</td><td>8/10</td><td>Strong claims, unverified independently</td></tr>
 <tr><td>Value</td><td>5/10</td><td>Can't assess — no pricing available</td></tr>
-<tr><td>Integração</td><td>6/10</td><td>Research preview, limited access</td></tr>
-<tr><td>Suporte / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
+<tr><td>Integration</td><td>6/10</td><td>Research preview, limited access</td></tr>
+<tr><td>Support / Community</td><td>6/10</td><td>Enterprise-focused, no public community yet</td></tr>
 </tbody>
 </table>
