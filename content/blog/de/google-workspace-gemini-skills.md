@@ -1,114 +1,114 @@
 ---
-title: "Google Workspace Gets Custom AI Skills: Build Your Own Gemini Automations"
-description: "Google is rolling out Skills in Workspace — reusable custom instructions for Gemini across Docs, Sheets, Gmail, and more. Here's what it means for business productivity."
+title: "Google Workspace bekommt eigene KI-Skills: Bauen Sie Ihre eigenen Gemini-Automatisierungen"
+description: "Google führt Skills in Workspace ein – wiederverwendbare Anweisungen für Gemini in Docs, Sheets, Gmail und mehr. Das bedeutet es für die Produktivität im Unternehmen."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-22"
-readTime: "7 min read"
+readTime: "7 Min. Lesezeit"
 ---
 
-<h2>Gemini Skills Are Rolling Out Across Google Workspace</h2>
+<h2>Gemini Skills werden in ganz Google Workspace ausgerollt</h2>
 
-<p>Google is deploying one of the most practical AI features we've seen this year: Skills in Google Workspace. Announced during the week of November 13, 2026, Skills are reusable, custom instructions that guide Gemini to apply your team's specific rules, templates, and reference files — consistently, every time.</p>
+<p>Google führt eine der praxisnahesten KI-Funktionen des Jahres ein: Skills in Google Workspace. Die in der Woche des 13. November 2026 angekündigten Skills sind wiederverwendbare, individuelle Anweisungen, die Gemini dazu bringen, die spezifischen Regeln, Vorlagen und Referenzdateien Ihres Teams anzuwenden – konsistent, jedes Mal.</p>
 
-<p>Think of it as building your own Gemini automations without writing code. Instead of re-explaining your formatting preferences, company terminology, or review processes every time you prompt Gemini, you create a Skill once and apply it across Workspace apps.</p>
+<p>Man kann es sich als eigene Gemini-Automatisierungen ohne Programmieren vorstellen. Statt Ihre Formatierungswünsche, Firmenbegriffe oder Prüfprozesse bei jedem Prompt neu zu erklären, erstellen Sie einen Skill einmal und nutzen ihn in allen Workspace-Apps.</p>
 
-<h2>What Are Gemini Skills?</h2>
+<h2>Was sind Gemini Skills?</h2>
 
-<p>A Skill is a saved set of instructions that tells Gemini how to handle a specific type of task. When you invoke a Skill, Gemini follows those instructions using whatever context you provide — a document, a spreadsheet, an email thread.</p>
+<p>Ein Skill ist ein gespeicherter Satz von Anweisungen, der Gemini sagt, wie es eine bestimmte Aufgabenart erledigen soll. Wenn Sie einen Skill aufrufen, folgt Gemini diesen Anweisungen anhand des Kontexts, den Sie bereitstellen – ein Dokument, eine Tabelle, ein E-Mail-Verlauf.</p>
 
-<h3>Examples of What You Can Build</h3>
+<h3>Beispiele, was Sie bauen können</h3>
 
 <ul>
-<li><strong>Brand voice reviewer</strong> — A Skill that checks any document against your company's style guide and flags deviations</li>
-<li><strong>Meeting notes formatter</strong> — Converts raw meeting transcripts into your team's standard format with action items, owners, and deadlines</li>
-<li><strong>Email response template</strong> — Drafts customer replies following your support team's tone, escalation rules, and product terminology</li>
-<li><strong>Financial report analyzer</strong> — Summarizes spreadsheet data using your company's KPI definitions and reporting format</li>
-<li><strong>Code review checklist</strong> — Reviews code snippets against your team's specific standards and conventions</li>
+<li><strong>Prüfer für die Markensprache</strong> – Ein Skill, der jedes Dokument mit dem Styleguide Ihres Unternehmens abgleicht und Abweichungen markiert</li>
+<li><strong>Formatierer für Meeting-Notizen</strong> – Wandelt rohe Meeting-Transkripte in das Standardformat Ihres Teams um, mit Aufgaben, Verantwortlichen und Fristen</li>
+<li><strong>Vorlage für E-Mail-Antworten</strong> – Entwirft Kundenantworten gemäß Tonfall, Eskalationsregeln und Produktterminologie Ihres Support-Teams</li>
+<li><strong>Analyse von Finanzberichten</strong> – Fasst Tabellendaten anhand Ihrer KPI-Definitionen und Ihres Berichtsformats zusammen</li>
+<li><strong>Code-Review-Checkliste</strong> – Prüft Code-Schnipsel anhand der spezifischen Standards und Konventionen Ihres Teams</li>
 </ul>
 
-<h2>Where Skills Work</h2>
+<h2>Wo Skills funktionieren</h2>
 
-<p>Skills are rolling out across two environments:</p>
+<p>Skills werden in zwei Umgebungen ausgerollt:</p>
 
 <h3>Google Workspace Studio</h3>
 
-<p>Workspace Studio is Google's low-code/no-code platform for building business automations. Skills created here can be shared across your organization and integrated into broader workflow automations.</p>
+<p>Workspace Studio ist Googles Low-Code/No-Code-Plattform für Geschäftsautomatisierungen. Hier erstellte Skills lassen sich im ganzen Unternehmen teilen und in umfassendere Workflow-Automatisierungen einbinden.</p>
 
-<h3>Workspace Apps</h3>
+<h3>Workspace-Apps</h3>
 
-<p>Skills are available directly within the Workspace apps you already use: Docs, Sheets, Slides, Gmail, and Meet. This means you can invoke a Skill from the Gemini side panel while working on a document, without switching to a separate tool.</p>
+<p>Skills sind direkt in den Workspace-Apps verfügbar, die Sie ohnehin nutzen: Docs, Sheets, Slides, Gmail und Meet. Sie können also einen Skill aus dem Gemini-Seitenbereich aufrufen, während Sie an einem Dokument arbeiten, ohne das Tool zu wechseln.</p>
 
-<h2>Also This Week: Gemini Expands in Gmail</h2>
+<h2>Ebenfalls diese Woche: Gemini in Gmail wird ausgeweitet</h2>
 
-<p>Alongside the Skills rollout, Google is expanding Gemini in Gmail to more Workspace users aged 18 and older. Previously limited to specific plan tiers, Gemini-powered features in Gmail — smart compose, email summarization, reply suggestions — are becoming available to a broader set of Workspace accounts.</p>
+<p>Parallel zum Skills-Rollout weitet Google Gemini in Gmail auf mehr Workspace-Nutzer ab 18 Jahren aus. Gemini-Funktionen in Gmail – intelligentes Verfassen, E-Mail-Zusammenfassungen, Antwortvorschläge –, die bisher auf bestimmte Tarifstufen beschränkt waren, stehen künftig einem breiteren Kreis von Workspace-Konten zur Verfügung.</p>
 
-<p>The expansion covers both Rapid Release and Scheduled Release domains, meaning most organizations should see the features within the next few weeks.</p>
+<p>Die Ausweitung betrifft sowohl Rapid-Release- als auch Scheduled-Release-Domains, sodass die meisten Organisationen die Funktionen in den nächsten Wochen sehen sollten.</p>
 
 <h2>Gemini Omni 1.2 Flash in Google Vids</h2>
 
-<p>Google also updated Google Vids with Gemini Omni 1.2 Flash, bringing longer-duration video generation (up to 15 seconds) with improved character consistency and vocal realism. Users get three free 15-second clips per month.</p>
+<p>Google hat außerdem Google Vids mit Gemini Omni 1.2 Flash aktualisiert. Es erzeugt längere Videos (bis zu 15 Sekunden) mit besserer Figurenkonsistenz und realistischerer Stimme. Nutzer erhalten drei kostenlose 15-Sekunden-Clips pro Monat.</p>
 
-<p>For businesses creating quick product demos, social content, or internal training videos, this is a meaningful upgrade. The 15-second limit and three-per-month cap keep it firmly in the "supplement your video workflow" category rather than replacing dedicated video tools.</p>
+<p>Für Unternehmen, die schnelle Produktdemos, Social-Content oder interne Schulungsvideos erstellen, ist das ein spürbares Upgrade. Das 15-Sekunden-Limit und die Begrenzung auf drei Clips pro Monat machen es aber eher zur Ergänzung des Video-Workflows als zum Ersatz für spezialisierte Videotools.</p>
 
 <h2>Gemini Decisions API</h2>
 
-<p>On November 11, Google launched the Gemini Decisions API, powered by the new Gemini Decision 1 model. Available through the Gemini API and Google AI Studio, this API is designed for applications that need structured decision-making rather than free-form text generation.</p>
+<p>Am 11. November hat Google die Gemini Decisions API gestartet, angetrieben vom neuen Modell Gemini Decision 1. Die über die Gemini API und Google AI Studio verfügbare API ist für Anwendungen gedacht, die strukturierte Entscheidungen statt freier Textgenerierung benötigen.</p>
 
-<p>Use cases include routing customer support tickets, prioritizing task queues, and making binary go/no-go decisions based on structured data inputs. The Decisions API returns structured outputs with confidence scores, making it easier to integrate into automated workflows.</p>
+<p>Anwendungsfälle sind unter anderem das Routing von Support-Tickets, die Priorisierung von Aufgabenwarteschlangen und binäre Go/No-go-Entscheidungen auf Basis strukturierter Eingabedaten. Die Decisions API liefert strukturierte Ausgaben mit Konfidenzwerten, was die Einbindung in automatisierte Workflows erleichtert.</p>
 
-<h2>What This Means for Business Productivity</h2>
+<h2>Was das für die Produktivität im Unternehmen bedeutet</h2>
 
-<h3>The Skill Economy Is Coming</h3>
+<h3>Die Skill-Ökonomie kommt</h3>
 
-<p>Skills represent a shift in how businesses use AI. Instead of every employee crafting their own prompts (with wildly varying quality), organizations can create standardized Skills that encode their best practices. This means:</p>
-
-<ul>
-<li><strong>Consistency</strong> — Every team member produces output that follows the same standards</li>
-<li><strong>Onboarding</strong> — New hires can use organizational Skills immediately without learning institutional knowledge first</li>
-<li><strong>Quality control</strong> — Skills can embed review criteria and compliance requirements</li>
-<li><strong>Scalability</strong> — Build once, deploy to hundreds of users</li>
-</ul>
-
-<h3>Competition with Microsoft Copilot</h3>
-
-<p>Google's Skills feature directly competes with Microsoft's Copilot agents and custom instructions in the M365 ecosystem. The approaches differ — Google's Skills are more template-driven while Microsoft's Copilot agents can be more agentic — but the goal is the same: let businesses customize AI behavior without code.</p>
-
-<p>For organizations choosing between Google Workspace and Microsoft 365, AI customization capabilities are becoming a decision factor alongside traditional feature comparisons.</p>
-
-<h2>How to Get Started</h2>
-
-<h3>For Workspace Admins</h3>
-
-<ol>
-<li>Check your Workspace edition — Skills require Business Standard or higher</li>
-<li>Enable Gemini features in the Admin Console if not already active</li>
-<li>Access Workspace Studio to create and manage organization-wide Skills</li>
-<li>Start with 2-3 high-impact Skills that address your team's most repetitive AI tasks</li>
-</ol>
-
-<h3>For Individual Users</h3>
-
-<ol>
-<li>Open any Workspace app (Docs, Sheets, Gmail)</li>
-<li>Open the Gemini side panel</li>
-<li>Look for the Skills option in the prompt interface</li>
-<li>Create personal Skills or use organization-shared ones</li>
-</ol>
-
-<h3>Skill Design Tips</h3>
+<p>Skills markieren einen Wandel darin, wie Unternehmen KI nutzen. Statt dass jeder Mitarbeiter eigene Prompts von stark schwankender Qualität schreibt, können Organisationen standardisierte Skills erstellen, die ihre Best Practices abbilden. Das bedeutet:</p>
 
 <ul>
-<li><strong>Be specific</strong> — Vague instructions produce vague results. Include examples of good and bad output.</li>
-<li><strong>Include reference files</strong> — Attach your style guide, templates, or sample documents to give Gemini concrete examples.</li>
-<li><strong>Test iteratively</strong> — Run your Skill against different inputs to find edge cases before sharing it with your team.</li>
-<li><strong>Version control</strong> — Keep notes on what you changed and why. Skills evolve as your processes do.</li>
+<li><strong>Konsistenz</strong> – Jedes Teammitglied liefert Ergebnisse nach denselben Standards</li>
+<li><strong>Onboarding</strong> – Neue Mitarbeiter können Unternehmens-Skills sofort nutzen, ohne zuerst das interne Wissen zu lernen</li>
+<li><strong>Qualitätskontrolle</strong> – Skills können Prüfkriterien und Compliance-Anforderungen enthalten</li>
+<li><strong>Skalierbarkeit</strong> – Einmal bauen, an Hunderte Nutzer ausrollen</li>
 </ul>
 
-<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">ToolCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
+<h3>Konkurrenz zu Microsoft Copilot</h3>
+
+<p>Googles Skills-Funktion konkurriert direkt mit Microsofts Copilot-Agenten und individuellen Anweisungen im M365-Ökosystem. Die Ansätze unterscheiden sich – Googles Skills sind stärker vorlagenbasiert, während Microsofts Copilot-Agenten agentischer sein können –, das Ziel ist aber dasselbe: Unternehmen sollen das KI-Verhalten ohne Code anpassen können.</p>
+
+<p>Für Organisationen, die zwischen Google Workspace und Microsoft 365 wählen, werden KI-Anpassungsmöglichkeiten neben den klassischen Funktionsvergleichen zu einem Entscheidungsfaktor.</p>
+
+<h2>So fangen Sie an</h2>
+
+<h3>Für Workspace-Administratoren</h3>
+
+<ol>
+<li>Prüfen Sie Ihre Workspace-Edition – Skills erfordern Business Standard oder höher</li>
+<li>Aktivieren Sie die Gemini-Funktionen in der Admin-Konsole, falls noch nicht geschehen</li>
+<li>Rufen Sie Workspace Studio auf, um unternehmensweite Skills zu erstellen und zu verwalten</li>
+<li>Beginnen Sie mit 2–3 wirkungsvollen Skills für die repetitivsten KI-Aufgaben Ihres Teams</li>
+</ol>
+
+<h3>Für einzelne Nutzer</h3>
+
+<ol>
+<li>Öffnen Sie eine beliebige Workspace-App (Docs, Sheets, Gmail)</li>
+<li>Öffnen Sie den Gemini-Seitenbereich</li>
+<li>Suchen Sie in der Prompt-Oberfläche nach der Option Skills</li>
+<li>Erstellen Sie persönliche Skills oder nutzen Sie die im Unternehmen geteilten</li>
+</ol>
+
+<h3>Tipps für das Skill-Design</h3>
+
+<ul>
+<li><strong>Seien Sie konkret</strong> – Vage Anweisungen führen zu vagen Ergebnissen. Fügen Sie Beispiele für gute und schlechte Ausgaben bei.</li>
+<li><strong>Referenzdateien einbinden</strong> – Hängen Sie Ihren Styleguide, Vorlagen oder Beispieldokumente an, damit Gemini konkrete Vorbilder hat.</li>
+<li><strong>Iterativ testen</strong> – Testen Sie Ihren Skill mit unterschiedlichen Eingaben, um Randfälle zu finden, bevor Sie ihn mit dem Team teilen.</li>
+<li><strong>Versionierung</strong> – Halten Sie fest, was Sie warum geändert haben. Skills entwickeln sich mit Ihren Prozessen weiter.</li>
+</ul>
+
+<p>Wenn Sie Produktivitäts-Workflows über mehrere Tools hinweg verwalten, bietet <a href="https://toolcraftkit.com">ToolCraftKit</a> kostenlose Hilfsprogramme – von Rechnungsgeneratoren bis zu Pomodoro-Timern –, die Ihr Workspace-Setup ergänzen, ohne zusätzliche Abokosten zu verursachen.</p>
 
 <h2>Fazit</h2>
 
-<p>Google Workspace Skills are the most practically useful AI feature Google has shipped this quarter. They solve a real problem — inconsistent AI outputs across teams — with a straightforward solution. Combined with expanded Gemini in Gmail, video generation in Vids, and the new Decisions API, Google is making a strong case that Workspace is the AI-first productivity suite for businesses.</p>
+<p>Google Workspace Skills sind die praktisch nützlichste KI-Funktion, die Google in diesem Quartal veröffentlicht hat. Sie lösen ein echtes Problem – uneinheitliche KI-Ergebnisse in Teams – mit einer unkomplizierten Lösung. Zusammen mit dem erweiterten Gemini in Gmail, der Videogenerierung in Vids und der neuen Decisions API macht Google ein starkes Argument dafür, dass Workspace die KI-first-Produktivitätssuite für Unternehmen ist.</p>
 
-<p>The question isn't whether to start using Skills — it's which processes to standardize first.</p>
+<p>Die Frage ist nicht, ob Sie Skills nutzen sollten – sondern welche Prozesse Sie zuerst standardisieren.</p>

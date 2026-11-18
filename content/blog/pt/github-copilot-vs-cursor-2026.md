@@ -1,144 +1,144 @@
 ---
-title: "GitHub Copilot vs Cursor 2026: Which AI Coding Tool Wins?"
-description: "We tested GitHub Copilot and Cursor side by side for code completion, chat, debugging, and multi-file editing. Full head-to-head comparison. Updated November 2026."
+title: "GitHub Copilot vs Cursor 2026: Qual Ferramenta de Programação com IA Vence?"
+description: "Testamos o GitHub Copilot e o Cursor lado a lado em autocompletar código, chat, depuração e edição de vários arquivos. Comparação frente a frente completa. Atualizado em novembro de 2026."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 min read"
+readTime: "14 min de leitura"
 ---
 
-<h2>The Two AI Coding Giants Go Head-to-Head</h2>
-<p>GitHub Copilot and Cursor are the two dominant AI coding tools in 2026. Copilot is the Microsoft-backed powerhouse integrated into VS Code and JetBrains. Cursor is the challenger — a fork of VS Code rebuilt from the ground up around AI. Both promise to make developers 2-5x more productive. We tested both across real development workflows to find out which one actually delivers.</p>
+<h2>Os Dois Gigantes da Programação com IA Frente a Frente</h2>
+<p>O GitHub Copilot e o Cursor são as duas ferramentas de programação com IA dominantes em 2026. O Copilot é o gigante apoiado pela Microsoft, integrado ao VS Code e ao JetBrains. O Cursor é o desafiante: um fork do VS Code reconstruído do zero em torno da IA. Ambos prometem tornar os desenvolvedores de 2 a 5 vezes mais produtivos. Testamos os dois em fluxos de desenvolvimento reais para descobrir qual realmente entrega.</p>
 
-<h2>Quick Comparison</h2>
+<h2>Comparação Rápida</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>GitHub Copilot</th><th>Cursor</th></tr>
+    <tr><th>Recurso</th><th>GitHub Copilot</th><th>Cursor</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
-    <tr><td>Price</td><td>$10-19/mo</td><td>$20/mo (Pro)</td></tr>
-    <tr><td>Free tier</td><td>Yes (2,000 completions/mo)</td><td>Yes (limited)</td></tr>
-    <tr><td>Code completion</td><td>Excellent</td><td>Excellent</td></tr>
-    <tr><td>AI chat</td><td>Good</td><td>Superior</td></tr>
-    <tr><td>Multi-file editing</td><td>Limited</td><td>Best-in-class</td></tr>
-    <tr><td>Codebase awareness</td><td>Good</td><td>Superior</td></tr>
-    <tr><td>Editor</td><td>VS Code / JetBrains plugin</td><td>Standalone (VS Code fork)</td></tr>
-    <tr><td>Model choice</td><td>GPT-4o, Claude</td><td>GPT-4o, Claude, custom</td></tr>
-    <tr><td>Best for</td><td>Devs who stay in VS Code</td><td>AI-first developers</td></tr>
+    <tr><td><strong>Nota</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
+    <tr><td>Preço</td><td>US$ 10-19/mês</td><td>US$ 20/mês (Pro)</td></tr>
+    <tr><td>Plano gratuito</td><td>Sim (2.000 completions/mês)</td><td>Sim (limitado)</td></tr>
+    <tr><td>Autocompletar código</td><td>Excelente</td><td>Excelente</td></tr>
+    <tr><td>Chat com IA</td><td>Bom</td><td>Superior</td></tr>
+    <tr><td>Edição de vários arquivos</td><td>Limitada</td><td>A melhor da categoria</td></tr>
+    <tr><td>Percepção da base de código</td><td>Boa</td><td>Superior</td></tr>
+    <tr><td>Editor</td><td>Plugin do VS Code / JetBrains</td><td>Independente (fork do VS Code)</td></tr>
+    <tr><td>Escolha de modelo</td><td>GPT-4o, Claude</td><td>GPT-4o, Claude, personalizado</td></tr>
+    <tr><td>Ideal para</td><td>Devs que ficam no VS Code</td><td>Desenvolvedores AI-first</td></tr>
   </tbody>
 </table>
 
-<h2>Code Completion: Tie</h2>
-<p>Both tools provide excellent inline code completions. Type a function signature and both suggest the implementation. Start a comment and both generate the code described. The completion quality is nearly identical in 2026 — both use frontier models and both have refined their suggestion engines over years of data.</p>
-<p>The differences are subtle: Copilot tends to be slightly faster with single-line completions. Cursor's tab completion is more aggressive with multi-line suggestions and better at predicting your next edit based on the change you just made. For most developers, the completion experience is close enough that it shouldn't drive the decision.</p>
+<h2>Autocompletar Código: Empate</h2>
+<p>As duas ferramentas oferecem excelentes sugestões de código em linha. Digite uma assinatura de função e ambas sugerem a implementação. Comece um comentário e ambas geram o código descrito. A qualidade do autocompletar é quase idêntica em 2026: ambas usam modelos de ponta e ambas refinaram seus mecanismos de sugestão ao longo de anos de dados.</p>
+<p>As diferenças são sutis: o Copilot tende a ser um pouco mais rápido em sugestões de uma linha. O autocompletar com Tab do Cursor é mais agressivo em sugestões de várias linhas e melhor em prever sua próxima edição com base na alteração que você acabou de fazer. Para a maioria dos desenvolvedores, a experiência de autocompletar é próxima o bastante para não ser o fator de decisão.</p>
 
-<h2>AI Chat: Cursor Wins</h2>
-<p>This is where the gap opens. Cursor's chat (Cmd+L) is deeply integrated with your codebase. It indexes your entire project and answers questions with full context — "How does the authentication flow work in this project?" gets an accurate answer with file references. You can tag files with @filename, reference documentation with @docs, and even pull in web content with @web.</p>
-<p>Copilot Chat has improved significantly but still feels like a sidebar addition to VS Code rather than a core experience. It can reference open files and the current selection, but its codebase awareness is narrower. For simple questions about the code in front of you, both work well. For project-wide understanding, Cursor is clearly ahead.</p>
+<h2>Chat com IA: O Cursor Vence</h2>
+<p>É aqui que a distância se abre. O chat do Cursor (Cmd+L) é profundamente integrado à sua base de código. Ele indexa todo o seu projeto e responde perguntas com contexto completo: "Como funciona o fluxo de autenticação neste projeto?" recebe uma resposta precisa com referências a arquivos. Você pode marcar arquivos com @filename, consultar documentação com @docs e até trazer conteúdo da web com @web.</p>
+<p>O Copilot Chat melhorou bastante, mas ainda parece um acréscimo de barra lateral ao VS Code, e não uma experiência central. Ele consegue consultar arquivos abertos e a seleção atual, mas sua percepção da base de código é mais restrita. Para perguntas simples sobre o código à sua frente, ambos funcionam bem. Para entender o projeto como um todo, o Cursor está claramente à frente.</p>
 
-<h2>Multi-File Editing: Cursor Wins Decisively</h2>
-<p>This is Cursor's strongest advantage. Cursor Composer (Cmd+I) can make coordinated changes across multiple files simultaneously. Describe a feature — "Add a dark mode toggle that updates the theme context, the settings page, and the navbar component" — and Cursor generates changes across all three files with a diff view for each. Review, accept, or reject each change individually.</p>
-<p>Copilot's multi-file editing (Copilot Edits) has improved but still trails Cursor. It handles simpler cross-file changes but struggles with complex refactoring that touches 5+ files. For large-scale code changes, Cursor saves significant time.</p>
+<h2>Edição de Vários Arquivos: O Cursor Vence com Folga</h2>
+<p>Esta é a maior vantagem do Cursor. O Cursor Composer (Cmd+I) consegue fazer alterações coordenadas em vários arquivos simultaneamente. Descreva um recurso ("Adicione um alternador de modo escuro que atualize o contexto de tema, a página de configurações e o componente da barra de navegação") e o Cursor gera alterações nos três arquivos, com uma visualização de diff para cada um. Revise, aceite ou rejeite cada alteração individualmente.</p>
+<p>A edição de vários arquivos do Copilot (Copilot Edits) melhorou, mas ainda fica atrás do Cursor. Ela lida com alterações simples entre arquivos, mas tem dificuldade com refatorações complexas que tocam 5 ou mais arquivos. Para alterações de código em larga escala, o Cursor economiza um tempo significativo.</p>
 
-<h2>Codebase Understanding: Cursor Wins</h2>
-<p>Cursor indexes your entire codebase and builds a semantic understanding of your project structure, dependencies, and patterns. This means AI suggestions are informed by how your team writes code, which frameworks you use, and your project's architecture. The .cursorrules file lets you define project-specific instructions that guide all AI interactions.</p>
-<p>Copilot understands the files you have open and recently accessed, but its project-wide awareness is more limited. It knows the language, the framework, and common patterns, but it doesn't build the same deep index of your specific codebase.</p>
+<h2>Compreensão da Base de Código: O Cursor Vence</h2>
+<p>O Cursor indexa toda a sua base de código e constrói uma compreensão semântica da estrutura, das dependências e dos padrões do projeto. Isso significa que as sugestões de IA são informadas por como sua equipe escreve código, quais frameworks você usa e a arquitetura do projeto. O arquivo .cursorrules permite definir instruções específicas do projeto que orientam todas as interações com a IA.</p>
+<p>O Copilot entende os arquivos que você tem abertos e acessou recentemente, mas sua percepção do projeto como um todo é mais limitada. Ele conhece a linguagem, o framework e os padrões comuns, mas não constrói o mesmo índice profundo da sua base de código específica.</p>
 
-<h2>Agent Mode: Both Improving</h2>
-<p>Both tools now offer agent modes that can autonomously execute multi-step coding tasks — write code, run tests, fix errors, and iterate until the task is complete.</p>
-<p>Copilot's agent mode works within VS Code and can run terminal commands, read test output, and iterate on failures. It's reliable for well-defined tasks like "write tests for this function" or "fix the failing CI."</p>
-<p>Cursor's agent mode is more ambitious — it can plan complex features, create files, modify existing code, and run the development server to verify changes. The success rate on complex tasks is higher, though both still require developer oversight for anything non-trivial.</p>
+<h2>Modo Agente: Ambos Melhorando</h2>
+<p>As duas ferramentas agora oferecem modos de agente que podem executar autonomamente tarefas de programação de várias etapas: escrever código, rodar testes, corrigir erros e iterar até concluir a tarefa.</p>
+<p>O modo agente do Copilot funciona dentro do VS Code e pode executar comandos de terminal, ler a saída de testes e iterar sobre falhas. É confiável para tarefas bem definidas como "escreva testes para esta função" ou "corrija o CI que está falhando".</p>
+<p>O modo agente do Cursor é mais ambicioso: ele consegue planejar recursos complexos, criar arquivos, modificar código existente e executar o servidor de desenvolvimento para verificar as alterações. A taxa de sucesso em tarefas complexas é maior, embora ambos ainda exijam supervisão do desenvolvedor em qualquer coisa não trivial.</p>
 
-<h2>Editor Experience</h2>
+<h2>Experiência no Editor</h2>
 
-<h3>GitHub Copilot: Plugin in Your Editor</h3>
-<p>Copilot works as a plugin in VS Code, JetBrains IDEs (IntelliJ, PyCharm, WebStorm), Neovim, and Visual Studio. You keep your existing editor setup — themes, extensions, keybindings — and Copilot adds AI on top. For developers deeply invested in their VS Code or JetBrains configuration, this is a significant advantage.</p>
+<h3>GitHub Copilot: Plugin no Seu Editor</h3>
+<p>O Copilot funciona como plugin no VS Code, nas IDEs JetBrains (IntelliJ, PyCharm, WebStorm), no Neovim e no Visual Studio. Você mantém sua configuração de editor existente (temas, extensões, atalhos) e o Copilot adiciona IA por cima. Para desenvolvedores muito investidos na sua configuração do VS Code ou do JetBrains, essa é uma vantagem significativa.</p>
 
-<h3>Cursor: AI-Native Editor</h3>
-<p>Cursor is a standalone editor — a fork of VS Code with AI built into every interaction. Your VS Code extensions and settings import seamlessly, but you're switching editors. The benefit: every feature is designed around AI from the start, making the AI interactions more fluid and integrated. The cost: you're maintaining a separate editor.</p>
+<h3>Cursor: Editor Nativo de IA</h3>
+<p>O Cursor é um editor independente: um fork do VS Code com IA incorporada a cada interação. Suas extensões e configurações do VS Code são importadas sem problemas, mas você está trocando de editor. O benefício: cada recurso foi projetado em torno da IA desde o início, tornando as interações com a IA mais fluidas e integradas. O custo: você passa a manter um editor separado.</p>
 
-<h2>Model Flexibility</h2>
-<p>Both tools now offer model choice:</p>
+<h2>Flexibilidade de Modelos</h2>
+<p>Ambas as ferramentas agora oferecem escolha de modelo:</p>
 <ul>
-  <li><strong>Copilot:</strong> GPT-4o (default), Claude Sonnet, and Gemini options</li>
-  <li><strong>Cursor:</strong> GPT-4o, Claude Sonnet, Claude Opus, and the ability to add custom models via API key</li>
+  <li><strong>Copilot:</strong> GPT-4o (padrão), Claude Sonnet e opções do Gemini</li>
+  <li><strong>Cursor:</strong> GPT-4o, Claude Sonnet, Claude Opus e a possibilidade de adicionar modelos personalizados por chave de API</li>
 </ul>
-<p>Cursor's model flexibility is broader — you can bring your own API key for any model and switch per-conversation. Copilot's model options are more curated but cover the most popular choices.</p>
+<p>A flexibilidade de modelos do Cursor é maior: você pode usar sua própria chave de API para qualquer modelo e alternar por conversa. As opções de modelo do Copilot são mais selecionadas, mas cobrem as escolhas mais populares.</p>
 
-<h2>Preços Comparison</h2>
+<h2>Comparação de Preços</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>GitHub Copilot</th><th>Cursor</th></tr>
+    <tr><th>Plano</th><th>GitHub Copilot</th><th>Cursor</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>2,000 completions + 50 chats/mo</td><td>Limited completions + chats</td></tr>
-    <tr><td>Individual</td><td>$10/month</td><td>$20/month (Pro)</td></tr>
-    <tr><td>Business</td><td>$19/user/month</td><td>$40/user/month (Business)</td></tr>
-    <tr><td>Enterprise</td><td>$39/user/month</td><td>Custom</td></tr>
+    <tr><td>Free</td><td>2.000 completions + 50 chats/mês</td><td>Completions + chats limitados</td></tr>
+    <tr><td>Individual</td><td>US$ 10/mês</td><td>US$ 20/mês (Pro)</td></tr>
+    <tr><td>Business</td><td>US$ 19/usuário/mês</td><td>US$ 40/usuário/mês (Business)</td></tr>
+    <tr><td>Enterprise</td><td>US$ 39/usuário/mês</td><td>Personalizado</td></tr>
   </tbody>
 </table>
-<p>Copilot is significantly cheaper — $10/month vs $20/month for individuals. For teams, the gap widens: $19 vs $40 per user. The question is whether Cursor's superior multi-file editing and codebase awareness justify the 2x price premium.</p>
+<p>O Copilot é significativamente mais barato: US$ 10/mês contra US$ 20/mês para indivíduos. Para equipes, a diferença aumenta: US$ 19 contra US$ 40 por usuário. A questão é se a edição de vários arquivos e a percepção da base de código superiores do Cursor justificam o prêmio de 2x no preço.</p>
 
-<h2>Who Should Choose What</h2>
+<h2>Quem Deve Escolher o Quê</h2>
 
-<h3>Choose GitHub Copilot If:</h3>
+<h3>Escolha o GitHub Copilot Se:</h3>
 <ul>
-  <li>You want AI coding at the lowest cost ($10/month)</li>
-  <li>You're deeply invested in your VS Code or JetBrains setup</li>
-  <li>You primarily need code completion and simple chat</li>
-  <li>Your team uses GitHub and wants unified tooling</li>
-  <li>You work in JetBrains IDEs (Cursor is VS Code only)</li>
+  <li>Você quer programação com IA pelo menor custo (US$ 10/mês)</li>
+  <li>Você está muito investido na sua configuração do VS Code ou do JetBrains</li>
+  <li>Você precisa principalmente de autocompletar código e chat simples</li>
+  <li>Sua equipe usa o GitHub e quer ferramentas unificadas</li>
+  <li>Você trabalha em IDEs JetBrains (o Cursor é apenas VS Code)</li>
 </ul>
 
-<h3>Choose Cursor If:</h3>
+<h3>Escolha o Cursor Se:</h3>
 <ul>
-  <li>Multi-file editing is a daily workflow</li>
-  <li>You want the deepest codebase understanding</li>
-  <li>You're willing to pay $20/month for the best AI coding experience</li>
-  <li>You do complex refactoring and feature development</li>
-  <li>You want maximum model flexibility</li>
+  <li>A edição de vários arquivos é parte do seu dia a dia</li>
+  <li>Você quer a compreensão mais profunda da base de código</li>
+  <li>Você aceita pagar US$ 20/mês pela melhor experiência de programação com IA</li>
+  <li>Você faz refatorações complexas e desenvolvimento de recursos</li>
+  <li>Você quer máxima flexibilidade de modelos</li>
 </ul>
 
-<h2>O Veredicto</h2>
+<h2>O Veredito</h2>
 <table>
   <thead>
-    <tr><th>Category</th><th>Winner</th></tr>
+    <tr><th>Categoria</th><th>Vencedor</th></tr>
   </thead>
   <tbody>
-    <tr><td>Code Completion</td><td>Tie</td></tr>
-    <tr><td>AI Chat</td><td>Cursor</td></tr>
-    <tr><td>Multi-File Editing</td><td>Cursor</td></tr>
-    <tr><td>Codebase Awareness</td><td>Cursor</td></tr>
-    <tr><td>Agent Mode</td><td>Cursor (slight edge)</td></tr>
-    <tr><td>Editor Flexibility</td><td>Copilot (works in any editor)</td></tr>
-    <tr><td>Price</td><td>Copilot ($10 vs $20)</td></tr>
-    <tr><td>Enterprise/Team</td><td>Copilot (GitHub ecosystem)</td></tr>
-    <tr><td><strong>Overall</strong></td><td><strong>Cursor (for AI power) / Copilot (for value)</strong></td></tr>
+    <tr><td>Autocompletar Código</td><td>Empate</td></tr>
+    <tr><td>Chat com IA</td><td>Cursor</td></tr>
+    <tr><td>Edição de Vários Arquivos</td><td>Cursor</td></tr>
+    <tr><td>Percepção da Base de Código</td><td>Cursor</td></tr>
+    <tr><td>Modo Agente</td><td>Cursor (leve vantagem)</td></tr>
+    <tr><td>Flexibilidade de Editor</td><td>Copilot (funciona em qualquer editor)</td></tr>
+    <tr><td>Preço</td><td>Copilot (US$ 10 vs US$ 20)</td></tr>
+    <tr><td>Enterprise/Equipe</td><td>Copilot (ecossistema GitHub)</td></tr>
+    <tr><td><strong>Geral</strong></td><td><strong>Cursor (pelo poder da IA) / Copilot (pelo custo-benefício)</strong></td></tr>
   </tbody>
 </table>
 
-<h2>Final Take</h2>
-<p><strong>Cursor (A+)</strong> is the better AI coding tool in 2026. Multi-file editing, codebase understanding, and the AI-native editor experience give it a clear lead for developers who want maximum AI leverage. If you're building features, refactoring code, and doing complex development, Cursor's $20/month pays for itself in the first week.</p>
-<p><strong>GitHub Copilot (A)</strong> is the better value and the safer choice for teams. At half the price, with broader editor support and GitHub integration, Copilot delivers excellent AI coding assistance without requiring a new editor. For completion-focused workflows and JetBrains users, it's the clear choice.</p>
-<p><strong>Our recommendation:</strong> Try Cursor's free tier for a week. If multi-file editing and codebase chat transform your workflow, upgrade to Pro. If you find yourself mostly using completions, save $10/month and stay with Copilot.</p>
+<h2>Conclusão Final</h2>
+<p>O <strong>Cursor (A+)</strong> é a melhor ferramenta de programação com IA em 2026. A edição de vários arquivos, a compreensão da base de código e a experiência de editor nativo de IA dão a ele uma liderança clara para desenvolvedores que querem o máximo de alavancagem de IA. Se você está construindo recursos, refatorando código e fazendo desenvolvimento complexo, os US$ 20/mês do Cursor se pagam na primeira semana.</p>
+<p>O <strong>GitHub Copilot (A)</strong> é o melhor custo-benefício e a escolha mais segura para equipes. Pela metade do preço, com suporte a mais editores e integração com o GitHub, o Copilot entrega excelente assistência de programação com IA sem exigir um novo editor. Para fluxos focados em autocompletar e para usuários do JetBrains, é a escolha clara.</p>
+<p><strong>Nossa recomendação:</strong> Experimente o plano gratuito do Cursor por uma semana. Se a edição de vários arquivos e o chat sobre a base de código transformarem seu fluxo de trabalho, faça upgrade para o Pro. Se você perceber que usa principalmente o autocompletar, economize US$ 10/mês e fique com o Copilot.</p>
 
 <h2>Perguntas Frequentes</h2>
 
-<h3>Is Cursor worth $20/month over Copilot at $10?</h3>
-<p>For developers doing complex feature work and refactoring across multiple files — yes, easily. For developers who primarily use code completion and occasional chat — Copilot at $10 is the better value.</p>
+<h3>O Cursor vale US$ 20/mês em vez do Copilot a US$ 10?</h3>
+<p>Para desenvolvedores que fazem trabalho complexo de recursos e refatoração em vários arquivos, com certeza. Para desenvolvedores que usam principalmente autocompletar e chat ocasional, o Copilot a US$ 10 é o melhor custo-benefício.</p>
 
-<h3>Can I use both?</h3>
-<p>Technically yes, but there's no reason to. Cursor includes its own code completion that matches Copilot. Choose one.</p>
+<h3>Posso usar os dois?</h3>
+<p>Tecnicamente sim, mas não há motivo. O Cursor inclui seu próprio autocompletar de código, que se equipara ao do Copilot. Escolha um.</p>
 
-<h3>Does Cursor work with my VS Code extensions?</h3>
-<p>Yes. Cursor is a VS Code fork and supports virtually all VS Code extensions. Your themes, keybindings, and settings import with one click.</p>
+<h3>O Cursor funciona com minhas extensões do VS Code?</h3>
+<p>Sim. O Cursor é um fork do VS Code e é compatível com praticamente todas as extensões do VS Code. Seus temas, atalhos e configurações são importados com um clique.</p>
 
-<h3>Which is better for beginners?</h3>
-<p>GitHub Copilot — it's simpler, cheaper, and works inside the editor beginners are already learning (VS Code). Cursor's advanced features are more valuable for experienced developers.</p>
+<h3>Qual é melhor para iniciantes?</h3>
+<p>O GitHub Copilot: é mais simples, mais barato e funciona dentro do editor que os iniciantes já estão aprendendo (VS Code). Os recursos avançados do Cursor são mais valiosos para desenvolvedores experientes.</p>
 
-<h3>What about Claude Code and Windsurf?</h3>
-<p>Claude Code (Anthropic's CLI tool) is an agent that works from the terminal — different from both. Windsurf (formerly Codeium) is another AI editor worth considering, positioned between Copilot's price and Cursor's features. Leia nossa <a href="/pt/blog/best-ai-coding-tools-2026">Best AI Coding Tools 2026</a> for the full comparison.</p>
+<h3>E o Claude Code e o Windsurf?</h3>
+<p>O Claude Code (a ferramenta de linha de comando da Anthropic) é um agente que funciona a partir do terminal, diferente dos dois. O Windsurf (antigo Codeium) é outro editor de IA que vale considerar, posicionado entre o preço do Copilot e os recursos do Cursor. Leia nosso <a href="/pt/blog/best-ai-coding-tools-2026">Melhores Ferramentas de Programação com IA 2026</a> para a comparação completa.</p>
 
-<p><em>Both tools were tested by AIGradeLab across TypeScript, Python, and React projects over 30 days. Grades reflect practical development productivity as of November 2026. Preços verified on each platform's website.</em></p>
+<p><em>Ambas as ferramentas foram testadas pelo AIGradeLab em projetos de TypeScript, Python e React ao longo de 30 dias. As notas refletem a produtividade prática de desenvolvimento em novembro de 2026. Preços verificados no site de cada plataforma.</em></p>

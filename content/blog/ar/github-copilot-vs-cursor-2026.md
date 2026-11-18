@@ -1,144 +1,144 @@
 ---
-title: "GitHub Copilot مقابل Cursor في 2026: أي أداة برمجة بالذكاء الاصطناعي أفضل؟"
-description: "مقارنة شاملة بين GitHub Copilot و Cursor."
-category: "Head-to-Head"
+title: "GitHub Copilot مقابل Cursor 2026: أي أداة برمجة بالذكاء الاصطناعي تفوز؟"
+description: "اختبرنا GitHub Copilot وCursor جنبًا إلى جنب في إكمال الكود والدردشة وتصحيح الأخطاء والتحرير متعدد الملفات. مقارنة كاملة وجهًا لوجه. تحديث نوفمبر 2026."
+category: "مواجهات مباشرة"
 categorySlug: "head-to-head"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 min read"
+readTime: "وقت القراءة: 14 دقيقة"
 ---
 
-<h2>The Two AI Coding Giants Go Head-to-Head</h2>
-<p>GitHub Copilot and Cursor are the two dominant AI coding tools in 2026. Copilot is the Microsoft-backed powerhouse integrated into VS Code and JetBrains. Cursor is the challenger — a fork of VS Code rebuilt from the ground up around AI. Both promise to make developers 2-5x more productive. We tested both across real development workflows to find out which one actually delivers.</p>
+<h2>عملاقا البرمجة بالذكاء الاصطناعي وجهًا لوجه</h2>
+<p>GitHub Copilot وCursor هما أداتا البرمجة بالذكاء الاصطناعي المهيمنتان في 2026. Copilot هو القوة المدعومة من Microsoft والمدمجة في VS Code وJetBrains. وCursor هو المنافس — نسخة متفرعة من VS Code أُعيد بناؤها من الأساس حول الذكاء الاصطناعي. كلتاهما تعد بجعل المطورين أكثر إنتاجية بمقدار 2-5 أضعاف. اختبرنا الأداتين عبر مسارات تطوير حقيقية لنعرف أيهما يفي بالوعد فعلًا.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>GitHub Copilot</th><th>Cursor</th></tr>
+    <tr><th>الميزة</th><th>GitHub Copilot</th><th>Cursor</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
-    <tr><td>Price</td><td>$10-19/mo</td><td>$20/mo (Pro)</td></tr>
-    <tr><td>Free tier</td><td>Yes (2,000 completions/mo)</td><td>Yes (limited)</td></tr>
-    <tr><td>Code completion</td><td>Excellent</td><td>Excellent</td></tr>
-    <tr><td>AI chat</td><td>Good</td><td>Superior</td></tr>
-    <tr><td>Multi-file editing</td><td>Limited</td><td>Best-in-class</td></tr>
-    <tr><td>Codebase awareness</td><td>Good</td><td>Superior</td></tr>
-    <tr><td>Editor</td><td>VS Code / JetBrains plugin</td><td>Standalone (VS Code fork)</td></tr>
-    <tr><td>Model choice</td><td>GPT-4o, Claude</td><td>GPT-4o, Claude, custom</td></tr>
-    <tr><td>Best for</td><td>Devs who stay in VS Code</td><td>AI-first developers</td></tr>
+    <tr><td><strong>التقييم</strong></td><td><strong>A</strong></td><td><strong>A+</strong></td></tr>
+    <tr><td>السعر</td><td>$10-19/شهر</td><td>$20/شهر (Pro)</td></tr>
+    <tr><td>باقة مجانية</td><td>نعم (2,000 إكمال/شهر)</td><td>نعم (محدودة)</td></tr>
+    <tr><td>إكمال الكود</td><td>ممتاز</td><td>ممتاز</td></tr>
+    <tr><td>دردشة الذكاء الاصطناعي</td><td>جيدة</td><td>متفوقة</td></tr>
+    <tr><td>التحرير متعدد الملفات</td><td>محدود</td><td>الأفضل في فئته</td></tr>
+    <tr><td>الوعي بقاعدة الكود</td><td>جيد</td><td>متفوق</td></tr>
+    <tr><td>المحرر</td><td>إضافة VS Code / JetBrains</td><td>مستقل (نسخة متفرعة من VS Code)</td></tr>
+    <tr><td>اختيار النموذج</td><td>GPT-4o وClaude</td><td>GPT-4o وClaude ونماذج مخصصة</td></tr>
+    <tr><td>الأفضل لـ</td><td>المطورون الذين يبقون في VS Code</td><td>المطورون الذين يضعون الذكاء الاصطناعي أولًا</td></tr>
   </tbody>
 </table>
 
-<h2>Code Completion: Tie</h2>
-<p>Both tools provide excellent inline code completions. Type a function signature and both suggest the implementation. Start a comment and both generate the code described. The completion quality is nearly identical in 2026 — both use frontier models and both have refined their suggestion engines over years of data.</p>
-<p>The differences are subtle: Copilot tends to be slightly faster with single-line completions. Cursor's tab completion is more aggressive with multi-line suggestions and better at predicting your next edit based on the change you just made. For most developers, the completion experience is close enough that it shouldn't drive the decision.</p>
+<h2>إكمال الكود: تعادل</h2>
+<p>تقدم الأداتان إكمالات كود مضمَّنة ممتازة. اكتب توقيع دالة وكلتاهما تقترح التنفيذ. ابدأ تعليقًا وكلتاهما تولّد الكود الموصوف. جودة الإكمال متطابقة تقريبًا في 2026 — كلتاهما تستخدم نماذج رائدة وكلتاهما صقلتا محركات الاقتراح لديها عبر سنوات من البيانات.</p>
+<p>الفروق دقيقة: يميل Copilot إلى أن يكون أسرع قليلًا في الإكمالات ذات السطر الواحد. أما إكمال Tab في Cursor فأكثر جرأة في الاقتراحات متعددة الأسطر وأفضل في التنبؤ بتعديلك التالي بناءً على التغيير الذي أجريته للتو. ولمعظم المطورين، تجربة الإكمال متقاربة بما يكفي لأنها لا ينبغي أن تحدد القرار.</p>
 
-<h2>AI Chat: Cursor Wins</h2>
-<p>This is where the gap opens. Cursor's chat (Cmd+L) is deeply integrated with your codebase. It indexes your entire project and answers questions with full context — "How does the authentication flow work in this project?" gets an accurate answer with file references. You can tag files with @filename, reference documentation with @docs, and even pull in web content with @web.</p>
-<p>Copilot Chat has improved significantly but still feels like a sidebar addition to VS Code rather than a core experience. It can reference open files and the current selection, but its codebase awareness is narrower. For simple questions about the code in front of you, both work well. For project-wide understanding, Cursor is clearly ahead.</p>
+<h2>دردشة الذكاء الاصطناعي: Cursor يفوز</h2>
+<p>هنا تنفتح الفجوة. دردشة Cursor (Cmd+L) مدمجة بعمق مع قاعدة الكود لديك. تفهرس مشروعك بأكمله وتجيب عن الأسئلة بسياق كامل — «كيف يعمل مسار المصادقة في هذا المشروع؟» يحصل على إجابة دقيقة مع مراجع الملفات. يمكنك وسم الملفات بـ @filename والرجوع إلى التوثيق بـ @docs وحتى جلب محتوى الويب بـ @web.</p>
+<p>تحسنت Copilot Chat بشكل كبير لكنها ما زالت تبدو كإضافة جانبية إلى VS Code لا كتجربة أساسية. تستطيع الرجوع إلى الملفات المفتوحة والتحديد الحالي، لكن وعيها بقاعدة الكود أضيق. وللأسئلة البسيطة عن الكود أمامك، كلتاهما تعمل جيدًا. أما لفهم المشروع بأكمله، فـ Cursor متقدم بوضوح.</p>
 
-<h2>Multi-File Editing: Cursor Wins Decisively</h2>
-<p>This is Cursor's strongest advantage. Cursor Composer (Cmd+I) can make coordinated changes across multiple files simultaneously. Describe a feature — "Add a dark mode toggle that updates the theme context, the settings page, and the navbar component" — and Cursor generates changes across all three files with a diff view for each. Review, accept, or reject each change individually.</p>
-<p>Copilot's multi-file editing (Copilot Edits) has improved but still trails Cursor. It handles simpler cross-file changes but struggles with complex refactoring that touches 5+ files. For large-scale code changes, Cursor saves significant time.</p>
+<h2>التحرير متعدد الملفات: Cursor يفوز بحسم</h2>
+<p>هذه أقوى ميزة لـ Cursor. يستطيع Cursor Composer (Cmd+I) إجراء تغييرات منسقة عبر ملفات متعددة في آن واحد. صِف ميزة — «أضف مفتاح تبديل للوضع الداكن يحدّث سياق السمة وصفحة الإعدادات ومكوّن شريط التنقل» — وسيولّد Cursor تغييرات عبر الملفات الثلاثة مع عرض الفروقات لكل منها. راجع كل تغيير واقبله أو ارفضه على حدة.</p>
+<p>تحسن التحرير متعدد الملفات في Copilot (Copilot Edits) لكنه ما زال متأخرًا عن Cursor. يتعامل مع التغييرات البسيطة عبر الملفات لكنه يعاني في إعادة الهيكلة المعقدة التي تمس 5 ملفات أو أكثر. وللتغييرات الكبيرة في الكود، يوفر Cursor وقتًا كبيرًا.</p>
 
-<h2>Codebase Understanding: Cursor Wins</h2>
-<p>Cursor indexes your entire codebase and builds a semantic understanding of your project structure, dependencies, and patterns. This means AI suggestions are informed by how your team writes code, which frameworks you use, and your project's architecture. The .cursorrules file lets you define project-specific instructions that guide all AI interactions.</p>
-<p>Copilot understands the files you have open and recently accessed, but its project-wide awareness is more limited. It knows the language, the framework, and common patterns, but it doesn't build the same deep index of your specific codebase.</p>
+<h2>فهم قاعدة الكود: Cursor يفوز</h2>
+<p>يفهرس Cursor قاعدة الكود بأكملها ويبني فهمًا دلاليًا لبنية مشروعك واعتمادياته وأنماطه. وهذا يعني أن اقتراحات الذكاء الاصطناعي تستنير بكيفية كتابة فريقك للكود والأطر التي تستخدمها وبنية مشروعك. ويتيح ملف .cursorrules تحديد تعليمات خاصة بالمشروع توجّه جميع تفاعلات الذكاء الاصطناعي.</p>
+<p>يفهم Copilot الملفات التي فتحتها والتي وصلت إليها مؤخرًا، لكن وعيه بالمشروع بأكمله أكثر محدودية. يعرف اللغة والإطار والأنماط الشائعة، لكنه لا يبني الفهرس العميق نفسه لقاعدة الكود الخاصة بك.</p>
 
-<h2>Agent Mode: Both Improving</h2>
-<p>Both tools now offer agent modes that can autonomously execute multi-step coding tasks — write code, run tests, fix errors, and iterate until the task is complete.</p>
-<p>Copilot's agent mode works within VS Code and can run terminal commands, read test output, and iterate on failures. It's reliable for well-defined tasks like "write tests for this function" or "fix the failing CI."</p>
-<p>Cursor's agent mode is more ambitious — it can plan complex features, create files, modify existing code, and run the development server to verify changes. The success rate on complex tasks is higher, though both still require developer oversight for anything non-trivial.</p>
+<h2>وضع الوكيل: كلاهما يتحسن</h2>
+<p>تقدم الأداتان الآن أوضاع وكيل تستطيع تنفيذ مهام برمجية متعددة الخطوات باستقلالية — كتابة الكود وتشغيل الاختبارات وإصلاح الأخطاء والتكرار حتى تكتمل المهمة.</p>
+<p>يعمل وضع الوكيل في Copilot داخل VS Code ويستطيع تشغيل أوامر الطرفية وقراءة مخرجات الاختبار والتكرار عند الفشل. وهو موثوق للمهام محددة التعريف مثل «اكتب اختبارات لهذه الدالة» أو «أصلح CI الفاشل».</p>
+<p>وضع الوكيل في Cursor أكثر طموحًا — يستطيع تخطيط ميزات معقدة وإنشاء الملفات وتعديل الكود الحالي وتشغيل خادم التطوير للتحقق من التغييرات. ونسبة النجاح في المهام المعقدة أعلى، رغم أن كليهما ما زال يتطلب إشراف المطور لأي شيء غير بسيط.</p>
 
-<h2>Editor Experience</h2>
+<h2>تجربة المحرر</h2>
 
-<h3>GitHub Copilot: Plugin in Your Editor</h3>
-<p>Copilot works as a plugin in VS Code, JetBrains IDEs (IntelliJ, PyCharm, WebStorm), Neovim, and Visual Studio. You keep your existing editor setup — themes, extensions, keybindings — and Copilot adds AI on top. For developers deeply invested in their VS Code or JetBrains configuration, this is a significant advantage.</p>
+<h3>GitHub Copilot: إضافة في محررك</h3>
+<p>يعمل Copilot كإضافة في VS Code وبيئات JetBrains (IntelliJ وPyCharm وWebStorm) وNeovim وVisual Studio. تحتفظ بإعداد محررك الحالي — السمات والإضافات واختصارات لوحة المفاتيح — ويضيف Copilot الذكاء الاصطناعي فوقه. وللمطورين المستثمرين بعمق في إعدادات VS Code أو JetBrains لديهم، هذه ميزة كبيرة.</p>
 
-<h3>Cursor: AI-Native Editor</h3>
-<p>Cursor is a standalone editor — a fork of VS Code with AI built into every interaction. Your VS Code extensions and settings import seamlessly, but you're switching editors. The benefit: every feature is designed around AI from the start, making the AI interactions more fluid and integrated. The cost: you're maintaining a separate editor.</p>
+<h3>Cursor: محرر أصلي بالذكاء الاصطناعي</h3>
+<p>Cursor محرر مستقل — نسخة متفرعة من VS Code مع ذكاء اصطناعي مبني في كل تفاعل. تُستورَد إضافات VS Code وإعداداتك بسلاسة، لكنك تغيّر المحرر. الفائدة: كل ميزة مصممة حول الذكاء الاصطناعي منذ البداية، مما يجعل تفاعلات الذكاء الاصطناعي أكثر سلاسة وتكاملًا. التكلفة: تحتفظ بمحرر منفصل.</p>
 
-<h2>Model Flexibility</h2>
-<p>Both tools now offer model choice:</p>
+<h2>مرونة النماذج</h2>
+<p>تقدم الأداتان الآن خيار النموذج:</p>
 <ul>
-  <li><strong>Copilot:</strong> GPT-4o (default), Claude Sonnet, and Gemini options</li>
-  <li><strong>Cursor:</strong> GPT-4o, Claude Sonnet, Claude Opus, and the ability to add custom models via API key</li>
+  <li><strong>Copilot:</strong> GPT-4o (الافتراضي) وClaude Sonnet وخيارات Gemini</li>
+  <li><strong>Cursor:</strong> GPT-4o وClaude Sonnet وClaude Opus وإمكانية إضافة نماذج مخصصة عبر مفتاح API</li>
 </ul>
-<p>Cursor's model flexibility is broader — you can bring your own API key for any model and switch per-conversation. Copilot's model options are more curated but cover the most popular choices.</p>
+<p>مرونة النماذج في Cursor أوسع — يمكنك إحضار مفتاح API الخاص بك لأي نموذج والتبديل لكل محادثة. أما خيارات النماذج في Copilot فأكثر انتقاءً لكنها تغطي الخيارات الأشهر.</p>
 
-<h2>Pricing Comparison</h2>
+<h2>مقارنة التسعير</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>GitHub Copilot</th><th>Cursor</th></tr>
+    <tr><th>الخطة</th><th>GitHub Copilot</th><th>Cursor</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>2,000 completions + 50 chats/mo</td><td>Limited completions + chats</td></tr>
-    <tr><td>Individual</td><td>$10/month</td><td>$20/month (Pro)</td></tr>
-    <tr><td>Business</td><td>$19/user/month</td><td>$40/user/month (Business)</td></tr>
-    <tr><td>Enterprise</td><td>$39/user/month</td><td>Custom</td></tr>
+    <tr><td>مجاني</td><td>2,000 إكمال + 50 دردشة/شهر</td><td>إكمالات ودردشات محدودة</td></tr>
+    <tr><td>Individual</td><td>$10/شهر</td><td>$20/شهر (Pro)</td></tr>
+    <tr><td>Business</td><td>$19/مستخدم/شهر</td><td>$40/مستخدم/شهر (Business)</td></tr>
+    <tr><td>Enterprise</td><td>$39/مستخدم/شهر</td><td>مخصص</td></tr>
   </tbody>
 </table>
-<p>Copilot is significantly cheaper — $10/month vs $20/month for individuals. For teams, the gap widens: $19 vs $40 per user. The question is whether Cursor's superior multi-file editing and codebase awareness justify the 2x price premium.</p>
+<p>Copilot أرخص بكثير — $10/شهر مقابل $20/شهر للأفراد. وللفرق، تتسع الفجوة: $19 مقابل $40 لكل مستخدم. والسؤال هو ما إذا كان التحرير المتفوق متعدد الملفات والوعي بقاعدة الكود في Cursor يبرران العلاوة السعرية الضعف.</p>
 
-<h2>Who Should Choose What</h2>
+<h2>من ينبغي أن يختار ماذا</h2>
 
-<h3>Choose GitHub Copilot If:</h3>
+<h3>اختر GitHub Copilot إذا:</h3>
 <ul>
-  <li>You want AI coding at the lowest cost ($10/month)</li>
-  <li>You're deeply invested in your VS Code or JetBrains setup</li>
-  <li>You primarily need code completion and simple chat</li>
-  <li>Your team uses GitHub and wants unified tooling</li>
-  <li>You work in JetBrains IDEs (Cursor is VS Code only)</li>
+  <li>تريد البرمجة بالذكاء الاصطناعي بأقل تكلفة ($10/شهر)</li>
+  <li>أنت مستثمر بعمق في إعداد VS Code أو JetBrains</li>
+  <li>تحتاج أساسًا إلى إكمال الكود ودردشة بسيطة</li>
+  <li>يستخدم فريقك GitHub ويريد أدوات موحدة</li>
+  <li>تعمل في بيئات JetBrains (Cursor يعمل مع VS Code فقط)</li>
 </ul>
 
-<h3>Choose Cursor If:</h3>
+<h3>اختر Cursor إذا:</h3>
 <ul>
-  <li>Multi-file editing is a daily workflow</li>
-  <li>You want the deepest codebase understanding</li>
-  <li>You're willing to pay $20/month for the best AI coding experience</li>
-  <li>You do complex refactoring and feature development</li>
-  <li>You want maximum model flexibility</li>
+  <li>التحرير متعدد الملفات سير عمل يومي</li>
+  <li>تريد أعمق فهم لقاعدة الكود</li>
+  <li>أنت مستعد لدفع $20/شهر مقابل أفضل تجربة برمجة بالذكاء الاصطناعي</li>
+  <li>تجري إعادة هيكلة معقدة وتطوير ميزات</li>
+  <li>تريد أقصى مرونة في النماذج</li>
 </ul>
 
-<h2>The Verdict</h2>
+<h2>الحكم</h2>
 <table>
   <thead>
-    <tr><th>Category</th><th>Winner</th></tr>
+    <tr><th>الفئة</th><th>الفائز</th></tr>
   </thead>
   <tbody>
-    <tr><td>Code Completion</td><td>Tie</td></tr>
-    <tr><td>AI Chat</td><td>Cursor</td></tr>
-    <tr><td>Multi-File Editing</td><td>Cursor</td></tr>
-    <tr><td>Codebase Awareness</td><td>Cursor</td></tr>
-    <tr><td>Agent Mode</td><td>Cursor (slight edge)</td></tr>
-    <tr><td>Editor Flexibility</td><td>Copilot (works in any editor)</td></tr>
-    <tr><td>Price</td><td>Copilot ($10 vs $20)</td></tr>
-    <tr><td>Enterprise/Team</td><td>Copilot (GitHub ecosystem)</td></tr>
-    <tr><td><strong>Overall</strong></td><td><strong>Cursor (for AI power) / Copilot (for value)</strong></td></tr>
+    <tr><td>إكمال الكود</td><td>تعادل</td></tr>
+    <tr><td>دردشة الذكاء الاصطناعي</td><td>Cursor</td></tr>
+    <tr><td>التحرير متعدد الملفات</td><td>Cursor</td></tr>
+    <tr><td>الوعي بقاعدة الكود</td><td>Cursor</td></tr>
+    <tr><td>وضع الوكيل</td><td>Cursor (أفضلية طفيفة)</td></tr>
+    <tr><td>مرونة المحرر</td><td>Copilot (يعمل في أي محرر)</td></tr>
+    <tr><td>السعر</td><td>Copilot ($10 مقابل $20)</td></tr>
+    <tr><td>المؤسسات/الفرق</td><td>Copilot (منظومة GitHub)</td></tr>
+    <tr><td><strong>بوجه عام</strong></td><td><strong>Cursor (لقوة الذكاء الاصطناعي) / Copilot (للقيمة)</strong></td></tr>
   </tbody>
 </table>
 
-<h2>Final Take</h2>
-<p><strong>Cursor (A+)</strong> is the better AI coding tool in 2026. Multi-file editing, codebase understanding, and the AI-native editor experience give it a clear lead for developers who want maximum AI leverage. If you're building features, refactoring code, and doing complex development, Cursor's $20/month pays for itself in the first week.</p>
-<p><strong>GitHub Copilot (A)</strong> is the better value and the safer choice for teams. At half the price, with broader editor support and GitHub integration, Copilot delivers excellent AI coding assistance without requiring a new editor. For completion-focused workflows and JetBrains users, it's the clear choice.</p>
-<p><strong>Our recommendation:</strong> Try Cursor's free tier for a week. If multi-file editing and codebase chat transform your workflow, upgrade to Pro. If you find yourself mostly using completions, save $10/month and stay with Copilot.</p>
+<h2>الخلاصة النهائية</h2>
+<p><strong>Cursor (A+)</strong> هو أداة البرمجة بالذكاء الاصطناعي الأفضل في 2026. التحرير متعدد الملفات وفهم قاعدة الكود وتجربة المحرر الأصلي بالذكاء الاصطناعي تمنحه تقدمًا واضحًا للمطورين الذين يريدون أقصى استفادة من الذكاء الاصطناعي. وإذا كنت تبني ميزات وتعيد هيكلة الكود وتجري تطويرًا معقدًا، فإن $20/شهر لـ Cursor تسدّد نفسها في الأسبوع الأول.</p>
+<p><strong>GitHub Copilot (A)</strong> هو الأفضل قيمةً والخيار الأكثر أمانًا للفرق. بنصف السعر ودعم محررات أوسع وتكامل GitHub، يقدم Copilot مساعدة برمجة ممتازة بالذكاء الاصطناعي دون الحاجة إلى محرر جديد. ولمسارات العمل المركزة على الإكمال ولمستخدمي JetBrains، هو الخيار الواضح.</p>
+<p><strong>توصيتنا:</strong> جرّب الباقة المجانية من Cursor لمدة أسبوع. إذا حوّل التحرير متعدد الملفات ودردشة قاعدة الكود مسار عملك، فارقِّ إلى Pro. وإذا وجدت نفسك تستخدم الإكمالات في الغالب، فوفّر $10/شهر وابقَ مع Copilot.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is Cursor worth $20/month over Copilot at $10?</h3>
-<p>For developers doing complex feature work and refactoring across multiple files — yes, easily. For developers who primarily use code completion and occasional chat — Copilot at $10 is the better value.</p>
+<h3>هل يستحق Cursor مبلغ $20/شهر مقابل Copilot بسعر $10؟</h3>
+<p>للمطورين الذين ينجزون أعمال ميزات معقدة وإعادة هيكلة عبر ملفات متعددة — نعم، بسهولة. وللمطورين الذين يستخدمون أساسًا إكمال الكود ودردشة عرضية — فإن Copilot بسعر $10 هو الأفضل قيمةً.</p>
 
-<h3>Can I use both?</h3>
-<p>Technically yes, but there's no reason to. Cursor includes its own code completion that matches Copilot. Choose one.</p>
+<h3>هل يمكنني استخدام الاثنين؟</h3>
+<p>تقنيًا نعم، لكن لا سبب لذلك. يتضمن Cursor إكمال كود خاصًا به يضاهي Copilot. اختر واحدًا.</p>
 
-<h3>Does Cursor work with my VS Code extensions?</h3>
-<p>Yes. Cursor is a VS Code fork and supports virtually all VS Code extensions. Your themes, keybindings, and settings import with one click.</p>
+<h3>هل يعمل Cursor مع إضافات VS Code الخاصة بي؟</h3>
+<p>نعم. Cursor نسخة متفرعة من VS Code ويدعم عمليًا جميع إضافات VS Code. تُستورَد سماتك واختصارات لوحة المفاتيح وإعداداتك بنقرة واحدة.</p>
 
-<h3>Which is better for beginners?</h3>
-<p>GitHub Copilot — it's simpler, cheaper, and works inside the editor beginners are already learning (VS Code). Cursor's advanced features are more valuable for experienced developers.</p>
+<h3>أيهما أفضل للمبتدئين؟</h3>
+<p>GitHub Copilot — فهو أبسط وأرخص ويعمل داخل المحرر الذي يتعلمه المبتدئون أصلًا (VS Code). أما ميزات Cursor المتقدمة فهي أكثر قيمة للمطورين ذوي الخبرة.</p>
 
-<h3>What about Claude Code and Windsurf?</h3>
-<p>Claude Code (Anthropic's CLI tool) is an agent that works from the terminal — different from both. Windsurf (formerly Codeium) is another AI editor worth considering, positioned between Copilot's price and Cursor's features. Read our <a href="/ar/blog/best-ai-coding-tools-2026">Best AI Coding Tools 2026</a> for the full comparison.</p>
+<h3>ماذا عن Claude Code وWindsurf؟</h3>
+<p>Claude Code (أداة سطر الأوامر من Anthropic) وكيل يعمل من الطرفية — مختلف عن كليهما. وWindsurf (المعروف سابقًا باسم Codeium) محرر ذكاء اصطناعي آخر جدير بالاعتبار، يقع بين سعر Copilot وميزات Cursor. اقرأ <a href="/ar/blog/best-ai-coding-tools-2026">أفضل أدوات البرمجة بالذكاء الاصطناعي 2026</a> للاطلاع على المقارنة الكاملة.</p>
 
-<p><em>Both tools were tested by AIGradeLab across TypeScript, Python, and React projects over 30 days. Grades reflect practical development productivity as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>اختبر AIGradeLab الأداتين عبر مشاريع TypeScript وPython وReact على مدى 30 يومًا. تعكس التقييمات إنتاجية التطوير العملية حتى نوفمبر 2026. الأسعار تم التحقق منها على موقع كل منصة.</em></p>

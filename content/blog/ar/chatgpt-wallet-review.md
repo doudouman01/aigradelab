@@ -1,11 +1,11 @@
 ---
-title: "مراجعة ChatGPT Wallet: OpenAI تسمح لوكلاء الذكاء الاصطناعي بالدفع نيابة عنك"
-description: "ChatGPT Wallet يتيح لوكلاء الذكاء الاصطناعي إجراء عمليات شراء بدون كشف بيانات بطاقتك. اختبرناه وقيّمناه."
-category: "Graded Reviews"
+title: "مراجعة ChatGPT Wallet: OpenAI تتيح لوكلاء الذكاء الاصطناعي الدفع نيابةً عنك"
+description: "يتيح ChatGPT Wallet لوكلاء الذكاء الاصطناعي إجراء عمليات الشراء دون كشف معلومات بطاقتك. اختبرناه وقيّمناه. إليك مراجعتنا الكاملة."
+category: "مراجعات مُقيَّمة"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
 lastTested: "2026-11-15"
-readTime: "9 min read"
+readTime: "وقت القراءة: 9 دقائق"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -15,115 +15,115 @@ scores_support: 7
 toolName: "ChatGPT Wallet"
 ---
 
-<h2>What Is ChatGPT Wallet?</h2>
+<h2>ما هو ChatGPT Wallet؟</h2>
 
-<p>ChatGPT Wallet is OpenAI's new payment feature that lets AI agents — specifically ChatGPT's "dot" agent — complete purchases on your behalf without ever seeing your actual credit card number. Think of it as a secure intermediary layer between your payment method and the merchants your AI agent interacts with.</p>
+<p>ChatGPT Wallet هي ميزة الدفع الجديدة من OpenAI التي تتيح لوكلاء الذكاء الاصطناعي — وتحديدًا وكيل «dot» في ChatGPT — إتمام عمليات الشراء نيابةً عنك دون أن يروا رقم بطاقتك الائتمانية الفعلي. فكّر فيها كطبقة وسيطة آمنة بين وسيلة الدفع الخاصة بك والتجار الذين يتفاعل معهم وكيلك.</p>
 
-<p>Launched on November 13, 2026, ChatGPT Wallet was developed in partnership with American Express, Mastercard, and Visa. It's currently available exclusively to ChatGPT Pro subscribers in the United States, with a gradual rollout underway.</p>
+<p>أُطلق ChatGPT Wallet في 13 نوفمبر 2026، وطُوّر بالشراكة مع American Express وMastercard وVisa. وهو متاح حاليًا حصريًا لمشتركي ChatGPT Pro في الولايات المتحدة، مع طرح تدريجي جارٍ.</p>
 
-<p>This is a significant step in what the industry calls "agentic commerce" — the idea that AI agents will increasingly handle routine purchases, bookings, and transactions on behalf of humans.</p>
+<p>هذه خطوة مهمة فيما تسميه الصناعة «التجارة الوكيلية» — فكرة أن وكلاء الذكاء الاصطناعي سيتولون بشكل متزايد عمليات الشراء والحجز والمعاملات الروتينية نيابةً عن البشر.</p>
 
-<h2>How ChatGPT Wallet Works</h2>
+<h2>كيف يعمل ChatGPT Wallet</h2>
 
-<p>The workflow is straightforward, at least in concept:</p>
+<p>سير العمل مباشر، على الأقل من حيث المبدأ:</p>
 
 <ol>
-<li><strong>You set up the wallet:</strong> Link a supported credit or debit card (Visa, Mastercard, or American Express) to your ChatGPT account through the wallet settings.</li>
-<li><strong>You task the agent:</strong> Ask ChatGPT's dot agent to handle a purchase — book a flight, order supplies, buy a gift.</li>
-<li><strong>The agent shops:</strong> The AI agent browses, compares, and selects items based on your instructions.</li>
-<li><strong>You review and approve:</strong> Before any money moves, the wallet prompts you to review the merchant, items, total amount, and which card will be charged.</li>
-<li><strong>Biometric confirmation:</strong> You approve the purchase using biometrics (Face ID, fingerprint) — no typing in card numbers or CVVs.</li>
+<li><strong>تُعدّ المحفظة:</strong> اربط بطاقة ائتمان أو خصم مدعومة (Visa أو Mastercard أو American Express) بحسابك في ChatGPT عبر إعدادات المحفظة.</li>
+<li><strong>تكلّف الوكيل:</strong> اطلب من وكيل dot في ChatGPT إتمام عملية شراء — حجز رحلة أو طلب مستلزمات أو شراء هدية.</li>
+<li><strong>يتسوق الوكيل:</strong> يتصفح وكيل الذكاء الاصطناعي ويقارن ويختار العناصر بناءً على تعليماتك.</li>
+<li><strong>تراجع وتوافق:</strong> قبل أي حركة للأموال، تطلب المحفظة منك مراجعة التاجر والعناصر والمبلغ الإجمالي والبطاقة التي ستُخصم منها.</li>
+<li><strong>التأكيد البيومتري:</strong> توافق على الشراء باستخدام القياسات الحيوية (Face ID أو بصمة الإصبع) — دون كتابة أرقام البطاقات أو CVV.</li>
 </ol>
 
-<p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
+<p>التصميم الأمني الحاسم: لا يملك وكيل الذكاء الاصطناعي نفسه في أي وقت وصولًا إلى معلومات بطاقتك الفعلية. فبيانات الدفع مُرمَّزة (tokenized)، أي أن الوكيل يعمل مع وكيل آمن (proxy) بدلًا من رقم بطاقتك الحقيقي. ويتلقى التاجر رمزًا خاصًا بالمعاملة لا تفاصيل بطاقتك.</p>
 
-<h2>What We Liked</h2>
+<h2>ما أعجبنا</h2>
 
-<h3>Security Architecture Is Thoughtful</h3>
+<h3>البنية الأمنية مدروسة</h3>
 
-<p>The tokenized approach addresses the single biggest concern about letting AI agents handle payments: what happens if the agent is compromised or makes a mistake? Because ChatGPT Wallet never exposes your real card number to the AI model, a hypothetical security breach at the agent level wouldn't leak your payment credentials.</p>
+<p>يعالج النهج المرمَّز أكبر مخاوف السماح لوكلاء الذكاء الاصطناعي بالتعامل مع المدفوعات: ماذا يحدث إذا اختُرق الوكيل أو ارتكب خطأ؟ ولأن ChatGPT Wallet لا يكشف رقم بطاقتك الحقيقي لنموذج الذكاء الاصطناعي، فإن أي اختراق أمني افتراضي على مستوى الوكيل لن يسرّب بيانات الدفع الخاصة بك.</p>
 
-<p>The biometric confirmation step adds a critical human-in-the-loop check. You always see exactly what you're buying and how much you're paying before anything is charged. This isn't just a "confirm" button — it's a full transaction summary with biometric verification.</p>
+<p>وتضيف خطوة التأكيد البيومتري فحصًا بشريًا حاسمًا ضمن الحلقة. فأنت ترى دائمًا بالضبط ما تشتريه وما تدفعه قبل خصم أي مبلغ. وهذا ليس مجرد زر «تأكيد» — بل ملخص معاملة كامل مع تحقق بيومتري.</p>
 
-<h3>Major Card Network Support from Day One</h3>
+<h3>دعم شبكات البطاقات الكبرى منذ اليوم الأول</h3>
 
-<p>Launching with Visa, Mastercard, and American Express covers the vast majority of credit and debit cards in the US market. This isn't a startup trying to get merchants to adopt a new payment rail — it's built on existing payment infrastructure that merchants already accept.</p>
+<p>الإطلاق مع Visa وMastercard وAmerican Express يغطي الغالبية العظمى من بطاقات الائتمان والخصم في السوق الأمريكي. وهذه ليست شركة ناشئة تحاول إقناع التجار باعتماد مسار دفع جديد — بل هي مبنية على بنية دفع قائمة يقبلها التجار أصلًا.</p>
 
-<h3>The Agent Shopping Experience</h3>
+<h3>تجربة التسوق عبر الوكيل</h3>
 
-<p>When it works, it's genuinely useful. The dot agent can compare prices across multiple merchants, check availability, apply known preferences (like preferred airlines or retailers), and handle the entire checkout flow. For routine purchases — office supplies, travel bookings, recurring orders — this can save meaningful time.</p>
+<p>عندما تعمل، تكون مفيدة فعلًا. يستطيع وكيل dot مقارنة الأسعار عبر تجار متعددين وفحص التوفر وتطبيق التفضيلات المعروفة (مثل شركات الطيران أو متاجر التجزئة المفضلة) وإدارة عملية الدفع بأكملها. وللمشتريات الروتينية — مستلزمات المكاتب وحجوزات السفر والطلبات المتكررة — يمكن أن يوفر هذا وقتًا ملموسًا.</p>
 
-<h2>What Needs Work</h2>
+<h2>ما يحتاج إلى تحسين</h2>
 
-<h3>Pro-Only, US-Only: The Biggest Limitation</h3>
+<h3>لمشتركي Pro فقط وللولايات المتحدة فقط: أكبر قيد</h3>
 
-<p>At $200/month, ChatGPT Pro is OpenAI's premium tier. Restricting Wallet to Pro users means the feature is only available to a small fraction of ChatGPT's 900+ million weekly active users. The average consumer who could most benefit from automated shopping isn't paying $200/month for an AI subscription.</p>
+<p>بسعر $200/شهر، ChatGPT Pro هو الباقة المميزة من OpenAI. وحصر Wallet بمستخدمي Pro يعني أن الميزة متاحة فقط لنسبة صغيرة من أكثر من 900 مليون مستخدم نشط أسبوعيًا لـ ChatGPT. فالمستهلك العادي الذي قد يستفيد أكثر من التسوق الآلي لا يدفع $200 شهريًا لاشتراك ذكاء اصطناعي.</p>
 
-<p>The US-only restriction further narrows the addressable market. OpenAI hasn't announced a timeline for international expansion, though the involvement of global card networks suggests it's planned.</p>
+<p>ويضيّق قيد الولايات المتحدة فقط السوق المستهدف أكثر. ولم تعلن OpenAI جدولًا زمنيًا للتوسع الدولي، رغم أن مشاركة شبكات البطاقات العالمية توحي بأنه مخطط له.</p>
 
-<h3>Merchant Coverage Is Still Limited</h3>
+<h3>تغطية التجار ما زالت محدودة</h3>
 
-<p>During our testing, the agent successfully completed purchases on major e-commerce platforms but hit walls on smaller merchants and niche retailers. The wallet works best with merchants that have modern checkout systems — older or custom checkout flows sometimes confused the agent.</p>
+<p>أثناء اختبارنا، أتم الوكيل بنجاح عمليات شراء على منصات التجارة الإلكترونية الكبرى لكنه اصطدم بعقبات مع التجار الأصغر ومتاجر التجزئة المتخصصة. تعمل المحفظة بشكل أفضل مع التجار الذين لديهم أنظمة دفع حديثة — أما مسارات الدفع الأقدم أو المخصصة فقد أربكت الوكيل أحيانًا.</p>
 
-<h3>No Recurring Payment Management Yet</h3>
+<h3>لا إدارة للمدفوعات المتكررة بعد</h3>
 
-<p>You can use the wallet for one-time purchases, but there's no built-in system for managing subscriptions, recurring orders, or automatic reorders. This feels like an obvious next step, but it's not here yet.</p>
+<p>يمكنك استخدام المحفظة لعمليات الشراء لمرة واحدة، لكن لا يوجد نظام مدمج لإدارة الاشتراكات أو الطلبات المتكررة أو إعادة الطلب التلقائي. تبدو هذه خطوة تالية بديهية، لكنها ليست موجودة بعد.</p>
 
-<h3>Error Handling Could Be More Transparent</h3>
+<h3>معالجة الأخطاء يمكن أن تكون أكثر شفافية</h3>
 
-<p>When a transaction fails — and in our testing, about 15% did — the error messages are vague. "Unable to complete this purchase" doesn't help you understand whether the issue was with your card, the merchant, or the agent's understanding of what you wanted.</p>
+<p>عندما تفشل معاملة — وقد فشل نحو 15% منها في اختبارنا — تكون رسائل الخطأ غامضة. «تعذّر إتمام هذه العملية» لا يساعدك على فهم ما إذا كانت المشكلة في بطاقتك أم التاجر أم فهم الوكيل لما أردته.</p>
 
-<h2>How It Compares</h2>
+<h2>كيف يقارَن</h2>
 
-<p>ChatGPT Wallet enters a space where, frankly, there isn't much direct competition yet:</p>
-
-<ul>
-<li><strong>Google Gemini:</strong> No equivalent payment feature as of November 2026. Google Pay integration has been rumored but not shipped.</li>
-<li><strong>Claude (Anthropic):</strong> No payment capability. Anthropic has been focused on its IPO roadshow rather than commerce features.</li>
-<li><strong>Sierra's Poppy Protocol:</strong> The Personal Agent Protocol (Poppy 1.0, released November 13) defines how agents connect to businesses, with payments as a future extension — but it's a protocol, not a consumer product. Shopify and Meta's Muse are early adopters.</li>
-<li><strong>Apple Intelligence:</strong> Apple Pay integration with Siri has been available, but it's limited to Apple's ecosystem and doesn't offer the same agent-driven shopping experience.</li>
-</ul>
-
-<p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
-
-<h2>Pricing</h2>
-
-<p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
-
-<p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
-
-<h2>Privacy and Data Considerations</h2>
-
-<p>OpenAI states that purchase data is used to improve the shopping experience but can be managed through your privacy settings. Key considerations:</p>
+<p>يدخل ChatGPT Wallet مجالًا لا توجد فيه، بصراحة، منافسة مباشرة كبيرة بعد:</p>
 
 <ul>
-<li>Transaction history is stored in your account and can be viewed or deleted</li>
-<li>The AI agent can reference past purchases to make better recommendations (you can disable this)</li>
-<li>Card information is managed by the payment networks, not stored by OpenAI directly</li>
-<li>Purchase data is not used for model training (per OpenAI's Pro subscriber data policy)</li>
+<li><strong>Google Gemini:</strong> لا ميزة دفع مكافئة حتى نوفمبر 2026. وتكامل Google Pay شاع الحديث عنه لكنه لم يُطلق.</li>
+<li><strong>Claude (Anthropic):</strong> لا قدرة على الدفع. ركزت Anthropic على جولتها الترويجية للاكتتاب العام بدلًا من ميزات التجارة.</li>
+<li><strong>بروتوكول Poppy من Sierra:</strong> يحدد بروتوكول الوكيل الشخصي (Poppy 1.0، أُطلق في 13 نوفمبر) كيف يتصل الوكلاء بالشركات، مع المدفوعات كامتداد مستقبلي — لكنه بروتوكول وليس منتجًا للمستهلكين. وتُعد Shopify وMuse من Meta من أوائل المعتمدين.</li>
+<li><strong>Apple Intelligence:</strong> تكامل Apple Pay مع Siri متاح، لكنه مقصور على منظومة Apple ولا يقدم تجربة التسوق نفسها المدفوعة بالوكلاء.</li>
 </ul>
 
-<h2>Who Should Use ChatGPT Wallet</h2>
+<p>ميزة السبق لدى OpenAI هنا حقيقية. فبالشراكة مع شبكات البطاقات الثلاث الكبرى في آن واحد، وضعت معيارًا سيحتاج المنافسون إلى مجاراته أو تجاوزه.</p>
 
-<p><strong>Good fit:</strong> ChatGPT Pro subscribers who already use the dot agent regularly, frequent online shoppers who value time savings, professionals who expense routine purchases, and early adopters who want to experience the future of agentic commerce.</p>
+<h2>التسعير</h2>
 
-<p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
+<p>لا يتضمن ChatGPT Wallet نفسه أي رسوم إضافية فوق اشتراك ChatGPT Pro ($200/شهر). وتُطبَّق رسوم معاملات البطاقات القياسية كما في أي عملية شراء. ولا توجد رسوم إضافية خاصة بالمحفظة أو رسوم لكل معاملة من OpenAI.</p>
 
-<h2>Our Grade: B+</h2>
+<p>السؤال الحقيقي حول التكلفة هو ما إذا كانت ميزة المحفظة وحدها تبرر اشتراك Pro إن كنت حاليًا على خطة Plus ($20/شهر). ولمعظم المستخدمين، الجواب لا — فـ Wallet ميزة لطيفة ضمن باقة Pro، وليست سببًا للترقية بمفردها.</p>
+
+<h2>اعتبارات الخصوصية والبيانات</h2>
+
+<p>تذكر OpenAI أن بيانات الشراء تُستخدم لتحسين تجربة التسوق لكن يمكن إدارتها عبر إعدادات الخصوصية. أبرز الاعتبارات:</p>
+
+<ul>
+<li>يُخزَّن سجل المعاملات في حسابك ويمكن عرضه أو حذفه</li>
+<li>يستطيع وكيل الذكاء الاصطناعي الرجوع إلى المشتريات السابقة لتقديم توصيات أفضل (يمكنك تعطيل ذلك)</li>
+<li>تُدار معلومات البطاقة من قِبل شبكات الدفع ولا تخزنها OpenAI مباشرة</li>
+<li>لا تُستخدم بيانات الشراء في تدريب النماذج (وفق سياسة بيانات مشتركي OpenAI Pro)</li>
+</ul>
+
+<h2>من ينبغي أن يستخدم ChatGPT Wallet</h2>
+
+<p><strong>مناسب:</strong> مشتركو ChatGPT Pro الذين يستخدمون وكيل dot بانتظام، والمتسوقون المتكررون عبر الإنترنت الذين يقدّرون توفير الوقت، والمحترفون الذين يسجلون مشترياتهم الروتينية كمصروفات، والمتبنّون الأوائل الذين يريدون تجربة مستقبل التجارة الوكيلية.</p>
+
+<p><strong>ليس بعد:</strong> أي شخص خارج الولايات المتحدة، والمستخدمون على الباقة المجانية أو Plus، والأشخاص الذين يتسوقون أساسًا من متاجر التجزئة الصغيرة أو المتخصصة، وأي شخص غير مرتاح لامتلاك وكلاء الذكاء الاصطناعي مسارًا إلى وسائل دفعه — حتى لو كان مرمَّزًا.</p>
+
+<h2>تقييمنا: B+</h2>
 
 <table>
-<thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>
+<thead><tr><th>الفئة</th><th>الدرجة</th><th>ملاحظات</th></tr></thead>
 <tbody>
-<tr><td>UX</td><td>7/10</td><td>Clean setup, but error handling needs polish</td></tr>
-<tr><td>Quality</td><td>8/10</td><td>Tokenized security is best-in-class for a v1</td></tr>
-<tr><td>Value</td><td>6/10</td><td>Pro-only pricing limits accessibility</td></tr>
-<tr><td>Integration</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
-<tr><td>Support</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
+<tr><td>تجربة المستخدم</td><td>7/10</td><td>إعداد نظيف، لكن معالجة الأخطاء تحتاج إلى صقل</td></tr>
+<tr><td>الجودة</td><td>8/10</td><td>الأمان المرمَّز هو الأفضل في فئته لإصدار أول</td></tr>
+<tr><td>القيمة</td><td>6/10</td><td>التسعير المقصور على Pro يحدّ من إمكانية الوصول</td></tr>
+<tr><td>التكامل</td><td>8/10</td><td>Visa/Mastercard/Amex منذ اليوم الأول نقطة قوة</td></tr>
+<tr><td>الدعم</td><td>7/10</td><td>دعم OpenAI Pro القياسي؛ والوثائق الخاصة بالمحفظة شحيحة</td></tr>
 </tbody>
 </table>
 
-<p>ChatGPT Wallet is the most polished implementation of AI-powered payments we've seen. The security model is sound, the card network partnerships are impressive, and the user experience — when it works — feels like a genuine preview of how we'll all shop in a few years. The B+ reflects the strong foundation dinged by real limitations: Pro-only access, US-only availability, and a merchant coverage gap that will take time to close.</p>
+<p>ChatGPT Wallet هو أكثر تطبيقات المدفوعات المدعومة بالذكاء الاصطناعي صقلًا التي رأيناها. النموذج الأمني سليم وشراكات شبكات البطاقات مبهرة وتجربة المستخدم — عندما تعمل — تبدو معاينة حقيقية لكيف سنتسوق جميعًا بعد بضع سنوات. ويعكس التقييم B+ أساسًا قويًا تنتقصه قيود حقيقية: الوصول لمشتركي Pro فقط والتوفر في الولايات المتحدة فقط وفجوة في تغطية التجار ستستغرق وقتًا لسدّها.</p>
 
-<p>This grade will likely move up as OpenAI expands access and improves reliability. We'll retest when Plus tier access and international support arrive.</p>
+<p>من المرجح أن يرتفع هذا التقييم مع توسيع OpenAI للوصول وتحسينها للموثوقية. وسنعيد الاختبار عندما يصل الوصول لباقة Plus والدعم الدولي.</p>
 
-<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">ToolCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>
+<p><em>تبحث عن أدوات مجانية مدعومة بالذكاء الاصطناعي يمكنك استخدامها الآن دون اشتراك Pro؟ تصفح مجموعتنا في <a href="https://toolcraftkit.com">ToolCraftKit.com</a> — أكثر من 100 أداة مجانية بـ 25 لغة.</em></p>

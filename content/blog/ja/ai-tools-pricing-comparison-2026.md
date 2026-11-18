@@ -1,210 +1,210 @@
 ---
-title: "AI Tools Pricing Comparison 2026: Every Major Tool's Cost Explained"
-description: "Complete pricing guide for 30+ AI tools — chatbots, image, video, coding, writing, and productivity. Free tiers, paid plans, and which are worth the money. Updated November 2026."
+title: "AIツールの料金比較2026：主要ツールの費用を徹底解説"
+description: "30以上のAIツール（チャットボット、画像、動画、コーディング、文章作成、生産性）の完全な料金ガイドです。無料プラン、有料プラン、お金をかける価値のあるツールをご紹介します。2026年11月更新。"
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "読了時間：12分"
 ---
 
-<h2>What Does AI Actually Cost in 2026?</h2>
-<p>AI tools range from completely free to $200/month — and the price doesn't always match the quality. Some of the best tools have generous free tiers. Some expensive tools aren't worth the premium. This guide breaks down what every major AI tool costs, what you get at each tier, and which ones deliver the best value for your money.</p>
+<h2>2026年のAIの本当の費用は？</h2>
+<p>AIツールの料金は、完全無料から月額200ドルまで幅広く、価格が必ずしも品質に見合うとは限りません。最高のツールの中には、充実した無料プランを持つものがあります。高価なツールの中には、プレミアムを払う価値のないものもあります。このガイドでは、主要なAIツールそれぞれの費用、各プランで得られるもの、そしてお金に対して最も高い価値を提供するツールを解説します。</p>
 
-<h2>AI Chatbots</h2>
+<h2>AIチャットボット</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Premium</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>プレミアム</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>ChatGPT</td><td>GPT-4o (limited)</td><td>Plus $20/mo</td><td>Pro $200/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Claude</td><td>Limited queries</td><td>Pro $20/mo</td><td>Team $30/user/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Gemini</td><td>Gemini Pro</td><td>Advanced $20/mo</td><td>—</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Perplexity</td><td>Basic search</td><td>Pro $20/mo</td><td>—</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Copilot</td><td>Basic chat</td><td>M365 $30/user/mo</td><td>—</td><td>⭐⭐⭐</td></tr>
-    <tr><td>Pi</td><td>Full access</td><td>—</td><td>—</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>ChatGPT</td><td>GPT-4o（限定的）</td><td>Plus 月額20ドル</td><td>Pro 月額200ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Claude</td><td>クエリ数に制限あり</td><td>Pro 月額20ドル</td><td>Team 1ユーザーあたり月額30ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Gemini</td><td>Gemini Pro</td><td>Advanced 月額20ドル</td><td>—</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Perplexity</td><td>基本的な検索</td><td>Pro 月額20ドル</td><td>—</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Copilot</td><td>基本的なチャット</td><td>M365 1ユーザーあたり月額30ドル</td><td>—</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Pi</td><td>すべての機能を利用可能</td><td>—</td><td>—</td><td>⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> ChatGPT Plus ($20/mo) — text + images + video + voice in one subscription. <strong>無料おすすめ：</strong> ChatGPT Free or Gemini Free.</p>
+<p><strong>最高のコスパ：</strong>ChatGPT Plus（月額20ドル）。1つのサブスクリプションで、テキスト、画像、動画、音声が使えます。<strong>最高の無料プラン：</strong>ChatGPT FreeまたはGemini Free。</p>
 
-<h2>AI Image Generation</h2>
+<h2>AI画像生成</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>GPT Image (ChatGPT)</td><td>Limited on free</td><td>Included with Plus $20/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Midjourney</td><td>No free tier</td><td>$10-60/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Stable Diffusion</td><td>Free (local)</td><td>Free (requires GPU)</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>DALL-E 3</td><td>Via ChatGPT Free</td><td>API pricing</td><td>⭐⭐⭐</td></tr>
-    <tr><td>Adobe Firefly</td><td>25 credits/mo</td><td>$10/mo or Creative Cloud</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Leonardo AI</td><td>150 tokens/day</td><td>$12-48/mo</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>GPT Image（ChatGPT）</td><td>無料では限定的</td><td>Plus 月額20ドルに含まれる</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Midjourney</td><td>無料プランなし</td><td>月額10〜60ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Stable Diffusion</td><td>無料（ローカル）</td><td>無料（GPUが必要）</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>DALL-E 3</td><td>ChatGPT Free経由</td><td>API料金</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Adobe Firefly</td><td>月25クレジット</td><td>月額10ドル、またはCreative Cloud</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Leonardo AI</td><td>1日150トークン</td><td>月額12〜48ドル</td><td>⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> GPT Image with ChatGPT Plus — you're already paying for the chatbot, images are included. <strong>Best quality:</strong> Midjourney ($10/mo) for fine art and photography. <strong>無料おすすめ：</strong> Stable Diffusion (if you have a GPU). 詳しくは <a href="/ja/blog/best-ai-image-generators-2026">Best AI Image Generators</a> for details.</p>
+<p><strong>最高のコスパ：</strong>ChatGPT PlusのGPT Image。すでにチャットボットの料金を払っているので、画像は含まれています。<strong>最高の品質：</strong>ファインアートと写真ならMidjourney（月額10ドル）。<strong>最高の無料プラン：</strong>Stable Diffusion（GPUがある場合）。詳細は、<a href="/ja/blog/best-ai-image-generators-2026">ベストAI画像ジェネレーター</a>をご覧ください。</p>
 
-<h2>AI Video</h2>
+<h2>AI動画</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>Sora (ChatGPT)</td><td>No</td><td>Included with Plus $20/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Runway</td><td>125 credits</td><td>$12-76/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Kling AI</td><td>Yes</td><td>$8/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>HeyGen</td><td>1 min free</td><td>$29/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Synthesia</td><td>3 min (watermark)</td><td>$29-89/mo</td><td>⭐⭐⭐</td></tr>
-    <tr><td>Descript</td><td>Yes</td><td>$8-24/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>CapCut</td><td>Yes (most features)</td><td>$8/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Sora（ChatGPT）</td><td>なし</td><td>Plus 月額20ドルに含まれる</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Runway</td><td>125クレジット</td><td>月額12〜76ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Kling AI</td><td>あり</td><td>月額8ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>HeyGen</td><td>1分間無料</td><td>月額29ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Synthesia</td><td>3分（透かし入り）</td><td>月額29〜89ドル</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Descript</td><td>あり</td><td>月額8〜24ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>CapCut</td><td>あり（ほとんどの機能）</td><td>月額8ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> Sora with ChatGPT Plus — AI video at no extra cost. <strong>Best quality:</strong> Runway Pro ($28/mo). <strong>無料おすすめ：</strong> CapCut for editing, Kling for generation. 詳しくは <a href="/ja/blog/best-ai-video-tools-2026">Best AI Video Tools</a> for details.</p>
+<p><strong>最高のコスパ：</strong>ChatGPT PlusのSora。追加費用なしのAI動画です。<strong>最高の品質：</strong>Runway Pro（月額28ドル）。<strong>最高の無料プラン：</strong>編集にはCapCut、生成にはKling。詳細は、<a href="/ja/blog/best-ai-video-tools-2026">ベストAI動画ツール</a>をご覧ください。</p>
 
-<h2>AI Coding</h2>
+<h2>AIコーディング</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>GitHub Copilot</td><td>2,000 completions/mo</td><td>$10-19/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Cursor</td><td>Limited</td><td>$20/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Claude Code</td><td>With Claude Pro</td><td>$20/mo (Claude Pro)</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Windsurf</td><td>Yes</td><td>$10-15/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Replit AI</td><td>Limited</td><td>$25/mo</td><td>⭐⭐⭐</td></tr>
+    <tr><td>GitHub Copilot</td><td>月2,000回の補完</td><td>月額10〜19ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Cursor</td><td>限定的</td><td>月額20ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Claude Code</td><td>Claude Proに含まれる</td><td>月額20ドル（Claude Pro）</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Windsurf</td><td>あり</td><td>月額10〜15ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Replit AI</td><td>限定的</td><td>月額25ドル</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> GitHub Copilot ($10/mo) — excellent quality at the lowest price. <strong>Best tool:</strong> Cursor ($20/mo) for multi-file editing and codebase awareness. 詳しくは <a href="/ja/blog/github-copilot-vs-cursor-2026">Copilot vs Cursor</a> comparison and <a href="/ja/blog/best-ai-coding-tools-2026">Best AI Coding Tools</a>.</p>
+<p><strong>最高のコスパ：</strong>GitHub Copilot（月額10ドル）。最も低い価格で、優れた品質です。<strong>最高のツール：</strong>複数ファイルの編集とコードベースの把握ならCursor（月額20ドル）。<a href="/ja/blog/github-copilot-vs-cursor-2026">CopilotとCursorの比較</a>と、<a href="/ja/blog/best-ai-coding-tools-2026">ベストAIコーディングツール</a>をご覧ください。</p>
 
-<h2>AI Writing</h2>
+<h2>AI文章作成</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>Grammarly</td><td>Basic grammar</td><td>$12/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Jasper</td><td>No</td><td>$49-69/mo</td><td>⭐⭐⭐</td></tr>
-    <tr><td>Copy.ai</td><td>2,000 words/mo</td><td>$49/mo</td><td>⭐⭐⭐</td></tr>
-    <tr><td>Surfer SEO</td><td>No</td><td>$89/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Writesonic</td><td>Limited</td><td>$16-33/mo</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Grammarly</td><td>基本的な文法チェック</td><td>月額12ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Jasper</td><td>なし</td><td>月額49〜69ドル</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Copy.ai</td><td>月2,000語</td><td>月額49ドル</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Surfer SEO</td><td>なし</td><td>月額89ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Writesonic</td><td>限定的</td><td>月額16〜33ドル</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> ChatGPT or Claude ($20/mo each) outperform most dedicated writing tools. <strong>Best specialized:</strong> Grammarly ($12/mo) for grammar + Surfer SEO ($89/mo) for SEO content. 詳しくは <a href="/ja/blog/best-ai-writing-tools-2026">Best AI Writing Tools</a>.</p>
+<p><strong>最高のコスパ：</strong>ChatGPTまたはClaude（それぞれ月額20ドル）は、ほとんどの専用の文章作成ツールを上回ります。<strong>最高の専門ツール：</strong>文法にはGrammarly（月額12ドル）、SEOコンテンツにはSurfer SEO（月額89ドル）。<a href="/ja/blog/best-ai-writing-tools-2026">ベストAI文章作成ツール</a>をご覧ください。</p>
 
-<h2>AI Music</h2>
+<h2>AI音楽</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>Suno</td><td>10 songs/day</td><td>$10/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Udio</td><td>Limited</td><td>$10/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>AIVA</td><td>3 downloads/mo</td><td>$15-49/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Soundraw</td><td>Trial only</td><td>$17/mo</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Suno</td><td>1日10曲</td><td>月額10ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Udio</td><td>限定的</td><td>月額10ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>AIVA</td><td>月3回のダウンロード</td><td>月額15〜49ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Soundraw</td><td>トライアルのみ</td><td>月額17ドル</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> Suno Pro ($10/mo) — 500 songs with commercial license. 詳しくは <a href="/ja/blog/best-ai-music-tools-2026">Best AI Music Tools</a>.</p>
+<p><strong>最高のコスパ：</strong>Suno Pro（月額10ドル）。商用ライセンス付きで500曲です。<a href="/ja/blog/best-ai-music-tools-2026">ベストAI音楽ツール</a>をご覧ください。</p>
 
-<h2>AI Voice</h2>
+<h2>AI音声</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>ElevenLabs</td><td>10,000 chars/mo</td><td>$5-22/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Murf AI</td><td>10 min</td><td>$26/mo</td><td>⭐⭐⭐</td></tr>
-    <tr><td>Play.ht</td><td>Limited</td><td>$31/mo</td><td>⭐⭐⭐</td></tr>
+    <tr><td>ElevenLabs</td><td>月10,000文字</td><td>月額5〜22ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Murf AI</td><td>10分</td><td>月額26ドル</td><td>⭐⭐⭐</td></tr>
+    <tr><td>Play.ht</td><td>限定的</td><td>月額31ドル</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> ElevenLabs Starter ($5/mo) — best quality voice AI at the lowest price. 詳しくは <a href="/ja/blog/elevenlabs-review-2026">ElevenLabs Review</a>.</p>
+<p><strong>最高のコスパ：</strong>ElevenLabs Starter（月額5ドル）。最も低い価格で、最高品質の音声AIです。<a href="/ja/blog/elevenlabs-review-2026">ElevenLabsのレビュー</a>をご覧ください。</p>
 
-<h2>AI Design & Productivity</h2>
+<h2>AIデザインと生産性</h2>
 <table>
   <thead>
-    <tr><th>Tool</th><th>Free Tier</th><th>Paid Plan</th><th>Value Rating</th></tr>
+    <tr><th>ツール</th><th>無料プラン</th><th>有料プラン</th><th>コスパ評価</th></tr>
   </thead>
   <tbody>
-    <tr><td>Canva</td><td>Yes (generous)</td><td>$13/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
-    <tr><td>Notion AI</td><td>On free Notion</td><td>$10/user/mo add-on</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Gamma</td><td>400 credits</td><td>$10-20/mo</td><td>⭐⭐⭐⭐</td></tr>
-    <tr><td>Otter.ai</td><td>300 min/mo</td><td>$17-30/mo</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Canva</td><td>あり（充実）</td><td>月額13ドル</td><td>⭐⭐⭐⭐⭐</td></tr>
+    <tr><td>Notion AI</td><td>無料のNotionで利用可能</td><td>1ユーザーあたり月額10ドルのアドオン</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Gamma</td><td>400クレジット</td><td>月額10〜20ドル</td><td>⭐⭐⭐⭐</td></tr>
+    <tr><td>Otter.ai</td><td>月300分</td><td>月額17〜30ドル</td><td>⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> Canva Pro ($13/mo) — replaces a designer for most business needs. 詳しくは <a href="/ja/blog/canva-review-2026">Canva Review</a>.</p>
+<p><strong>最高のコスパ：</strong>Canva Pro（月額13ドル）。ほとんどのビジネスのニーズで、デザイナーの代わりになります。<a href="/ja/blog/canva-review-2026">Canvaのレビュー</a>をご覧ください。</p>
 
-<h2>The Ultimate AI Budget Guide</h2>
+<h2>AIの予算の究極のガイド</h2>
 
-<h3>$0/month — The Free Stack</h3>
+<h3>月額0ドル：無料の組み合わせ</h3>
 <ul>
-  <li>ChatGPT Free — general AI, basic images</li>
-  <li>Gemini Free — Google integration, research</li>
-  <li>Perplexity Free — sourced research</li>
-  <li>Canva Free — design</li>
-  <li>Grammarly Free — writing</li>
-  <li>CapCut Free — video editing</li>
-  <li>Suno Free — music (10 songs/day)</li>
-  <li>ElevenLabs Free — voice (10K chars/month)</li>
+  <li>ChatGPT Free：汎用AI、基本的な画像</li>
+  <li>Gemini Free：Googleとの連携、リサーチ</li>
+  <li>Perplexity Free：出典付きのリサーチ</li>
+  <li>Canva Free：デザイン</li>
+  <li>Grammarly Free：文章作成</li>
+  <li>CapCut Free：動画編集</li>
+  <li>Suno Free：音楽（1日10曲）</li>
+  <li>ElevenLabs Free：音声（月1万文字）</li>
 </ul>
-<p><strong>What you get:</strong> A surprisingly complete AI toolkit. Enough for casual use, students, and small side projects.</p>
+<p><strong>得られるもの：</strong>驚くほど充実したAIのツールキットです。カジュアルな利用、学生、小さな副業のプロジェクトには十分です。</p>
 
-<h3>$20/month — The Essential</h3>
+<h3>月額20ドル：必須の1つ</h3>
 <ul>
-  <li>ChatGPT Plus ($20) — everything: text, GPT Image, Sora video, voice</li>
-  <li>Everything else stays free</li>
+  <li>ChatGPT Plus（20ドル）：すべて。テキスト、GPT Image、Sora動画、音声</li>
+  <li>それ以外はすべて無料のまま</li>
 </ul>
-<p><strong>What you get:</strong> One subscription that covers 80% of AI needs. The single best $20/month you can spend on AI.</p>
+<p><strong>得られるもの：</strong>AIのニーズの80%をカバーする、1つのサブスクリプションです。AIに使える、最高の月額20ドルです。</p>
 
-<h3>$40/month — The Power User</h3>
+<h3>月額40ドル：パワーユーザー</h3>
 <ul>
-  <li>ChatGPT Plus ($20) — versatility, images, video</li>
-  <li>Claude Pro ($20) — deep analysis, writing, coding</li>
-  <li>Free tools for everything else</li>
+  <li>ChatGPT Plus（20ドル）：多用途性、画像、動画</li>
+  <li>Claude Pro（20ドル）：深い分析、文章作成、コーディング</li>
+  <li>それ以外はすべて無料のツール</li>
 </ul>
-<p><strong>What you get:</strong> The best AI combo available. ChatGPT for breadth, Claude for depth. Covers virtually every professional need.</p>
+<p><strong>得られるもの：</strong>利用できる最高のAIの組み合わせです。幅広さにはChatGPT、深さにはClaude。事実上、あらゆるプロの用途をカバーします。</p>
 
-<h3>$100/month — The Professional</h3>
+<h3>月額100ドル：プロフェッショナル</h3>
 <ul>
-  <li>ChatGPT Plus ($20) — general AI + images + video</li>
-  <li>Claude Pro ($20) — analysis + writing + coding</li>
-  <li>Cursor Pro ($20) — AI coding (if developer)</li>
-  <li>Canva Pro ($13) — design</li>
-  <li>Runway Standard ($12) — professional AI video</li>
-  <li>Suno Pro ($10) — music</li>
-  <li>ElevenLabs Starter ($5) — voice</li>
+  <li>ChatGPT Plus（20ドル）：汎用AI＋画像＋動画</li>
+  <li>Claude Pro（20ドル）：分析＋文章作成＋コーディング</li>
+  <li>Cursor Pro（20ドル）：AIコーディング（開発者の場合）</li>
+  <li>Canva Pro（13ドル）：デザイン</li>
+  <li>Runway Standard（12ドル）：プロ向けのAI動画</li>
+  <li>Suno Pro（10ドル）：音楽</li>
+  <li>ElevenLabs Starter（5ドル）：音声</li>
 </ul>
-<p><strong>What you get:</strong> A complete creative and professional AI toolkit that would have cost $5,000+/month in freelancers and software five years ago.</p>
+<p><strong>得られるもの：</strong>5年前なら、フリーランサーとソフトウェアで月額5,000ドル以上かかっていたはずの、完全なクリエイティブとプロ向けのAIツールキットです。</p>
 
-<h2>料金 Tips</h2>
+<h2>料金のヒント</h2>
 
-<h3>1. Start Free, Upgrade When You Hit Limits</h3>
-<p>Every major AI tool has a free tier. Use them all before paying for anything. You'll discover which tools you actually use daily vs. which were just curiosity.</p>
+<h3>1. 無料で始めて、上限に達したらアップグレード</h3>
+<p>主要なAIツールには、すべて無料プランがあります。何かにお金を払う前に、すべてを使い切りましょう。毎日実際に使うツールと、ただの好奇心だったツールが見えてきます。</p>
 
-<h3>2. Annual Plans Save 20-40%</h3>
-<p>Most tools offer significant discounts for annual billing. ChatGPT Plus: $200/year ($16.67/month vs $20). Canva Pro: $120/year ($10/month vs $13). Only commit annually after 2-3 months of regular use.</p>
+<h3>2. 年間プランで20〜40%の節約</h3>
+<p>ほとんどのツールが、年間契約で大幅な割引を提供しています。ChatGPT Plus：年額200ドル（月額換算16.67ドル、通常は20ドル）。Canva Pro：年額120ドル（月額換算10ドル、通常は13ドル）。年間契約は、2〜3か月、定期的に使ってからにしましょう。</p>
 
-<h3>3. Don't Pay for Overlap</h3>
-<p>ChatGPT Plus includes image generation — you probably don't need a separate Midjourney subscription. Cursor includes code completion — you don't also need Copilot. Audit your AI subscriptions quarterly.</p>
+<h3>3. 重複する費用は払わない</h3>
+<p>ChatGPT Plusには画像生成が含まれているため、Midjourneyの別のサブスクリプションはおそらく不要です。Cursorにはコード補完が含まれているため、Copilotも併用する必要はありません。AIのサブスクリプションは、四半期ごとに見直しましょう。</p>
 
-<h3>4. Team Plans Often Have Better Value</h3>
-<p>ChatGPT Team ($30/user/month) includes everything in Plus plus data privacy guarantees and admin controls. For businesses, the privacy alone justifies the $10 premium.</p>
+<h3>4. チームプランのほうがお得なことが多い</h3>
+<p>ChatGPT Team（1ユーザーあたり月額30ドル）には、Plusのすべてに加えて、データのプライバシーの保証と管理者向けの制御が含まれます。企業にとっては、プライバシーだけで、10ドルの上乗せを正当化できます。</p>
 
-<h3>5. Student and Education Discounts</h3>
-<p>Canva Education: completely free. GitHub Copilot: free for students. Many tools offer education pricing — always check before paying full price.</p>
+<h3>5. 学生と教育機関向けの割引</h3>
+<p>Canva for Education：完全に無料。GitHub Copilot：学生は無料。多くのツールが教育向けの価格を提供しています。定価を払う前に、必ず確認しましょう。</p>
 
 <h2>よくある質問</h2>
 
-<h3>What is the cheapest way to access AI?</h3>
-<p>Free. ChatGPT, Gemini, Perplexity, Canva, Grammarly, CapCut, Suno, and ElevenLabs all have free tiers. Combined, they cover most AI needs at zero cost.</p>
+<h3>AIを最も安く利用する方法は？</h3>
+<p>無料です。ChatGPT、Gemini、Perplexity、Canva、Grammarly、CapCut、Suno、ElevenLabsには、すべて無料プランがあります。組み合わせれば、ほとんどのAIのニーズを、ゼロのコストでカバーできます。</p>
 
-<h3>Is ChatGPT Plus worth $20/month?</h3>
-<p>Yes — it's the single best AI value available. Text, images, video, voice, web browsing, and Custom GPTs in one subscription. The first AI tool most people should upgrade.</p>
+<h3>ChatGPT Plusは月額20ドルの価値がありますか？</h3>
+<p>はい。利用できる最高のAIのコストパフォーマンスです。テキスト、画像、動画、音声、ウェブ閲覧、カスタムGPTが、1つのサブスクリプションに含まれます。ほとんどの人が最初にアップグレードすべきAIツールです。</p>
 
-<h3>How much should I spend on AI tools?</h3>
-<p>$0-20/month for casual users. $40/month for professionals (ChatGPT + Claude). $100/month for creators who need video, music, and design. Don't spend more until you've maximized what you have.</p>
+<h3>AIツールには、いくら使うべきですか？</h3>
+<p>カジュアルなユーザーなら、月額0〜20ドル。プロなら、月額40ドル（ChatGPT＋Claude）。動画、音楽、デザインが必要なクリエイターなら、月額100ドル。今あるものを使い切るまでは、それ以上使わないようにしましょう。</p>
 
-<h3>Which AI tools are overpriced?</h3>
-<p>Microsoft Copilot at $30/user/month (ChatGPT does more for $20). Jasper at $49/month (ChatGPT/Claude write better for $20). Synthesia at $29/month for 10 minutes (HeyGen offers more). Always compare to general-purpose chatbots before buying specialized tools.</p>
+<h3>割高なAIツールはどれですか？</h3>
+<p>1ユーザーあたり月額30ドルのMicrosoft Copilot（ChatGPTは20ドルで、より多くのことができます）。月額49ドルのJasper（ChatGPT/Claudeは20ドルで、より優れた文章を書きます）。10分で月額29ドルのSynthesia（HeyGenはより多くを提供します）。専門ツールを購入する前に、必ず汎用のチャットボットと比較しましょう。</p>
 
-<h3>Do I need both ChatGPT and Claude?</h3>
-<p>For casual use — no, pick one. For professional work — yes, they have genuinely different strengths. ChatGPT for versatility and images, Claude for analysis and writing quality. The $40/month combo is the best professional AI setup.</p>
+<h3>ChatGPTとClaudeの両方が必要ですか？</h3>
+<p>カジュアルな利用なら不要で、どちらか1つを選びましょう。プロの仕事なら必要です。それぞれに本当に異なる強みがあります。多用途性と画像にはChatGPT、分析と文章の品質にはClaude。月額40ドルの組み合わせは、プロ向けの最高のAI環境です。</p>
 
-<p><em>All pricing verified by AIGradeLab on each platform's website as of November 2026. Prices may vary by region. Annual discounts available on most platforms.</em></p>
+<p><em>すべての料金は、2026年11月時点で、AIGradeLabが各プラットフォームのウェブサイトで確認しています。料金は地域によって異なる場合があります。ほとんどのプラットフォームで、年間割引が利用できます。</em></p>

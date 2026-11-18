@@ -1,181 +1,181 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي للعقارات في 2026"
-description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي للعقارات. كل أداة مُقيَّمة بشفافية. نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل أدوات الذكاء الاصطناعي للعقارات في 2026: 7 أدوات مُختبَرة ومُقيَّمة"
+description: "اختبرنا أبرز أدوات الذكاء الاصطناعي لوكلاء العقارات — للإعلانات العقارية وتوليد العملاء المحتملين والتأثيث الافتراضي وإدارة العملاء (CRM) والتسويق. كل أداة مُقيَّمة. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-16"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "وقت القراءة: 13 دقيقة"
 ---
 
-<h2>AI in Real Estate: Close More, Work Less</h2>
-<p>Real estate is one of the industries where AI delivers the fastest ROI. Write listing descriptions in 30 seconds instead of 30 minutes. Stage empty rooms virtually for $30 instead of $3,000. Respond to leads at 2 AM with an AI chatbot. Generate neighborhood guides, market analyses, and client emails without typing a word. We tested the AI tools that help agents sell more while working smarter.</p>
+<h2>الذكاء الاصطناعي في العقارات: أغلق صفقات أكثر واعمل أقل</h2>
+<p>العقارات من القطاعات التي يحقق فيها الذكاء الاصطناعي أسرع عائد على الاستثمار. اكتب أوصاف العقارات في 30 ثانية بدلًا من 30 دقيقة. أثّث الغرف الفارغة افتراضيًا بـ $30 بدلًا من $3,000. رُدّ على العملاء المحتملين في الثانية صباحًا بروبوت محادثة. ولّد أدلة الأحياء وتحليلات السوق ورسائل العملاء دون كتابة كلمة. اختبرنا أدوات الذكاء الاصطناعي التي تساعد الوكلاء على البيع أكثر مع العمل بذكاء أكبر.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Category</th><th>Price</th><th>Best For</th></tr>
+    <tr><th>#</th><th>الأداة</th><th>الفئة</th><th>السعر</th><th>الأفضل لـ</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>ChatGPT</td><td>General AI assistant</td><td>Free / $20/mo</td><td>Listings, emails, marketing</td></tr>
-    <tr><td>2</td><td>Virtual Staging AI</td><td>Virtual staging</td><td>$16-40/mo</td><td>Stage empty rooms with AI</td></tr>
-    <tr><td>3</td><td>Canva</td><td>Marketing materials</td><td>Free / $13/mo</td><td>Flyers, social posts, brochures</td></tr>
-    <tr><td>4</td><td>Follow Up Boss</td><td>AI-powered CRM</td><td>$58-499/mo</td><td>Lead management and follow-up</td></tr>
-    <tr><td>5</td><td>Lofty (Chime)</td><td>AI real estate platform</td><td>$449+/mo</td><td>Full AI-powered real estate CRM</td></tr>
-    <tr><td>6</td><td>Grammarly</td><td>Writing quality</td><td>Free / $12/mo</td><td>Professional client communication</td></tr>
-    <tr><td>7</td><td>Claude</td><td>Analysis and documents</td><td>Free / $20/mo</td><td>Market analysis, contracts, reports</td></tr>
+    <tr><td>1</td><td>ChatGPT</td><td>مساعد ذكاء اصطناعي عام</td><td>مجاني / $20/شهر</td><td>الإعلانات العقارية والبريد والتسويق</td></tr>
+    <tr><td>2</td><td>Virtual Staging AI</td><td>التأثيث الافتراضي</td><td>$16-40/شهر</td><td>تأثيث الغرف الفارغة بالذكاء الاصطناعي</td></tr>
+    <tr><td>3</td><td>Canva</td><td>المواد التسويقية</td><td>مجاني / $13/شهر</td><td>النشرات ومنشورات وسائل التواصل والكتيبات</td></tr>
+    <tr><td>4</td><td>Follow Up Boss</td><td>CRM مدعوم بالذكاء الاصطناعي</td><td>$58-499/شهر</td><td>إدارة العملاء المحتملين والمتابعة</td></tr>
+    <tr><td>5</td><td>Lofty (Chime)</td><td>منصة عقارية بالذكاء الاصطناعي</td><td>$449+/شهر</td><td>CRM عقاري متكامل مدعوم بالذكاء الاصطناعي</td></tr>
+    <tr><td>6</td><td>Grammarly</td><td>جودة الكتابة</td><td>مجاني / $12/شهر</td><td>تواصل احترافي مع العملاء</td></tr>
+    <tr><td>7</td><td>Claude</td><td>التحليل والمستندات</td><td>مجاني / $20/شهر</td><td>تحليل السوق والعقود والتقارير</td></tr>
   </tbody>
 </table>
 
-<h2>1. ChatGPT — Best All-Around Real Estate AI — Free / $20/mo</h2>
-<p>ChatGPT is the single most useful AI tool for real estate agents. It handles the writing that consumes hours every week — listing descriptions, client emails, social media posts, neighborhood guides, buyer/seller presentations, and marketing copy. One prompt generates a polished MLS listing description that would take 30 minutes to write manually.</p>
-<h3>Best Real Estate Uses</h3>
+<h2>1. ChatGPT — أفضل ذكاء اصطناعي عقاري شامل — مجاني / $20/شهر</h2>
+<p>ChatGPT هو أكثر أدوات الذكاء الاصطناعي فائدةً لوكلاء العقارات. يتولى الكتابة التي تستهلك ساعات كل أسبوع — أوصاف العقارات ورسائل العملاء ومنشورات وسائل التواصل الاجتماعي وأدلة الأحياء وعروض المشترين/البائعين والنصوص التسويقية. أمر واحد يولّد وصفًا مصقولًا لإعلان MLS كان سيستغرق 30 دقيقة لكتابته يدويًا.</p>
+<h3>أفضل الاستخدامات العقارية</h3>
 <ul>
-  <li><strong>Listing descriptions:</strong> "Write an MLS listing description for a 3-bed 2-bath ranch in Maple Ridge, updated kitchen, large backyard, near transit" — polished result in 15 seconds</li>
-  <li><strong>Client emails:</strong> Follow-up after showings, offer updates, market reports</li>
-  <li><strong>Social media:</strong> "Just listed" posts, market updates, homebuyer tips</li>
-  <li><strong>Neighborhood guides:</strong> School info, amenities, lifestyle descriptions</li>
-  <li><strong>Buyer presentations:</strong> Market analysis summaries and comparison sheets</li>
-  <li><strong>GPT Image:</strong> Create marketing graphics and social media visuals</li>
+  <li><strong>أوصاف العقارات:</strong> «اكتب وصف إعلان MLS لمنزل من طابق واحد بثلاث غرف نوم وحمامين في Maple Ridge، مطبخ محدَّث وحديقة خلفية كبيرة وقريب من المواصلات» — نتيجة مصقولة في 15 ثانية</li>
+  <li><strong>رسائل العملاء:</strong> المتابعة بعد المعاينات وتحديثات العروض وتقارير السوق</li>
+  <li><strong>وسائل التواصل الاجتماعي:</strong> منشورات «معروض حديثًا» وتحديثات السوق ونصائح مشتري المنازل</li>
+  <li><strong>أدلة الأحياء:</strong> معلومات المدارس والمرافق ووصف نمط الحياة</li>
+  <li><strong>عروض المشترين:</strong> ملخصات تحليل السوق وجداول المقارنة</li>
+  <li><strong>GPT Image:</strong> أنشئ رسومات تسويقية ومرئيات لوسائل التواصل الاجتماعي</li>
 </ul>
-<p><strong>ROI:</strong> Saves 5-10 hours/week on writing. At a busy agent's hourly value, that's $500-1,000/week recovered for client-facing activities.</p>
+<p><strong>العائد على الاستثمار:</strong> يوفر 5-10 ساعات أسبوعيًا في الكتابة. وبالقيمة الساعية لوكيل مشغول، يعادل ذلك $500-1,000 أسبوعيًا مستردة للأنشطة المتصلة بالعملاء.</p>
 
-<h2>2. Virtual Staging AI — Best for Empty Properties — $16-40/mo</h2>
-<p>Traditional home staging costs $2,000-5,000 per property. AI virtual staging costs $16-40/month for unlimited rooms. Upload a photo of an empty room, choose a style (modern, traditional, farmhouse, minimalist), and AI generates a realistically staged version in minutes. The quality has become good enough that most buyers can't tell the difference from real staging in listing photos.</p>
-<h3>Top Virtual Staging Tools</h3>
+<h2>2. Virtual Staging AI — الأفضل للعقارات الفارغة — $16-40/شهر</h2>
+<p>تكلّف تهيئة المنازل التقليدية للبيع (staging) $2,000-5,000 لكل عقار. أما التأثيث الافتراضي بالذكاء الاصطناعي فيكلّف $16-40 شهريًا لعدد غير محدود من الغرف. ارفع صورة لغرفة فارغة، واختر أسلوبًا (عصري أو تقليدي أو ريفي أو بسيط)، وسيولّد الذكاء الاصطناعي نسخة مؤثثة بواقعية في دقائق. وقد أصبحت الجودة جيدة بما يكفي بحيث لا يستطيع معظم المشترين تمييز الفرق عن التأثيث الحقيقي في صور الإعلانات.</p>
+<h3>أبرز أدوات التأثيث الافتراضي</h3>
 <ul>
-  <li><strong>Virtual Staging AI ($16/month):</strong> Best value — unlimited renders, multiple styles, fast processing</li>
-  <li><strong>Apply Design ($29/month):</strong> Higher quality renders, more customization options</li>
-  <li><strong>REimagineHome ($19/month):</strong> Good quality, easy interface, exterior staging included</li>
+  <li><strong>Virtual Staging AI ($16/شهر):</strong> الأفضل قيمة — تصييرات غير محدودة وأساليب متعددة ومعالجة سريعة</li>
+  <li><strong>Apply Design ($29/شهر):</strong> تصييرات بجودة أعلى وخيارات تخصيص أكثر</li>
+  <li><strong>REimagineHome ($19/شهر):</strong> جودة جيدة وواجهة سهلة مع التأثيث الخارجي مضمّن</li>
 </ul>
-<h3>Pros</h3>
+<h3>المزايا</h3>
 <ul>
-  <li>95%+ cheaper than physical staging</li>
-  <li>Results in minutes, not days</li>
-  <li>Multiple styles from one photo</li>
-  <li>No furniture rental, no scheduling, no cleanup</li>
-  <li>Exterior renovation visualization available</li>
+  <li>أرخص بأكثر من 95% من التأثيث الفعلي</li>
+  <li>نتائج في دقائق لا أيام</li>
+  <li>أساليب متعددة من صورة واحدة</li>
+  <li>لا تأجير أثاث ولا جدولة ولا تنظيف</li>
+  <li>تصوّر تجديد الواجهات الخارجية متاح</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Must disclose virtual staging in listings (legal requirement in most areas)</li>
-  <li>Occasional unrealistic furniture proportions</li>
-  <li>Doesn't work well with cluttered rooms (empty rooms only)</li>
+  <li>يجب الإفصاح عن التأثيث الافتراضي في الإعلانات (متطلب قانوني في معظم المناطق)</li>
+  <li>أحيانًا نسب أثاث غير واقعية</li>
+  <li>لا يعمل جيدًا مع الغرف المزدحمة (الغرف الفارغة فقط)</li>
 </ul>
-<p><strong>ROI:</strong> A staged listing sells 73% faster on average. At $16/month vs $3,000 per physical staging, the math is obvious.</p>
+<p><strong>العائد على الاستثمار:</strong> يُباع العقار المؤثَّث أسرع بنسبة 73% في المتوسط. وبسعر $16/شهر مقابل $3,000 للتأثيث الفعلي، الحساب بديهي.</p>
 
-<h2>3. Canva — Best for Real Estate Marketing — Free / $13/mo</h2>
-<p>Real estate marketing lives on visuals — and Canva is the easiest way to create professional-looking flyers, social media posts, property brochures, open house invitations, market report graphics, and email headers. The real estate template library is extensive. Magic Resize lets you create one design and instantly adapt it for Instagram, Facebook, print flyers, and email.</p>
-<h3>Best Real Estate Uses</h3>
+<h2>3. Canva — الأفضل للتسويق العقاري — مجاني / $13/شهر</h2>
+<p>يعتمد التسويق العقاري على المرئيات — و Canva هو أسهل طريقة لإنشاء نشرات احترافية ومنشورات وسائل التواصل الاجتماعي وكتيبات العقارات ودعوات البيوت المفتوحة ورسومات تقارير السوق ورؤوس البريد الإلكتروني. ومكتبة القوالب العقارية واسعة. ويتيح لك Magic Resize إنشاء تصميم واحد وتكييفه فورًا لـ Instagram وFacebook والنشرات المطبوعة والبريد الإلكتروني.</p>
+<h3>أفضل الاستخدامات العقارية</h3>
 <ul>
-  <li>"Just Listed" and "Just Sold" social posts</li>
-  <li>Property flyers and brochures</li>
-  <li>Open house invitations and signage</li>
-  <li>Monthly market update graphics</li>
-  <li>Client anniversary and holiday cards</li>
-  <li>Video property tours with text overlays</li>
+  <li>منشورات «معروض حديثًا» و«بِيع حديثًا» على وسائل التواصل الاجتماعي</li>
+  <li>نشرات العقارات وكتيباتها</li>
+  <li>دعوات البيوت المفتوحة واللافتات</li>
+  <li>رسومات تحديثات السوق الشهرية</li>
+  <li>بطاقات ذكرى العملاء والمناسبات</li>
+  <li>جولات فيديو للعقارات مع تراكبات نصية</li>
 </ul>
-<p><strong>ROI:</strong> Replaces a graphic designer ($200-500/month) for most real estate marketing needs. At $13/month, it's the best value marketing tool for agents. Read our full <a href="/ar/blog/canva-review-2026">Canva Review</a>.</p>
+<p><strong>العائد على الاستثمار:</strong> يحل محل مصمم جرافيك ($200-500/شهر) لمعظم احتياجات التسويق العقاري. وبسعر $13/شهر، هو أفضل أداة تسويق قيمةً للوكلاء. اقرأ <a href="/ar/blog/canva-review-2026">مراجعة Canva</a> الكاملة.</p>
 
-<h2>4. Follow Up Boss — Best AI CRM — $58-499/mo</h2>
-<p>Follow Up Boss is the CRM built for real estate teams, and its AI features focus on what matters most: lead follow-up. AI lead scoring identifies your hottest prospects. Smart lists automatically segment leads by behavior (viewed listings, opened emails, visited website). AI-suggested follow-up actions tell you who to call and when. For agents who lose deals because leads fall through the cracks, Follow Up Boss plugs the holes.</p>
-<h3>Pros</h3>
+<h2>4. Follow Up Boss — أفضل CRM بالذكاء الاصطناعي — $58-499/شهر</h2>
+<p>Follow Up Boss هو نظام CRM المبني لفرق العقارات، وتركّز ميزات الذكاء الاصطناعي فيه على ما يهم أكثر: متابعة العملاء المحتملين. يحدد تقييم العملاء المحتملين بالذكاء الاصطناعي أكثر عملائك سخونةً. وتقسّم القوائم الذكية العملاء تلقائيًا بحسب السلوك (شاهدوا إعلانات، فتحوا رسائل، زاروا الموقع). وتخبرك إجراءات المتابعة المقترحة بالذكاء الاصطناعي بمن تتصل ومتى. وللوكلاء الذين يخسرون صفقات لأن العملاء المحتملين يسقطون من بين الأيدي، يسد Follow Up Boss هذه الثغرات.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>AI lead scoring prioritizes your hottest prospects</li>
-  <li>Automatic follow-up reminders based on lead behavior</li>
-  <li>Integrates with Zillow, Realtor.com, and all major lead sources</li>
-  <li>Team distribution and accountability tracking</li>
-  <li>Phone, email, and text from one platform</li>
+  <li>يعطي تقييم العملاء المحتملين بالذكاء الاصطناعي الأولوية لأكثر عملائك سخونةً</li>
+  <li>تذكيرات متابعة تلقائية بناءً على سلوك العميل المحتمل</li>
+  <li>يتكامل مع Zillow وRealtor.com وجميع مصادر العملاء المحتملين الرئيسية</li>
+  <li>توزيع الفريق وتتبّع المساءلة</li>
+  <li>الهاتف والبريد والرسائل النصية من منصة واحدة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>$58/month starting price is significant for solo agents</li>
-  <li>Learning curve for full feature utilization</li>
-  <li>Best value for teams, expensive for individuals</li>
+  <li>سعر البداية $58/شهر مبلغ كبير للوكلاء المنفردين</li>
+  <li>منحنى تعلّم للاستفادة الكاملة من الميزات</li>
+  <li>الأفضل قيمةً للفرق، ومكلف للأفراد</li>
 </ul>
-<p><strong>Pricing:</strong> Grow $58/month. Pro $139/month. Platform $499/month (teams).</p>
-<p><strong>ROI:</strong> One additional closed deal from better follow-up pays for 2+ years of the subscription.</p>
+<p><strong>التسعير:</strong> Grow بسعر $58/شهر. Pro بسعر $139/شهر. Platform بسعر $499/شهر (للفرق).</p>
+<p><strong>العائد على الاستثمار:</strong> صفقة إضافية مغلقة بفضل متابعة أفضل تسدّد أكثر من عامين من الاشتراك.</p>
 
-<h2>5. Lofty (formerly Chime) — Best Full AI Platform — $449+/mo</h2>
-<p>Lofty is the all-in-one AI-powered real estate platform — CRM, website, IDX, lead generation, AI assistant, marketing automation, and transaction management. The AI assistant (Lofty AI) engages leads via text message, qualifies them, and schedules appointments automatically. For teams and brokerages willing to invest in a complete platform, Lofty replaces 5+ separate tools.</p>
-<h3>Pros</h3>
+<h2>5. Lofty (المعروف سابقًا باسم Chime) — أفضل منصة ذكاء اصطناعي متكاملة — $449+/شهر</h2>
+<p>Lofty هي المنصة العقارية المتكاملة المدعومة بالذكاء الاصطناعي — CRM وموقع إلكتروني وIDX وتوليد العملاء المحتملين ومساعد ذكاء اصطناعي وأتمتة التسويق وإدارة المعاملات. يتفاعل مساعد الذكاء الاصطناعي (Lofty AI) مع العملاء المحتملين عبر الرسائل النصية ويؤهلهم ويجدول المواعيد تلقائيًا. وللفرق والوساطات الراغبة في الاستثمار في منصة كاملة، تحل Lofty محل أكثر من 5 أدوات منفصلة.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>AI assistant engages and qualifies leads 24/7 via text</li>
-  <li>All-in-one: CRM, website, IDX, marketing, transactions</li>
-  <li>Behavioral AI predicts which leads will convert</li>
-  <li>Automated drip campaigns based on lead behavior</li>
+  <li>يتفاعل مساعد الذكاء الاصطناعي مع العملاء المحتملين ويؤهلهم على مدار الساعة عبر النصوص</li>
+  <li>الكل في واحد: CRM وموقع وIDX وتسويق ومعاملات</li>
+  <li>يتنبأ الذكاء الاصطناعي السلوكي بالعملاء المحتملين الذين سيحققون تحويلات</li>
+  <li>حملات تقطير آلية بناءً على سلوك العميل المحتمل</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>$449+/month is expensive — designed for teams and top producers</li>
-  <li>Complex platform with significant setup time</li>
-  <li>Long-term contract often required</li>
+  <li>$449+/شهر مبلغ مرتفع — مصمم للفرق وكبار المنتجين</li>
+  <li>منصة معقدة تتطلب وقت إعداد كبيرًا</li>
+  <li>غالبًا ما يلزم عقد طويل الأجل</li>
 </ul>
-<p><strong>Pricing:</strong> Starting at $449/month. Team pricing varies.</p>
-<p><strong>ROI:</strong> Best for agents spending $1,000+/month on lead generation. The AI qualification and follow-up increase conversion rates on leads you're already paying for.</p>
+<p><strong>التسعير:</strong> يبدأ من $449/شهر. تتفاوت أسعار الفرق.</p>
+<p><strong>العائد على الاستثمار:</strong> الأفضل للوكلاء الذين ينفقون أكثر من $1,000 شهريًا على توليد العملاء المحتملين. يزيد التأهيل والمتابعة بالذكاء الاصطناعي معدلات التحويل لعملاء محتملين تدفع ثمنهم أصلًا.</p>
 
-<h2>6. Grammarly — Best for Agent Communication — Free / $12/mo</h2>
-<p>Real estate is a relationship business — and every email, text, and listing description represents your professionalism. Grammarly catches errors, adjusts tone, and ensures your communication is polished. For agents sending 30+ client emails per day, Grammarly prevents the typos and tone missteps that erode trust.</p>
-<h3>Best Real Estate Uses</h3>
+<h2>6. Grammarly — الأفضل لتواصل الوكلاء — مجاني / $12/شهر</h2>
+<p>العقارات مهنة علاقات — وكل رسالة بريد ونص ووصف إعلان يمثل احترافيتك. يلتقط Grammarly الأخطاء ويضبط النبرة ويضمن أن تواصلك مصقول. وللوكلاء الذين يرسلون أكثر من 30 رسالة عميل يوميًا، يمنع Grammarly الأخطاء المطبعية وزلات النبرة التي تقوّض الثقة.</p>
+<h3>أفضل الاستخدامات العقارية</h3>
 <ul>
-  <li>Error-free listing descriptions</li>
-  <li>Professional offer and counter-offer communications</li>
-  <li>Polished client newsletters and market updates</li>
-  <li>Tone-appropriate responses to difficult situations</li>
+  <li>أوصاف إعلانات خالية من الأخطاء</li>
+  <li>مراسلات احترافية للعروض والعروض المضادة</li>
+  <li>نشرات إخبارية للعملاء وتحديثات سوق مصقولة</li>
+  <li>ردود بنبرة مناسبة في المواقف الصعبة</li>
 </ul>
-<p><strong>ROI:</strong> One prevented miscommunication on a $500K deal pays for decades of Grammarly. Read our full <a href="/ar/blog/grammarly-review-2026">Grammarly Review</a>.</p>
+<p><strong>العائد على الاستثمار:</strong> سوء تواصل واحد تم تفاديه في صفقة بقيمة $500 ألف يسدّد عقودًا من Grammarly. اقرأ <a href="/ar/blog/grammarly-review-2026">مراجعة Grammarly</a> الكاملة.</p>
 
-<h2>7. Claude — Best for Analysis and Documents — Free / $20/mo</h2>
-<p>Claude excels at the analytical side of real estate. Upload a purchase agreement and ask Claude to explain the key terms, identify unusual clauses, and flag potential issues. Upload market data and get a detailed analysis report. Draft buyer presentations, seller net sheets explanations, and investment property analyses. The 200K+ context window handles entire contracts without cutting content.</p>
-<h3>Best Real Estate Uses</h3>
+<h2>7. Claude — الأفضل للتحليل والمستندات — مجاني / $20/شهر</h2>
+<p>يتفوق Claude في الجانب التحليلي من العقارات. ارفع اتفاقية شراء واطلب من Claude شرح الشروط الرئيسية وتحديد البنود غير المعتادة وتنبيهك إلى المشكلات المحتملة. ارفع بيانات السوق واحصل على تقرير تحليل مفصّل. وصِغ عروض المشترين وشروحات أوراق صافي البائع وتحليلات العقارات الاستثمارية. وتتعامل نافذة السياق التي تتجاوز 200 ألف رمز مع عقود كاملة دون اقتطاع المحتوى.</p>
+<h3>أفضل الاستخدامات العقارية</h3>
 <ul>
-  <li>Contract review — identify risks and unusual clauses</li>
-  <li>Market analysis reports from MLS data</li>
-  <li>Investment property analysis — ROI, cap rate, cash flow</li>
-  <li>Buyer/seller presentation materials</li>
-  <li>Comparative market analysis narratives</li>
+  <li>مراجعة العقود — حدّد المخاطر والبنود غير المعتادة</li>
+  <li>تقارير تحليل السوق من بيانات MLS</li>
+  <li>تحليل العقارات الاستثمارية — العائد ومعدل الرسملة والتدفق النقدي</li>
+  <li>مواد عروض المشترين/البائعين</li>
+  <li>سرديات تحليل السوق المقارن</li>
 </ul>
-<p><strong>ROI:</strong> Replaces hours of document review and report writing. Not a substitute for legal advice, but an excellent first-pass analysis tool. Read our full <a href="/ar/blog/claude-review-2026">Claude Review</a>.</p>
+<p><strong>العائد على الاستثمار:</strong> يحل محل ساعات من مراجعة المستندات وكتابة التقارير. ليس بديلًا عن المشورة القانونية، لكنه أداة ممتازة لتحليل أولي. اقرأ <a href="/ar/blog/claude-review-2026">مراجعة Claude</a> الكاملة.</p>
 
-<h2>The Real Estate AI Stack by Budget</h2>
+<h2>حزمة الذكاء الاصطناعي العقارية حسب الميزانية</h2>
 
-<h3>$33/month — Solo Agent Starter</h3>
+<h3>$33/شهر — بداية الوكيل المنفرد</h3>
 <ul>
-  <li>ChatGPT Plus ($20) — listings, emails, social media, images</li>
-  <li>Canva Pro ($13) — all marketing materials</li>
-  <li>Grammarly Free — writing quality</li>
-  <li>Virtual Staging AI Free trial — test before committing</li>
-</ul>
-
-<h3>$100/month — Producing Agent</h3>
-<ul>
-  <li>ChatGPT Plus ($20) — content and communication</li>
-  <li>Claude Pro ($20) — contracts and analysis</li>
-  <li>Follow Up Boss ($58) — CRM and lead management</li>
-  <li>Canva Pro ($13) — marketing</li>
-  <li>Virtual Staging AI ($16) — stage every listing</li>
+  <li>ChatGPT Plus ($20) — الإعلانات والبريد ووسائل التواصل الاجتماعي والصور</li>
+  <li>Canva Pro ($13) — جميع المواد التسويقية</li>
+  <li>Grammarly المجاني — جودة الكتابة</li>
+  <li>Virtual Staging AI تجربة مجانية — جرّب قبل الالتزام</li>
 </ul>
 
-<h3>$500+/month — Team/Top Producer</h3>
+<h3>$100/شهر — الوكيل المنتج</h3>
 <ul>
-  <li>Lofty ($449+) — all-in-one platform with AI</li>
-  <li>ChatGPT Plus ($20) — supplemental AI</li>
-  <li>Virtual Staging AI ($16) — staging</li>
-  <li>Canva Pro ($13) — marketing</li>
+  <li>ChatGPT Plus ($20) — المحتوى والتواصل</li>
+  <li>Claude Pro ($20) — العقود والتحليل</li>
+  <li>Follow Up Boss ($58) — CRM وإدارة العملاء المحتملين</li>
+  <li>Canva Pro ($13) — التسويق</li>
+  <li>Virtual Staging AI ($16) — أثّث كل إعلان</li>
 </ul>
 
-<h2>FAQ</h2>
+<h3>$500+/شهر — الفريق/كبار المنتجين</h3>
+<ul>
+  <li>Lofty ($449+) — منصة متكاملة مع الذكاء الاصطناعي</li>
+  <li>ChatGPT Plus ($20) — ذكاء اصطناعي تكميلي</li>
+  <li>Virtual Staging AI ($16) — التأثيث</li>
+  <li>Canva Pro ($13) — التسويق</li>
+</ul>
 
-<h3>What is the best AI tool for real estate agents?</h3>
-<p><strong>ChatGPT Plus ($20/month)</strong> — it handles listing descriptions, client emails, social media, and marketing at the lowest cost. Add Canva ($13/month) for design and you've covered 80% of an agent's AI needs for $33/month.</p>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is AI virtual staging legal?</h3>
-<p>Yes, but most jurisdictions require disclosure. Add "Virtually staged" or "AI-staged photos" to your listing. Check your local MLS rules for specific requirements.</p>
+<h3>ما أفضل أداة ذكاء اصطناعي لوكلاء العقارات؟</h3>
+<p><strong>ChatGPT Plus (بسعر $20/شهر)</strong> — فهو يتولى أوصاف العقارات ورسائل العملاء ووسائل التواصل الاجتماعي والتسويق بأقل تكلفة. أضف Canva ($13/شهر) للتصميم وستكون قد غطيت 80% من احتياجات الوكيل من الذكاء الاصطناعي بـ $33/شهر.</p>
 
-<h3>Can AI replace a real estate agent?</h3>
-<p>No. AI handles marketing, writing, and administrative tasks. The core of real estate — relationship building, negotiation, local market expertise, and transaction management — requires a human agent. AI makes good agents better, it doesn't replace them.</p>
+<h3>هل التأثيث الافتراضي بالذكاء الاصطناعي قانوني؟</h3>
+<p>نعم، لكن معظم الاختصاصات القضائية تتطلب الإفصاح. أضف عبارة «مؤثَّث افتراضيًا» أو «صور مؤثثة بالذكاء الاصطناعي» إلى إعلانك. راجع قواعد MLS المحلية لديك للاطلاع على المتطلبات المحددة.</p>
 
-<h3>What's the ROI of AI tools for real estate?</h3>
-<p>The average agent spends 15-20 hours/week on administrative and marketing tasks. AI tools can reduce this to 5-8 hours. Those recovered hours become time for prospecting, showings, and client meetings — the activities that generate commission.</p>
+<h3>هل يستطيع الذكاء الاصطناعي أن يحل محل وكيل عقاري؟</h3>
+<p>لا. يتولى الذكاء الاصطناعي التسويق والكتابة والمهام الإدارية. أما جوهر العقارات — بناء العلاقات والتفاوض والخبرة بالسوق المحلي وإدارة المعاملات — فيتطلب وكيلًا بشريًا. الذكاء الاصطناعي يجعل الوكلاء الجيدين أفضل ولا يحل محلهم.</p>
 
-<p><em>Every tool was tested by AIGradeLab in real estate marketing, lead management, and transaction workflows. Rankings reflect practical agent ROI as of November 2026. Pricing verified on each platform's website.</em></p>
+<h3>ما العائد على الاستثمار لأدوات الذكاء الاصطناعي في العقارات؟</h3>
+<p>يقضي الوكيل المتوسط 15-20 ساعة أسبوعيًا في المهام الإدارية والتسويقية. ويمكن لأدوات الذكاء الاصطناعي خفض ذلك إلى 5-8 ساعات. وتتحول هذه الساعات المستردة إلى وقت للتنقيب عن العملاء والمعاينات واجتماعات العملاء — الأنشطة التي تولّد العمولات.</p>
+
+<p><em>اختبر AIGradeLab كل أداة في مسارات التسويق العقاري وإدارة العملاء المحتملين والمعاملات. تعكس التصنيفات العائد العملي للوكيل حتى نوفمبر 2026. الأسعار تم التحقق منها على الموقع الرسمي لكل منصة.</em></p>

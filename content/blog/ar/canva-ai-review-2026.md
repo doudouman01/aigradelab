@@ -1,11 +1,11 @@
 ---
-title: "مراجعة Canva AI في 2026: مجموعة التصميم بالذكاء الاصطناعي مُختبرة ومُقيَّمة"
-description: "مراجعة شاملة لميزات الذكاء الاصطناعي في Canva. مُختبرة ومُقيَّمة بشفافية."
-category: "Graded Reviews"
+title: "مراجعة Canva AI لعام 2026: هل يستحق Magic Studio؟ تقييمنا بالداخل"
+description: "اختبرنا Canva Magic Studio لرسومات وسائل التواصل الاجتماعي والعروض التقديمية وتصميم العلامات التجارية. إليك تقييمنا الصريح ومن ينبغي أن يستخدمه."
+category: "مراجعات مُقيَّمة"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
 lastTested: "Sep 2026"
-readTime: "10 min read"
+readTime: "وقت القراءة: 10 دقائق"
 grade: "A"
 scores_ux: 9.5
 scores_quality: 8.0
@@ -16,36 +16,36 @@ toolName: "Canva"
 affiliateUrl: "https://partner.canva.com/aigradelab"
 ---
 
-<h2>What Canva AI Does</h2>
-      <p>Canva Magic Studio is a suite of AI-powered features built into the Canva design platform. It includes Magic Design (generate designs from text prompts), Magic Write (AI text generation), Magic Edit (AI-powered image editing), Magic Eraser (remove objects from images), text-to-image generation, and Magic Animate. Unlike standalone AI tools, these features are woven directly into Canva's drag-and-drop design workflow.</p>
+<h2>ماذا يفعل Canva AI</h2>
+      <p>Canva Magic Studio هو مجموعة من الميزات المدعومة بالذكاء الاصطناعي المدمجة في منصة التصميم Canva. ويشمل Magic Design (توليد تصاميم من أوامر نصية) وMagic Write (توليد النصوص بالذكاء الاصطناعي) وMagic Edit (تحرير الصور بالذكاء الاصطناعي) وMagic Eraser (إزالة العناصر من الصور) وتوليد الصور من النص وMagic Animate. وعلى عكس أدوات الذكاء الاصطناعي المستقلة، فإن هذه الميزات منسوجة مباشرة في سير عمل التصميم بالسحب والإفلات في Canva.</p>
 
-      <h2>What We Tested</h2>
-      <p>We used Canva Magic Studio for two weeks to create social media graphics, Instagram carousels, YouTube thumbnails, pitch deck presentations, and brand marketing materials. We compared the AI features against standalone alternatives like Midjourney for images and ChatGPT for copy.</p>
+      <h2>ما اختبرناه</h2>
+      <p>استخدمنا Canva Magic Studio لمدة أسبوعين لإنشاء رسومات وسائل التواصل الاجتماعي وشرائح Instagram الدوّارة وصور YouTube المصغّرة والعروض التقديمية للمستثمرين والمواد التسويقية للعلامات التجارية. وقارنّا ميزات الذكاء الاصطناعي ببدائل مستقلة مثل Midjourney للصور وChatGPT للنصوص.</p>
 
-      <h2>What Works Well</h2>
+      <h2>ما ينجح جيدًا</h2>
       <ul>
-        <li><strong>Magic Design:</strong> Describe what you want, and Canva generates multiple design options with proper layouts, typography, and color schemes. For non-designers, this is transformative — you get professional-looking designs without design skills. The quality is not award-winning, but it is perfectly adequate for social media and marketing materials.</li>
-        <li><strong>Ease of use:</strong> This is where Canva crushes every competitor. The AI features are integrated directly into the editor — no switching apps, no copy-pasting, no prompt engineering. Click a button, get a result, tweak it visually. The learning curve is essentially zero.</li>
-        <li><strong>Template ecosystem:</strong> Canva has thousands of professionally designed templates that the AI can customize. This combination — AI-powered customization of professional templates — produces better results than pure AI generation from scratch.</li>
-        <li><strong>Magic Eraser and Edit:</strong> Remove backgrounds, erase objects, extend images — these editing features work surprisingly well and save the trip to Photoshop for common edits.</li>
-        <li><strong>Value:</strong> Canva Pro at $13/month includes all AI features plus the full template library, brand kit, and storage. Compared to paying separately for Midjourney ($10-30/month), a writing tool ($20/month), and a design tool, Canva bundles everything at a fraction of the combined cost.</li>
+        <li><strong>Magic Design:</strong> صِف ما تريده، وسيولّد Canva عدة خيارات تصميم بتخطيطات وخطوط وألوان مناسبة. وبالنسبة لغير المصممين، هذا تحويلي — تحصل على تصاميم احترافية المظهر دون مهارات تصميم. الجودة ليست جديرة بالجوائز، لكنها كافية تمامًا لوسائل التواصل الاجتماعي والمواد التسويقية.</li>
+        <li><strong>سهولة الاستخدام:</strong> هنا يتفوق Canva على كل المنافسين. ميزات الذكاء الاصطناعي مدمجة مباشرة في المحرر — دون تبديل التطبيقات ودون نسخ ولصق ودون هندسة أوامر. انقر زرًا، واحصل على نتيجة، وعدّلها بصريًا. منحنى التعلم شبه معدوم.</li>
+        <li><strong>منظومة القوالب:</strong> لدى Canva آلاف القوالب المصممة باحتراف التي يستطيع الذكاء الاصطناعي تخصيصها. وهذا المزيج — تخصيص بالذكاء الاصطناعي لقوالب احترافية — ينتج نتائج أفضل من التوليد الخالص بالذكاء الاصطناعي من الصفر.</li>
+        <li><strong>Magic Eraser وEdit:</strong> إزالة الخلفيات ومحو العناصر وتوسيع الصور — تعمل ميزات التحرير هذه بشكل جيد على نحو مفاجئ وتغني عن اللجوء إلى Photoshop في التعديلات الشائعة.</li>
+        <li><strong>القيمة:</strong> يتضمن Canva Pro بسعر $13/شهر جميع ميزات الذكاء الاصطناعي بالإضافة إلى مكتبة القوالب الكاملة وطقم العلامة التجارية والتخزين. وبالمقارنة مع الدفع بشكل منفصل مقابل Midjourney ($10-30/شهر) وأداة كتابة ($20/شهر) وأداة تصميم، يجمع Canva كل شيء بجزء من التكلفة المجمعة.</li>
       </ul>
 
-      <h2>What Falls Short</h2>
+      <h2>ما يقصّر فيه</h2>
       <ul>
-        <li><strong>Image generation quality:</strong> Canva's text-to-image generator is decent but significantly behind Midjourney and DALL-E in aesthetic quality. Fine for social media graphics, not for hero images or brand photography.</li>
-        <li><strong>Magic Write quality:</strong> The built-in AI writing is basic — behind ChatGPT and Claude. Use it for headlines and short captions, not for long-form content.</li>
-        <li><strong>Design ceiling:</strong> Canva makes good design accessible, but it has a ceiling. Professional designers will find the templates limiting and the AI suggestions generic. For serious brand work, you still need Figma or Adobe.</li>
-        <li><strong>AI limits on free plan:</strong> The free tier includes limited AI uses. To get meaningful use of Magic Studio features, you need Canva Pro.</li>
+        <li><strong>جودة توليد الصور:</strong> مولّد الصور من النص في Canva جيد لكنه متأخر كثيرًا عن Midjourney وDALL-E في الجودة الجمالية. مناسب لرسومات وسائل التواصل الاجتماعي، وليس للصور الرئيسية أو التصوير الفوتوغرافي للعلامات التجارية.</li>
+        <li><strong>جودة Magic Write:</strong> الكتابة المدمجة بالذكاء الاصطناعي أساسية — أدنى من ChatGPT وClaude. استخدمها للعناوين والتعليقات القصيرة، لا للمحتوى الطويل.</li>
+        <li><strong>سقف التصميم:</strong> يجعل Canva التصميم الجيد في المتناول، لكن له سقفًا. سيجد المصممون المحترفون القوالب مقيِّدة واقتراحات الذكاء الاصطناعي عامة. وللعمل الجاد على العلامات التجارية، ما زلت بحاجة إلى Figma أو Adobe.</li>
+        <li><strong>حدود الذكاء الاصطناعي في الخطة المجانية:</strong> تتضمن الباقة المجانية استخدامات محدودة للذكاء الاصطناعي. وللاستفادة الفعلية من ميزات Magic Studio، تحتاج إلى Canva Pro.</li>
       </ul>
 
-      <h2>Canva vs Midjourney vs Adobe</h2>
-      <p><strong>Canva</strong> wins on accessibility and all-in-one value. Best for non-designers, social media managers, and small businesses that need good-enough design fast.</p>
-      <p><strong>Midjourney</strong> wins on image quality. Best when you need stunning visuals and are willing to learn prompt engineering.</p>
-      <p><strong>Adobe</strong> (Firefly + Creative Suite) wins on professional capability. Best for professional designers and agencies working on high-end brand projects.</p>
+      <h2>Canva مقابل Midjourney مقابل Adobe</h2>
+      <p><strong>Canva</strong> يفوز في سهولة الوصول والقيمة الشاملة. الأفضل لغير المصممين ومديري وسائل التواصل الاجتماعي والشركات الصغيرة التي تحتاج إلى تصميم جيد بما يكفي بسرعة.</p>
+      <p><strong>Midjourney</strong> يفوز في جودة الصور. الأفضل عندما تحتاج إلى مرئيات مذهلة وتكون مستعدًا لتعلم هندسة الأوامر.</p>
+      <p><strong>Adobe</strong> (Firefly + Creative Suite) يفوز في القدرات الاحترافية. الأفضل للمصممين المحترفين والوكالات العاملة على مشاريع علامات تجارية راقية.</p>
 
-      <h2>Pricing</h2>
-      <p>Canva Free includes basic editing and limited AI uses. Canva Pro at $13/month (billed monthly) or $120/year includes all Magic Studio features, 1TB storage, brand kit, premium templates, and background remover. Canva Teams at $10/person/month (minimum 3 people) adds team collaboration features. The value at $13/month is excellent — few tools offer this breadth of features at this price.</p>
+      <h2>التسعير</h2>
+      <p>يتضمن Canva المجاني تحريرًا أساسيًا واستخدامات محدودة للذكاء الاصطناعي. ويتضمن Canva Pro بسعر $13/شهر (فوترة شهرية) أو $120/سنة جميع ميزات Magic Studio وتخزين 1 تيرابايت وطقم العلامة التجارية والقوالب المميزة وأداة إزالة الخلفية. ويضيف Canva Teams بسعر $10 للشخص شهريًا (حد أدنى 3 أشخاص) ميزات التعاون الجماعي. والقيمة بسعر $13/شهر ممتازة — قلة من الأدوات تقدم هذا الاتساع من الميزات بهذا السعر.</p>
 
-      <h2>The Verdict</h2>
-      <p>Canva earns an <strong>A</strong> because it makes AI-powered design genuinely accessible to everyone. The Magic Studio features are not the most powerful in any individual category — Midjourney generates better images, ChatGPT writes better copy, Figma offers more design control — but no other tool bundles all of these capabilities into such an easy, affordable package. For non-designers and small teams, Canva with Magic Studio is the best value in AI tools. Period.</p>
+      <h2>الحكم</h2>
+      <p>ينال Canva تقييم <strong>A</strong> لأنه يجعل التصميم المدعوم بالذكاء الاصطناعي في متناول الجميع فعلًا. ميزات Magic Studio ليست الأقوى في أي فئة منفردة — Midjourney يولّد صورًا أفضل، وChatGPT يكتب نصوصًا أفضل، وFigma يوفر تحكمًا أكبر في التصميم — لكن لا أداة أخرى تجمع كل هذه القدرات في حزمة سهلة وبسعر معقول إلى هذا الحد. لغير المصممين والفرق الصغيرة، Canva مع Magic Studio هو أفضل قيمة بين أدوات الذكاء الاصطناعي. بلا جدال.</p>

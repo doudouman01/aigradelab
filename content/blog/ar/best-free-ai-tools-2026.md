@@ -1,145 +1,145 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي المجانية في 2026"
-description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي المجانية — ChatGPT و Gemini و Canva والمزيد. محدّث نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل أدوات الذكاء الاصطناعي المجانية في 2026: 12 أداة لا تكلّف شيئًا"
+description: "اختبرنا أفضل أدوات الذكاء الاصطناعي المجانية في الكتابة وتوليد الصور والبرمجة والبحث والإنتاجية. بلا تجارب مؤقتة وبلا تكاليف خفية — مجانية فعلًا. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "15 min read"
+readTime: "وقت القراءة: 15 دقيقة"
 ---
 
-<h2>Free AI Tools That Are Actually Worth Using</h2>
-<p>There are thousands of AI tools in 2026, and most have free tiers. But "free tier" usually means "limited trial designed to make you upgrade." This list is different. Every tool here offers enough free functionality to be genuinely useful without paying — not just for a week, but indefinitely. We tested each one and graded it on what you actually get for $0.</p>
+<h2>أدوات ذكاء اصطناعي مجانية تستحق الاستخدام فعلًا</h2>
+<p>هناك آلاف أدوات الذكاء الاصطناعي في 2026، ولمعظمها باقات مجانية. لكن «الباقة المجانية» تعني عادةً «نسخة تجريبية محدودة صُمّمت لدفعك إلى الترقية». هذه القائمة مختلفة. كل أداة هنا تقدم وظائف مجانية كافية لتكون مفيدة فعلًا دون دفع — ليس لأسبوع فحسب، بل إلى أجل غير مسمى. اختبرنا كل واحدة وقيّمناها بناءً على ما تحصل عليه فعلًا مقابل $0.</p>
 
-<h2>Quick Comparison: Best Free AI Tools 2026</h2>
+<h2>مقارنة سريعة: أفضل أدوات الذكاء الاصطناعي المجانية 2026</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Category</th><th>What You Get Free</th><th>Paid Upgrade</th></tr>
+    <tr><th>#</th><th>الأداة</th><th>الفئة</th><th>ما تحصل عليه مجانًا</th><th>الترقية المدفوعة</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>ChatGPT</td><td>AI Assistant</td><td>GPT-4o mini, web search, image gen (limited)</td><td>$20/mo Plus</td></tr>
-    <tr><td>2</td><td>Google Gemini</td><td>AI Assistant</td><td>Full model, generous limits, Google integration</td><td>$20/mo Advanced</td></tr>
-    <tr><td>3</td><td>Perplexity</td><td>AI Research</td><td>Unlimited quick searches, 5 Pro searches/day</td><td>$20/mo Pro</td></tr>
-    <tr><td>4</td><td>Claude</td><td>AI Assistant</td><td>Sonnet model, limited usage</td><td>$20/mo Pro</td></tr>
-    <tr><td>5</td><td>Leonardo AI</td><td>Image Generation</td><td>150 tokens/day (~4,500/month), full editor</td><td>~$10/mo</td></tr>
-    <tr><td>6</td><td>Canva</td><td>Design</td><td>AI design features, templates, limited AI uses</td><td>$13/mo Pro</td></tr>
-    <tr><td>7</td><td>GitHub Copilot</td><td>Coding</td><td>2,000 completions/month</td><td>$10/mo Individual</td></tr>
-    <tr><td>8</td><td>Grammarly</td><td>Writing Assistant</td><td>Grammar, spelling, basic tone</td><td>$12/mo Premium</td></tr>
-    <tr><td>9</td><td>CapCut</td><td>Video Editing</td><td>Full editor, AI captions, effects</td><td>$8/mo Pro</td></tr>
-    <tr><td>10</td><td>Ideogram</td><td>Image Generation</td><td>Slow generations, limited credits</td><td>~$8/mo</td></tr>
-    <tr><td>11</td><td>Stable Diffusion</td><td>Image Generation</td><td>Fully open-source, run locally</td><td>Free forever</td></tr>
-    <tr><td>12</td><td>Devin Desktop</td><td>Coding</td><td>Generous free tier, AI autocomplete + chat</td><td>$20/mo Pro</td></tr>
+    <tr><td>1</td><td>ChatGPT</td><td>مساعد ذكاء اصطناعي</td><td>GPT-4o mini والبحث على الويب وتوليد الصور (محدود)</td><td>$20/شهر Plus</td></tr>
+    <tr><td>2</td><td>Google Gemini</td><td>مساعد ذكاء اصطناعي</td><td>النموذج الكامل وحدود سخية وتكامل مع Google</td><td>$20/شهر Advanced</td></tr>
+    <tr><td>3</td><td>Perplexity</td><td>بحث بالذكاء الاصطناعي</td><td>عمليات بحث سريعة غير محدودة و5 عمليات بحث Pro يوميًا</td><td>$20/شهر Pro</td></tr>
+    <tr><td>4</td><td>Claude</td><td>مساعد ذكاء اصطناعي</td><td>نموذج Sonnet باستخدام محدود</td><td>$20/شهر Pro</td></tr>
+    <tr><td>5</td><td>Leonardo AI</td><td>توليد الصور</td><td>150 رمزًا يوميًا (نحو 4,500 شهريًا) ومحرر كامل</td><td>~$10/شهر</td></tr>
+    <tr><td>6</td><td>Canva</td><td>التصميم</td><td>ميزات تصميم بالذكاء الاصطناعي وقوالب واستخدامات محدودة للذكاء الاصطناعي</td><td>$13/شهر Pro</td></tr>
+    <tr><td>7</td><td>GitHub Copilot</td><td>البرمجة</td><td>2,000 إكمال شهريًا</td><td>$10/شهر Individual</td></tr>
+    <tr><td>8</td><td>Grammarly</td><td>مساعد الكتابة</td><td>القواعد والإملاء والنبرة الأساسية</td><td>$12/شهر Premium</td></tr>
+    <tr><td>9</td><td>CapCut</td><td>مونتاج الفيديو</td><td>محرر كامل وترجمات نصية بالذكاء الاصطناعي وتأثيرات</td><td>$8/شهر Pro</td></tr>
+    <tr><td>10</td><td>Ideogram</td><td>توليد الصور</td><td>عمليات توليد بطيئة وأرصدة محدودة</td><td>~$8/شهر</td></tr>
+    <tr><td>11</td><td>Stable Diffusion</td><td>توليد الصور</td><td>مفتوح المصدر بالكامل ويعمل محليًا</td><td>مجاني للأبد</td></tr>
+    <tr><td>12</td><td>Devin Desktop</td><td>البرمجة</td><td>باقة مجانية سخية وإكمال تلقائي بالذكاء الاصطناعي ودردشة</td><td>$20/شهر Pro</td></tr>
   </tbody>
 </table>
 
-<h2>1. ChatGPT Free — Best Overall Free AI Tool</h2>
-<p><strong>What you get for free:</strong> Access to GPT-4o mini, web search, limited image generation, file uploads, voice mode, and the Custom GPT store. The free tier is genuinely capable for daily tasks — writing emails, brainstorming, answering questions, light research, and basic image creation.</p>
-<p><strong>What you miss:</strong> GPT-5.5 (the flagship model), Deep Research, higher usage limits, Sora video generation, and priority access during peak times.</p>
-<p><strong>Who it is for:</strong> Anyone who wants a general-purpose AI assistant without paying. The free tier handles 80% of what most people need.</p>
-<p><strong>Worth upgrading?</strong> Yes, if you use AI daily and need the best model. The $20/month Plus plan is the most popular AI subscription for a reason. But the free tier is sufficient for occasional use.</p>
+<h2>1. ChatGPT المجاني — أفضل أداة ذكاء اصطناعي مجانية بوجه عام</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> الوصول إلى GPT-4o mini والبحث على الويب وتوليد صور محدود ورفع الملفات والوضع الصوتي ومتجر GPTs المخصصة. الباقة المجانية قادرة فعلًا على المهام اليومية — كتابة الرسائل والعصف الذهني والإجابة عن الأسئلة والبحث الخفيف وإنشاء الصور الأساسية.</p>
+<p><strong>ما تفتقده:</strong> GPT-5.5 (النموذج الرائد) والبحث العميق (Deep Research) وحدود استخدام أعلى وتوليد الفيديو بـ Sora والأولوية في أوقات الذروة.</p>
+<p><strong>لمن هو:</strong> كل من يريد مساعد ذكاء اصطناعي متعدد الأغراض دون دفع. تتولى الباقة المجانية 80% مما يحتاجه معظم الناس.</p>
+<p><strong>هل تستحق الترقية؟</strong> نعم، إذا كنت تستخدم الذكاء الاصطناعي يوميًا وتحتاج إلى أفضل نموذج. باقة Plus بسعر $20/شهر هي أشهر اشتراك ذكاء اصطناعي لسبب وجيه. لكن الباقة المجانية كافية للاستخدام العرضي.</p>
 
-<h2>2. Google Gemini Free — Best Free Tier</h2>
-<p><strong>What you get for free:</strong> Access to the latest Gemini model with generous usage limits, Google Workspace integration (Gmail, Drive, Docs), web search powered by Google, image generation with Nano Banana, and Gemini Live voice conversations. This is the most generous free AI tier available in 2026.</p>
-<p><strong>What you miss:</strong> Higher usage limits, 2TB Google storage, and priority access on the Advanced plan.</p>
-<p><strong>Who it is for:</strong> Google users who want powerful AI without paying anything. If you already use Gmail and Google Drive, Gemini Free connects to your data in ways that no other free tool can match.</p>
-<p><strong>Worth upgrading?</strong> Only if you hit the usage limits regularly or want the 2TB storage bundle. The free tier is so generous that many users never need to upgrade.</p>
+<h2>2. Google Gemini المجاني — أفضل باقة مجانية</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> الوصول إلى أحدث نموذج Gemini بحدود استخدام سخية، وتكامل مع Google Workspace (Gmail وDrive وDocs)، وبحث على الويب مدعوم من Google، وتوليد صور بـ Nano Banana، ومحادثات صوتية عبر Gemini Live. هذه أسخى باقة ذكاء اصطناعي مجانية متاحة في 2026.</p>
+<p><strong>ما تفتقده:</strong> حدود استخدام أعلى وتخزين Google بسعة 2 تيرابايت والأولوية في الوصول ضمن خطة Advanced.</p>
+<p><strong>لمن هو:</strong> مستخدمو Google الذين يريدون ذكاءً اصطناعيًا قويًا دون دفع أي مبلغ. إذا كنت تستخدم Gmail وGoogle Drive أصلًا، فإن Gemini المجاني يتصل ببياناتك بطرق لا تضاهيها أي أداة مجانية أخرى.</p>
+<p><strong>هل تستحق الترقية؟</strong> فقط إذا بلغت حدود الاستخدام بانتظام أو أردت حزمة التخزين 2 تيرابايت. الباقة المجانية سخية لدرجة أن كثيرًا من المستخدمين لا يحتاجون إلى الترقية أبدًا.</p>
 
-<h2>3. Perplexity Free — Best Free Research Tool</h2>
-<p><strong>What you get for free:</strong> Unlimited quick searches with AI-powered answers and source citations. 5 Pro searches per day using advanced models. Follow-up questions in conversation threads. Clean, ad-free interface.</p>
-<p><strong>What you miss:</strong> Unlimited Pro searches, model picker (GPT-5.4, Claude, Gemini), file uploads, focus modes (Academic, Reddit, YouTube), and the Comet browser.</p>
-<p><strong>Who it is for:</strong> Anyone who does frequent research and wants cited answers instead of raw Google links. The 5 daily Pro searches cover most casual research needs.</p>
-<p><strong>Worth upgrading?</strong> If you do research daily and use more than 5 Pro searches, the $20/month Pro plan is worth it. Students get Pro for $10/month.</p>
+<h2>3. Perplexity المجاني — أفضل أداة بحث مجانية</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> عمليات بحث سريعة غير محدودة بإجابات مدعومة بالذكاء الاصطناعي واستشهادات بالمصادر. 5 عمليات بحث Pro يوميًا باستخدام نماذج متقدمة. أسئلة متابعة في سلاسل المحادثة. واجهة نظيفة خالية من الإعلانات.</p>
+<p><strong>ما تفتقده:</strong> عمليات بحث Pro غير محدودة ومنتقي النماذج (GPT-5.4 وClaude وGemini) ورفع الملفات وأوضاع التركيز (Academic وReddit وYouTube) ومتصفح Comet.</p>
+<p><strong>لمن هو:</strong> كل من يكثر من البحث ويريد إجابات موثَّقة بدلًا من روابط Google الخام. تغطي عمليات بحث Pro الخمس اليومية معظم احتياجات البحث العرضية.</p>
+<p><strong>هل تستحق الترقية؟</strong> إذا كنت تبحث يوميًا وتستخدم أكثر من 5 عمليات Pro، فخطة Pro بسعر $20/شهر تستحق ذلك. ويحصل الطلاب على Pro بسعر $10/شهر.</p>
 
-<h2>4. Claude Free — Best Free Writing Quality</h2>
-<p><strong>What you get for free:</strong> Access to Claude Sonnet with limited daily usage. The writing quality — even on the free tier — is the most natural and human-sounding of any free AI tool. File uploads, Projects, and Artifacts are partially available.</p>
-<p><strong>What you miss:</strong> Opus 5.5 (the flagship model), higher usage limits, Claude Code, and full Projects/Artifacts access.</p>
-<p><strong>Who it is for:</strong> Writers, analysts, and professionals who need the best possible output quality and do not mind limited daily usage. Even the free Sonnet model produces better writing than most paid alternatives.</p>
-<p><strong>Worth upgrading?</strong> If you hit the daily limit regularly or need Claude Code for development. The $20/month Pro plan unlocks the full power of Opus 5.5.</p>
+<h2>4. Claude المجاني — أفضل جودة كتابة مجانية</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> الوصول إلى Claude Sonnet باستخدام يومي محدود. جودة الكتابة — حتى في الباقة المجانية — هي الأكثر طبيعيةً وإنسانيةً بين أي أداة ذكاء اصطناعي مجانية. رفع الملفات وProjects وArtifacts متاحة جزئيًا.</p>
+<p><strong>ما تفتقده:</strong> Opus 5.5 (النموذج الرائد) وحدود استخدام أعلى وClaude Code والوصول الكامل إلى Projects/Artifacts.</p>
+<p><strong>لمن هو:</strong> الكتّاب والمحللين والمهنيين الذين يحتاجون إلى أفضل جودة مخرجات ممكنة ولا يمانعون الاستخدام اليومي المحدود. حتى نموذج Sonnet المجاني ينتج كتابة أفضل من معظم البدائل المدفوعة.</p>
+<p><strong>هل تستحق الترقية؟</strong> إذا بلغت الحد اليومي بانتظام أو احتجت إلى Claude Code للتطوير. تفتح خطة Pro بسعر $20/شهر القوة الكاملة لـ Opus 5.5.</p>
 
-<h2>5. Leonardo AI Free — Best Free Image Generator</h2>
-<p><strong>What you get for free:</strong> 150 tokens per day (approximately 4,500 per month), access to multiple AI models including Phoenix, a full canvas editor with generative fill, background removal, and a universal upscaler. This is by far the most generous free image generation tier available.</p>
-<p><strong>What you miss:</strong> More tokens, priority generation, custom model training, and advanced features.</p>
-<p><strong>Who it is for:</strong> Creators who need regular AI image generation without a subscription. The 150 daily tokens are enough for several images per day — more than most free tiers offer per month.</p>
-<p><strong>Worth upgrading?</strong> Only if you need high-volume generation or custom model training. The free tier is genuinely sufficient for most individual creators.</p>
+<h2>5. Leonardo AI المجاني — أفضل مولّد صور مجاني</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> 150 رمزًا يوميًا (نحو 4,500 شهريًا)، والوصول إلى نماذج ذكاء اصطناعي متعددة منها Phoenix، ومحرر لوحة كامل مع التعبئة التوليدية وإزالة الخلفية ومكبّر عام. هذه أسخى باقة توليد صور مجانية متاحة بفارق كبير.</p>
+<p><strong>ما تفتقده:</strong> مزيدًا من الرموز والتوليد ذا الأولوية وتدريب النماذج المخصصة والميزات المتقدمة.</p>
+<p><strong>لمن هو:</strong> صنّاع المحتوى الذين يحتاجون إلى توليد صور بالذكاء الاصطناعي بانتظام دون اشتراك. تكفي الرموز اليومية الـ150 لعدة صور يوميًا — أكثر مما تقدمه معظم الباقات المجانية شهريًا.</p>
+<p><strong>هل تستحق الترقية؟</strong> فقط إذا كنت بحاجة إلى توليد بكميات كبيرة أو تدريب نماذج مخصصة. الباقة المجانية كافية فعلًا لمعظم صنّاع المحتوى الأفراد.</p>
 
-<h2>6. Canva Free — Best Free Design Tool</h2>
-<p><strong>What you get for free:</strong> Drag-and-drop design with thousands of templates, limited AI image generation, basic Magic Design, background remover (limited), and export to common formats. Good enough for social media posts, basic presentations, and simple marketing materials.</p>
-<p><strong>What you miss:</strong> Full Magic Studio AI suite, brand kit, premium templates, 1TB storage, and background remover without limits.</p>
-<p><strong>Who it is for:</strong> Non-designers who need professional-looking graphics for social media, presentations, or marketing — without learning Photoshop or paying for software.</p>
-<p><strong>Worth upgrading?</strong> Canva Pro at $13/month is one of the best values in AI tools. If you create graphics regularly, the upgrade pays for itself in time saved.</p>
+<h2>6. Canva المجاني — أفضل أداة تصميم مجانية</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> تصميم بالسحب والإفلات مع آلاف القوالب، وتوليد صور محدود بالذكاء الاصطناعي، وMagic Design الأساسي، وأداة إزالة الخلفية (محدودة)، والتصدير إلى الصيغ الشائعة. جيد بما يكفي لمنشورات وسائل التواصل الاجتماعي والعروض التقديمية الأساسية والمواد التسويقية البسيطة.</p>
+<p><strong>ما تفتقده:</strong> حزمة Magic Studio الكاملة بالذكاء الاصطناعي وطقم العلامة التجارية والقوالب المميزة وتخزين 1 تيرابايت وإزالة الخلفية دون حدود.</p>
+<p><strong>لمن هو:</strong> غير المصممين الذين يحتاجون إلى رسومات احترافية المظهر لوسائل التواصل الاجتماعي أو العروض أو التسويق — دون تعلّم Photoshop أو دفع ثمن برمجيات.</p>
+<p><strong>هل تستحق الترقية؟</strong> Canva Pro بسعر $13/شهر من أفضل القيم بين أدوات الذكاء الاصطناعي. إذا كنت تنشئ رسومات بانتظام، فإن الترقية تسدّد نفسها بالوقت الموفر.</p>
 
-<h2>7. GitHub Copilot Free — Best Free Coding Assistant</h2>
-<p><strong>What you get for free:</strong> 2,000 code completions per month across VS Code, JetBrains, Neovim, and more. Access to AI chat for code questions. Basic autocomplete suggestions based on your code context.</p>
-<p><strong>What you miss:</strong> Unlimited completions, the coding agent for multi-file tasks, and premium model access.</p>
-<p><strong>Who it is for:</strong> Students, hobbyist developers, and anyone learning to code. 2,000 completions per month is enough for moderate coding sessions.</p>
-<p><strong>Worth upgrading?</strong> If you code daily, the Individual plan at $10/month removes the completion limit. It is the cheapest paid AI coding tool available.</p>
+<h2>7. GitHub Copilot المجاني — أفضل مساعد برمجة مجاني</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> 2,000 إكمال كود شهريًا عبر VS Code وJetBrains وNeovim وغيرها. الوصول إلى دردشة الذكاء الاصطناعي لأسئلة الكود. اقتراحات إكمال تلقائي أساسية بناءً على سياق كودك.</p>
+<p><strong>ما تفتقده:</strong> إكمالات غير محدودة ووكيل البرمجة للمهام متعددة الملفات والوصول إلى النماذج المميزة.</p>
+<p><strong>لمن هو:</strong> الطلاب ومطوّري الهواية وكل من يتعلم البرمجة. 2,000 إكمال شهريًا تكفي لجلسات برمجة معتدلة.</p>
+<p><strong>هل تستحق الترقية؟</strong> إذا كنت تبرمج يوميًا، فإن خطة Individual بسعر $10/شهر تزيل حد الإكمال. وهي أرخص أداة برمجة مدفوعة بالذكاء الاصطناعي متاحة.</p>
 
-<h2>8. Grammarly Free — Best Free Writing Checker</h2>
-<p><strong>What you get for free:</strong> Grammar and spelling corrections across every platform — Gmail, Google Docs, Slack, LinkedIn, browsers. The browser extension works automatically as you type with zero configuration.</p>
-<p><strong>What you miss:</strong> Tone detection, full-sentence rewrites, clarity suggestions, plagiarism detection, and AI-powered writing improvements.</p>
-<p><strong>Who it is for:</strong> Anyone who writes in English — especially non-native speakers. The free grammar checking is the best available and catches errors that spell-check misses.</p>
-<p><strong>Worth upgrading?</strong> Premium at $12/month adds tone and clarity features that genuinely improve professional writing. Worth it if you write client-facing content regularly.</p>
+<h2>8. Grammarly المجاني — أفضل مدقق كتابة مجاني</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> تصحيحات القواعد والإملاء عبر كل منصة — Gmail وGoogle Docs وSlack وLinkedIn والمتصفحات. يعمل امتداد المتصفح تلقائيًا أثناء الكتابة دون أي إعداد.</p>
+<p><strong>ما تفتقده:</strong> كشف النبرة وإعادة صياغة الجمل كاملةً واقتراحات الوضوح وكشف الانتحال وتحسينات الكتابة بالذكاء الاصطناعي.</p>
+<p><strong>لمن هو:</strong> كل من يكتب بالإنجليزية — خاصة غير الناطقين بها أصلًا. تدقيق القواعد المجاني هو الأفضل المتاح ويلتقط أخطاء يفوتها المدقق الإملائي.</p>
+<p><strong>هل تستحق الترقية؟</strong> يضيف Premium بسعر $12/شهر ميزات النبرة والوضوح التي تحسّن الكتابة المهنية فعلًا. يستحق ذلك إن كنت تكتب محتوى موجهًا للعملاء بانتظام.</p>
 
-<h2>9. CapCut Free — Best Free Video Editor</h2>
-<p><strong>What you get for free:</strong> Full video editor with AI-powered auto-captions, background removal, text-to-speech, smart editing tools, and effects. The desktop app is surprisingly capable. The mobile app is the best free option for TikTok and Instagram Reels content.</p>
-<p><strong>What you miss:</strong> Premium effects, additional storage, and some advanced AI features.</p>
-<p><strong>Who it is for:</strong> Social media creators, YouTubers on a budget, and anyone who needs video editing without paying for Adobe Premiere or Final Cut Pro.</p>
-<p><strong>Worth upgrading?</strong> Pro at $8/month adds premium effects and storage. For most social media creators, the free version is enough.</p>
+<h2>9. CapCut المجاني — أفضل محرر فيديو مجاني</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> محرر فيديو كامل مع ترجمات نصية تلقائية بالذكاء الاصطناعي وإزالة الخلفية وتحويل النص إلى كلام وأدوات مونتاج ذكية وتأثيرات. تطبيق سطح المكتب قادر بشكل مفاجئ. والتطبيق المحمول هو أفضل خيار مجاني لمحتوى TikTok وInstagram Reels.</p>
+<p><strong>ما تفتقده:</strong> التأثيرات المميزة والتخزين الإضافي وبعض ميزات الذكاء الاصطناعي المتقدمة.</p>
+<p><strong>لمن هو:</strong> صنّاع وسائل التواصل الاجتماعي وصنّاع YouTube ذوي الميزانية المحدودة وكل من يحتاج إلى مونتاج فيديو دون دفع ثمن Adobe Premiere أو Final Cut Pro.</p>
+<p><strong>هل تستحق الترقية؟</strong> تضيف Pro بسعر $8/شهر التأثيرات المميزة والتخزين. ولمعظم صنّاع وسائل التواصل الاجتماعي، النسخة المجانية كافية.</p>
 
-<h2>10. Ideogram Free — Best Free Text-in-Image Generator</h2>
-<p><strong>What you get for free:</strong> Limited slow-queue generations with the best text rendering accuracy of any AI image generator. If you need readable text inside your images — posters, social graphics, book covers — Ideogram's free tier delivers 90-95% text accuracy.</p>
-<p><strong>What you miss:</strong> Priority generation speed, higher limits, and Ideogram 4.0's advanced features like editable text layers.</p>
-<p><strong>Who it is for:</strong> Designers and marketers who need AI-generated images with accurate text. No other free tool matches Ideogram's text rendering.</p>
-<p><strong>Worth upgrading?</strong> If you generate images with text frequently, the paid plans from ~$8/month remove the queue and add faster generation.</p>
+<h2>10. Ideogram المجاني — أفضل مولّد مجاني للنص داخل الصور</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> عمليات توليد محدودة في طابور بطيء مع أدق عرض للنص بين أي مولّد صور بالذكاء الاصطناعي. إذا كنت تحتاج إلى نص مقروء داخل صورك — ملصقات ورسومات اجتماعية وأغلفة كتب — فإن باقة Ideogram المجانية تقدم دقة نص بنسبة 90-95%.</p>
+<p><strong>ما تفتقده:</strong> سرعة التوليد ذات الأولوية وحدودًا أعلى وميزات Ideogram 4.0 المتقدمة مثل طبقات النص القابلة للتحرير.</p>
+<p><strong>لمن هو:</strong> المصممين والمسوّقين الذين يحتاجون إلى صور مولَّدة بالذكاء الاصطناعي بنص دقيق. لا أداة مجانية أخرى تضاهي عرض النص في Ideogram.</p>
+<p><strong>هل تستحق الترقية؟</strong> إذا كنت تولّد صورًا بنصوص باستمرار، فإن الخطط المدفوعة بدءًا من ~$8/شهر تزيل الطابور وتضيف توليدًا أسرع.</p>
 
-<h2>11. Stable Diffusion — Best Truly Free AI (Forever)</h2>
-<p><strong>What you get for free:</strong> Everything. Stable Diffusion is fully open-source under permissive licenses. Download the model, run it on your own hardware, generate unlimited images with zero cost per image, train custom models, and modify the code however you want. Thousands of community models, LoRAs, and extensions available through ComfyUI and Automatic1111.</p>
-<p><strong>What you miss:</strong> Ease of use. Setting up Stable Diffusion requires a decent GPU, driver installation, and comfort with technical setup. The base model quality trails Midjourney and FLUX.2.</p>
-<p><strong>Who it is for:</strong> Technical users who want unlimited free image generation, full privacy (nothing leaves your computer), and infinite customization. Game developers, researchers, and power users who fine-tune models for specific styles.</p>
-<p><strong>Worth upgrading?</strong> There is nothing to upgrade — it is free forever. Hosted services like RunDiffusion offer cloud access from ~$10/month if you do not have a powerful GPU.</p>
+<h2>11. Stable Diffusion — أفضل ذكاء اصطناعي مجاني حقًا (للأبد)</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> كل شيء. Stable Diffusion مفتوح المصدر بالكامل بموجب تراخيص متساهلة. نزّل النموذج وشغّله على جهازك، وولّد صورًا غير محدودة دون أي تكلفة لكل صورة، ودرّب نماذج مخصصة، وعدّل الكود كما تشاء. وتتوفر آلاف النماذج وLoRAs والإضافات من المجتمع عبر ComfyUI وAutomatic1111.</p>
+<p><strong>ما تفتقده:</strong> سهولة الاستخدام. يتطلب إعداد Stable Diffusion وحدة معالجة رسومية جيدة وتثبيت برامج التشغيل والإلمام بالإعدادات التقنية. وجودة النموذج الأساسي أدنى من Midjourney وFLUX.2.</p>
+<p><strong>لمن هو:</strong> المستخدمين التقنيين الذين يريدون توليد صور مجانيًا بلا حدود وخصوصية كاملة (لا شيء يغادر جهازك) وتخصيصًا لا نهائيًا. مطوّري الألعاب والباحثين والمستخدمين المتمرسين الذين يضبطون النماذج لأساليب محددة.</p>
+<p><strong>هل تستحق الترقية؟</strong> لا شيء للترقية إليه — فهو مجاني للأبد. وتقدم خدمات مستضافة مثل RunDiffusion وصولًا سحابيًا بدءًا من ~$10/شهر إن لم تكن لديك وحدة معالجة رسومية قوية.</p>
 
-<h2>12. Devin Desktop Free — Best Free AI Code Editor</h2>
-<p><strong>What you get for free:</strong> AI-native code editor with autocomplete, chat, and the Cascade feature for autonomous multi-step coding tasks. The free tier is more generous than Cursor's, making it the best free option for developers who want a full AI coding environment.</p>
-<p><strong>What you miss:</strong> Higher usage limits and priority access on the Pro plan.</p>
-<p><strong>Who it is for:</strong> Developers evaluating AI coding tools, students, and anyone who wants Cursor-like features without paying $30/month.</p>
-<p><strong>Worth upgrading?</strong> If you find yourself hitting the free limits regularly, Pro at $20/month unlocks full access. But the free tier handles moderate coding sessions well.</p>
+<h2>12. Devin Desktop المجاني — أفضل محرر كود مجاني بالذكاء الاصطناعي</h2>
+<p><strong>ما تحصل عليه مجانًا:</strong> محرر كود أصلي بالذكاء الاصطناعي مع إكمال تلقائي ودردشة وميزة Cascade لمهام البرمجة المستقلة متعددة الخطوات. الباقة المجانية أسخى من باقة Cursor، مما يجعلها أفضل خيار مجاني للمطورين الذين يريدون بيئة برمجة كاملة بالذكاء الاصطناعي.</p>
+<p><strong>ما تفتقده:</strong> حدود استخدام أعلى وأولوية الوصول في خطة Pro.</p>
+<p><strong>لمن هو:</strong> المطورين الذين يقيّمون أدوات البرمجة بالذكاء الاصطناعي والطلاب وكل من يريد ميزات شبيهة بـ Cursor دون دفع $30/شهر.</p>
+<p><strong>هل تستحق الترقية؟</strong> إذا وجدت نفسك تبلغ الحدود المجانية بانتظام، فإن Pro بسعر $20/شهر يفتح الوصول الكامل. لكن الباقة المجانية تتولى جلسات البرمجة المعتدلة جيدًا.</p>
 
-<h2>The Best Free AI Stack: $0/month</h2>
-<p>You can build a surprisingly powerful AI workflow without spending anything:</p>
+<h2>أفضل حزمة ذكاء اصطناعي مجانية: $0/شهر</h2>
+<p>يمكنك بناء سير عمل ذكاء اصطناعي قوي بشكل مدهش دون إنفاق شيء:</p>
 <ul>
-  <li><strong>Google Gemini Free</strong> — your daily AI assistant (most generous free tier)</li>
-  <li><strong>Perplexity Free</strong> — research and fact-checking (5 Pro searches/day)</li>
-  <li><strong>Leonardo AI Free</strong> — image generation (150 tokens/day)</li>
-  <li><strong>Grammarly Free</strong> — writing improvement (grammar in every app)</li>
-  <li><strong>CapCut Free</strong> — video editing with AI features</li>
+  <li><strong>Google Gemini المجاني</strong> — مساعدك اليومي بالذكاء الاصطناعي (أسخى باقة مجانية)</li>
+  <li><strong>Perplexity المجاني</strong> — البحث والتحقق من الحقائق (5 عمليات بحث Pro يوميًا)</li>
+  <li><strong>Leonardo AI المجاني</strong> — توليد الصور (150 رمزًا يوميًا)</li>
+  <li><strong>Grammarly المجاني</strong> — تحسين الكتابة (القواعد في كل تطبيق)</li>
+  <li><strong>CapCut المجاني</strong> — مونتاج الفيديو بميزات الذكاء الاصطناعي</li>
 </ul>
-<p>This combination covers writing, research, image creation, grammar checking, and video editing — all for $0. It will not match the quality of paid tools, but it handles 70-80% of what most people need.</p>
+<p>يغطي هذا المزيج الكتابة والبحث وإنشاء الصور وتدقيق القواعد ومونتاج الفيديو — كله بـ $0. لن يضاهي جودة الأدوات المدفوعة، لكنه يتولى 70-80% مما يحتاجه معظم الناس.</p>
 
-<h2>When to Start Paying</h2>
-<p>Free tools stop being enough when you hit one of these walls:</p>
+<h2>متى تبدأ بالدفع</h2>
+<p>تتوقف الأدوات المجانية عن الكفاية عندما تصطدم بأحد هذه الجدران:</p>
 <ul>
-  <li><strong>Quality ceiling:</strong> You need better writing (upgrade to Claude Pro) or better images (upgrade to Midjourney)</li>
-  <li><strong>Usage limits:</strong> You run out of free credits daily (upgrade the tool you use most)</li>
-  <li><strong>Missing features:</strong> You need Deep Research, image generation with GIFs, or a dedicated coding agent</li>
-  <li><strong>Professional output:</strong> Your work is judged by others and "good enough" is not good enough</li>
+  <li><strong>سقف الجودة:</strong> تحتاج إلى كتابة أفضل (رقِّ إلى Claude Pro) أو صور أفضل (رقِّ إلى Midjourney)</li>
+  <li><strong>حدود الاستخدام:</strong> تنفد أرصدتك المجانية يوميًا (رقِّ الأداة التي تستخدمها أكثر)</li>
+  <li><strong>ميزات مفقودة:</strong> تحتاج إلى البحث العميق أو توليد الصور مع ملفات GIF أو وكيل برمجة مخصص</li>
+  <li><strong>مخرجات احترافية:</strong> يحكم الآخرون على عملك و«جيد بما يكفي» ليس كافيًا</li>
 </ul>
-<p>Start free, identify which tool you hit the limit on first, and upgrade only that one. Most people only need to pay for 1-2 AI tools to cover their workflow.</p>
+<p>ابدأ مجانًا، وحدد الأداة التي تبلغ حدّها أولًا، ورقِّ تلك وحدها. معظم الناس لا يحتاجون إلى الدفع إلا لأداة أو اثنتين من أدوات الذكاء الاصطناعي لتغطية سير عملهم.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>What is the best free AI tool overall?</h3>
-<p><strong>Google Gemini Free</strong> — the most generous free tier with access to the latest model, Google integration, image generation, and voice conversations.</p>
+<h3>ما أفضل أداة ذكاء اصطناعي مجانية بوجه عام؟</h3>
+<p><strong>Google Gemini المجاني</strong> — أسخى باقة مجانية مع الوصول إلى أحدث نموذج وتكامل Google وتوليد الصور والمحادثات الصوتية.</p>
 
-<h3>Is ChatGPT still free in 2026?</h3>
-<p>Yes. ChatGPT has a free tier with GPT-4o mini, web search, and limited image generation. It is less powerful than the $20/month Plus plan but genuinely useful for daily tasks.</p>
+<h3>هل ما زال ChatGPT مجانيًا في 2026؟</h3>
+<p>نعم. لدى ChatGPT باقة مجانية مع GPT-4o mini والبحث على الويب وتوليد صور محدود. وهي أقل قوة من خطة Plus بسعر $20/شهر لكنها مفيدة فعلًا للمهام اليومية.</p>
 
-<h3>What is the best free AI image generator?</h3>
-<p><strong>Leonardo AI</strong> with 150 free tokens per day — more free generations than any competitor. <strong>Ideogram</strong> if you specifically need accurate text in images.</p>
+<h3>ما أفضل مولّد صور مجاني بالذكاء الاصطناعي؟</h3>
+<p><strong>Leonardo AI</strong> مع 150 رمزًا مجانيًا يوميًا — عمليات توليد مجانية أكثر من أي منافس. و<strong>Ideogram</strong> إذا كنت تحتاج تحديدًا إلى نص دقيق في الصور.</p>
 
-<h3>Are free AI tools good enough for professional work?</h3>
-<p>For internal documents, brainstorming, and personal projects — usually yes. For client-facing work, professional content, and tasks where quality is judged — usually no. The gap between free and paid AI has widened in 2026.</p>
+<h3>هل أدوات الذكاء الاصطناعي المجانية جيدة بما يكفي للعمل المهني؟</h3>
+<p>للمستندات الداخلية والعصف الذهني والمشاريع الشخصية — عادةً نعم. أما للعمل الموجه للعملاء والمحتوى المهني والمهام التي يحكم الآخرون على جودتها — عادةً لا. اتسعت الفجوة بين الذكاء الاصطناعي المجاني والمدفوع في 2026.</p>
 
-<h3>Which free AI tool should I try first?</h3>
-<p>Start with <strong>ChatGPT Free</strong> or <strong>Google Gemini Free</strong> — both are general-purpose and let you explore what AI can do. Then try specialized free tools (Perplexity for research, Leonardo for images, Copilot for coding) based on what you need most.</p>
+<h3>أي أداة ذكاء اصطناعي مجانية ينبغي أن أجرّب أولًا؟</h3>
+<p>ابدأ بـ <strong>ChatGPT المجاني</strong> أو <strong>Google Gemini المجاني</strong> — كلاهما متعدد الأغراض ويتيح لك استكشاف ما يستطيع الذكاء الاصطناعي فعله. ثم جرّب الأدوات المجانية المتخصصة (Perplexity للبحث وLeonardo للصور وCopilot للبرمجة) بحسب ما تحتاجه أكثر.</p>
 
-<p><em>Every tool in this guide was tested by AIGradeLab on its free tier. Ratings reflect the free tier experience, not the paid version. Last verified November 14, 2026.</em></p>
+<p><em>اختبر AIGradeLab كل أداة في هذا الدليل على باقتها المجانية. تعكس التقييمات تجربة الباقة المجانية لا النسخة المدفوعة. آخر تحقق: 14 نوفمبر 2026.</em></p>

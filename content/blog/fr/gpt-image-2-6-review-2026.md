@@ -1,11 +1,11 @@
 ---
-title: "Avis GPT Image 2.6 2026 : GIFs, Faster Generation, and What Actually Changed"
-description: "We tested OpenAI's GPT Image 2.6 released November 4, 2026. GIF creation, reference images, SVG export, and 50% faster generation. Here is our honest grade."
-category: "Graded Reviews"
+title: "Test GPT Image 2.6 en 2026 : GIF, génération plus rapide et ce qui a réellement changé"
+description: "Nous avons testé GPT Image 2.6 d'OpenAI, sorti le 4 novembre 2026. Création de GIF, images de référence, export SVG et génération 50 % plus rapide. Voici notre note honnête."
+category: "Tests notés"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "10 min read"
+readTime: "10 min de lecture"
 grade: "A"
 scores_ux: 9.0
 scores_quality: 8.5
@@ -15,103 +15,88 @@ scores_support: 8.0
 toolName: "ChatGPT Images 2.6"
 ---
 
-<h2>What GPT Image 2.6 Is</h2>
-<p>GPT Image 2.6 is OpenAI's latest image generation and editing model, released on November 4, 2026 — just 10 days ago. It appears in ChatGPT as "ChatGPT Images 2.6" and in the API as two models: GPT-Image-2.6 Flare (speed-optimized) and GPT-Image-2.6 Sunburst (quality-focused). This is the third major image update in 2026 alone — Images 2.0 launched in April, Images 2.5 in September, and now 2.6 in November. OpenAI is iterating on image generation faster than ever.</p>
-
-<h2>What Actually Changed</h2>
-<p>Four headline features separate Images 2.6 from its predecessor:</p>
+<h2>Ce qu'est GPT Image 2.6</h2>
+<p>GPT Image 2.6 est le dernier modèle de génération et d'édition d'images d'OpenAI, sorti le 4 novembre 2026, il y a tout juste 10 jours. Il apparaît dans ChatGPT sous le nom « ChatGPT Images 2.6 » et dans l'API sous la forme de deux modèles : GPT-Image-2.6 Flare (optimisé pour la vitesse) et GPT-Image-2.6 Sunburst (axé sur la qualité). C'est la troisième grande mise à jour d'images de 2026 à elle seule : Images 2.0 en avril, Images 2.5 en septembre et maintenant 2.6 en novembre. OpenAI itère sur la génération d'images plus vite que jamais.</p>
+<h2>Ce qui a réellement changé</h2>
+<p>Quatre fonctionnalités phares distinguent Images 2.6 de son prédécesseur :</p>
 <ul>
-  <li><strong>GIF creation:</strong> Turn any prompt or existing image into an animated GIF. Adjust speed, edit individual frames, and share. This is entirely new — no other major AI chatbot offers native GIF generation from conversation.</li>
-  <li><strong>Reference images:</strong> Save an image once and reuse it across conversations for consistent branding. Upload your product, your logo, or a character, and every future generation maintains visual consistency. For brands and content creators, this solves the biggest pain point of AI image generation — inconsistency.</li>
-  <li><strong>SVG export:</strong> Generate vector graphics directly. For logos, icons, and scalable design assets, this eliminates the raster-to-vector conversion step.</li>
-  <li><strong>50% faster generation:</strong> OpenAI claims Images 2.6 generates 50% faster than Images 2.5. In our testing, Flare produced images in as little as 6 seconds at low quality settings. Sunburst was slower but noticeably faster than the previous generation.</li>
+<li><strong>Création de GIF :</strong> transformez n'importe quel prompt ou image existante en GIF animé. Réglez la vitesse, modifiez les images individuellement et partagez. C'est entièrement nouveau : aucun autre grand chatbot d'IA n'offre la génération native de GIF depuis la conversation.</li>
+<li><strong>Images de référence :</strong> enregistrez une image une fois et réutilisez-la d'une conversation à l'autre pour une identité de marque cohérente. Importez votre produit, votre logo ou un personnage et chaque génération future conserve la cohérence visuelle. Pour les marques et les créateurs de contenu, cela résout le principal point faible de la génération d'images par IA : l'incohérence.</li>
+<li><strong>Export SVG :</strong> générez directement des graphiques vectoriels. Pour les logos, les icônes et les éléments de design redimensionnables, cela supprime l'étape de conversion du bitmap au vectoriel.</li>
+<li><strong>Génération 50 % plus rapide :</strong> OpenAI affirme qu'Images 2.6 génère 50 % plus vite qu'Images 2.5. Lors de nos tests, Flare a produit des images en 6 secondes seulement avec des réglages de qualité bas. Sunburst était plus lent, mais nettement plus rapide que la génération précédente.</li>
 </ul>
-
-<h2>Ce Que Nous Avons Testé</h2>
-<p>We used GPT Image 2.6 for 10 days across real use cases: social media graphics with text overlays, product photography mockups, animated GIFs for marketing, brand-consistent image series using reference images, photo editing and style transfer, and SVG icon generation. We compared quality against Images 2.5 (previous version) and Midjourney v8.2.</p>
-
-<h2>Ce Qui Fonctionne Bien</h2>
+<h2>Ce que nous avons testé</h2>
+<p>Nous avons utilisé GPT Image 2.6 pendant 10 jours sur des cas d'usage réels : visuels de réseaux sociaux avec texte superposé, maquettes de photographie de produits, GIF animés pour le marketing, séries d'images cohérentes avec la marque via les images de référence, retouche photo et transfert de style, et génération d'icônes SVG. Nous avons comparé la qualité à Images 2.5 (la version précédente) et à Midjourney v8.2.</p>
+<h2>Ce qui fonctionne bien</h2>
 <ul>
-  <li><strong>GIF creation is genuinely useful:</strong> This is not a gimmick. Creating animated social media content, reaction GIFs, short product animations, and animated brand assets directly in ChatGPT is a real workflow improvement. The quality varies — simple animations look polished, complex ones can be choppy — but for social media and messaging content, the output is immediately usable.</li>
-  <li><strong>Reference images solve the consistency problem:</strong> Before 2.6, generating a consistent series of images — same character, same product, same brand look — required extensive prompt engineering and luck. Reference images change this fundamentally. Save your brand's visual identity once, and every future generation stays on-brand. For marketing teams producing high volumes of visual content, this is the most impactful feature.</li>
-  <li><strong>Text rendering remains excellent:</strong> Images 2.6 continues the strong text-in-image capability that started with Images 2.0. Headlines, labels, prices, and short copy render accurately in most cases. Longer text blocks and small font sizes still have occasional errors, but for posters, social graphics, and product labels, the text is publication-ready.</li>
-  <li><strong>Conversational editing workflow:</strong> The core advantage of ChatGPT's image generation has always been the conversational loop — describe what you want, see the result, ask for changes in plain language. Images 2.6 improves edit consistency, meaning that when you say "make the background darker" or "move the text to the left," the rest of the image stays intact. Previous versions often changed unrelated elements during edits.</li>
-  <li><strong>Available to everyone:</strong> Images 2.6 works on every ChatGPT tier, including Free. The limits differ — Free users get fewer generations — but the technology is the same. No other major image generator makes its latest model available for free.</li>
+<li><strong>La création de GIF est réellement utile :</strong> ce n'est pas un gadget. Créer du contenu animé pour les réseaux sociaux, des GIF de réaction, de courtes animations de produits et des éléments de marque animés directement dans ChatGPT est une vraie amélioration de workflow. La qualité varie (les animations simples sont soignées, les complexes peuvent être saccadées) mais pour les contenus de réseaux sociaux et de messagerie, le résultat est immédiatement utilisable.</li>
+<li><strong>Les images de référence résolvent le problème de cohérence :</strong> avant la version 2.6, générer une série cohérente d'images (même personnage, même produit, même look de marque) demandait un prompt engineering poussé et de la chance. Les images de référence changent cela fondamentalement. Enregistrez une fois l'identité visuelle de votre marque, et chaque génération future reste fidèle à votre charte. Pour les équipes marketing qui produisent de gros volumes de contenu visuel, c'est la fonction la plus déterminante.</li>
+<li><strong>Le rendu du texte reste excellent :</strong> Images 2.6 prolonge la forte capacité d'insertion de texte dans les images, apparue avec Images 2.0. Les titres, étiquettes, prix et textes courts s'affichent correctement dans la plupart des cas. Les blocs de texte plus longs et les petites tailles de police comportent encore quelques erreurs, mais pour les affiches, les visuels sociaux et les étiquettes de produits, le texte est prêt à publier.</li>
+<li><strong>Un workflow d'édition conversationnel :</strong> l'avantage central de la génération d'images de ChatGPT a toujours été la boucle conversationnelle : décrivez ce que vous voulez, voyez le résultat, demandez des changements en langage courant. Images 2.6 améliore la cohérence des retouches : quand vous dites « rends l'arrière-plan plus sombre » ou « déplace le texte vers la gauche », le reste de l'image reste intact. Les versions précédentes modifiaient souvent des éléments sans rapport lors des retouches.</li>
+<li><strong>Disponible pour tous :</strong> Images 2.6 fonctionne sur toutes les offres ChatGPT, y compris Gratuit. Les limites diffèrent (les utilisateurs gratuits ont moins de générations) mais la technologie est la même. Aucun autre grand générateur d'images ne met son dernier modèle à disposition gratuitement.</li>
 </ul>
-
-<h2>Ce Qui Déçoit</h2>
+<h2>Ce qui laisse à désirer</h2>
 <ul>
-  <li><strong>Artistic quality still trails Midjourney:</strong> For pure aesthetic quality — composition, lighting, color grading, visual taste — Midjourney v8.2 remains the standard. Images 2.6 produces clean, technically correct images, but they lack the artistic "eye" that makes Midjourney's output look like it was composed by a photographer or art director. The gap has narrowed, but it is still visible side-by-side.</li>
-  <li><strong>GIF limitations:</strong> The animated GIFs are short (a few seconds), the frame rate can be inconsistent, and complex animations sometimes look more like slideshows than smooth motion. For polished animated content, dedicated video tools like Runway still produce better results. For quick social media GIFs, it works well enough.</li>
-  <li><strong>SVG quality is basic:</strong> The SVG export produces functional vector graphics, but the complexity and detail level is limited. For simple icons and logos, it works. For detailed illustrations or complex graphics, the SVG output needs cleanup in a proper vector editor.</li>
-  <li><strong>Speed claims are mixed:</strong> OpenAI claims 50% faster generation, and Flare does produce quick results at low quality. But at high quality settings with Sunburst, the speed improvement is less dramatic. In our testing, complex prompts still took 15-25 seconds — faster than before, but not the instant generation some users expected.</li>
-  <li><strong>Rate limits on Free and Plus:</strong> While the technology is available to everyone, the usage limits mean free users get a handful of generations before hitting the cap. Serious use requires Plus ($20/month) or Pro ($200/month).</li>
+<li><strong>La qualité artistique reste derrière Midjourney :</strong> pour la pure qualité esthétique (composition, éclairage, étalonnage des couleurs, goût visuel), Midjourney v8.2 reste la référence. Images 2.6 produit des images propres et techniquement correctes, mais elles manquent de l'« œil » artistique qui donne aux résultats de Midjourney l'air d'avoir été composés par un photographe ou un directeur artistique. L'écart s'est réduit, mais il reste visible côte à côte.</li>
+<li><strong>Les limites des GIF :</strong> les GIF animés sont courts (quelques secondes), la fréquence d'images peut être irrégulière et les animations complexes ressemblent parfois plus à des diaporamas qu'à un mouvement fluide. Pour des contenus animés soignés, des outils vidéo dédiés comme Runway donnent de meilleurs résultats. Pour des GIF rapides destinés aux réseaux sociaux, cela suffit.</li>
+<li><strong>La qualité SVG est basique :</strong> l'export SVG produit des graphiques vectoriels fonctionnels, mais le niveau de complexité et de détail est limité. Pour des icônes et des logos simples, cela marche. Pour des illustrations détaillées ou des graphismes complexes, le SVG demande un nettoyage dans un véritable éditeur vectoriel.</li>
+<li><strong>Les promesses de vitesse sont nuancées :</strong> OpenAI annonce une génération 50 % plus rapide, et Flare produit bien des résultats rapides en basse qualité. Mais avec Sunburst en haute qualité, le gain de vitesse est moins spectaculaire. Lors de nos tests, les prompts complexes ont encore pris 15 à 25 secondes : plus rapide qu'avant, mais pas la génération instantanée qu'attendaient certains utilisateurs.</li>
+<li><strong>Des limites d'usage sur Gratuit et Plus :</strong> même si la technologie est disponible pour tous, les limites d'usage font que les utilisateurs gratuits n'ont droit qu'à une poignée de générations avant d'atteindre le plafond. Un usage sérieux demande Plus (20 $/mois) ou Pro (200 $/mois).</li>
 </ul>
-
 <h2>GPT Image 2.6 vs Midjourney v8.2 vs Nano Banana Pro</h2>
 <table>
-  <thead>
-    <tr><th>Feature</th><th>GPT Image 2.6</th><th>Midjourney v8.2</th><th>Nano Banana Pro</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Artistic quality</td><td>Good</td><td><strong>Best</strong></td><td>Good</td></tr>
-    <tr><td>Photorealism</td><td>Strong</td><td>Strong</td><td><strong>Best</strong></td></tr>
-    <tr><td>Text in images</td><td><strong>Excellent</strong></td><td>Good</td><td>Strong</td></tr>
-    <tr><td>GIF creation</td><td><strong>Yes</strong></td><td>No</td><td>No</td></tr>
-    <tr><td>SVG export</td><td><strong>Yes</strong></td><td>No</td><td>No</td></tr>
-    <tr><td>Reference images</td><td><strong>Yes</strong></td><td>Style references</td><td>No</td></tr>
-    <tr><td>Conversational editing</td><td><strong>Best</strong></td><td>Limited</td><td>Limited</td></tr>
-    <tr><td>Speed</td><td>6-25 seconds</td><td>10-60 seconds</td><td><strong>2-5 seconds</strong></td></tr>
-    <tr><td>Free tier</td><td>Yes (limited)</td><td>No</td><td>Yes</td></tr>
-    <tr><td>Price</td><td>$20/mo (ChatGPT Plus)</td><td>$10-120/mo</td><td>Free-$20/mo</td></tr>
-  </tbody>
+<thead>
+<tr><th>Fonctionnalité</th><th>GPT Image 2.6</th><th>Midjourney v8.2</th><th>Nano Banana Pro</th></tr>
+</thead>
+<tbody>
+<tr><td>Qualité artistique</td><td>Bonne</td><td><strong>La meilleure</strong></td><td>Bonne</td></tr>
+<tr><td>Photoréalisme</td><td>Fort</td><td>Fort</td><td><strong>Le meilleur</strong></td></tr>
+<tr><td>Texte dans les images</td><td><strong>Excellent</strong></td><td>Bon</td><td>Fort</td></tr>
+<tr><td>Création de GIF</td><td><strong>Oui</strong></td><td>Non</td><td>Non</td></tr>
+<tr><td>Export SVG</td><td><strong>Oui</strong></td><td>Non</td><td>Non</td></tr>
+<tr><td>Images de référence</td><td><strong>Oui</strong></td><td>Références de style</td><td>Non</td></tr>
+<tr><td>Édition conversationnelle</td><td><strong>La meilleure</strong></td><td>Limitée</td><td>Limitée</td></tr>
+<tr><td>Vitesse</td><td>6-25 secondes</td><td>10-60 secondes</td><td><strong>2-5 secondes</strong></td></tr>
+<tr><td>Offre gratuite</td><td>Oui (limitée)</td><td>Non</td><td>Oui</td></tr>
+<tr><td>Prix</td><td>20 $/mois (ChatGPT Plus)</td><td>10-120 $/mois</td><td>Gratuit-20 $/mois</td></tr>
+</tbody>
 </table>
-
-<h2>The Evolution: DALL-E → GPT Image 2.6</h2>
-<p>For context, here is how OpenAI's image generation has evolved in 2026 alone:</p>
+<h2>L'évolution : de DALL-E à GPT Image 2.6</h2>
+<p>Pour le contexte, voici comment la génération d'images d'OpenAI a évolué rien qu'en 2026 :</p>
 <ul>
-  <li><strong>DALL-E 3:</strong> Deprecated May 12, 2026. The model that popularized AI image generation, but now replaced entirely.</li>
-  <li><strong>GPT Image 1 / 1.5:</strong> The first replacements, introducing the "thinking" approach to image creation.</li>
-  <li><strong>GPT Image 2.0 (April 2026):</strong> Major leap in text rendering and multi-image consistency.</li>
-  <li><strong>GPT Image 2.5 (September 2026):</strong> Introduced Flare/Sunburst split and improved editing.</li>
-  <li><strong>GPT Image 2.6 (November 4, 2026):</strong> GIFs, reference images, SVG, 50% faster. Where we are now.</li>
+<li><strong>DALL-E 3 :</strong> retiré le 12 mai 2026. Le modèle qui a popularisé la génération d'images par IA, désormais entièrement remplacé.</li>
+<li><strong>GPT Image 1 / 1.5 :</strong> les premiers remplaçants, qui ont introduit l'approche « réfléchie » de la création d'images.</li>
+<li><strong>GPT Image 2.0 (avril 2026) :</strong> un grand bond en rendu de texte et en cohérence multi-images.</li>
+<li><strong>GPT Image 2.5 (septembre 2026) :</strong> a introduit la séparation Flare/Sunburst et une édition améliorée.</li>
+<li><strong>GPT Image 2.6 (4 novembre 2026) :</strong> GIF, images de référence, SVG, 50 % plus rapide. Là où nous en sommes aujourd'hui.</li>
 </ul>
-<p>The pace of iteration — three major versions in seven months — shows how aggressively OpenAI is investing in image generation to compete with Midjourney and Google.</p>
-
+<p>Le rythme d'itération (trois versions majeures en sept mois) montre à quel point OpenAI investit de façon agressive dans la génération d'images pour concurrencer Midjourney et Google.</p>
 <h2>Tarifs</h2>
-<p>GPT Image 2.6 is available through ChatGPT on all tiers:</p>
+<p>GPT Image 2.6 est disponible via ChatGPT sur toutes les offres :</p>
 <table>
-  <thead>
-    <tr><th>ChatGPT Plan</th><th>Price</th><th>Image Access</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Free</td><td>$0</td><td>Limited daily generations</td></tr>
-    <tr><td>Plus</td><td>$20/month</td><td>Standard access</td></tr>
-    <tr><td>Pro</td><td>$200/month</td><td>Priority access, highest limits</td></tr>
-  </tbody>
+<thead>
+<tr><th>Offre ChatGPT</th><th>Prix</th><th>Accès aux images</th></tr>
+</thead>
+<tbody>
+<tr><td>Gratuit</td><td>0 $</td><td>Générations quotidiennes limitées</td></tr>
+<tr><td>Plus</td><td>20 $/mois</td><td>Accès standard</td></tr>
+<tr><td>Pro</td><td>200 $/mois</td><td>Accès prioritaire, limites les plus élevées</td></tr>
+</tbody>
 </table>
-<p>API pricing for Flare and Sunburst varies by resolution and quality settings. Check OpenAI's developer documentation for current rates.</p>
-
-<h2>Le Verdict</h2>
-<p>GPT Image 2.6 earns an <strong>A</strong> because GIF creation, reference images, and SVG export represent genuine innovation — features no other chatbot-integrated image generator offers. The conversational editing workflow remains the most intuitive way to create and iterate on images. Available on every tier including Free, the accessibility is unmatched.</p>
-<p>The grade is held back from A+ because the artistic quality still does not match Midjourney v8.2, the GIF feature has real limitations, and the speed improvements are less dramatic than claimed at higher quality settings.</p>
-<p>If you already use ChatGPT, Images 2.6 makes it a significantly more capable visual creation tool — the GIF and reference image features alone are worth exploring. If you need the absolute best image quality and are willing to pay for a separate subscription, Midjourney remains the aesthetic leader.</p>
-
-<h2>Questions Fréquentes</h2>
-
-<h3>Can ChatGPT make GIFs now?</h3>
-<p>Yes. GPT Image 2.6 (November 2026) introduced native GIF creation. Turn any prompt or existing image into a short animated GIF directly in ChatGPT. Available on all tiers including Free.</p>
-
-<h3>What happened to DALL-E?</h3>
-<p>DALL-E 3 was deprecated on May 12, 2026. OpenAI replaced it with the GPT Image model family. If you use ChatGPT, you are already using GPT Image 2.6 — the successor to DALL-E.</p>
-
-<h3>What is the difference between Flare and Sunburst?</h3>
-<p>Both are GPT Image 2.6 API models. <strong>Flare</strong> is optimized for speed — fast generation for iterations and drafts. <strong>Sunburst</strong> is optimized for quality — detailed compositions and precise editing. In ChatGPT, the system chooses automatically.</p>
-
-<h3>Is GPT Image 2.6 better than Midjourney?</h3>
-<p>For versatility and features (GIFs, SVG, conversational editing) — yes. For pure artistic quality — no, Midjourney v8.2 still wins. For text rendering — they are close, with GPT Image slightly ahead.</p>
-
-<h3>Is GPT Image 2.6 free?</h3>
-<p>Yes, it is available on ChatGPT Free with limited generations. Plus ($20/month) gives standard access. Pro ($200/month) gives priority and highest limits.</p>
-
-<p><em>GPT Image 2.6 was tested by AIGradeLab during its first 10 days after launch. Grade reflects performance as of November 14, 2026. Features verified against OpenAI's official release announcement from November 4, 2026.</em></p>
+<p>Les tarifs d'API pour Flare et Sunburst varient selon la résolution et les réglages de qualité. Consultez la documentation développeur d'OpenAI pour les tarifs actuels.</p>
+<h2>Le verdict</h2>
+<p>GPT Image 2.6 obtient un <strong>A</strong> parce que la création de GIF, les images de référence et l'export SVG représentent une réelle innovation : des fonctions qu'aucun autre générateur d'images intégré à un chatbot n'offre. Le workflow d'édition conversationnel reste la façon la plus intuitive de créer et d'itérer sur des images. Disponible sur toutes les offres, Gratuit compris, son accessibilité est inégalée.</p>
+<p>La note est retenue sous le A+ parce que la qualité artistique n'égale toujours pas Midjourney v8.2, que la fonction GIF a de vraies limites et que les gains de vitesse sont moins spectaculaires qu'annoncé aux réglages de qualité plus élevés.</p>
+<p>Si vous utilisez déjà ChatGPT, Images 2.6 en fait un outil de création visuelle nettement plus capable : les fonctions GIF et images de référence méritent à elles seules d'être explorées. Si vous avez besoin de la meilleure qualité d'image possible et que vous êtes prêt à payer un abonnement séparé, Midjourney reste le leader esthétique.</p>
+<h2>FAQ</h2>
+<h3>ChatGPT peut-il créer des GIF maintenant ?</h3>
+<p>Oui. GPT Image 2.6 (novembre 2026) a introduit la création native de GIF. Transformez n'importe quel prompt ou image existante en court GIF animé directement dans ChatGPT. Disponible sur toutes les offres, Gratuit compris.</p>
+<h3>Qu'est devenu DALL-E ?</h3>
+<p>DALL-E 3 a été retiré le 12 mai 2026. OpenAI l'a remplacé par la famille de modèles GPT Image. Si vous utilisez ChatGPT, vous utilisez déjà GPT Image 2.6, le successeur de DALL-E.</p>
+<h3>Quelle est la différence entre Flare et Sunburst ?</h3>
+<p>Ce sont deux modèles d'API de GPT Image 2.6. <strong>Flare</strong> est optimisé pour la vitesse : génération rapide pour les itérations et les brouillons. <strong>Sunburst</strong> est optimisé pour la qualité : compositions détaillées et retouches précises. Dans ChatGPT, le système choisit automatiquement.</p>
+<h3>GPT Image 2.6 est-il meilleur que Midjourney ?</h3>
+<p>Pour la polyvalence et les fonctionnalités (GIF, SVG, édition conversationnelle), oui. Pour la pure qualité artistique, non : Midjourney v8.2 gagne encore. Pour le rendu du texte, ils sont proches, avec un léger avantage à GPT Image.</p>
+<h3>GPT Image 2.6 est-il gratuit ?</h3>
+<p>Oui, il est disponible dans ChatGPT Gratuit avec des générations limitées. Plus (20 $/mois) donne un accès standard. Pro (200 $/mois) offre la priorité et les limites les plus élevées.</p>
+<p><em>GPT Image 2.6 a été testé par AIGradeLab pendant ses 10 premiers jours après le lancement. La note reflète les performances au 14 novembre 2026. Fonctionnalités vérifiées par rapport à l'annonce officielle d'OpenAI du 4 novembre 2026.</em></p>

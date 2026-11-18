@@ -1,11 +1,11 @@
 ---
-title: "مراجعة Claude في 2026: مُختبر ومُقيَّم"
-description: "مراجعة شاملة لـ Claude من Anthropic مع تقييم شفاف."
-category: "Graded Reviews"
+title: "مراجعة Claude لعام 2026: هل هو الأفضل للكتابة والبرمجة؟ تقييمنا"
+description: "اختبرنا Claude Opus 5.5 في الكتابة والبرمجة والاستدلال والمهام اليومية. إليك تقييمنا الصريح وهل يستحق Claude Pro مبلغ $20/شهر. تحديث نوفمبر 2026."
+category: "مراجعات مُقيَّمة"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "وقت القراءة: 13 دقيقة"
 grade: "A"
 scores_ux: 8.5
 scores_quality: 9.5
@@ -15,100 +15,100 @@ scores_support: 8.2
 toolName: "Claude"
 ---
 
-<h2>What Claude Does</h2>
-<p>Claude is Anthropic's AI assistant — and in 2026, it has become the fastest-growing AI tool on the market. Searches for "Claude AI" grew 611% between October 2024 and September 2026. Claude's website received 967.9 million visits in June 2026, a 236% increase from February. The growth is driven by one thing: output quality. When the text needs to sound human, when the code needs to work, and when the reasoning needs to be careful — Claude is what professionals reach for.</p>
+<h2>ماذا يفعل Claude</h2>
+<p>Claude هو مساعد الذكاء الاصطناعي من Anthropic — وفي 2026 أصبح أسرع أدوات الذكاء الاصطناعي نموًا في السوق. فقد نمت عمليات البحث عن «Claude AI» بنسبة 611% بين أكتوبر 2024 وسبتمبر 2026. وتلقى موقع Claude 967.9 مليون زيارة في يونيو 2026، بزيادة 236% عن فبراير. والنمو مدفوع بأمر واحد: جودة المخرجات. فعندما يجب أن يبدو النص بشريًا، وعندما يجب أن يعمل الكود، وعندما يجب أن يكون الاستدلال حذرًا — فإن Claude هو ما يلجأ إليه المحترفون.</p>
 
-<h2>What We Tested</h2>
-<p>We used Claude Pro daily for eight weeks across every major use case: professional writing (emails, reports, proposals), coding (Next.js, Python, bug fixing), research and analysis (document review, competitive analysis), creative writing (blog posts, marketing copy), and complex reasoning (multi-step problems, strategy development). We compared outputs against ChatGPT and Gemini on identical prompts.</p>
+<h2>ما اختبرناه</h2>
+<p>استخدمنا Claude Pro يوميًا لمدة ثمانية أسابيع عبر كل حالة استخدام رئيسية: الكتابة المهنية (رسائل وتقارير وعروض)، والبرمجة (Next.js وPython وإصلاح الأخطاء)، والبحث والتحليل (مراجعة المستندات والتحليل التنافسي)، والكتابة الإبداعية (مقالات ونصوص تسويقية)، والاستدلال المعقد (مسائل متعددة الخطوات ووضع الاستراتيجيات). وقارنّا المخرجات بـ ChatGPT وGemini على أوامر متطابقة.</p>
 
-<h2>The Current Model: Opus 5.5</h2>
-<p>Opus 5.5 is Claude's flagship model as of November 2026. It leads on human preference benchmarks for text quality, dominates SWE-bench for coding, and handles 200K-token contexts — roughly 500 pages of text — with remarkable coherence. Anthropic also offers Sonnet 5.5 (faster, lighter) and Haiku 5.5 (fastest, cheapest for API) as lower tiers.</p>
+<h2>النموذج الحالي: Opus 5.5</h2>
+<p>Opus 5.5 هو النموذج الرائد في Claude حتى نوفمبر 2026. يتصدر معايير تفضيل البشر لجودة النص، ويهيمن على SWE-bench في البرمجة، ويتعامل مع سياقات 200 ألف رمز — نحو 500 صفحة من النص — بتماسك لافت. وتقدم Anthropic أيضًا Sonnet 5.5 (أسرع وأخف) وHaiku 5.5 (الأسرع والأرخص لـ API) كفئات أدنى.</p>
 
-<h2>What Works Well</h2>
+<h2>ما ينجح جيدًا</h2>
 <ul>
-  <li><strong>Writing quality — best in class:</strong> This is Claude's defining strength. The text reads like a skilled human wrote it — natural pacing, varied sentence structure, appropriate tone, no filler. Where ChatGPT produces recognizably "AI-generated" text with predictable patterns, Claude's output blends in with professional human writing. For emails, reports, proposals, blog posts, and any text that represents you or your business, the quality difference is meaningful.</li>
-  <li><strong>Coding — Claude Code leads benchmarks:</strong> Claude Code, Anthropic's terminal-based coding agent, has become the tool serious developers reach for. It reads entire repositories, understands architectural patterns, and implements features across multiple files with the best code quality available. On SWE-bench, Claude consistently leads. Multi-agent workflows with background agents allow parallel task execution on complex projects.</li>
-  <li><strong>Complex reasoning:</strong> On multi-step logic problems — legal analysis, strategy development, financial modeling, debugging subtle issues — Claude is more methodical than ChatGPT or Gemini. It shows its work, considers edge cases, and catches nuances that other models skip. When you need to trust the reasoning, not just the answer, Claude is the safer choice.</li>
-  <li><strong>Long document analysis:</strong> Feed Claude a 100-page contract, a full codebase, or a stack of research papers and ask specific questions. The 200K-token context window handles massive documents while maintaining coherence — it remembers details from page 3 when answering about page 97. Gemini has a larger window (1M), but Claude's comprehension within its window is more reliable.</li>
-  <li><strong>Honesty and calibration:</strong> Claude is more likely to say "I'm not sure" than to fabricate a confident-sounding answer. In professional contexts — legal questions, medical queries, financial analysis — a tool that admits uncertainty is more trustworthy than one that always sounds certain.</li>
-  <li><strong>Projects and Artifacts:</strong> Projects let you organize work with persistent context — upload documents, set instructions, and maintain continuity across conversations. Artifacts create documents, code, spreadsheets, and interactive content within conversations. For structured professional work, these features add real organization that ChatGPT's flat conversation model lacks.</li>
-  <li><strong>Computer use and desktop integration:</strong> Claude's desktop app can interact with files and tools on your computer directly. The Cowork feature carries out tasks across your computer without writing code — a genuinely new capability that no competitor offers at this level.</li>
+  <li><strong>جودة الكتابة — الأفضل في فئتها:</strong> هذه ميزة Claude المميزة. يُقرأ النص كأن كاتبًا بشريًا ماهرًا كتبه — إيقاع طبيعي وبنية جمل متنوعة ونبرة مناسبة وبلا حشو. وفي حين ينتج ChatGPT نصًا يمكن تمييزه بسهولة بأنه «مولَّد بالذكاء الاصطناعي» بأنماط متوقعة، تندمج مخرجات Claude مع الكتابة البشرية المهنية. وللرسائل والتقارير والعروض والمقالات وأي نص يمثلك أو يمثل عملك، فرق الجودة ملموس.</li>
+  <li><strong>البرمجة — Claude Code يتصدر المعايير:</strong> أصبح Claude Code، وكيل البرمجة من Anthropic العامل في الطرفية، الأداة التي يلجأ إليها المطورون الجادون. يقرأ مستودعات كاملة ويفهم الأنماط المعمارية وينفذ الميزات عبر ملفات متعددة بأفضل جودة كود متاحة. وفي SWE-bench، يتصدر Claude باستمرار. وتتيح سير العمل متعددة الوكلاء مع وكلاء الخلفية تنفيذ المهام بالتوازي في المشاريع المعقدة.</li>
+  <li><strong>الاستدلال المعقد:</strong> في مسائل المنطق متعددة الخطوات — التحليل القانوني ووضع الاستراتيجيات والنمذجة المالية وتصحيح المشكلات الدقيقة — Claude أكثر منهجية من ChatGPT أو Gemini. يعرض خطوات عمله ويراعي الحالات الحدية ويلتقط الفروق الدقيقة التي تتخطاها النماذج الأخرى. وعندما تحتاج إلى الوثوق بالاستدلال لا بالإجابة فقط، فإن Claude هو الخيار الأكثر أمانًا.</li>
+  <li><strong>تحليل المستندات الطويلة:</strong> زوّد Claude بعقد من 100 صفحة أو قاعدة كود كاملة أو كومة أوراق بحثية واطرح أسئلة محددة. تتعامل نافذة السياق البالغة 200 ألف رمز مع المستندات الضخمة مع الحفاظ على التماسك — يتذكر تفاصيل من الصفحة 3 عند الإجابة عن الصفحة 97. ولدى Gemini نافذة أكبر (مليون)، لكن فهم Claude ضمن نافذته أكثر موثوقية.</li>
+  <li><strong>الصدق والمعايرة:</strong> Claude أكثر احتمالًا لقول «لست متأكدًا» من اختلاق إجابة تبدو واثقة. وفي السياقات المهنية — الأسئلة القانونية والاستفسارات الطبية والتحليل المالي — الأداة التي تعترف بعدم اليقين أجدر بالثقة من التي تبدو واثقة دائمًا.</li>
+  <li><strong>Projects وArtifacts:</strong> تتيح Projects تنظيم العمل بسياق دائم — ارفع المستندات وحدد التعليمات وحافظ على الاستمرارية عبر المحادثات. وتنشئ Artifacts مستندات وأكوادًا وجداول بيانات ومحتوى تفاعليًا داخل المحادثات. وللعمل المهني المنظم، تضيف هذه الميزات تنظيمًا حقيقيًا يفتقر إليه نموذج المحادثة المسطح في ChatGPT.</li>
+  <li><strong>استخدام الحاسوب وتكامل سطح المكتب:</strong> يستطيع تطبيق سطح المكتب من Claude التفاعل مع الملفات والأدوات على حاسوبك مباشرة. وتنفذ ميزة Cowork مهامًا عبر حاسوبك دون كتابة كود — قدرة جديدة حقًا لا يقدمها أي منافس بهذا المستوى.</li>
 </ul>
 
-<h2>What Falls Short</h2>
+<h2>ما يقصّر فيه</h2>
 <ul>
-  <li><strong>No image generation:</strong> Claude cannot create images. This is the single biggest capability gap compared to ChatGPT (Images 2.6 with GIFs) and Gemini (Nano Banana Pro). If visual content is part of your workflow, you need a second tool alongside Claude.</li>
-  <li><strong>No video generation:</strong> No equivalent to ChatGPT's Sora integration. For video-related workflows, Claude is not an option.</li>
-  <li><strong>Free tier is more limited:</strong> Claude's free tier restricts you to the Sonnet model with lower usage limits. ChatGPT and especially Gemini offer more generous free access. If you are evaluating AI tools without paying, Claude's free experience undersells its capabilities.</li>
-  <li><strong>Smaller ecosystem:</strong> No plugin store, no equivalent to GPT Store, no built-in marketplace. The MCP (Model Context Protocol) is growing — allowing Claude to connect to external tools and services — but the ecosystem is not yet close to ChatGPT's breadth.</li>
-  <li><strong>Speed:</strong> Opus 5.5 is slower than GPT-5.5 for most tasks. The quality is worth the wait, but for rapid-fire questions and quick iterations, the delay is noticeable.</li>
+  <li><strong>لا توليد صور:</strong> لا يستطيع Claude إنشاء الصور. هذه أكبر فجوة قدرات مقارنةً بـ ChatGPT (Images 2.6 مع GIF) وGemini (Nano Banana Pro). إذا كان المحتوى البصري جزءًا من مسار عملك، فأنت بحاجة إلى أداة ثانية بجانب Claude.</li>
+  <li><strong>لا توليد فيديو:</strong> لا ما يعادل تكامل Sora في ChatGPT. وفي مسارات العمل المتعلقة بالفيديو، Claude ليس خيارًا.</li>
+  <li><strong>الباقة المجانية أكثر محدودية:</strong> تقصرك الباقة المجانية في Claude على نموذج Sonnet بحدود استخدام أدنى. ويقدم ChatGPT وخاصة Gemini وصولًا مجانيًا أسخى. وإذا كنت تقيّم أدوات الذكاء الاصطناعي دون دفع، فإن تجربة Claude المجانية تقلل من قيمة قدراته.</li>
+  <li><strong>منظومة أصغر:</strong> لا متجر إضافات ولا ما يعادل GPT Store ولا سوق مدمج. بروتوكول MCP (سياق النموذج) ينمو — مما يتيح لـ Claude الاتصال بأدوات وخدمات خارجية — لكن المنظومة لم تقترب بعد من اتساع ChatGPT.</li>
+  <li><strong>السرعة:</strong> Opus 5.5 أبطأ من GPT-5.5 في معظم المهام. الجودة تستحق الانتظار، لكن للأسئلة السريعة المتتابعة والتكرارات السريعة، التأخير ملحوظ.</li>
 </ul>
 
-<h2>Claude vs ChatGPT vs Gemini — Where Each Wins</h2>
+<h2>Claude مقابل ChatGPT مقابل Gemini — أين يفوز كل منها</h2>
 <table>
   <thead>
-    <tr><th>Task</th><th>Winner</th><th>Why</th></tr>
+    <tr><th>المهمة</th><th>الفائز</th><th>السبب</th></tr>
   </thead>
   <tbody>
-    <tr><td>Professional writing</td><td><strong>Claude</strong></td><td>Most natural, human-sounding output</td></tr>
-    <tr><td>Coding</td><td><strong>Claude</strong></td><td>Claude Code leads SWE-bench</td></tr>
-    <tr><td>Complex reasoning</td><td><strong>Claude</strong></td><td>More methodical, fewer shortcuts</td></tr>
-    <tr><td>Image generation</td><td><strong>ChatGPT</strong></td><td>Claude has none</td></tr>
-    <tr><td>Ecosystem breadth</td><td><strong>ChatGPT</strong></td><td>Plugins, GPTs, DALL-E, Sora</td></tr>
-    <tr><td>Google integration</td><td><strong>Gemini</strong></td><td>Native Gmail, Drive, Docs access</td></tr>
-    <tr><td>Free tier</td><td><strong>Gemini</strong></td><td>Most generous free access</td></tr>
+    <tr><td>الكتابة المهنية</td><td><strong>Claude</strong></td><td>أكثر المخرجات طبيعيةً وإنسانيةً</td></tr>
+    <tr><td>البرمجة</td><td><strong>Claude</strong></td><td>Claude Code يتصدر SWE-bench</td></tr>
+    <tr><td>الاستدلال المعقد</td><td><strong>Claude</strong></td><td>أكثر منهجية وطرق مختصرة أقل</td></tr>
+    <tr><td>توليد الصور</td><td><strong>ChatGPT</strong></td><td>Claude لا يملكه</td></tr>
+    <tr><td>اتساع المنظومة</td><td><strong>ChatGPT</strong></td><td>إضافات وGPTs وDALL-E وSora</td></tr>
+    <tr><td>تكامل Google</td><td><strong>Gemini</strong></td><td>وصول أصلي إلى Gmail وDrive وDocs</td></tr>
+    <tr><td>الباقة المجانية</td><td><strong>Gemini</strong></td><td>أسخى وصول مجاني</td></tr>
   </tbody>
 </table>
 
-<h2>Pricing: November 2026</h2>
+<h2>التسعير: نوفمبر 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>What You Get</th></tr>
+    <tr><th>الخطة</th><th>السعر</th><th>ما تحصل عليه</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>$0</td><td>Sonnet model, limited usage</td></tr>
-    <tr><td>Pro</td><td>$20/month</td><td>Opus 5.5, Claude Code, Projects, Artifacts, higher limits</td></tr>
-    <tr><td>Team</td><td>$25-30/user/month</td><td>Team collaboration, admin controls</td></tr>
-    <tr><td>Enterprise</td><td>Custom</td><td>SSO, SCIM, enhanced security</td></tr>
+    <tr><td>مجاني</td><td>$0</td><td>نموذج Sonnet واستخدام محدود</td></tr>
+    <tr><td>Pro</td><td>$20/شهر</td><td>Opus 5.5 وClaude Code وProjects وArtifacts وحدود أعلى</td></tr>
+    <tr><td>Team</td><td>$25-30/مستخدم/شهر</td><td>تعاون الفريق وضوابط الإدارة</td></tr>
+    <tr><td>Enterprise</td><td>مخصص</td><td>SSO وSCIM وأمان معزز</td></tr>
   </tbody>
 </table>
-<p>At $20/month — the same price as ChatGPT Plus and Gemini Advanced — Claude Pro delivers the best output quality per dollar for writing and coding. The value proposition is clear: pay for Claude when quality matters.</p>
+<p>بسعر $20/شهر — السعر نفسه لـ ChatGPT Plus وGemini Advanced — يقدم Claude Pro أفضل جودة مخرجات مقابل كل دولار في الكتابة والبرمجة. وعرض القيمة واضح: ادفع مقابل Claude عندما تهم الجودة.</p>
 
-<h2>Who Should Use Claude</h2>
+<h2>من ينبغي أن يستخدم Claude</h2>
 <ul>
-  <li><strong>Professional writers:</strong> Copywriters, content strategists, journalists, and anyone whose work is judged by writing quality. Claude produces text that needs minimal editing.</li>
-  <li><strong>Developers:</strong> Claude Code is the most capable AI coding agent. Senior developers who want to delegate complex, multi-file tasks will find it indispensable.</li>
-  <li><strong>Analysts and researchers:</strong> The reasoning quality and long-context capability make Claude the best tool for document analysis, competitive intelligence, and complex research.</li>
-  <li><strong>Lawyers and consultants:</strong> Professionals who need careful, nuanced analysis with appropriate hedging rather than overconfident AI output.</li>
+  <li><strong>الكتّاب المحترفون:</strong> كتّاب النصوص الإعلانية ومخططو المحتوى والصحفيون وكل من يُحكم على عمله بجودة الكتابة. ينتج Claude نصًا يحتاج إلى تحرير ضئيل.</li>
+  <li><strong>المطورون:</strong> Claude Code هو وكيل البرمجة الأقدر. وسيجده كبار المطورين الذين يريدون تفويض مهام معقدة متعددة الملفات لا غنى عنه.</li>
+  <li><strong>المحللون والباحثون:</strong> تجعل جودة الاستدلال وقدرة السياق الطويل من Claude أفضل أداة لتحليل المستندات والاستخبارات التنافسية والبحث المعقد.</li>
+  <li><strong>المحامون والمستشارون:</strong> المحترفون الذين يحتاجون إلى تحليل حذر ودقيق مع تحفظ مناسب بدلًا من مخرجات ذكاء اصطناعي مفرطة الثقة.</li>
 </ul>
 
-<h2>Who Should Not Use Claude</h2>
+<h2>من لا ينبغي أن يستخدم Claude</h2>
 <ul>
-  <li><strong>Visual content creators:</strong> If you need image or video generation, Claude cannot help. Use ChatGPT or Gemini instead.</li>
-  <li><strong>Casual users who want everything in one tool:</strong> If you want AI that writes, generates images, browses the web, and does data analysis in a single interface, ChatGPT is the more complete package.</li>
-  <li><strong>Google Workspace power users:</strong> If your daily workflow revolves around Gmail, Drive, and Docs, Gemini's native integration provides unique convenience that Claude cannot match.</li>
+  <li><strong>صنّاع المحتوى البصري:</strong> إذا كنت تحتاج إلى توليد صور أو فيديو، فلن يستطيع Claude المساعدة. استخدم ChatGPT أو Gemini بدلًا منه.</li>
+  <li><strong>المستخدمون العاديون الذين يريدون كل شيء في أداة واحدة:</strong> إذا كنت تريد ذكاءً اصطناعيًا يكتب ويولّد الصور ويتصفح الويب ويحلل البيانات في واجهة واحدة، فـ ChatGPT هو الحزمة الأكمل.</li>
+  <li><strong>المستخدمون المتمرسون في Google Workspace:</strong> إذا كان مسار عملك اليومي يدور حول Gmail وDrive وDocs، فإن تكامل Gemini الأصلي يوفر راحة فريدة لا يضاهيها Claude.</li>
 </ul>
 
-<h2>The Verdict</h2>
-<p>Claude earns an <strong>A</strong> because when it comes to the quality of what AI produces — the writing, the code, the reasoning — nothing else matches it in November 2026. Opus 5.5 is the model professionals trust when the output matters. The 611% growth in search interest reflects a real shift: people who try Claude for quality work do not go back.</p>
-<p>The grade is held back from A+ by the absence of image and video generation, the more limited free tier, and the smaller ecosystem compared to ChatGPT. These are real gaps that force Claude users to maintain a second AI subscription for visual content.</p>
-<p>The bottom line: if you can only afford one AI tool and need images, choose ChatGPT. If you can afford one AI tool and need the best output, choose Claude. If you can afford two — Claude for quality work and ChatGPT for everything else is the most productive combination in 2026.</p>
+<h2>الحكم</h2>
+<p>ينال Claude تقييم <strong>A</strong> لأنه حين يتعلق الأمر بجودة ما ينتجه الذكاء الاصطناعي — الكتابة والكود والاستدلال — لا شيء آخر يضاهيه في نوفمبر 2026. Opus 5.5 هو النموذج الذي يثق به المحترفون عندما تهم المخرجات. والنمو بنسبة 611% في الاهتمام البحثي يعكس تحولًا حقيقيًا: من يجرب Claude للعمل عالي الجودة لا يعود.</p>
+<p>يُحجَب التقييم عن A+ بسبب غياب توليد الصور والفيديو والباقة المجانية الأكثر محدودية والمنظومة الأصغر مقارنةً بـ ChatGPT. هذه فجوات حقيقية تجبر مستخدمي Claude على الاحتفاظ باشتراك ذكاء اصطناعي ثانٍ للمحتوى البصري.</p>
+<p>الخلاصة: إذا كنت تستطيع تحمّل أداة ذكاء اصطناعي واحدة وتحتاج إلى صور، فاختر ChatGPT. وإذا كنت تستطيع تحمّل أداة واحدة وتحتاج إلى أفضل مخرجات، فاختر Claude. وإذا كنت تستطيع تحمّل اثنتين — فـ Claude للعمل عالي الجودة وChatGPT لكل شيء آخر هو أكثر التركيبات إنتاجية في 2026.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is Claude better than ChatGPT?</h3>
-<p>For writing quality, coding, and complex reasoning — yes. For image generation, video, ecosystem breadth, and all-in-one versatility — no. Both earn an A grade for different strengths.</p>
+<h3>هل Claude أفضل من ChatGPT؟</h3>
+<p>في جودة الكتابة والبرمجة والاستدلال المعقد — نعم. وفي توليد الصور والفيديو واتساع المنظومة والتنوع الشامل — لا. كلاهما ينال تقييم A لنقاط قوة مختلفة.</p>
 
-<h3>Is Claude Pro worth $20/month?</h3>
-<p>If you write professionally, code daily, or need high-quality analysis — absolutely. Opus 5.5 produces noticeably better output than the free Sonnet model. If you use AI casually a few times per week, the free tier may be sufficient.</p>
+<h3>هل يستحق Claude Pro مبلغ $20/شهر؟</h3>
+<p>إذا كنت تكتب باحتراف أو تبرمج يوميًا أو تحتاج إلى تحليل عالي الجودة — بكل تأكيد. ينتج Opus 5.5 مخرجات أفضل بوضوح من نموذج Sonnet المجاني. وإذا كنت تستخدم الذكاء الاصطناعي عرضيًا بضع مرات أسبوعيًا، فقد تكفي الباقة المجانية.</p>
 
-<h3>What is Claude Code?</h3>
-<p>Claude Code is Anthropic's terminal-based AI coding agent. It reads your entire codebase, implements features across multiple files, runs tests, and iterates — all from the command line. It leads on coding benchmarks in 2026.</p>
+<h3>ما هو Claude Code؟</h3>
+<p>Claude Code هو وكيل البرمجة بالذكاء الاصطناعي من Anthropic العامل في الطرفية. يقرأ قاعدة الكود بأكملها وينفذ الميزات عبر ملفات متعددة ويشغّل الاختبارات ويكرر — كل ذلك من سطر الأوامر. ويتصدر معايير البرمجة في 2026.</p>
 
-<h3>Can Claude generate images?</h3>
-<p>No. Claude has no image generation capability. For images, use ChatGPT (Images 2.6), Google Gemini (Nano Banana Pro), Midjourney, or any other image generator alongside Claude.</p>
+<h3>هل يستطيع Claude توليد الصور؟</h3>
+<p>لا. ليس لدى Claude قدرة على توليد الصور. للصور، استخدم ChatGPT (Images 2.6) أو Google Gemini (Nano Banana Pro) أو Midjourney أو أي مولّد صور آخر بجانب Claude.</p>
 
-<h3>What is the difference between Opus, Sonnet, and Haiku?</h3>
-<p><strong>Opus 5.5</strong> is the flagship — best quality, slowest, Pro only. <strong>Sonnet 5.5</strong> is the balanced option — strong quality, faster, available on free tier. <strong>Haiku 5.5</strong> is the fastest and cheapest — best for high-volume API use where speed matters more than depth.</p>
+<h3>ما الفرق بين Opus وSonnet وHaiku؟</h3>
+<p><strong>Opus 5.5</strong> هو النموذج الرائد — أفضل جودة وأبطأ وفي Pro فقط. <strong>Sonnet 5.5</strong> هو الخيار المتوازن — جودة قوية وأسرع ومتاح في الباقة المجانية. <strong>Haiku 5.5</strong> هو الأسرع والأرخص — الأفضل لاستخدام API بكميات كبيرة حيث السرعة أهم من العمق.</p>
 
-<p><em>Claude was tested by AIGradeLab over eight weeks of daily professional use. Grade reflects performance as of November 2026. Pricing verified on claude.ai on November 14, 2026.</em></p>
+<p><em>اختبر AIGradeLab Claude على مدى ثمانية أسابيع من الاستخدام المهني اليومي. يعكس التقييم الأداء حتى نوفمبر 2026. الأسعار تم التحقق منها على claude.ai في 14 نوفمبر 2026.</em></p>

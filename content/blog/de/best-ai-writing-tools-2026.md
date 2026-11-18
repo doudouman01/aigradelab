@@ -1,97 +1,97 @@
 ---
-title: "Beste KI-Writing Tools 2026: 8 Tools Tested and Graded"
-description: "We tested the top AI writing tools for quality, pricing, and real-world use. Claude, ChatGPT, Jasper, Grammarly, and more. Every tool graded. Updated November 2026."
+title: "Die besten KI-Schreibtools 2026: 8 Tools getestet und bewertet"
+description: "Wir haben die führenden KI-Schreibtools auf Qualität, Preis und Praxistauglichkeit getestet. Claude, ChatGPT, Jasper, Grammarly und mehr. Jedes Tool bewertet. Stand: November 2026."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "15 min read"
+readTime: "15 Min. Lesezeit"
 ---
 
-<h2>How We Tested</h2>
-<p>We gave each tool the same writing tasks: a 1,500-word blog post, a cold outreach email, a product description, a LinkedIn post, a creative short story, and a technical explanation. We scored on output quality, editing needed, tone control, and value per dollar. Updated for November 2026 with the latest models and pricing.</p>
+<h2>So haben wir getestet</h2>
+<p>Jedes Tool bekam dieselben Schreibaufgaben: einen 1.500-Wörter-Blogbeitrag, eine Kaltakquise-E-Mail, eine Produktbeschreibung, einen LinkedIn-Post, eine kreative Kurzgeschichte und eine technische Erklärung. Bewertet haben wir Ausgabequalität, nötigen Überarbeitungsaufwand, Tonkontrolle und Preis-Leistung. Aktualisiert für November 2026 mit den neuesten Modellen und Preisen.</p>
 
-<h2>Quick Comparison</h2>
+<h2>Kurzvergleich</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Grade</th><th>Best For</th><th>Price</th></tr>
+    <tr><th>#</th><th>Tool</th><th>Note</th><th>Am besten für</th><th>Preis</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Claude</td><td><strong>A</strong></td><td>Highest quality writing</td><td>$20/mo Pro</td></tr>
-    <tr><td>2</td><td>ChatGPT</td><td><strong>A</strong></td><td>Versatile writing + everything else</td><td>$20/mo Plus</td></tr>
-    <tr><td>3</td><td>Gemini</td><td><strong>B+</strong></td><td>Google users + research-backed writing</td><td>Free / $20/mo</td></tr>
-    <tr><td>4</td><td>Jasper AI</td><td><strong>B+</strong></td><td>Marketing teams + brand voice</td><td>$49/mo Creator</td></tr>
-    <tr><td>5</td><td>Grammarly</td><td><strong>B+</strong></td><td>Editing + polishing existing text</td><td>$12/mo Premium</td></tr>
-    <tr><td>6</td><td>Copy.ai</td><td><strong>B</strong></td><td>Short-form marketing copy</td><td>Free / $49/mo</td></tr>
-    <tr><td>7</td><td>Writesonic</td><td><strong>B</strong></td><td>Budget-friendly content at volume</td><td>Free / $20/mo</td></tr>
-    <tr><td>8</td><td>DeepSeek</td><td><strong>B</strong></td><td>Free writing assistant</td><td>Free (unlimited)</td></tr>
+    <tr><td>1</td><td>Claude</td><td><strong>A</strong></td><td>Höchste Schreibqualität</td><td>20 $/Monat Pro</td></tr>
+    <tr><td>2</td><td>ChatGPT</td><td><strong>A</strong></td><td>Vielseitiges Schreiben + alles andere</td><td>20 $/Monat Plus</td></tr>
+    <tr><td>3</td><td>Gemini</td><td><strong>B+</strong></td><td>Google-Nutzer + recherchegestütztes Schreiben</td><td>Kostenlos / 20 $/Monat</td></tr>
+    <tr><td>4</td><td>Jasper AI</td><td><strong>B+</strong></td><td>Marketing-Teams + Markensprache</td><td>49 $/Monat Creator</td></tr>
+    <tr><td>5</td><td>Grammarly</td><td><strong>B+</strong></td><td>Bearbeiten + Feinschliff bestehender Texte</td><td>12 $/Monat Premium</td></tr>
+    <tr><td>6</td><td>Copy.ai</td><td><strong>B</strong></td><td>Kurze Marketingtexte</td><td>Kostenlos / 49 $/Monat</td></tr>
+    <tr><td>7</td><td>Writesonic</td><td><strong>B</strong></td><td>Preisgünstige Inhalte in großer Menge</td><td>Kostenlos / 20 $/Monat</td></tr>
+    <tr><td>8</td><td>DeepSeek</td><td><strong>B</strong></td><td>Kostenloser Schreibassistent</td><td>Kostenlos (unbegrenzt)</td></tr>
   </tbody>
 </table>
 
-<h2>1. Claude — Grade: A — Best Writing Quality</h2>
-<p><strong>Average Score: 9.0/10 | Price: $20/month Pro</strong></p>
-<p>Claude Opus 5.5 produces the most natural, human-sounding text of any AI writer in November 2026. The blog post required minimal editing — natural pacing, varied sentence structure, no filler phrases, no "as an AI" disclaimers. The cold email sounded like a real person wrote it. The creative story had genuine style, not the flat, predictable prose other AI tools produce.</p>
-<p>Claude's 200K-token context window means it maintains consistency across very long pieces — write a 10,000-word report and the conclusion still references points from the introduction accurately. Projects and Artifacts let you organize writing work with persistent context across conversations.</p>
-<p><strong>Limitation:</strong> No image generation — you need ChatGPT or Canva alongside Claude for visual content. No built-in SEO tools — pair with Surfer SEO for optimization.</p>
-<p><strong>Best for:</strong> Professional writers, long-form content, reports, proposals, and any text where quality is judged by readers.</p>
+<h2>1. Claude – Note: A – Beste Schreibqualität</h2>
+<p><strong>Durchschnittswert: 9,0/10 | Preis: 20 $/Monat Pro</strong></p>
+<p>Claude Opus 5.5 erzeugt im November 2026 den natürlichsten, menschlichsten Text aller KI-Schreiber. Der Blogbeitrag brauchte kaum Überarbeitung – natürlicher Rhythmus, abwechslungsreicher Satzbau, keine Füllphrasen, keine „Als KI"-Hinweise. Die Kaltakquise-E-Mail klang, als hätte ein echter Mensch sie geschrieben. Die kreative Geschichte hatte echten Stil statt der flachen, vorhersehbaren Prosa anderer KI-Tools.</p>
+<p>Claudes Kontextfenster von 200K Token sorgt für Konsistenz über sehr lange Texte – schreiben Sie einen Bericht mit 10.000 Wörtern, und das Fazit bezieht sich noch korrekt auf Punkte aus der Einleitung. Mit Projects und Artifacts organisieren Sie Schreibarbeit mit dauerhaftem Kontext über mehrere Unterhaltungen hinweg.</p>
+<p><strong>Einschränkung:</strong> Keine Bildgenerierung – für visuelle Inhalte brauchen Sie neben Claude ChatGPT oder Canva. Keine integrierten SEO-Tools – kombinieren Sie es mit Surfer SEO zur Optimierung.</p>
+<p><strong>Am besten für:</strong> Professionelle Autoren, lange Texte, Berichte, Angebote und jeden Text, dessen Qualität Leser beurteilen.</p>
 
-<h2>2. ChatGPT — Grade: A — Most Versatile Writer</h2>
-<p><strong>Average Score: 8.5/10 | Price: $20/month Plus</strong></p>
-<p>ChatGPT with GPT-5.5 writes well — not quite Claude's level of naturalness, but strong enough for most professional use. The real advantage is versatility: write a blog post, generate images for it, create a social media carousel, draft the email to promote it, and analyze the engagement data — all in one tool. The "ChatGPT voice" — slightly generic, predictable phrasing — has improved significantly with GPT-5.5 but is still detectable by experienced readers.</p>
-<p>Custom GPTs let you build specialized writing assistants with specific instructions, tone guides, and reference material. For teams that create a high volume of content, this customization adds real value.</p>
-<p><strong>Best for:</strong> Content creators who need writing plus images, research, and data analysis in one subscription.</p>
+<h2>2. ChatGPT – Note: A – Vielseitigster Schreiber</h2>
+<p><strong>Durchschnittswert: 8,5/10 | Preis: 20 $/Monat Plus</strong></p>
+<p>ChatGPT mit GPT-5.5 schreibt gut – nicht ganz so natürlich wie Claude, aber stark genug für die meisten beruflichen Zwecke. Der eigentliche Vorteil ist die Vielseitigkeit: einen Blogbeitrag schreiben, Bilder dafür erzeugen, ein Social-Media-Karussell erstellen, die Bewerbungs-E-Mail entwerfen und die Engagement-Daten analysieren – alles in einem Tool. Die „ChatGPT-Stimme" – leicht generische, vorhersehbare Formulierungen – hat sich mit GPT-5.5 deutlich verbessert, ist für geübte Leser aber noch erkennbar.</p>
+<p>Mit Custom GPTs bauen Sie spezialisierte Schreibassistenten mit eigenen Anweisungen, Tonvorgaben und Referenzmaterial. Für Teams mit hohem Content-Volumen bringt diese Anpassung echten Mehrwert.</p>
+<p><strong>Am besten für:</strong> Content Creator, die Schreiben plus Bilder, Recherche und Datenanalyse in einem Abo brauchen.</p>
 
-<h2>3. Gemini — Grade: B+ — Best for Google Workspace Writers</h2>
-<p><strong>Average Score: 7.8/10 | Price: Free / $20/month Advanced</strong></p>
-<p>Gemini's writing quality is solid but sits below Claude and ChatGPT — the output tends toward informational, Wikipedia-style prose that is accurate but lacks personality. Where Gemini wins for writers is the Google integration: draft directly in Google Docs with AI assistance, pull information from your Drive, reference your emails, and search the web — all without leaving the Google ecosystem.</p>
-<p>The free tier is the most generous of any AI tool. For students and casual writers, Gemini Free provides strong writing assistance at zero cost.</p>
-<p><strong>Best for:</strong> Google Workspace users who want AI writing integrated into Docs, and students who need a capable free tool.</p>
+<h2>3. Gemini – Note: B+ – Am besten für Autoren in Google Workspace</h2>
+<p><strong>Durchschnittswert: 7,8/10 | Preis: Kostenlos / 20 $/Monat Advanced</strong></p>
+<p>Geminis Schreibqualität ist solide, liegt aber unter Claude und ChatGPT – die Texte neigen zu informativer, wikipediaartiger Prosa, die korrekt ist, aber Persönlichkeit vermissen lässt. Der Vorteil von Gemini für Autoren ist die Google-Integration: direkt in Google Docs mit KI-Unterstützung entwerfen, Informationen aus Ihrem Drive ziehen, auf Ihre E-Mails verweisen und im Web suchen – ohne das Google-Ökosystem zu verlassen.</p>
+<p>Der kostenlose Tarif ist der großzügigste aller KI-Tools. Für Studierende und Gelegenheitsschreiber bietet Gemini Free starke Schreibunterstützung ohne Kosten.</p>
+<p><strong>Am besten für:</strong> Google-Workspace-Nutzer, die KI-Schreiben in Docs integriert wollen, und Studierende, die ein leistungsfähiges Gratis-Tool brauchen.</p>
 
-<h2>4. Jasper AI — Grade: B+ — Best for Marketing Teams</h2>
-<p><strong>Average Score: 7.2/10 | Price: $49/month Creator, $125/month Pro</strong></p>
-<p>Jasper is built specifically for marketing content at scale. The killer feature remains Brand Voice — feed it your brand guidelines, tone of voice, and sample content, and Jasper maintains that voice across all outputs. Marketing templates (PAS frameworks, AIDA copy, Google Ads variations) save time on common formats. Campaign management creates an entire campaign from a single brief.</p>
-<p>Raw writing quality trails Claude and ChatGPT — functional but rarely compelling. The price ($49-125/month) is hard to justify unless you are a marketing team producing high volumes where brand consistency at scale is the priority.</p>
-<p><strong>Best for:</strong> Marketing teams, agencies, brands producing high-volume content that needs consistent voice.</p>
+<h2>4. Jasper AI – Note: B+ – Am besten für Marketing-Teams</h2>
+<p><strong>Durchschnittswert: 7,2/10 | Preis: 49 $/Monat Creator, 125 $/Monat Pro</strong></p>
+<p>Jasper ist speziell für Marketing-Content im großen Maßstab gebaut. Das Killer-Feature bleibt Brand Voice – füttern Sie es mit Ihren Markenrichtlinien, Ihrem Tonfall und Beispielinhalten, und Jasper hält diese Stimme in allen Ausgaben ein. Marketing-Vorlagen (PAS-Frameworks, AIDA-Texte, Google-Ads-Varianten) sparen bei gängigen Formaten Zeit. Das Kampagnenmanagement erstellt aus einem einzigen Briefing eine ganze Kampagne.</p>
+<p>Die reine Schreibqualität liegt hinter Claude und ChatGPT – funktional, aber selten mitreißend. Der Preis (49–125 $/Monat) ist schwer zu rechtfertigen, es sei denn, Sie sind ein Marketing-Team mit hohem Volumen, bei dem Markenkonsistenz im großen Maßstab Priorität hat.</p>
+<p><strong>Am besten für:</strong> Marketing-Teams, Agenturen und Marken, die große Mengen Content mit einheitlicher Stimme produzieren.</p>
 
-<h2>5. Grammarly — Grade: B+ — Best for Editing</h2>
-<p><strong>Average Score: 7.5/10 | Price: Free / $12/month Premium</strong></p>
-<p>Grammarly is not a content generator — it is a content improver. The distinction matters. While every other tool on this list creates text from scratch, Grammarly sits on top of your existing writing and makes it better: grammar, spelling, clarity, tone, and conciseness. The browser extension works in Gmail, Google Docs, Slack, LinkedIn — everywhere you write.</p>
-<p>The AI rewriting suggestions (Premium) are functional but behind Claude and ChatGPT in quality. Use Grammarly for polish, not for heavy rewriting. The ideal workflow: write with Claude or ChatGPT, then let Grammarly catch errors and refine tone.</p>
-<p><strong>Best for:</strong> Non-native English writers, professionals who write many emails, anyone who wants automatic error-catching across all platforms.</p>
+<h2>5. Grammarly – Note: B+ – Am besten zum Bearbeiten</h2>
+<p><strong>Durchschnittswert: 7,5/10 | Preis: Kostenlos / 12 $/Monat Premium</strong></p>
+<p>Grammarly ist kein Content-Generator, sondern ein Content-Verbesserer. Der Unterschied zählt. Während jedes andere Tool dieser Liste Text von Grund auf erzeugt, setzt Grammarly auf Ihrem vorhandenen Text auf und verbessert ihn: Grammatik, Rechtschreibung, Klarheit, Ton und Prägnanz. Die Browser-Erweiterung funktioniert in Gmail, Google Docs, Slack, LinkedIn – überall, wo Sie schreiben.</p>
+<p>Die KI-Umformulierungsvorschläge (Premium) sind brauchbar, liegen in der Qualität aber hinter Claude und ChatGPT. Nutzen Sie Grammarly für den Feinschliff, nicht für umfassendes Umschreiben. Der ideale Workflow: mit Claude oder ChatGPT schreiben und Grammarly Fehler abfangen und den Ton verfeinern lassen.</p>
+<p><strong>Am besten für:</strong> Nicht-Muttersprachler des Englischen, Berufstätige mit vielen E-Mails und alle, die automatische Fehlerkorrektur auf allen Plattformen wollen.</p>
 
-<h2>6. Copy.ai — Grade: B — Best for Short-Form Copy</h2>
-<p><strong>Average Score: 6.8/10 | Price: Free (2,000 words/month) / $49/month Pro</strong></p>
-<p>Copy.ai has pivoted from pure copywriting to workflow automation, but its core strength remains short-form marketing copy: social media captions, ad headlines, product descriptions, and email subject lines. The output is quick and serviceable for high-volume use. Long-form quality is inconsistent — fine for internal content, not ready for publication without significant editing.</p>
-<p><strong>Best for:</strong> Sales and marketing teams needing high volumes of short-form copy and email sequences.</p>
+<h2>6. Copy.ai – Note: B – Am besten für kurze Texte</h2>
+<p><strong>Durchschnittswert: 6,8/10 | Preis: Kostenlos (2.000 Wörter/Monat) / 49 $/Monat Pro</strong></p>
+<p>Copy.ai hat sich vom reinen Copywriting zur Workflow-Automatisierung gewandelt, doch die Kernstärke bleiben kurze Marketingtexte: Social-Media-Captions, Anzeigenüberschriften, Produktbeschreibungen und E-Mail-Betreffzeilen. Die Ausgabe ist schnell und für hohe Volumina brauchbar. Die Qualität bei langen Texten schwankt – in Ordnung für interne Inhalte, aber ohne erhebliche Überarbeitung nicht veröffentlichungsreif.</p>
+<p><strong>Am besten für:</strong> Vertriebs- und Marketing-Teams, die große Mengen kurzer Texte und E-Mail-Sequenzen brauchen.</p>
 
-<h2>7. Writesonic — Grade: B — Best Budget Option</h2>
-<p><strong>Average Score: 6.5/10 | Price: Free / $20/month Pro</strong></p>
-<p>Writesonic occupies the middle ground — more templates than raw ChatGPT at a lower price than Jasper. Writing quality is acceptable but rarely impressive. The SEO optimization features are basic but functional. At $20/month, it delivers reasonable value for budget-conscious marketers who need templated content production.</p>
-<p><strong>Best for:</strong> Budget-conscious marketers, high-volume blog content, users who want templates without Jasper's price tag.</p>
+<h2>7. Writesonic – Note: B – Beste Budget-Option</h2>
+<p><strong>Durchschnittswert: 6,5/10 | Preis: Kostenlos / 20 $/Monat Pro</strong></p>
+<p>Writesonic besetzt die Mitte – mehr Vorlagen als reines ChatGPT zu einem niedrigeren Preis als Jasper. Die Schreibqualität ist akzeptabel, aber selten beeindruckend. Die SEO-Optimierungsfunktionen sind einfach, aber brauchbar. Für 20 $/Monat bietet es ein vernünftiges Preis-Leistungs-Verhältnis für preisbewusste Marketer, die vorlagenbasierte Content-Produktion brauchen.</p>
+<p><strong>Am besten für:</strong> Preisbewusste Marketer, hochvolumige Blog-Inhalte und Nutzer, die Vorlagen ohne Jaspers Preisschild wollen.</p>
 
-<h2>8. DeepSeek — Grade: B — Best Free Writer</h2>
-<p><strong>Average Score: 6.5/10 | Price: Free (unlimited)</strong></p>
-<p>DeepSeek's writing is functional and free — a combination that makes it worth including. The output tends toward technical and informational rather than creative and engaging. For internal documents, first drafts, and situations where budget is the primary constraint, DeepSeek delivers surprising value at zero cost. Writing quality trails Claude and ChatGPT noticeably but is comparable to many paid tools.</p>
-<p><strong>Best for:</strong> Students, anyone on a tight budget, first drafts that will be heavily edited.</p>
+<h2>8. DeepSeek – Note: B – Bester kostenloser Schreiber</h2>
+<p><strong>Durchschnittswert: 6,5/10 | Preis: Kostenlos (unbegrenzt)</strong></p>
+<p>DeepSeeks Schreiben ist brauchbar und kostenlos – eine Kombination, die die Aufnahme in die Liste rechtfertigt. Die Ausgabe tendiert zu technisch und informativ statt kreativ und mitreißend. Für interne Dokumente, erste Entwürfe und Situationen, in denen das Budget die Hauptrolle spielt, bietet DeepSeek überraschend viel Nutzen ohne Kosten. Die Schreibqualität liegt spürbar hinter Claude und ChatGPT, ist aber mit vielen kostenpflichtigen Tools vergleichbar.</p>
+<p><strong>Am besten für:</strong> Studierende, alle mit knappem Budget und erste Entwürfe, die stark überarbeitet werden.</p>
 
 <h2>Fazit</h2>
-<p>For most people, <strong>Claude</strong> ($20/month) delivers the best writing quality per dollar. If you need writing plus images, research, and data analysis, <strong>ChatGPT</strong> ($20/month) is the more versatile choice. Specialized tools like <strong>Jasper</strong> only justify their premium if you need brand voice management at scale. <strong>Grammarly</strong> is a complement to any AI writer, not a replacement. And <strong>DeepSeek</strong> proves you can get 80% of the value for free.</p>
+<p>Für die meisten Menschen bietet <strong>Claude</strong> (20 $/Monat) die beste Schreibqualität pro Dollar. Wenn Sie Schreiben plus Bilder, Recherche und Datenanalyse brauchen, ist <strong>ChatGPT</strong> (20 $/Monat) die vielseitigere Wahl. Spezialisierte Tools wie <strong>Jasper</strong> rechtfertigen ihren Aufpreis nur, wenn Sie Markensprache im großen Maßstab verwalten müssen. <strong>Grammarly</strong> ist eine Ergänzung zu jedem KI-Schreiber, kein Ersatz. Und <strong>DeepSeek</strong> beweist, dass man 80 % des Nutzens kostenlos bekommen kann.</p>
 
-<h2>Häufig Gestellte Fragen</h2>
+<h2>FAQ</h2>
 
-<h3>Which AI writes the most like a human?</h3>
-<p><strong>Claude Opus 5.5</strong> — consistently the most natural, least detectable AI writing. ChatGPT GPT-5.5 is close but has a more recognizable "AI voice."</p>
+<h3>Welche KI schreibt am menschlichsten?</h3>
+<p><strong>Claude Opus 5.5</strong> – durchgehend das natürlichste, am schwersten erkennbare KI-Schreiben. ChatGPT mit GPT-5.5 kommt nah heran, hat aber eine erkennbarere „KI-Stimme".</p>
 
-<h3>Can I use AI writing for SEO content?</h3>
-<p>Yes, but quality matters. Google does not penalize AI content — it penalizes low-quality content. Use AI for first drafts, then add your expertise, unique data, and original insights. Pair with Surfer SEO for optimization.</p>
+<h3>Kann ich KI-Texte für SEO-Content nutzen?</h3>
+<p>Ja, aber Qualität zählt. Google bestraft KI-Inhalte nicht – es bestraft minderwertige Inhalte. Nutzen Sie KI für erste Entwürfe und ergänzen Sie dann Ihr Fachwissen, eigene Daten und originelle Erkenntnisse. Kombinieren Sie mit Surfer SEO zur Optimierung.</p>
 
-<h3>Is Claude or ChatGPT better for writing?</h3>
-<p>Claude for quality. ChatGPT for versatility. If the text needs to sound polished and human — Claude. If you also need images, data analysis, and web research — ChatGPT. Both cost $20/month.</p>
+<h3>Ist Claude oder ChatGPT besser zum Schreiben?</h3>
+<p>Claude für Qualität. ChatGPT für Vielseitigkeit. Wenn der Text ausgefeilt und menschlich klingen soll – Claude. Wenn Sie auch Bilder, Datenanalyse und Webrecherche brauchen – ChatGPT. Beide kosten 20 $/Monat.</p>
 
-<h3>Is Jasper worth $49/month?</h3>
-<p>Only for marketing teams producing high volumes of brand-consistent content. Solo creators and small businesses get 80% of the value from Claude or ChatGPT at less than half the price.</p>
+<h3>Lohnt sich Jasper für 49 $/Monat?</h3>
+<p>Nur für Marketing-Teams, die große Mengen markenkonsistenter Inhalte produzieren. Einzelne Creator und kleine Unternehmen bekommen mit Claude oder ChatGPT 80 % des Nutzens für weniger als die Hälfte des Preises.</p>
 
-<h3>What is the best free AI writing tool?</h3>
-<p><strong>DeepSeek</strong> — unlimited, no account required, functional writing. <strong>Google Gemini Free</strong> — most generous free tier of the major AI assistants. Both handle basic writing tasks well enough for free.</p>
+<h3>Was ist das beste kostenlose KI-Schreibtool?</h3>
+<p><strong>DeepSeek</strong> – unbegrenzt, ohne Konto, brauchbares Schreiben. <strong>Google Gemini Free</strong> – der großzügigste Gratis-Tarif unter den großen KI-Assistenten. Beide meistern einfache Schreibaufgaben für den Gratiseinsatz gut genug.</p>
 
-<p><em>Every tool was tested by AIGradeLab on identical writing tasks. Grades reflect writing quality specifically, not overall AI capability. Updated November 2026.</em></p>
+<p><em>Jedes Tool wurde von AIGradeLab mit identischen Schreibaufgaben getestet. Die Noten spiegeln speziell die Schreibqualität wider, nicht die allgemeine KI-Leistung. Stand: November 2026.</em></p>

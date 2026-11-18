@@ -1,11 +1,11 @@
 ---
-title: "مراجعة DeepSeek في 2026: مُختبر ومُقيَّم"
-description: "مراجعة شاملة لـ DeepSeek مع تقييم شفاف."
-category: "Graded Reviews"
+title: "مراجعة DeepSeek لعام 2026: الذكاء الاصطناعي المجاني الذي ينافس ChatGPT؟ تقييمنا"
+description: "اختبرنا DeepSeek V4 وR1 في البرمجة والاستدلال والمهام اليومية. إليك تقييمنا الصريح وكيف يقارَن بـ ChatGPT وClaude بتكلفة أقل بنسبة 95%. تحديث نوفمبر 2026."
+category: "مراجعات مُقيَّمة"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "11 min read"
+readTime: "وقت القراءة: 11 دقيقة"
 grade: "B+"
 scores_ux: 7.5
 scores_quality: 8.0
@@ -15,103 +15,103 @@ scores_support: 6.0
 toolName: "DeepSeek"
 ---
 
-<h2>What DeepSeek Does</h2>
-<p>DeepSeek is the Chinese AI lab that shook the industry. Its open-weight models deliver performance that rivals ChatGPT and Claude at a fraction of the cost — and the chat interface is completely free with no usage limits. DeepSeek V4, launched in early 2026, is a native multimodal model handling text, code, images, and audio. DeepSeek R1 is the reasoning specialist that competes with the best on complex logic and mathematical problems. Together, they represent the most cost-effective AI option available in November 2026.</p>
+<h2>ماذا يفعل DeepSeek</h2>
+<p>DeepSeek هو المختبر الصيني للذكاء الاصطناعي الذي هزّ الصناعة. تقدم نماذجه مفتوحة الأوزان أداءً ينافس ChatGPT وClaude بجزء بسيط من التكلفة — وواجهة الدردشة مجانية تمامًا دون حدود استخدام. DeepSeek V4، الذي أُطلق في أوائل 2026، نموذج متعدد الوسائط أصلي يتعامل مع النصوص والكود والصور والصوت. وDeepSeek R1 هو متخصص الاستدلال الذي ينافس الأفضل في المنطق المعقد والمسائل الرياضية. وهما معًا يمثلان خيار الذكاء الاصطناعي الأكثر فعالية من حيث التكلفة المتاح في نوفمبر 2026.</p>
 
-<h2>What We Tested</h2>
-<p>We used DeepSeek daily for four weeks: coding tasks (Python, JavaScript, debugging), complex reasoning problems, writing and summarization, research queries, and mathematical analysis. We compared outputs directly against ChatGPT (GPT-5.5) and Claude (Opus 5.5) on identical prompts.</p>
+<h2>ما اختبرناه</h2>
+<p>استخدمنا DeepSeek يوميًا لمدة أربعة أسابيع: مهام البرمجة (Python وJavaScript وتصحيح الأخطاء) ومسائل الاستدلال المعقد والكتابة والتلخيص واستفسارات البحث والتحليل الرياضي. وقارنّا المخرجات مباشرةً بـ ChatGPT (GPT-5.5) وClaude (Opus 5.5) على أوامر متطابقة.</p>
 
-<h2>Why DeepSeek Matters</h2>
-<p>The pricing tells the story. While ChatGPT Plus and Claude Pro cost $20/month each, DeepSeek's chat interface is free — unlimited conversations, no daily caps, no throttling. The API is equally aggressive: V4 Flash starts at $0.14 per million input tokens, roughly 95% cheaper than GPT-5.5. DeepSeek proved that frontier-level AI does not require frontier-level pricing, and that has forced the entire industry to rethink margins.</p>
+<h2>لماذا يهم DeepSeek</h2>
+<p>التسعير يحكي القصة. فبينما يكلّف ChatGPT Plus وClaude Pro $20/شهر لكل منهما، فإن واجهة دردشة DeepSeek مجانية — محادثات غير محدودة ولا سقف يومي ولا تقييد. وواجهة API بالجرأة نفسها: يبدأ V4 Flash من $0.14 لكل مليون رمز إدخال، أرخص بنحو 95% من GPT-5.5. أثبت DeepSeek أن الذكاء الاصطناعي بمستوى الريادة لا يتطلب تسعيرًا بمستوى الريادة، وقد أجبر ذلك الصناعة كلها على إعادة التفكير في هوامش الربح.</p>
 
-<h2>What Works Well</h2>
+<h2>ما ينجح جيدًا</h2>
 <ul>
-  <li><strong>Coding — punches above its weight:</strong> DeepSeek V4 is genuinely strong at code generation, debugging, and technical reasoning. In our testing, it produced correct, well-structured code on roughly 80% of tasks — close to Claude's 90% and ahead of many paid alternatives. For developers working on standard programming tasks, DeepSeek delivers 90% of the value at 5% of the cost.</li>
-  <li><strong>Reasoning with R1:</strong> DeepSeek R1 is a dedicated reasoning model that shows its chain-of-thought process. On mathematical problems, logic puzzles, and structured analysis, R1 competes with the best reasoning models available. The thinking process is transparent — you can see how it reaches its conclusions, which builds trust in the output.</li>
-  <li><strong>Completely free chat:</strong> No account required to start. No usage limits on the free tier. No features locked behind paywalls. This makes DeepSeek the most accessible AI tool on the planet — anyone with internet access gets frontier-level AI for free.</li>
-  <li><strong>Open-weight models:</strong> DeepSeek releases its models under permissive licenses (MIT-style). You can download them, run them locally, fine-tune them for your specific use case, and deploy them in production without licensing fees. This has made DeepSeek the foundation for thousands of AI applications built by other developers.</li>
-  <li><strong>API pricing that undercuts everyone:</strong> V4 Flash at $0.14/M input tokens and $0.28/M output tokens. For businesses building AI-powered products, DeepSeek's API can reduce AI costs by 60-95% compared to OpenAI or Anthropic. At scale, this is the difference between a viable business model and an unsustainable one.</li>
+  <li><strong>البرمجة — يتفوق على وزنه:</strong> DeepSeek V4 قوي فعلًا في توليد الكود وتصحيح الأخطاء والاستدلال التقني. وفي اختبارنا، أنتج كودًا صحيحًا ومنظمًا جيدًا في نحو 80% من المهام — قريبًا من 90% لـ Claude ومتقدمًا على كثير من البدائل المدفوعة. وللمطورين العاملين على مهام برمجية قياسية، يقدم DeepSeek 90% من القيمة بـ 5% من التكلفة.</li>
+  <li><strong>الاستدلال مع R1:</strong> DeepSeek R1 نموذج استدلال مخصص يعرض عملية تسلسل أفكاره. وفي المسائل الرياضية والألغاز المنطقية والتحليل المنظم، ينافس R1 أفضل نماذج الاستدلال المتاحة. عملية التفكير شفافة — ترى كيف يصل إلى استنتاجاته، مما يبني الثقة في المخرجات.</li>
+  <li><strong>دردشة مجانية تمامًا:</strong> لا حاجة إلى حساب للبدء. ولا حدود استخدام في الباقة المجانية. ولا ميزات مقفلة خلف جدران الدفع. وهذا يجعل DeepSeek أسهل أدوات الذكاء الاصطناعي وصولًا على الكوكب — كل من لديه اتصال بالإنترنت يحصل على ذكاء اصطناعي بمستوى الريادة مجانًا.</li>
+  <li><strong>نماذج مفتوحة الأوزان:</strong> تصدر DeepSeek نماذجها بتراخيص متساهلة (على نمط MIT). يمكنك تنزيلها وتشغيلها محليًا وضبطها لحالة استخدامك المحددة ونشرها في الإنتاج دون رسوم ترخيص. وقد جعل هذا DeepSeek أساسًا لآلاف تطبيقات الذكاء الاصطناعي التي بناها مطورون آخرون.</li>
+  <li><strong>تسعير API يقل عن الجميع:</strong> V4 Flash بسعر $0.14/مليون رمز إدخال و$0.28/مليون رمز إخراج. وللشركات التي تبني منتجات مدعومة بالذكاء الاصطناعي، يمكن لواجهة API من DeepSeek خفض تكاليف الذكاء الاصطناعي بنسبة 60-95% مقارنةً بـ OpenAI أو Anthropic. وعلى نطاق واسع، هذا هو الفرق بين نموذج أعمال قابل للاستمرار وآخر غير مستدام.</li>
 </ul>
 
-<h2>What Falls Short</h2>
+<h2>ما يقصّر فيه</h2>
 <ul>
-  <li><strong>Writing quality trails the leaders:</strong> For creative writing, marketing copy, and professional communications, DeepSeek's output is functional but clearly behind Claude and ChatGPT. The text tends toward a more technical, informational style. For emails and reports that need to sound natural and polished, the gap is noticeable.</li>
-  <li><strong>Content censorship:</strong> As a Chinese AI lab, DeepSeek applies content restrictions around politically sensitive topics, particularly related to China, Taiwan, and certain historical events. For most users this never comes up, but researchers and journalists should be aware of the limitation.</li>
-  <li><strong>Privacy concerns:</strong> User data is processed on servers in China, subject to Chinese data regulations. For personal conversations and general use, this may not matter. For businesses handling sensitive data, proprietary information, or regulated industries, this is a serious consideration. The open-weight models running locally eliminate this concern entirely.</li>
-  <li><strong>No ecosystem:</strong> DeepSeek is a model, not a platform. No plugin store, no image generation, no video, no voice mode, no integrations with productivity tools. Compared to ChatGPT's full ecosystem or Gemini's Google Workspace integration, the experience is bare-bones — a chat box and nothing else.</li>
-  <li><strong>Multimodal gaps:</strong> While V4 is technically multimodal, the image and audio capabilities are basic compared to ChatGPT's Images 2.6 or Gemini's Nano Banana Pro. Image understanding works but image generation does not match the leaders.</li>
-  <li><strong>Support and documentation:</strong> Community-driven support with limited official documentation in English. If you hit an issue, Stack Overflow and GitHub discussions are your best resources. No enterprise support team, no SLA, no dedicated account management.</li>
+  <li><strong>جودة الكتابة أدنى من الرواد:</strong> في الكتابة الإبداعية والنصوص التسويقية والمراسلات المهنية، مخرجات DeepSeek وظيفية لكنها متأخرة بوضوح عن Claude وChatGPT. يميل النص إلى أسلوب أكثر تقنية ومعلوماتية. وللرسائل والتقارير التي يجب أن تبدو طبيعية ومصقولة، الفجوة ملحوظة.</li>
+  <li><strong>رقابة المحتوى:</strong> بصفته مختبر ذكاء اصطناعي صينيًا، يطبق DeepSeek قيودًا على المحتوى بشأن الموضوعات الحساسة سياسيًا، خاصة المتعلقة بالصين وتايوان وأحداث تاريخية معينة. ولمعظم المستخدمين لا يظهر هذا أبدًا، لكن ينبغي للباحثين والصحفيين الانتباه إلى هذا القيد.</li>
+  <li><strong>مخاوف الخصوصية:</strong> تُعالَج بيانات المستخدمين على خوادم في الصين، وتخضع للوائح البيانات الصينية. وللمحادثات الشخصية والاستخدام العام، قد لا يهم ذلك. أما للشركات التي تتعامل مع بيانات حساسة أو معلومات ملكية أو قطاعات منظَّمة، فهو اعتبار جدي. وتزيل النماذج مفتوحة الأوزان العاملة محليًا هذا القلق تمامًا.</li>
+  <li><strong>لا منظومة:</strong> DeepSeek نموذج لا منصة. لا متجر إضافات ولا توليد صور ولا فيديو ولا وضع صوتي ولا تكاملات مع أدوات الإنتاجية. وبالمقارنة مع منظومة ChatGPT الكاملة أو تكامل Gemini مع Google Workspace، التجربة مجردة — مربع دردشة ولا شيء آخر.</li>
+  <li><strong>فجوات الوسائط المتعددة:</strong> رغم أن V4 متعدد الوسائط تقنيًا، فإن قدرات الصور والصوت أساسية مقارنةً بـ Images 2.6 في ChatGPT أو Nano Banana Pro في Gemini. فهم الصور يعمل لكن توليد الصور لا يضاهي الرواد.</li>
+  <li><strong>الدعم والتوثيق:</strong> دعم يقوده المجتمع مع توثيق رسمي محدود بالإنجليزية. وإذا واجهت مشكلة، فإن Stack Overflow ومناقشات GitHub هي أفضل مواردك. لا فريق دعم مؤسسي ولا اتفاقية مستوى خدمة (SLA) ولا إدارة حساب مخصصة.</li>
 </ul>
 
-<h2>DeepSeek vs ChatGPT vs Claude</h2>
+<h2>DeepSeek مقابل ChatGPT مقابل Claude</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>DeepSeek</th><th>ChatGPT</th><th>Claude</th></tr>
+    <tr><th>الميزة</th><th>DeepSeek</th><th>ChatGPT</th><th>Claude</th></tr>
   </thead>
   <tbody>
-    <tr><td>Price</td><td><strong>Free</strong></td><td>$20/mo Plus</td><td>$20/mo Pro</td></tr>
-    <tr><td>API cost (per 1M input tokens)</td><td><strong>$0.14</strong></td><td>~$2.50</td><td>~$3.00</td></tr>
-    <tr><td>Writing quality</td><td>Good</td><td>Strong</td><td><strong>Best</strong></td></tr>
-    <tr><td>Coding</td><td>Strong</td><td>Strong</td><td><strong>Best</strong></td></tr>
-    <tr><td>Reasoning</td><td>Strong (R1)</td><td>Good</td><td><strong>Best</strong></td></tr>
-    <tr><td>Image generation</td><td>No</td><td><strong>Yes (Images 2.6)</strong></td><td>No</td></tr>
-    <tr><td>Ecosystem</td><td>Minimal</td><td><strong>Full (plugins, GPTs, Sora)</strong></td><td>Growing (MCP, Projects)</td></tr>
-    <tr><td>Open-weight</td><td><strong>Yes (MIT license)</strong></td><td>No</td><td>No</td></tr>
-    <tr><td>Privacy</td><td>China-based servers</td><td>US-based</td><td>US-based</td></tr>
-    <tr><td>Free tier</td><td><strong>Unlimited</strong></td><td>Limited</td><td>Limited</td></tr>
+    <tr><td>السعر</td><td><strong>مجاني</strong></td><td>$20/شهر Plus</td><td>$20/شهر Pro</td></tr>
+    <tr><td>تكلفة API (لكل مليون رمز إدخال)</td><td><strong>$0.14</strong></td><td>~$2.50</td><td>~$3.00</td></tr>
+    <tr><td>جودة الكتابة</td><td>جيدة</td><td>قوية</td><td><strong>الأفضل</strong></td></tr>
+    <tr><td>البرمجة</td><td>قوية</td><td>قوية</td><td><strong>الأفضل</strong></td></tr>
+    <tr><td>الاستدلال</td><td>قوي (R1)</td><td>جيد</td><td><strong>الأفضل</strong></td></tr>
+    <tr><td>توليد الصور</td><td>لا</td><td><strong>نعم (Images 2.6)</strong></td><td>لا</td></tr>
+    <tr><td>المنظومة</td><td>ضئيلة</td><td><strong>كاملة (إضافات وGPTs وSora)</strong></td><td>متنامية (MCP وProjects)</td></tr>
+    <tr><td>مفتوح الأوزان</td><td><strong>نعم (رخصة MIT)</strong></td><td>لا</td><td>لا</td></tr>
+    <tr><td>الخصوصية</td><td>خوادم في الصين</td><td>مقرها الولايات المتحدة</td><td>مقرها الولايات المتحدة</td></tr>
+    <tr><td>باقة مجانية</td><td><strong>غير محدودة</strong></td><td>محدودة</td><td>محدودة</td></tr>
   </tbody>
 </table>
 
-<h2>Pricing: November 2026</h2>
+<h2>التسعير: نوفمبر 2026</h2>
 <table>
   <thead>
-    <tr><th>Product</th><th>Price</th><th>Details</th></tr>
+    <tr><th>المنتج</th><th>السعر</th><th>التفاصيل</th></tr>
   </thead>
   <tbody>
-    <tr><td>Chat (web/app)</td><td><strong>Free</strong></td><td>Unlimited conversations, no account required</td></tr>
-    <tr><td>V4 Flash API (input)</td><td>$0.14/M tokens</td><td>Cache hit: $0.014/M</td></tr>
-    <tr><td>V4 Flash API (output)</td><td>$0.28/M tokens</td><td>Cheapest frontier-class API</td></tr>
-    <tr><td>R1 API</td><td>Higher than V4</td><td>Reasoning specialist model</td></tr>
+    <tr><td>الدردشة (ويب/تطبيق)</td><td><strong>مجاني</strong></td><td>محادثات غير محدودة، دون حاجة إلى حساب</td></tr>
+    <tr><td>V4 Flash API (إدخال)</td><td>$0.14/مليون رمز</td><td>إصابة الذاكرة المؤقتة: $0.014/مليون</td></tr>
+    <tr><td>V4 Flash API (إخراج)</td><td>$0.28/مليون رمز</td><td>أرخص API من فئة الريادة</td></tr>
+    <tr><td>R1 API</td><td>أعلى من V4</td><td>نموذج متخصص في الاستدلال</td></tr>
   </tbody>
 </table>
-<p>The value proposition is stark: ChatGPT costs $20/month. Claude costs $20/month. DeepSeek costs $0. The quality gap is real but narrower than the price gap suggests.</p>
+<p>عرض القيمة صارخ: ChatGPT يكلّف $20/شهر. وClaude يكلّف $20/شهر. وDeepSeek يكلّف $0. فجوة الجودة حقيقية لكنها أضيق مما توحي به فجوة السعر.</p>
 
-<h2>Who Should Use DeepSeek</h2>
+<h2>من ينبغي أن يستخدم DeepSeek</h2>
 <ul>
-  <li><strong>Budget-conscious users:</strong> If $20/month for ChatGPT or Claude is a barrier, DeepSeek gives you 80% of the capability for free.</li>
-  <li><strong>Developers building AI products:</strong> The API pricing makes AI-powered features financially viable for startups and small projects. At $0.14/M tokens, you can build and scale without burning cash on API costs.</li>
-  <li><strong>Students and learners:</strong> Unlimited free access with no daily caps makes DeepSeek ideal for learning, homework help, and exploration.</li>
-  <li><strong>Open-source enthusiasts:</strong> Run the model locally for complete privacy and zero cost. Fine-tune it for your specific domain.</li>
-  <li><strong>Technical users who value reasoning:</strong> R1's chain-of-thought reasoning is genuinely useful for math, logic, and structured analysis.</li>
+  <li><strong>المستخدمون المهتمون بالميزانية:</strong> إذا كان مبلغ $20/شهر لـ ChatGPT أو Claude عائقًا، فإن DeepSeek يمنحك 80% من القدرات مجانًا.</li>
+  <li><strong>المطورون الذين يبنون منتجات ذكاء اصطناعي:</strong> يجعل تسعير API الميزات المدعومة بالذكاء الاصطناعي ممكنة ماليًا للشركات الناشئة والمشاريع الصغيرة. وبسعر $0.14/مليون رمز، تستطيع البناء والتوسع دون حرق النقد على تكاليف API.</li>
+  <li><strong>الطلاب والمتعلمون:</strong> يجعل الوصول المجاني غير المحدود دون سقف يومي DeepSeek مثاليًا للتعلم والمساعدة في الواجبات والاستكشاف.</li>
+  <li><strong>عشاق المصدر المفتوح:</strong> شغّل النموذج محليًا لخصوصية كاملة وتكلفة صفرية. واضبطه لمجالك المحدد.</li>
+  <li><strong>المستخدمون التقنيون الذين يقدّرون الاستدلال:</strong> استدلال سلسلة الأفكار في R1 مفيد فعلًا للرياضيات والمنطق والتحليل المنظم.</li>
 </ul>
 
-<h2>Who Should Not Use DeepSeek</h2>
+<h2>من لا ينبغي أن يستخدم DeepSeek</h2>
 <ul>
-  <li><strong>Users handling sensitive data:</strong> If privacy and data residency matter — legal, medical, financial, government — the China-based servers are a non-starter unless you run the open-weight models locally.</li>
-  <li><strong>Professional writers:</strong> The writing quality does not match Claude or ChatGPT for polished, client-facing content. Use DeepSeek for drafts and internal work, not for final deliverables.</li>
-  <li><strong>Users who need an ecosystem:</strong> No images, no plugins, no integrations. If you need more than a chat box, ChatGPT is the better choice.</li>
+  <li><strong>المستخدمون الذين يتعاملون مع بيانات حساسة:</strong> إذا كانت الخصوصية وإقامة البيانات مهمة — القانون والطب والمالية والحكومة — فإن الخوادم الموجودة في الصين غير مقبولة ما لم تشغّل النماذج مفتوحة الأوزان محليًا.</li>
+  <li><strong>الكتّاب المحترفون:</strong> جودة الكتابة لا تضاهي Claude أو ChatGPT للمحتوى المصقول الموجَّه للعملاء. استخدم DeepSeek للمسودات والأعمال الداخلية، لا للمخرجات النهائية.</li>
+  <li><strong>المستخدمون الذين يحتاجون إلى منظومة:</strong> لا صور ولا إضافات ولا تكاملات. إذا كنت تحتاج إلى أكثر من مربع دردشة، فـ ChatGPT هو الخيار الأفضل.</li>
 </ul>
 
-<h2>The Verdict</h2>
-<p>DeepSeek earns a <strong>B+</strong> because it delivers remarkable AI capability at a price — free — that makes it impossible to ignore. The coding and reasoning performance genuinely competes with tools that cost $20/month. The open-weight models have become infrastructure that thousands of businesses build on. DeepSeek proved that world-class AI does not have to be expensive.</p>
-<p>The grade is held back from A by the writing quality gap, the privacy concerns around China-based data processing, the bare-bones user experience with no ecosystem, and the content censorship on sensitive topics. These are real limitations that matter for professional use.</p>
-<p>The bottom line: try DeepSeek first — it is free. If the quality meets your needs, you just saved $240/year. If you hit the quality ceiling on writing or need image generation, upgrade to ChatGPT or Claude. Many power users keep DeepSeek for quick coding questions and R1 for math, while paying for Claude or ChatGPT for polished output.</p>
+<h2>الحكم</h2>
+<p>ينال DeepSeek تقييم <strong>B+</strong> لأنه يقدم قدرة ذكاء اصطناعي لافتة بسعر — مجاني — يجعل تجاهله مستحيلًا. أداء البرمجة والاستدلال ينافس فعلًا أدوات تكلّف $20/شهر. وأصبحت النماذج مفتوحة الأوزان بنية تحتية يبني عليها آلاف الشركات. أثبت DeepSeek أن الذكاء الاصطناعي بمستوى عالمي لا يجب أن يكون باهظًا.</p>
+<p>يُحجَب التقييم عن A بسبب فجوة جودة الكتابة ومخاوف الخصوصية حول معالجة البيانات في الصين وتجربة المستخدم المجردة دون منظومة ورقابة المحتوى في الموضوعات الحساسة. وهذه قيود حقيقية مهمة للاستخدام المهني.</p>
+<p>الخلاصة: جرّب DeepSeek أولًا — فهو مجاني. وإذا لبّت الجودة احتياجاتك، فقد وفّرت للتو $240 سنويًا. وإذا بلغت سقف الجودة في الكتابة أو احتجت إلى توليد الصور، فارقِّ إلى ChatGPT أو Claude. ويحتفظ كثير من المستخدمين المتمرسين بـ DeepSeek لأسئلة البرمجة السريعة وR1 للرياضيات، مع الدفع مقابل Claude أو ChatGPT للمخرجات المصقولة.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is DeepSeek really free?</h3>
-<p>Yes. The web chat interface at chat.deepseek.com is completely free with unlimited conversations. No account required to start. The API has usage-based pricing starting at $0.14 per million tokens.</p>
+<h3>هل DeepSeek مجاني حقًا؟</h3>
+<p>نعم. واجهة الدردشة على الويب في chat.deepseek.com مجانية تمامًا بمحادثات غير محدودة. دون حاجة إلى حساب للبدء. أما API فتسعيرها قائم على الاستخدام بدءًا من $0.14 لكل مليون رمز.</p>
 
-<h3>Is DeepSeek safe to use?</h3>
-<p>For general conversations, coding help, and learning — yes. For sensitive business data, regulated industries, or topics requiring uncensored discussion — consider privacy implications of China-based data processing. Running the open-weight models locally eliminates privacy concerns entirely.</p>
+<h3>هل DeepSeek آمن للاستخدام؟</h3>
+<p>للمحادثات العامة ومساعدة البرمجة والتعلم — نعم. أما لبيانات الأعمال الحساسة أو القطاعات المنظَّمة أو الموضوعات التي تتطلب نقاشًا غير خاضع للرقابة — فضع في اعتبارك آثار الخصوصية لمعالجة البيانات في الصين. وتشغيل النماذج مفتوحة الأوزان محليًا يزيل مخاوف الخصوصية تمامًا.</p>
 
-<h3>Is DeepSeek as good as ChatGPT?</h3>
-<p>For coding and reasoning tasks, it is close — roughly 80-90% of ChatGPT's quality. For writing, ecosystem features, and multimodal capabilities (images, video, voice), ChatGPT is significantly ahead. The question is whether the quality difference is worth $20/month to you.</p>
+<h3>هل DeepSeek بجودة ChatGPT؟</h3>
+<p>في مهام البرمجة والاستدلال، هو قريب — نحو 80-90% من جودة ChatGPT. أما في الكتابة وميزات المنظومة والقدرات متعددة الوسائط (الصور والفيديو والصوت)، فإن ChatGPT متقدم بشكل كبير. والسؤال هو ما إذا كان فرق الجودة يستحق $20/شهر بالنسبة لك.</p>
 
-<h3>Can I run DeepSeek locally?</h3>
-<p>Yes. DeepSeek's models are released under permissive open-weight licenses. You can download and run them on your own hardware for complete privacy and zero ongoing cost. Requires a capable GPU for reasonable performance.</p>
+<h3>هل يمكنني تشغيل DeepSeek محليًا؟</h3>
+<p>نعم. تُصدر نماذج DeepSeek بتراخيص أوزان مفتوحة متساهلة. يمكنك تنزيلها وتشغيلها على أجهزتك لخصوصية كاملة وبلا تكلفة مستمرة. ويتطلب وحدة معالجة رسومية قادرة لأداء معقول.</p>
 
-<h3>What is DeepSeek R1?</h3>
-<p>R1 is DeepSeek's reasoning specialist model. It shows its chain-of-thought process and excels at mathematical problems, logic, and structured analysis. It complements V4, which is the general-purpose model.</p>
+<h3>ما هو DeepSeek R1؟</h3>
+<p>R1 هو نموذج DeepSeek المتخصص في الاستدلال. يعرض عملية تسلسل أفكاره ويتفوق في المسائل الرياضية والمنطق والتحليل المنظم. ويكمّل V4، وهو النموذج متعدد الأغراض.</p>
 
-<p><em>DeepSeek was tested by AIGradeLab over four weeks of daily use. Grade reflects the free chat experience as of November 2026. API pricing verified on api-docs.deepseek.com on November 14, 2026.</em></p>
+<p><em>اختبر AIGradeLab DeepSeek على مدى أربعة أسابيع من الاستخدام اليومي. يعكس التقييم تجربة الدردشة المجانية حتى نوفمبر 2026. أسعار API تم التحقق منها على api-docs.deepseek.com في 14 نوفمبر 2026.</em></p>

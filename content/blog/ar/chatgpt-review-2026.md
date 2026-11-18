@@ -1,11 +1,11 @@
 ---
-title: "مراجعة ChatGPT في 2026: أداة الذكاء الاصطناعي الأكثر شعبية مُقيَّمة"
-description: "مراجعة شاملة لـ ChatGPT مع تقييم شفاف."
-category: "Graded Reviews"
+title: "مراجعة ChatGPT لعام 2026: أشهر ذكاء اصطناعي في العالم — مُختبَر ومُقيَّم"
+description: "اختبرنا ChatGPT في الكتابة والبرمجة والبحث والصور والصوت والفيديو. مراجعة كاملة بالدرجات. هل ما زال أفضل ذكاء اصطناعي في 2026؟ تحديث نوفمبر 2026."
+category: "مراجعات مُقيَّمة"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 min read"
+readTime: "وقت القراءة: 14 دقيقة"
 grade: "A"
 scores_ux: 9.2
 scores_quality: 8.5
@@ -15,150 +15,150 @@ scores_support: 8.0
 toolName: "ChatGPT"
 ---
 
-<h2>ChatGPT in 2026: The AI That Does Everything</h2>
-<p>ChatGPT is the most popular AI tool in the world — and for good reason. No other single AI assistant combines text generation, image creation, video generation, voice conversation, code execution, file analysis, web browsing, and a custom GPT ecosystem in one platform. It's the Swiss Army knife of AI: not always the absolute best at any one thing, but the most versatile tool available.</p>
-<p>With 200+ million weekly users, ChatGPT has become the default AI assistant for everyone from students to CEOs. But in 2026, Claude and Gemini have caught up in specific areas. Is ChatGPT still the one to beat? We tested every major feature.</p>
+<h2>ChatGPT في 2026: الذكاء الاصطناعي الذي يفعل كل شيء</h2>
+<p>ChatGPT هو أشهر أداة ذكاء اصطناعي في العالم — ولسبب وجيه. لا يجمع أي مساعد ذكاء اصطناعي آخر بين توليد النصوص وإنشاء الصور وتوليد الفيديو والمحادثة الصوتية وتنفيذ الكود وتحليل الملفات وتصفح الويب ومنظومة GPTs المخصصة في منصة واحدة. إنه السكين السويسري للذكاء الاصطناعي: ليس الأفضل المطلق في أي أمر بعينه دائمًا، لكنه الأداة الأكثر تنوعًا المتاحة.</p>
+<p>مع أكثر من 200 مليون مستخدم أسبوعيًا، أصبح ChatGPT مساعد الذكاء الاصطناعي الافتراضي للجميع من الطلاب إلى الرؤساء التنفيذيين. لكن في 2026 لحق Claude وGemini به في مجالات محددة. هل ما زال ChatGPT هو المنافس الذي يجب التفوق عليه؟ اختبرنا كل ميزة رئيسية.</p>
 
-<h2>ChatGPT Scores</h2>
-<div class="score-card"><h3>Overall Grade: A</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+<h2>تقييمات ChatGPT</h2>
+<div class="score-card"><h3>التقييم العام: A</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
-<h2>Everything ChatGPT Can Do in 2026</h2>
+<h2>كل ما يستطيع ChatGPT فعله في 2026</h2>
 
-<h3>Text Generation — The Core</h3>
-<p>ChatGPT's bread and butter remains strong. GPT-4o produces coherent, helpful, and creative text across every use case — emails, essays, blog posts, marketing copy, stories, scripts, summaries, translations, and more. The writing is clear and versatile, though Claude edges it out for nuanced analysis and careful reasoning. For everyday writing tasks, ChatGPT is fast, reliable, and good enough for most needs.</p>
+<h3>توليد النصوص — الأساس</h3>
+<p>ما زال خبز ChatGPT وزبدته قويًا. ينتج GPT-4o نصوصًا متماسكة ومفيدة وإبداعية في كل حالات الاستخدام — رسائل ومقالات وتدوينات ونصوص تسويقية وقصص وسيناريوهات وملخصات وترجمات وغيرها. الكتابة واضحة ومتعددة الاستخدامات، رغم أن Claude يتفوق عليه في التحليل الدقيق والاستدلال الحريص. وللمهام الكتابية اليومية، ChatGPT سريع وموثوق وجيد بما يكفي لمعظم الاحتياجات.</p>
 
-<h3>GPT Image — Best AI Image Generation</h3>
-<p>GPT Image has become the most popular AI image generator in 2026 — and deservedly so. Generate photorealistic images, illustrations, logos, product mockups, social media visuals, and artwork from text descriptions. The quality is impressive, the style range is vast, and the integration into ChatGPT's conversation means you can iterate on images naturally: "Make the background darker," "Add a person on the left," "Change it to a watercolor style."</p>
-<p>For most users, GPT Image has replaced the need for Midjourney or DALL-E as a separate tool. It's not quite Midjourney-level for fine art and photography, but for practical business and creative use, it's more than enough.</p>
+<h3>GPT Image — أفضل توليد صور بالذكاء الاصطناعي</h3>
+<p>أصبح GPT Image أشهر مولّد صور بالذكاء الاصطناعي في 2026 — وعن جدارة. ولّد صورًا واقعية ورسومات توضيحية وشعارات ونماذج منتجات ومرئيات لوسائل التواصل الاجتماعي وأعمالًا فنية من أوصاف نصية. الجودة مبهرة ونطاق الأساليب واسع، وتكامله في محادثة ChatGPT يعني أنك تستطيع تكرار الصور بشكل طبيعي: «اجعل الخلفية أغمق»، «أضف شخصًا على اليسار»، «حوّلها إلى أسلوب الألوان المائية».</p>
+<p>لمعظم المستخدمين، أغنى GPT Image عن Midjourney أو DALL-E كأداة منفصلة. ليس بمستوى Midjourney تمامًا للفن الراقي والتصوير الفوتوغرافي، لكنه للاستخدام العملي في الأعمال والإبداع أكثر من كافٍ.</p>
 
-<h3>Sora — AI Video Generation</h3>
-<p>ChatGPT Plus subscribers get access to Sora, OpenAI's AI video generator. Describe a scene and Sora creates video clips. The quality can be stunning, though consistency varies. For ChatGPT users, this means text, images, AND video generation in one subscription. Read our full <a href="/ar/blog/sora-review-2026">Sora Review</a> for details.</p>
+<h3>Sora — توليد الفيديو بالذكاء الاصطناعي</h3>
+<p>يحصل مشتركو ChatGPT Plus على Sora، مولّد الفيديو بالذكاء الاصطناعي من OpenAI. صِف مشهدًا وسينشئ Sora مقاطع فيديو. يمكن أن تكون الجودة مذهلة، رغم أن الاتساق يتفاوت. ولمستخدمي ChatGPT، هذا يعني توليد النصوص والصور والفيديو في اشتراك واحد. اقرأ <a href="/ar/blog/sora-review-2026">مراجعة Sora</a> الكاملة لمعرفة التفاصيل.</p>
 
-<h3>Voice Mode — Conversational AI</h3>
-<p>ChatGPT's Advanced Voice Mode turns it into a real-time conversation partner. Natural speech, emotional range, multiple voice options, and the ability to interrupt and redirect mid-sentence. Use cases that work brilliantly: language practice, brainstorming out loud while driving, interview prep, and accessibility for users who prefer speaking to typing. The voice feels natural — not robotic.</p>
+<h3>الوضع الصوتي — ذكاء اصطناعي محادثي</h3>
+<p>يحوّل الوضع الصوتي المتقدم في ChatGPT الأداة إلى شريك محادثة فوري. كلام طبيعي ونطاق عاطفي وخيارات أصوات متعددة والقدرة على المقاطعة وتغيير الاتجاه في منتصف الجملة. حالات الاستخدام التي تنجح ببراعة: ممارسة اللغات والعصف الذهني بصوت عالٍ أثناء القيادة والتحضير للمقابلات وسهولة الوصول للمستخدمين الذين يفضلون التحدث على الكتابة. يبدو الصوت طبيعيًا — لا آليًا.</p>
 
-<h3>Code Interpreter — Data Analysis</h3>
-<p>Upload spreadsheets, CSVs, or databases and ChatGPT writes Python code to analyze your data, generate charts, find patterns, and produce reports. For non-technical users, this is transformative — ask "What are my top-selling products by region?" and get a chart and analysis without writing a line of code. For data analysts, it's a fast prototyping tool.</p>
+<h3>Code Interpreter — تحليل البيانات</h3>
+<p>ارفع جداول بيانات أو ملفات CSV أو قواعد بيانات وسيكتب ChatGPT كود Python لتحليل بياناتك وتوليد المخططات واكتشاف الأنماط وإنتاج التقارير. وبالنسبة لغير التقنيين، هذا تحويلي — اسأل «ما أكثر منتجاتي مبيعًا بحسب المنطقة؟» واحصل على مخطط وتحليل دون كتابة سطر كود. ولمحللي البيانات، هو أداة نمذجة أولية سريعة.</p>
 
-<h3>Web Browsing</h3>
-<p>ChatGPT browses the web to answer questions with current information — news, prices, stock data, weather, sports scores, and anything that requires real-time data. The integration is smooth: ChatGPT decides when to search, fetches the information, and incorporates it into a coherent answer with source links.</p>
+<h3>تصفح الويب</h3>
+<p>يتصفح ChatGPT الويب للإجابة عن الأسئلة بمعلومات حديثة — الأخبار والأسعار وبيانات الأسهم والطقس ونتائج المباريات وكل ما يتطلب بيانات لحظية. والتكامل سلس: يقرر ChatGPT متى يبحث ويجلب المعلومات ويدمجها في إجابة متماسكة مع روابط المصادر.</p>
 
-<h3>Custom GPTs — Your AI Workforce</h3>
-<p>Build specialized AI assistants for specific tasks — a GPT trained on your company's documentation, a customer service bot, a writing assistant with your brand voice, a meal planner that knows your dietary restrictions. The GPT Store has thousands of community-created GPTs for every use case imaginable. This ecosystem is something neither Claude nor Gemini can match.</p>
+<h3>GPTs المخصصة — قوتك العاملة من الذكاء الاصطناعي</h3>
+<p>ابنِ مساعدي ذكاء اصطناعي متخصصين لمهام محددة — GPT مدرَّب على وثائق شركتك وروبوت خدمة عملاء ومساعد كتابة بصوت علامتك التجارية ومخطط وجبات يعرف قيودك الغذائية. ويضم متجر GPT آلاف GPTs أنشأها المجتمع لكل حالة استخدام يمكن تخيلها. وهذه منظومة لا يضاهيها Claude ولا Gemini.</p>
 
-<h3>Memory</h3>
-<p>ChatGPT remembers information across conversations — your name, preferences, projects, and context. Tell it once that you prefer concise answers and it remembers. Mention you're working on a project and it asks about progress in future sessions. Memory makes ChatGPT feel like a persistent assistant rather than a tool you restart every conversation.</p>
+<h3>الذاكرة</h3>
+<p>يتذكر ChatGPT المعلومات عبر المحادثات — اسمك وتفضيلاتك ومشاريعك وسياقك. أخبره مرة واحدة أنك تفضل الإجابات الموجزة فيتذكر. اذكر أنك تعمل على مشروع فيسأل عن التقدم في الجلسات القادمة. وتجعل الذاكرة ChatGPT يبدو كمساعد دائم لا كأداة تعيد تشغيلها في كل محادثة.</p>
 
-<h2>Where ChatGPT Falls Short</h2>
+<h2>أين يقصّر ChatGPT</h2>
 
-<h3>Analysis Quality — Second to Claude</h3>
-<p>For deep document analysis, complex reasoning, and nuanced writing, Claude outperforms ChatGPT. Claude's responses are more careful, more thoughtful, and less likely to gloss over important details. When accuracy and depth matter more than versatility, Claude is the better choice.</p>
+<h3>جودة التحليل — في المرتبة الثانية بعد Claude</h3>
+<p>في تحليل المستندات العميق والاستدلال المعقد والكتابة الدقيقة، يتفوق Claude على ChatGPT. فإجابات Claude أكثر حرصًا وتفكيرًا وأقل ميلًا إلى تجاهل التفاصيل المهمة. وعندما تكون الدقة والعمق أهم من التنوع، يكون Claude الخيار الأفضل.</p>
 
-<h3>Confident Errors</h3>
-<p>ChatGPT can be confidently wrong — presenting incorrect information with the same assurance as correct information. This "hallucination" problem has improved but not disappeared. For factual research, always verify important claims. Perplexity (with source citations) or Claude (with more careful reasoning) are safer for accuracy-critical work.</p>
+<h3>الأخطاء الواثقة</h3>
+<p>قد يكون ChatGPT مخطئًا بثقة — يقدم معلومات غير صحيحة بالثقة نفسها التي يقدم بها المعلومات الصحيحة. وقد تحسنت مشكلة «الهلوسة» هذه لكنها لم تختفِ. وللبحث الواقعي، تحقق دائمًا من الادعاءات المهمة. Perplexity (مع استشهادات المصادر) أو Claude (باستدلاله الأكثر حرصًا) أكثر أمانًا للعمل الذي تكون فيه الدقة حاسمة.</p>
 
-<h3>Rate Limits on Free and Plus</h3>
-<p>The free tier and Plus tier both have rate limits that can interrupt workflow during heavy use. Hit the limit and you're stuck waiting or downgraded to a weaker model. For users who rely on ChatGPT throughout the workday, this is genuinely frustrating. The Pro plan ($200/month) removes most limits but is expensive.</p>
+<h3>حدود الاستخدام في المجاني وPlus</h3>
+<p>للباقة المجانية وباقة Plus حدود استخدام قد تقاطع سير العمل أثناء الاستخدام الكثيف. وعند بلوغ الحد، تبقى في الانتظار أو تُخفَّض إلى نموذج أضعف. وللمستخدمين الذين يعتمدون على ChatGPT طوال يوم العمل، هذا محبط فعلًا. وتزيل خطة Pro ($200/شهر) معظم الحدود لكنها مكلفة.</p>
 
-<h3>Privacy</h3>
-<p>By default, ChatGPT conversations may be used for model training. You can opt out in settings, and Team/Enterprise plans guarantee data isn't used for training. For sensitive business conversations, be aware of the default settings or use a Team plan.</p>
+<h3>الخصوصية</h3>
+<p>افتراضيًا، قد تُستخدم محادثات ChatGPT في تدريب النموذج. يمكنك إلغاء الاشتراك في الإعدادات، وتضمن خطط Team/Enterprise عدم استخدام البيانات في التدريب. وللمحادثات التجارية الحساسة، انتبه للإعدادات الافتراضية أو استخدم خطة Team.</p>
 
-<h2>ChatGPT Pricing</h2>
+<h2>تسعير ChatGPT</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
+    <tr><th>الخطة</th><th>السعر</th><th>الميزات الرئيسية</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>$0</td><td>GPT-4o (limited), web browsing, basic image gen</td></tr>
-    <tr><td>Plus</td><td>$20/month</td><td>Higher limits, GPT Image, Sora, voice mode, Custom GPTs</td></tr>
-    <tr><td>Pro</td><td>$200/month</td><td>Unlimited access, o1 pro mode, priority</td></tr>
-    <tr><td>Team</td><td>$30/user/month</td><td>Workspace, admin controls, no training on data</td></tr>
-    <tr><td>Enterprise</td><td>Custom</td><td>SSO, compliance, unlimited, dedicated support</td></tr>
+    <tr><td>مجاني</td><td>$0</td><td>GPT-4o (محدود) وتصفح الويب وتوليد صور أساسي</td></tr>
+    <tr><td>Plus</td><td>$20/شهر</td><td>حدود أعلى وGPT Image وSora والوضع الصوتي وGPTs المخصصة</td></tr>
+    <tr><td>Pro</td><td>$200/شهر</td><td>وصول غير محدود ووضع o1 pro وأولوية</td></tr>
+    <tr><td>Team</td><td>$30/مستخدم/شهر</td><td>مساحة عمل وضوابط إدارية وعدم التدريب على البيانات</td></tr>
+    <tr><td>Enterprise</td><td>مخصص</td><td>SSO وامتثال وبلا حدود ودعم مخصص</td></tr>
   </tbody>
 </table>
 
-<h2>ChatGPT vs Claude vs Gemini</h2>
+<h2>ChatGPT مقابل Claude مقابل Gemini</h2>
 <table>
   <thead>
-    <tr><th>Strength</th><th>Winner</th></tr>
+    <tr><th>نقطة القوة</th><th>الفائز</th></tr>
   </thead>
   <tbody>
-    <tr><td>Versatility (text + image + video + voice)</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Writing and analysis quality</td><td><strong>Claude</strong></td></tr>
-    <tr><td>Image generation</td><td><strong>ChatGPT</strong> (GPT Image)</td></tr>
-    <tr><td>Google ecosystem integration</td><td><strong>Gemini</strong></td></tr>
-    <tr><td>Coding</td><td><strong>Claude</strong></td></tr>
-    <tr><td>Real-time information</td><td><strong>Gemini</strong></td></tr>
-    <tr><td>Custom AI assistants</td><td><strong>ChatGPT</strong> (GPTs)</td></tr>
-    <tr><td>Privacy</td><td><strong>Claude</strong></td></tr>
-    <tr><td>Free tier</td><td><strong>Gemini</strong></td></tr>
-    <tr><td>Document analysis</td><td><strong>Claude</strong> (200K+ context)</td></tr>
+    <tr><td>التنوع (نص + صورة + فيديو + صوت)</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>جودة الكتابة والتحليل</td><td><strong>Claude</strong></td></tr>
+    <tr><td>توليد الصور</td><td><strong>ChatGPT</strong> (GPT Image)</td></tr>
+    <tr><td>التكامل مع منظومة Google</td><td><strong>Gemini</strong></td></tr>
+    <tr><td>البرمجة</td><td><strong>Claude</strong></td></tr>
+    <tr><td>المعلومات اللحظية</td><td><strong>Gemini</strong></td></tr>
+    <tr><td>مساعدو الذكاء الاصطناعي المخصصون</td><td><strong>ChatGPT</strong> (GPTs)</td></tr>
+    <tr><td>الخصوصية</td><td><strong>Claude</strong></td></tr>
+    <tr><td>الباقة المجانية</td><td><strong>Gemini</strong></td></tr>
+    <tr><td>تحليل المستندات</td><td><strong>Claude</strong> (سياق 200 ألف+)</td></tr>
   </tbody>
 </table>
-<p>For the full head-to-head, read our <a href="/ar/blog/chatgpt-vs-claude-vs-gemini-2026">ChatGPT vs Claude vs Gemini 2026</a> comparison.</p>
+<p>للمواجهة الكاملة، اقرأ مقارنة <a href="/ar/blog/chatgpt-vs-claude-vs-gemini-2026">ChatGPT مقابل Claude مقابل Gemini 2026</a>.</p>
 
-<h2>Who Should Use ChatGPT?</h2>
+<h2>من ينبغي أن يستخدم ChatGPT؟</h2>
 
-<h3>Best For</h3>
+<h3>الأفضل لـ</h3>
 <ul>
-  <li><strong>Everyone</strong> — the most versatile AI available, good at everything</li>
-  <li><strong>Content creators</strong> — text + images + video in one subscription</li>
-  <li><strong>Non-technical users</strong> — most intuitive interface and onboarding</li>
-  <li><strong>Small businesses</strong> — one tool replaces multiple software subscriptions</li>
-  <li><strong>Language learners</strong> — voice mode for conversation practice</li>
+  <li><strong>الجميع</strong> — أكثر ذكاء اصطناعي متاح تنوعًا، وجيد في كل شيء</li>
+  <li><strong>صنّاع المحتوى</strong> — نص + صور + فيديو في اشتراك واحد</li>
+  <li><strong>المستخدمون غير التقنيين</strong> — أكثر واجهة وتهيئة بداهةً</li>
+  <li><strong>الشركات الصغيرة</strong> — أداة واحدة تحل محل عدة اشتراكات برمجية</li>
+  <li><strong>متعلمو اللغات</strong> — الوضع الصوتي لممارسة المحادثة</li>
 </ul>
 
-<h3>Consider Alternatives For</h3>
+<h3>فكّر في بدائل لـ</h3>
 <ul>
-  <li><strong>Deep analysis and research</strong> — Claude produces more careful, thorough output</li>
-  <li><strong>Google Workspace users</strong> — Gemini integrates with Gmail, Drive, Docs</li>
-  <li><strong>Accuracy-critical work</strong> — Perplexity provides source citations on every claim</li>
-  <li><strong>Professional coding</strong> — Claude or Cursor for complex development</li>
+  <li><strong>التحليل والبحث العميق</strong> — ينتج Claude مخرجات أكثر حرصًا وشمولًا</li>
+  <li><strong>مستخدمو Google Workspace</strong> — يتكامل Gemini مع Gmail وDrive وDocs</li>
+  <li><strong>العمل الذي تكون فيه الدقة حاسمة</strong> — يقدم Perplexity استشهادات بالمصادر على كل ادعاء</li>
+  <li><strong>البرمجة الاحترافية</strong> — Claude أو Cursor للتطوير المعقد</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>ملخص المزايا والعيوب</h2>
+<h3>المزايا</h3>
 <ul>
-  <li>Most versatile — text, images, video, voice, code, web browsing</li>
-  <li>Best image generation with GPT Image</li>
-  <li>Sora video included with Plus subscription</li>
-  <li>Custom GPTs ecosystem — thousands of specialized assistants</li>
-  <li>Memory across conversations — learns your preferences</li>
-  <li>Voice mode — natural conversation interface</li>
-  <li>Best free tier for general AI use</li>
+  <li>الأكثر تنوعًا — نصوص وصور وفيديو وصوت وكود وتصفح الويب</li>
+  <li>أفضل توليد للصور مع GPT Image</li>
+  <li>فيديو Sora مضمَّن مع اشتراك Plus</li>
+  <li>منظومة GPTs المخصصة — آلاف المساعدين المتخصصين</li>
+  <li>ذاكرة عبر المحادثات — يتعلم تفضيلاتك</li>
+  <li>الوضع الصوتي — واجهة محادثة طبيعية</li>
+  <li>أفضل باقة مجانية للاستخدام العام للذكاء الاصطناعي</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Writing and analysis quality below Claude</li>
-  <li>Hallucination risk — can be confidently wrong</li>
-  <li>Rate limits interrupt workflow on Free and Plus</li>
-  <li>Data used for training by default (opt-out available)</li>
-  <li>Pro plan ($200/month) is expensive for unlimited access</li>
+  <li>جودة الكتابة والتحليل أدنى من Claude</li>
+  <li>خطر الهلوسة — قد يكون مخطئًا بثقة</li>
+  <li>حدود الاستخدام تقاطع سير العمل في المجاني وPlus</li>
+  <li>تُستخدم البيانات في التدريب افتراضيًا (إلغاء الاشتراك متاح)</li>
+  <li>خطة Pro ($200/شهر) مكلفة مقابل الوصول غير المحدود</li>
 </ul>
 
-<h2>Final Verdict: A</h2>
-<p>ChatGPT remains the best all-around AI assistant in 2026. No other tool matches its combination of text, image, video, voice, code execution, web browsing, and custom GPTs in one platform. For most users, ChatGPT is the first AI tool to try and the last one you'll drop.</p>
-<p>But it's no longer the best at everything. Claude wins for deep analysis and writing quality. Gemini wins for Google integration. Perplexity wins for sourced research. The smartest approach: ChatGPT as your primary AI, with a specialist for your most important use case.</p>
-<p><strong>Our recommendation:</strong> Start with ChatGPT Free — it's the most generous free AI available. Upgrade to Plus ($20/month) when you want GPT Image, Sora, and higher limits. Add Claude Pro ($20/month) if analysis and writing quality are critical to your work.</p>
+<h2>الحكم النهائي: A</h2>
+<p>يبقى ChatGPT أفضل مساعد ذكاء اصطناعي شامل في 2026. لا أداة أخرى تضاهي مزيجه من النصوص والصور والفيديو والصوت وتنفيذ الكود وتصفح الويب وGPTs المخصصة في منصة واحدة. ولمعظم المستخدمين، ChatGPT هو أول أداة ذكاء اصطناعي تجربها وآخر واحدة تتخلى عنها.</p>
+<p>لكنه لم يعد الأفضل في كل شيء. يفوز Claude في التحليل العميق وجودة الكتابة. ويفوز Gemini في تكامل Google. ويفوز Perplexity في البحث الموثَّق. والنهج الأذكى: ChatGPT كذكاء اصطناعي أساسي، مع أداة متخصصة لحالة الاستخدام الأهم لديك.</p>
+<p><strong>توصيتنا:</strong> ابدأ بـ ChatGPT المجاني — فهو أسخى ذكاء اصطناعي مجاني متاح. وارتقِ إلى Plus ($20/شهر) عندما تريد GPT Image وSora وحدودًا أعلى. وأضف Claude Pro ($20/شهر) إذا كانت جودة التحليل والكتابة حاسمة لعملك.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is ChatGPT still the best AI in 2026?</h3>
-<p>The most versatile — yes. The best at everything — no. Claude beats it for writing and analysis. Gemini beats it for Google integration. ChatGPT wins overall because it does the most things well in one platform.</p>
+<h3>هل ما زال ChatGPT أفضل ذكاء اصطناعي في 2026؟</h3>
+<p>الأكثر تنوعًا — نعم. الأفضل في كل شيء — لا. يتفوق عليه Claude في الكتابة والتحليل. ويتفوق عليه Gemini في تكامل Google. ويفوز ChatGPT بوجه عام لأنه يؤدي أكبر عدد من المهام جيدًا في منصة واحدة.</p>
 
-<h3>Is ChatGPT Plus worth $20/month?</h3>
-<p>Yes — GPT Image alone is worth it for anyone creating visual content. Add Sora video, higher rate limits, voice mode, and Custom GPTs, and it's the best $20/month in AI. Try the free tier first to confirm you'll use it.</p>
+<h3>هل يستحق ChatGPT Plus مبلغ $20/شهر؟</h3>
+<p>نعم — GPT Image وحده يستحق لكل من ينشئ محتوى بصريًا. أضف فيديو Sora وحدود الاستخدام الأعلى والوضع الصوتي وGPTs المخصصة، وهو أفضل $20 شهريًا في الذكاء الاصطناعي. جرّب الباقة المجانية أولًا للتأكد من أنك ستستخدمه.</p>
 
-<h3>Is ChatGPT safe for business use?</h3>
-<p>On Free and Plus plans, conversations may be used for training unless you opt out in settings. Team ($30/user/month) and Enterprise plans guarantee data privacy. For sensitive business information, use Team or Enterprise, or opt out of training in settings.</p>
+<h3>هل ChatGPT آمن للاستخدام في الأعمال؟</h3>
+<p>في الباقة المجانية وPlus، قد تُستخدم المحادثات في التدريب ما لم تلغِ الاشتراك في الإعدادات. وتضمن خطتا Team ($30/مستخدم/شهر) وEnterprise خصوصية البيانات. وللمعلومات التجارية الحساسة، استخدم Team أو Enterprise، أو ألغِ التدريب في الإعدادات.</p>
 
-<h3>ChatGPT Free vs Plus — what's the difference?</h3>
-<p>Free: GPT-4o with rate limits, basic image generation, web browsing. Plus ($20/month): higher limits, full GPT Image, Sora video, Advanced Voice Mode, Custom GPTs creation, file uploads. For daily users, Plus is worth the upgrade.</p>
+<h3>ChatGPT المجاني مقابل Plus — ما الفرق؟</h3>
+<p>المجاني: GPT-4o بحدود استخدام وتوليد صور أساسي وتصفح الويب. Plus ($20/شهر): حدود أعلى وGPT Image الكامل وفيديو Sora والوضع الصوتي المتقدم وإنشاء GPTs مخصصة ورفع الملفات. وللمستخدمين اليوميين، يستحق Plus الترقية.</p>
 
-<p><em>ChatGPT was tested by AIGradeLab across writing, research, coding, image generation, and business workflows. Grade reflects overall versatility and value as of November 2026. Pricing verified on openai.com.</em></p>
+<p><em>اختبر AIGradeLab ChatGPT عبر مسارات الكتابة والبحث والبرمجة وتوليد الصور والأعمال. يعكس التقييم التنوع العام والقيمة حتى نوفمبر 2026. الأسعار تم التحقق منها على openai.com.</em></p>

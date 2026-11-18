@@ -1,11 +1,11 @@
 ---
-title: "Midjourney レビュー 2026：V8.2 Makes It the Undisputed Image King. Our Grade"
-description: "We tested Midjourney V8.2 for marketing visuals, concept art, and creative projects. Edit Model, 2K native, video clips. Here is our updated grade. November 2026."
+title: "Midjourneyレビュー2026：V8.2で揺るぎない画像の王者に。評価を公開"
+description: "マーケティングビジュアル、コンセプトアート、クリエイティブなプロジェクトでMidjourney V8.2を検証しました。Edit Model、ネイティブ2K、動画クリップ。更新された評価をご紹介します。2026年11月。"
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "読了時間：12分"
 grade: "A"
 scores_ux: 7.5
 scores_quality: 9.8
@@ -15,107 +15,107 @@ scores_support: 7.0
 toolName: "Midjourney"
 ---
 
-<h2>What Midjourney Does</h2>
-<p>Midjourney is the AI image generator that artists, designers, and marketers trust most. Since its launch, it has consistently produced the most aesthetically pleasing AI-generated images available — and V8.2, which became the default model on July 24, 2026, pushes that lead further. Where other generators focus on photorealism or technical features, Midjourney focuses on making images that look like someone with real visual taste composed them.</p>
+<h2>Midjourneyでできること</h2>
+<p>Midjourneyは、アーティスト、デザイナー、マーケターが最も信頼する、AI画像ジェネレーターです。登場以来、利用できるAI生成画像の中で、一貫して最も美しい画像を生み出してきました。2026年7月24日にデフォルトモデルになったV8.2は、そのリードをさらに広げています。他のジェネレーターがフォトリアリズムや技術的な機能に注力するなか、Midjourneyは、本物の視覚的なセンスを持った人が構成したように見える画像を作ることに注力しています。</p>
 
-<h2>What Changed: V7 → V8 → V8.1 → V8.2</h2>
-<p>Our September 2026 review covered V7. Here is what changed since:</p>
+<h2>変更点：V7 → V8 → V8.1 → V8.2</h2>
+<p>2026年9月のレビューでは、V7を取り上げました。それ以降の変更点は次のとおりです。</p>
 <ul>
-  <li><strong>V8 (March 17, 2026):</strong> Complete rebuild — not a tuning pass. New architecture with personalization-first workflow.</li>
-  <li><strong>V8.1 (April 14, 2026):</strong> Added native HD images, Image Prompts, and a Prompt Shortener. Default from June 10 to July 24.</li>
-  <li><strong>V8.2 (July 24, 2026):</strong> Current default. Bolder aesthetics, reduced misfire rates, and the Edit Model — the biggest workflow change since Midjourney launched.</li>
+  <li><strong>V8（2026年3月17日）：</strong>調整ではなく、完全な作り直しです。パーソナライゼーションを最優先にしたワークフローの、新しいアーキテクチャです。</li>
+  <li><strong>V8.1（2026年4月14日）：</strong>ネイティブのHD画像、Image Prompts、Prompt Shortenerを追加しました。6月10日から7月24日までのデフォルトでした。</li>
+  <li><strong>V8.2（2026年7月24日）：</strong>現在のデフォルトです。より大胆な美的表現、失敗率の低減、そしてMidjourneyの登場以来、最大のワークフローの変化であるEdit Modelが加わりました。</li>
 </ul>
 
-<h2>テスト内容</h2>
-<p>We used Midjourney V8.2 for six weeks across different use cases: marketing visuals for social media campaigns, concept art for brand development, product mockups, blog and article illustrations, photorealistic portraits, architectural visualization, and short video clip generation.</p>
+<h2>検証内容</h2>
+<p>6週間にわたって、Midjourney V8.2をさまざまなユースケースで使用しました。SNSキャンペーン用のマーケティングビジュアル、ブランド開発のためのコンセプトアート、商品のモックアップ、ブログや記事のイラスト、フォトリアルなポートレート、建築のビジュアライゼーション、短い動画クリップの生成です。</p>
 
-<h2>良い点</h2>
+<h2>優れている点</h2>
 <ul>
-  <li><strong>Image quality — still the best:</strong> In blind comparisons against ChatGPT Images 2.6, Nano Banana Pro, FLUX.2, and every other generator we tested, Midjourney V8.2 wins on aesthetic quality. The images have a composed, intentional look — lighting falls naturally, colors are rich without being oversaturated, and compositions feel balanced. This "taste" is what separates Midjourney from tools that produce technically correct but visually boring images.</li>
-  <li><strong>The Edit Model — game changer:</strong> This is V8.2's biggest addition. Instead of regenerating from scratch when you want a change, you describe the edit in plain English: "make the sky more dramatic," "change her dress to blue," "add a cat on the windowsill." The Edit Model makes the change while preserving everything else. This conversational editing approach — similar to what ChatGPT offers but with Midjourney's superior image quality — transforms the workflow from "generate and hope" to "generate and refine."</li>
-  <li><strong>Native 2K resolution:</strong> V8.2 renders natively in 2K, nearly doubling the resolution of V7. Images are sharp enough for print materials, large-format displays, and high-resolution digital use without upscaling artifacts.</li>
-  <li><strong>Video clips:</strong> Pro and Mega plans include short video clip generation — turn any image into a brief animated sequence. The quality is basic compared to Runway, but for social media teasers and animated thumbnails, it adds genuine value without needing a separate tool.</li>
-  <li><strong>Reduced misfires:</strong> V8.2 significantly reduced the rate of bizarre, off-prompt generations that plagued earlier versions. More prompts produce usable results on the first try, which means fewer credits wasted on regeneration.</li>
-  <li><strong>Web interface:</strong> Midjourney's web app has matured into a proper creation interface — no longer just Discord. Browse, generate, edit, organize, and download all in the browser. The Discord workflow still works but is no longer required.</li>
+  <li><strong>画像の品質：今も最高：</strong>ChatGPT Images 2.6、Nano Banana Pro、FLUX.2、その他検証したすべてのジェネレーターとのブラインド比較で、Midjourney V8.2が美的な品質で勝ちます。画像には、構成された、意図のある見た目があります。光は自然に落ち、色は彩度が高すぎずに豊かで、構図はバランスが取れています。この「センス」こそが、Midjourneyを、技術的には正しくても視覚的に退屈な画像を作るツールと分けています。</li>
+  <li><strong>Edit Model：ゲームチェンジャー：</strong>これは、V8.2の最大の追加機能です。変更したいときにゼロから再生成する代わりに、「空をもっとドラマチックにして」「彼女のドレスを青に変えて」「窓辺に猫を追加して」と、普通の英語で編集内容を説明します。Edit Modelは、それ以外のすべてを保ったまま、変更を行います。ChatGPTが提供するものに似た、この対話型の編集アプローチを、Midjourneyの優れた画質で実現することで、ワークフローは「生成して祈る」から「生成して磨く」へと変わります。</li>
+  <li><strong>ネイティブ2K解像度：</strong>V8.2は、ネイティブで2Kでレンダリングし、V7のほぼ2倍の解像度です。画像は、アップスケールによる劣化なしに、印刷物、大判のディスプレイ、高解像度のデジタル用途に十分なシャープさです。</li>
+  <li><strong>動画クリップ：</strong>ProとMegaプランには、短い動画クリップの生成が含まれます。あらゆる画像を、短いアニメーションに変えられます。品質はRunwayと比べると基本的ですが、SNSのティザーやアニメーションのサムネイルには、別のツールなしで、本物の価値を加えます。</li>
+  <li><strong>失敗の減少：</strong>V8.2は、以前のバージョンを悩ませていた、奇妙でプロンプトから外れた生成の発生率を大幅に減らしました。より多くのプロンプトが最初の試行で使える結果を出すため、再生成で無駄になるクレジットが減ります。</li>
+  <li><strong>ウェブインターフェース：</strong>Midjourneyのウェブアプリは、もはやDiscordだけではない、本格的な制作のインターフェースに成熟しました。閲覧、生成、編集、整理、ダウンロードのすべてを、ブラウザ内で行えます。Discordのワークフローも引き続き使えますが、もはや必須ではありません。</li>
 </ul>
 
-<h2>改善点</h2>
+<h2>物足りない点</h2>
 <ul>
-  <li><strong>No free tier:</strong> This remains Midjourney's biggest barrier. Every competitor — ChatGPT, Gemini, Leonardo, Ideogram — offers some form of free access. Midjourney requires a $10/month minimum commitment before you see a single image. For users evaluating AI image tools, this means Midjourney is the last one they try, not the first.</li>
-  <li><strong>No public API:</strong> Developers cannot integrate Midjourney into their products or workflows programmatically. FLUX.2, ChatGPT Images, and Nano Banana Pro all offer APIs. For businesses building image generation into their products, Midjourney is not an option.</li>
-  <li><strong>Subscription only:</strong> No pay-per-image option. You buy GPU time in monthly plans. Light users who need 5-10 images per month are paying the same $10 minimum as regular users. The pricing model rewards heavy use and penalizes occasional use.</li>
-  <li><strong>Text rendering:</strong> V8.2 handles text in images better than any previous version, but it still trails ChatGPT Images 2.6 and Ideogram 4.0 for accuracy. Short headlines usually work. Longer text, small fonts, and specific typography requests remain unreliable.</li>
-  <li><strong>Prompt engineering required:</strong> Getting the exact output you want still requires significant prompt skill. The gap between a mediocre prompt and a great one produces dramatically different results. Midjourney rewards expertise more than any other generator — which is great for power users and frustrating for beginners.</li>
-  <li><strong>Copyright litigation:</strong> Midjourney faces ongoing copyright lawsuits regarding its training data. As of November 2026, the cases are in discovery. The legal outcome could affect commercial usage terms. For large-scale commercial use, Adobe Firefly's licensed-content approach is safer.</li>
+  <li><strong>無料プランがない：</strong>これは、Midjourneyの最大の障壁のままです。ChatGPT、Gemini、Leonardo、Ideogramなど、すべての競合が、何らかの形で無料のアクセスを提供しています。Midjourneyは、1枚の画像を見る前に、最低でも月額10ドルの契約が必要です。AI画像ツールを評価するユーザーにとって、Midjourneyは、最初ではなく、最後に試すツールになります。</li>
+  <li><strong>公開APIがない：</strong>開発者は、Midjourneyを自分の製品やワークフローにプログラムで統合できません。FLUX.2、ChatGPT Images、Nano Banana Proは、いずれもAPIを提供しています。製品に画像生成を組み込む企業にとって、Midjourneyは選択肢になりません。</li>
+  <li><strong>サブスクリプションのみ：</strong>画像ごとの従量課金のオプションはありません。GPUの時間を、月ごとのプランで購入します。月に5〜10枚の画像しか必要としない軽いユーザーも、通常のユーザーと同じ最低10ドルを払います。この料金モデルは、多く使う人を優遇し、たまに使う人を不利にします。</li>
+  <li><strong>テキストのレンダリング：</strong>V8.2は、これまでのどのバージョンよりも、画像内のテキストをうまく処理しますが、精度ではChatGPT Images 2.6やIdeogram 4.0にまだ及びません。短い見出しなら、たいていうまくいきます。より長いテキスト、小さなフォント、特定のタイポグラフィの指定は、依然として信頼できません。</li>
+  <li><strong>プロンプトの工夫が必要：</strong>求める出力を正確に得るには、依然としてかなりのプロンプトのスキルが必要です。平凡なプロンプトと優れたプロンプトの差は、劇的に異なる結果を生みます。Midjourneyは、他のどのジェネレーターよりも専門知識に報います。これは、パワーユーザーには素晴らしく、初心者にはもどかしいことです。</li>
+  <li><strong>著作権をめぐる訴訟：</strong>Midjourneyは、学習データに関する著作権訴訟に直面しています。2026年11月時点で、訴訟は証拠開示の段階にあります。法的な結果は、商用利用の条件に影響を与える可能性があります。大規模な商用利用なら、Adobe Fireflyの、ライセンスされたコンテンツによるアプローチのほうが安全です。</li>
 </ul>
 
-<h2>Midjourney V8.2 vs The Competition</h2>
+<h2>Midjourney V8.2と競合の比較</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Midjourney v8.2</th><th>ChatGPT Images 2.6</th><th>Nano Banana Pro</th><th>FLUX.2 Pro</th></tr>
+    <tr><th>機能</th><th>Midjourney v8.2</th><th>ChatGPT Images 2.6</th><th>Nano Banana Pro</th><th>FLUX.2 Pro</th></tr>
   </thead>
   <tbody>
-    <tr><td>Artistic quality</td><td><strong>Best</strong></td><td>Good</td><td>Good</td><td>Strong</td></tr>
-    <tr><td>Photorealism</td><td>Strong</td><td>Strong</td><td><strong>Best</strong></td><td>Strong</td></tr>
-    <tr><td>Text in images</td><td>Good</td><td><strong>Excellent</strong></td><td>Strong</td><td>Strong</td></tr>
-    <tr><td>Editing</td><td>Edit Model (new)</td><td><strong>Conversational (best)</strong></td><td>Limited</td><td>Multi-reference</td></tr>
-    <tr><td>GIFs/Video</td><td>Short clips (Pro+)</td><td><strong>GIFs + SVG</strong></td><td>No</td><td>No</td></tr>
-    <tr><td>Free tier</td><td>No</td><td>Yes</td><td>Yes</td><td>Yes (dev)</td></tr>
-    <tr><td>API</td><td>No</td><td>Yes</td><td>Yes</td><td><strong>Yes (cheapest)</strong></td></tr>
-    <tr><td>Price</td><td>$10-120/mo</td><td>$20/mo (Plus)</td><td>Free-$20/mo</td><td>$0.03/image</td></tr>
+    <tr><td>芸術的な品質</td><td><strong>最高</strong></td><td>良好</td><td>良好</td><td>強力</td></tr>
+    <tr><td>フォトリアリズム</td><td>強力</td><td>強力</td><td><strong>最高</strong></td><td>強力</td></tr>
+    <tr><td>画像内のテキスト</td><td>良好</td><td><strong>優秀</strong></td><td>強力</td><td>強力</td></tr>
+    <tr><td>編集</td><td>Edit Model（新）</td><td><strong>対話型（最高）</strong></td><td>限定的</td><td>複数の参照</td></tr>
+    <tr><td>GIF／動画</td><td>短いクリップ（Pro以上）</td><td><strong>GIFとSVG</strong></td><td>なし</td><td>なし</td></tr>
+    <tr><td>無料プラン</td><td>なし</td><td>あり</td><td>あり</td><td>あり（開発者向け）</td></tr>
+    <tr><td>API</td><td>なし</td><td>あり</td><td>あり</td><td><strong>あり（最安）</strong></td></tr>
+    <tr><td>料金</td><td>月額10〜120ドル</td><td>月額20ドル（Plus）</td><td>無料〜月額20ドル</td><td>1枚あたり0.03ドル</td></tr>
   </tbody>
 </table>
 
-<h2>料金: November 2026</h2>
+<h2>料金：2026年11月</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Monthly</th><th>Annual (20% off)</th><th>Fast GPU Hours</th><th>Relax Mode</th></tr>
+    <tr><th>プラン</th><th>月額</th><th>年額（20%オフ）</th><th>高速GPU時間</th><th>リラックスモード</th></tr>
   </thead>
   <tbody>
-    <tr><td>Basic</td><td>$10</td><td>$96/yr</td><td>3.3 hrs</td><td>No</td></tr>
-    <tr><td>Standard</td><td>$30</td><td>$288/yr</td><td>15 hrs</td><td>Unlimited</td></tr>
-    <tr><td>Pro</td><td>$60</td><td>$576/yr</td><td>30 hrs</td><td>Unlimited + video</td></tr>
-    <tr><td>Mega</td><td>$120</td><td>$1,152/yr</td><td>60 hrs</td><td>Unlimited + video</td></tr>
+    <tr><td>Basic</td><td>10ドル</td><td>年額96ドル</td><td>3.3時間</td><td>なし</td></tr>
+    <tr><td>Standard</td><td>30ドル</td><td>年額288ドル</td><td>15時間</td><td>無制限</td></tr>
+    <tr><td>Pro</td><td>60ドル</td><td>年額576ドル</td><td>30時間</td><td>無制限＋動画</td></tr>
+    <tr><td>Mega</td><td>120ドル</td><td>年額1,152ドル</td><td>60時間</td><td>無制限＋動画</td></tr>
   </tbody>
 </table>
-<p><strong>コスパ最強：</strong> Standard at $30/month. Unlimited Relax mode means your per-image cost approaches zero if you are patient. Basic at $10/month is too limited for regular use — the 3.3 GPU hours run out fast.</p>
+<p><strong>最高のコストパフォーマンス：</strong>月額30ドルのStandardです。リラックスモードが無制限なので、待つことをいとわなければ、1枚あたりのコストはゼロに近づきます。月額10ドルのBasicは、定期的な利用には限定的すぎます。3.3時間のGPUは、すぐに尽きてしまいます。</p>
 
-<h2>Who Should Use Midjourney</h2>
+<h2>Midjourneyを使うべき人</h2>
 <ul>
-  <li><strong>Marketing teams and agencies:</strong> When the visual needs to look beautiful — campaigns, brand imagery, social media hero images — Midjourney's aesthetic quality justifies the premium.</li>
-  <li><strong>Content creators:</strong> YouTubers, bloggers, and social media creators who need eye-catching thumbnails and visuals that stop the scroll.</li>
-  <li><strong>Concept artists and designers:</strong> For ideation, mood boards, and visual exploration, Midjourney's artistic range is unmatched.</li>
-  <li><strong>Anyone who generates images regularly:</strong> The Standard plan with unlimited Relax mode is the best value for high-volume generation.</li>
+  <li><strong>マーケティングチームとエージェンシー：</strong>キャンペーン、ブランドのイメージ、SNSのメインビジュアルなど、ビジュアルが美しく見える必要があるとき、Midjourneyの美的な品質はプレミアムを正当化します。</li>
+  <li><strong>コンテンツクリエイター：</strong>目を引くサムネイルや、スクロールを止めるビジュアルを必要とする、YouTuber、ブロガー、SNSのクリエイター。</li>
+  <li><strong>コンセプトアーティストとデザイナー：</strong>アイデア出し、ムードボード、ビジュアルの探求には、Midjourneyの芸術的な幅広さは他の追随を許しません。</li>
+  <li><strong>定期的に画像を生成する人：</strong>リラックスモードが無制限のStandardプランは、大量の生成に最適なコストパフォーマンスです。</li>
 </ul>
 
-<h2>Who Should Not Use Midjourney</h2>
+<h2>Midjourneyを使うべきでない人</h2>
 <ul>
-  <li><strong>Occasional users:</strong> If you need 5 images per month, the $10/month minimum is poor value. Use ChatGPT Free or Gemini Free instead.</li>
-  <li><strong>Developers:</strong> No API means no programmatic access. Use FLUX.2 or ChatGPT Images API for product integration.</li>
-  <li><strong>Users who need text-heavy images:</strong> Posters, infographics, and designs with lots of text are better served by Ideogram 4.0 or ChatGPT Images 2.6.</li>
-  <li><strong>Risk-averse businesses:</strong> The ongoing copyright litigation creates uncertainty. Adobe Firefly's licensed-content training provides clearer legal footing.</li>
+  <li><strong>たまにしか使わない人：</strong>月に5枚しか必要としないなら、月額10ドルの最低料金は割に合いません。代わりにChatGPT FreeやGemini Freeを使いましょう。</li>
+  <li><strong>開発者：</strong>APIがないため、プログラムによるアクセスはできません。製品への統合には、FLUX.2やChatGPT ImagesのAPIを使いましょう。</li>
+  <li><strong>テキストの多い画像が必要な人：</strong>ポスター、インフォグラフィック、テキストの多いデザインには、Ideogram 4.0やChatGPT Images 2.6のほうが適しています。</li>
+  <li><strong>リスクを避けたい企業：</strong>進行中の著作権訴訟は、不確実性を生みます。Adobe Fireflyの、ライセンスされたコンテンツでの学習のほうが、より明確な法的な根拠を提供します。</li>
 </ul>
 
-<h2>総評</h2>
-<p>Midjourney earns an <strong>A</strong> — upgraded from our September review — because V8.2's Edit Model, native 2K resolution, and reduced misfires make it a meaningfully better tool than V7. The image quality remains in a class of its own. No other generator consistently produces images this beautiful, this composed, this intentionally crafted.</p>
-<p>The grade stays at A instead of A+ because the lack of a free tier, no API, subscription-only pricing, and ongoing copyright litigation are real limitations that competitors do not share. Midjourney is the best at what it does — but what it does is narrower than ChatGPT's everything-in-one-tool approach.</p>
-<p>For creators and marketers who value visual quality above all else, Midjourney is essential. Start with the Standard plan ($30/month) — the unlimited Relax mode makes it the best value for serious users.</p>
+<h2>総合評価</h2>
+<p>Midjourneyは、9月のレビューから評価を上げて<strong>A</strong>を獲得しました。V8.2のEdit Model、ネイティブ2K解像度、失敗の減少により、V7より意味のある形で優れたツールになったからです。画像の品質は、今も別格です。これほど美しく、構成され、意図を持って作られた画像を、一貫して生み出すジェネレーターは他にありません。</p>
+<p>評価がA+ではなくAにとどまるのは、無料プランがないこと、APIがないこと、サブスクリプションのみの料金体系、そして進行中の著作権訴訟が、競合にはない現実の制約だからです。Midjourneyは、得意とすることで最高ですが、その得意とすることは、ChatGPTのすべてを1つのツールにまとめるアプローチよりも、範囲が狭いです。</p>
+<p>視覚的な品質を何より重視するクリエイターやマーケターにとって、Midjourneyは不可欠です。月額30ドルのStandardプランから始めましょう。無制限のリラックスモードが、本格的なユーザーにとって最高のコストパフォーマンスをもたらします。</p>
 
 <h2>よくある質問</h2>
 
-<h3>Is Midjourney still the best AI image generator in 2026?</h3>
-<p>For artistic quality, yes — V8.2 is the clear leader. For photorealism, Nano Banana Pro edges ahead. For versatility and features, ChatGPT Images 2.6 offers more (GIFs, SVG, editing). It depends on what "best" means for your use case.</p>
+<h3>Midjourneyは、2026年も最高のAI画像ジェネレーターですか？</h3>
+<p>芸術的な品質では、はい。V8.2が明らかなリーダーです。フォトリアリズムでは、Nano Banana Proがわずかに上回ります。多用途性と機能では、ChatGPT Images 2.6がより多くを提供します（GIF、SVG、編集）。「最高」の意味が、用途によって変わります。</p>
 
-<h3>Does Midjourney have a free trial?</h3>
-<p>No. As of November 2026, Midjourney has no free tier and no free trial. The cheapest entry is the Basic plan at $10/month.</p>
+<h3>Midjourneyに無料トライアルはありますか？</h3>
+<p>いいえ。2026年11月時点で、Midjourneyには無料プランも無料トライアルもありません。最も安い入り口は、月額10ドルのBasicプランです。</p>
 
-<h3>What version of Midjourney is current?</h3>
-<p>V8.2, which became the default on July 24, 2026. You can also access V7 and earlier versions through version flags.</p>
+<h3>Midjourneyの現在のバージョンは何ですか？</h3>
+<p>V8.2で、2026年7月24日にデフォルトになりました。バージョンのフラグを使って、V7やそれ以前のバージョンにアクセスすることもできます。</p>
 
-<h3>Can I use Midjourney images commercially?</h3>
-<p>Yes, on paid plans. However, Midjourney faces ongoing copyright lawsuits regarding training data. For maximum legal safety, Adobe Firefly (trained on licensed content) is the more conservative choice.</p>
+<h3>Midjourneyの画像を商用で使えますか？</h3>
+<p>はい、有料プランであれば。ただし、Midjourneyは学習データをめぐる著作権訴訟に直面しています。最大限の法的な安全性を求めるなら、Adobe Firefly（ライセンスされたコンテンツで学習）のほうが、より保守的な選択です。</p>
 
-<h3>Is Midjourney worth $30/month?</h3>
-<p>If you generate images regularly and care about aesthetic quality — yes. The Standard plan with unlimited Relax mode makes the per-image cost effectively zero. If you generate occasionally, ChatGPT Images (included with Plus) or free tools like Leonardo AI are better value.</p>
+<h3>Midjourneyは月額30ドルの価値がありますか？</h3>
+<p>定期的に画像を生成し、美的な品質を重視するなら、はい。リラックスモードが無制限のStandardプランなら、1枚あたりのコストは事実上ゼロです。たまにしか生成しないなら、ChatGPT Images（Plusに含まれる）やLeonardo AIのような無料ツールのほうが、コストパフォーマンスに優れています。</p>
 
-<p><em>Midjourney V8.2 was tested by AIGradeLab over six weeks of daily use. Grade reflects performance as of November 2026. 料金 verified on midjourney.com on November 14, 2026.</em></p>
+<p><em>Midjourney V8.2は、AIGradeLabが6週間にわたり、毎日使って検証しました。評価は、2026年11月時点のパフォーマンスを反映しています。料金は、2026年11月14日にmidjourney.comで確認しています。</em></p>

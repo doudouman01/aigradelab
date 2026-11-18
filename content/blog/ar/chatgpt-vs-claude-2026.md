@@ -1,68 +1,68 @@
 ---
-title: "ChatGPT مقابل Claude في 2026: أيهما أفضل لك؟"
-description: "مقارنة شاملة بين ChatGPT و Claude عبر الكتابة والبرمجة والتحليل والإبداع."
-category: "Head-to-Head"
+title: "ChatGPT مقابل Claude في 2026: أي مساعد ذكاء اصطناعي يفوز فعلًا؟"
+description: "اختبرنا ChatGPT وClaude وجهًا لوجه في الكتابة والبرمجة والاستدلال والمهام اليومية. إليك التقييمات وحكمنا الصريح."
+category: "مواجهات مباشرة"
 categorySlug: "head-to-head"
 date: "2026-09-11"
 lastTested: "Sep 2026"
-readTime: "12 min read"
+readTime: "وقت القراءة: 12 دقيقة"
 ---
 
-<h2>The Two Heavyweights of AI, Graded Side by Side</h2>
-      <p>ChatGPT and Claude are the two most popular AI assistants in 2026, but they serve very different strengths. We tested both extensively across real-world tasks to find out which one deserves your $20/month — or if you need both.</p>
+<h2>عملاقا الذكاء الاصطناعي، مُقيَّمان جنبًا إلى جنب</h2>
+      <p>ChatGPT وClaude هما أشهر مساعدي ذكاء اصطناعي في 2026، لكن لكل منهما نقاط قوة مختلفة جدًا. اختبرنا كليهما بشكل مكثف عبر مهام واقعية لنعرف أيهما يستحق $20 شهريًا — أو إن كنت تحتاج إلى كليهما.</p>
 
-      <h2>ChatGPT — Our Grade: A</h2>
-      <div class="score-card"><h3>ChatGPT Scores</h3>
-        <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-        <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-        <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-        <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-        <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+      <h2>ChatGPT — تقييمنا: A</h2>
+      <div class="score-card"><h3>تقييمات ChatGPT</h3>
+        <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+        <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+        <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+        <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+        <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
       </div>
-      <p>ChatGPT remains the most versatile AI assistant available. With 800 million users, the largest plugin ecosystem, image generation via DALL-E, web browsing, voice mode, and the GPT Store, it is the Swiss Army knife of AI tools. If you can only pay for one AI subscription, ChatGPT gives you the broadest set of capabilities.</p>
-      <h3>Where ChatGPT Wins</h3>
+      <p>يبقى ChatGPT أكثر مساعدي الذكاء الاصطناعي المتاحين تنوعًا. فبـ 800 مليون مستخدم وأكبر منظومة إضافات وتوليد الصور عبر DALL-E وتصفح الويب والوضع الصوتي ومتجر GPT، هو السكين السويسري بين أدوات الذكاء الاصطناعي. وإذا كنت تستطيع دفع اشتراك ذكاء اصطناعي واحد فقط، فإن ChatGPT يمنحك أوسع مجموعة من القدرات.</p>
+      <h3>أين يفوز ChatGPT</h3>
       <ul>
-        <li><strong>Ecosystem:</strong> Plugins, GPTs, DALL-E integration, voice mode, vision — nothing else matches the breadth.</li>
-        <li><strong>Speed:</strong> GPT-4o is fast. Responses feel near-instant for most tasks.</li>
-        <li><strong>Multimodal:</strong> Upload images, PDFs, spreadsheets, and get analysis. The file handling is smooth.</li>
-        <li><strong>Code interpreter:</strong> Run Python code, generate charts, analyze data — all in the chat.</li>
+        <li><strong>المنظومة:</strong> الإضافات وGPTs وتكامل DALL-E والوضع الصوتي والرؤية — لا شيء آخر يضاهي هذا الاتساع.</li>
+        <li><strong>السرعة:</strong> GPT-4o سريع. تبدو الاستجابات فورية تقريبًا لمعظم المهام.</li>
+        <li><strong>متعدد الوسائط:</strong> ارفع صورًا وملفات PDF وجداول بيانات واحصل على تحليل. التعامل مع الملفات سلس.</li>
+        <li><strong>مفسّر الكود:</strong> شغّل كود Python وولّد المخططات وحلل البيانات — كل ذلك داخل المحادثة.</li>
       </ul>
-      <h3>Where ChatGPT Falls Short</h3>
+      <h3>أين يقصّر ChatGPT</h3>
       <ul>
-        <li><strong>Writing quality:</strong> Tends toward a recognizable "ChatGPT voice" — slightly generic, uses filler phrases.</li>
-        <li><strong>Long context:</strong> Gets lost or hallucinates more in very long conversations compared to Claude.</li>
-        <li><strong>Honesty:</strong> More prone to confidently stating incorrect information rather than admitting uncertainty.</li>
+        <li><strong>جودة الكتابة:</strong> يميل إلى «صوت ChatGPT» المعروف — عام قليلًا ويستخدم عبارات حشو.</li>
+        <li><strong>السياق الطويل:</strong> يضيع أو يهلوس أكثر في المحادثات الطويلة جدًا مقارنةً بـ Claude.</li>
+        <li><strong>الصدق:</strong> أكثر ميلًا إلى ذكر معلومات خاطئة بثقة بدلًا من الاعتراف بعدم اليقين.</li>
       </ul>
 
-      <h2>Claude — Our Grade: A</h2>
-      <div class="score-card"><h3>Claude Scores</h3>
-        <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-        <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-        <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-        <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-        <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+      <h2>Claude — تقييمنا: A</h2>
+      <div class="score-card"><h3>تقييمات Claude</h3>
+        <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+        <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+        <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
+        <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+        <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
       </div>
-      <p>Claude is Anthropic's flagship model and has earned a reputation as the thinking person's AI. It produces the most natural, human-like writing of any AI assistant, handles massive documents with ease, and tends to be more honest about what it does and does not know.</p>
-      <h3>Where Claude Wins</h3>
+      <p>Claude هو النموذج الرائد من Anthropic وقد اكتسب سمعة «ذكاء اصطناعي المفكرين». ينتج أكثر كتابة طبيعية وقربًا من الأسلوب البشري بين مساعدي الذكاء الاصطناعي، ويتعامل مع المستندات الضخمة بسهولة، ويميل إلى مزيد من الصدق بشأن ما يعرفه وما لا يعرفه.</p>
+      <h3>أين يفوز Claude</h3>
       <ul>
-        <li><strong>Writing quality:</strong> Claude's output reads like a skilled human wrote it. Less filler, more substance.</li>
-        <li><strong>Long documents:</strong> Feed it a 100-page PDF and ask questions — Claude handles long context better than any competitor.</li>
-        <li><strong>Reasoning:</strong> On complex, multi-step problems, Claude is more methodical and less likely to take shortcuts.</li>
-        <li><strong>Coding:</strong> Claude Code has become a serious tool for professional developers.</li>
-        <li><strong>Honesty:</strong> More likely to say "I'm not sure" than to fabricate a confident-sounding answer.</li>
+        <li><strong>جودة الكتابة:</strong> تُقرأ مخرجات Claude كأن كاتبًا بشريًا ماهرًا كتبها. حشو أقل ومضمون أكثر.</li>
+        <li><strong>المستندات الطويلة:</strong> زوّده بملف PDF من 100 صفحة واطرح أسئلة — يتعامل Claude مع السياق الطويل أفضل من أي منافس.</li>
+        <li><strong>الاستدلال:</strong> في المسائل المعقدة متعددة الخطوات، Claude أكثر منهجية وأقل ميلًا إلى اتخاذ الطرق المختصرة.</li>
+        <li><strong>البرمجة:</strong> أصبح Claude Code أداة جادة للمطورين المحترفين.</li>
+        <li><strong>الصدق:</strong> أكثر احتمالًا لقول «لست متأكدًا» من اختلاق إجابة تبدو واثقة.</li>
       </ul>
-      <h3>Where Claude Falls Short</h3>
+      <h3>أين يقصّر Claude</h3>
       <ul>
-        <li><strong>Ecosystem:</strong> No plugin store, no image generation, no built-in voice mode.</li>
-        <li><strong>Speed:</strong> The highest-quality models (Opus) are noticeably slower than GPT-4o.</li>
+        <li><strong>المنظومة:</strong> لا متجر إضافات ولا توليد صور ولا وضع صوتي مدمج.</li>
+        <li><strong>السرعة:</strong> النماذج الأعلى جودة (Opus) أبطأ بوضوح من GPT-4o.</li>
       </ul>
 
-      <h2>The Verdict: It Depends on What You Do</h2>
-      <p>Both tools earn an <strong>A grade</strong>, but for different reasons:</p>
+      <h2>الحكم: يعتمد على ما تفعله</h2>
+      <p>تنال كلتا الأداتين <strong>تقييم A</strong>، لكن لأسباب مختلفة:</p>
       <ul>
-        <li><strong>Choose ChatGPT if</strong> you want the broadest toolkit — image generation, voice, plugins, data analysis.</li>
-        <li><strong>Choose Claude if</strong> quality of output matters most — professional writing, deep analysis, serious coding.</li>
-        <li><strong>Use both if</strong> you are a power user. Many professionals keep ChatGPT for quick tasks and Claude for deep work.</li>
+        <li><strong>اختر ChatGPT إذا</strong> كنت تريد أوسع مجموعة أدوات — توليد الصور والصوت والإضافات وتحليل البيانات.</li>
+        <li><strong>اختر Claude إذا</strong> كانت جودة المخرجات الأهم — الكتابة المهنية والتحليل العميق والبرمجة الجادة.</li>
+        <li><strong>استخدم كليهما إذا</strong> كنت مستخدمًا متمرسًا. يحتفظ كثير من المحترفين بـ ChatGPT للمهام السريعة وبـ Claude للعمل العميق.</li>
       </ul>
-      <h2>Pricing Comparison</h2>
-      <p>Both offer free tiers that are genuinely useful. ChatGPT Plus and Claude Pro both cost $20/month. Dollar for dollar, they are priced identically — the choice comes down to which strengths matter more for your workflow.</p>
+      <h2>مقارنة التسعير</h2>
+      <p>كلاهما يقدم باقات مجانية مفيدة فعلًا. ChatGPT Plus وClaude Pro يكلّف كل منهما $20/شهر. دولارًا بدولار، سعرهما متطابق — والاختيار يعود إلى أي نقاط القوة أهم لمسار عملك.</p>

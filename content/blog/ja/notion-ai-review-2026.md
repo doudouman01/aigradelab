@@ -1,11 +1,11 @@
 ---
-title: "Notion AI レビュー 2026：Workspace Intelligence — Tested and Graded"
-description: "We tested Notion AI for writing, Q&A, database autofill, and project management. Full review with scores. Is the $10/month add-on worth it? Updated November 2026."
+title: "Notion AIレビュー2026：ワークスペースのインテリジェンス：検証と評価"
+description: "文章作成、Q&A、データベースの自動入力、プロジェクト管理でNotion AIを検証しました。スコア付きの完全なレビューです。月額10ドルのアドオンは価値があるのでしょうか。2026年11月更新。"
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "読了時間：13分"
 grade: "A"
 scores_ux: 8.8
 scores_quality: 8.5
@@ -15,12 +15,12 @@ scores_support: 8.0
 toolName: "Notion AI"
 ---
 
-<h2>Notion AI in 2026: Your Workspace Gets a Brain</h2>
-<p>Notion AI is not a standalone AI tool — it is intelligence layered directly into the Notion workspace you already use. That distinction matters. While ChatGPT and Claude work in a separate tab, Notion AI operates inside your docs, databases, wikis, and project boards. It knows your projects, your meeting notes, your team's decisions. Ask it a question and it searches across everything your team has ever written in Notion to find the answer.</p>
-<p>The question isn't whether Notion AI is a good AI — it's whether the $10/user/month add-on justifies itself for teams already on Notion. After extensive testing, the answer is yes — with caveats.</p>
+<h2>2026年のNotion AI：ワークスペースに頭脳が宿る</h2>
+<p>Notion AIは、単体のAIツールではありません。すでにお使いのNotionのワークスペースに、直接組み込まれたインテリジェンスです。この違いは重要です。ChatGPTやClaudeが別のタブで動作するのに対し、Notion AIは、ドキュメント、データベース、Wiki、プロジェクトボードの中で動作します。プロジェクト、議事録、チームの決定事項を把握しています。質問すると、チームがこれまでにNotionに書いたあらゆるものを横断して検索し、答えを見つけます。</p>
+<p>問題は、Notion AIが優れたAIかどうかではなく、すでにNotionを使っているチームにとって、1ユーザーあたり月額10ドルのアドオンに見合うかどうかです。徹底的に検証した結果、答えはイエスです。ただし条件付きです。</p>
 
-<h2>Notion AI Scores</h2>
-<div class="score-card"><h3>Overall Grade: A</h3>
+<h2>Notion AIのスコア</h2>
+<div class="score-card"><h3>総合評価：A</h3>
   <div class="score-row"><span class="score-label">使いやすさ</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
   <div class="score-row"><span class="score-label">出力品質</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">コストパフォーマンス</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
@@ -28,111 +28,111 @@ toolName: "Notion AI"
   <div class="score-row"><span class="score-label">サポート</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
-<h2>What Notion AI Does Best</h2>
+<h2>Notion AIが最も得意なこと</h2>
 
-<h3>Workspace Q&A — The Killer Feature</h3>
-<p>This is why you buy Notion AI. Ask "What did the team decide about the pricing model?" or "When is the Q1 launch date?" and Notion AI searches across all your pages, databases, wikis, and meeting notes to find the answer — with source links. For teams with hundreds of Notion pages, this eliminates the daily frustration of searching for information someone documented three months ago.</p>
-<p>The Q&A now connects to external tools too — Slack, Google Drive, GitHub, Confluence. Ask a question and Notion AI pulls answers from across your stack, not just Notion. This cross-platform knowledge search is genuinely transformative for teams drowning in information spread across 10 different tools.</p>
+<h3>ワークスペースのQ&A：決め手となる機能</h3>
+<p>Notion AIを購入する理由は、これです。「料金モデルについて、チームは何を決めましたか？」や「第1四半期のローンチ日はいつですか？」と尋ねると、Notion AIは、すべてのページ、データベース、Wiki、議事録を横断して検索し、出典のリンク付きで答えを見つけます。何百ものNotionのページを持つチームにとって、3か月前に誰かが記録した情報を探し回るという日々のストレスがなくなります。</p>
+<p>Q&Aは、今では外部のツールにも接続します。Slack、Google ドライブ、GitHub、Confluenceです。質問すると、Notion AIはNotionだけでなく、あなたのスタック全体から答えを引き出します。この、プラットフォームをまたいだ知識検索は、10種類もの異なるツールに情報が散らばって埋もれているチームにとって、まさに変革的です。</p>
 
-<h3>Database Autofill</h3>
-<p>Notion AI can automatically fill database properties based on page content. Add a meeting notes page to your database and Notion AI extracts action items, assigns owners, sets due dates, and tags the project — all automatically. For project management databases, CRM entries, and content calendars, autofill saves 5-10 minutes per entry that adds up to hours weekly.</p>
+<h3>データベースの自動入力</h3>
+<p>Notion AIは、ページの内容に基づいて、データベースのプロパティを自動的に入力できます。議事録のページをデータベースに追加すると、Notion AIがアクションアイテムを抽出し、担当者を割り当て、期限を設定し、プロジェクトのタグを付けます。すべて自動です。プロジェクト管理のデータベース、CRMのエントリ、コンテンツカレンダーでは、自動入力によって1件あたり5〜10分が節約され、それが積み重なって毎週数時間になります。</p>
 
-<h3>Writing Assistance in Context</h3>
-<p>Unlike ChatGPT, Notion AI writes with your context. Ask it to draft a project brief and it pulls in relevant details from your existing project pages. Ask it to summarize a meeting and it structures the notes with action items based on how your team formats them. The contextual awareness makes the output immediately usable rather than generic.</p>
-<p>Standard writing features work well: summarize long pages, translate content, adjust tone, expand or shorten text, brainstorm ideas, create outlines. The quality is solid — comparable to ChatGPT for short-form content, slightly below Claude for nuanced analysis.</p>
+<h3>文脈に沿った文章作成の支援</h3>
+<p>ChatGPTとは異なり、Notion AIはあなたの文脈を踏まえて書きます。プロジェクトの概要の下書きを頼めば、既存のプロジェクトページから関連する詳細を引き出します。会議の要約を頼めば、チームの書式に従って、アクションアイテム付きでメモを構造化します。文脈を把握しているため、出力は一般的なものではなく、すぐに使えるものになります。</p>
+<p>標準的な文章作成機能もよく機能します。長いページの要約、コンテンツの翻訳、トーンの調整、文章の拡張や短縮、アイデアのブレインストーミング、アウトラインの作成などです。品質は堅実で、短い文章ではChatGPTに匹敵し、ニュアンスのある分析ではClaudeにやや劣ります。</p>
 
-<h3>AI Blocks</h3>
-<p>Add an AI block to any Notion page that automatically updates. Create a project page with an AI block that summarizes all linked tasks, their status, and blockers — it refreshes every time you visit the page. For dashboards and status pages, AI blocks turn static pages into living documents.</p>
+<h3>AIブロック</h3>
+<p>Notionの任意のページに、自動的に更新されるAIブロックを追加できます。リンクされたすべてのタスク、そのステータス、障害を要約するAIブロックを含むプロジェクトページを作ると、ページを訪れるたびに更新されます。ダッシュボードやステータスのページでは、AIブロックが静的なページを生きたドキュメントに変えます。</p>
 
-<h2>Where Notion AI Falls Short</h2>
+<h2>Notion AIが物足りない点</h2>
 
-<h3>Not a ChatGPT Replacement</h3>
-<p>Notion AI is designed for workspace tasks — not general-purpose conversation. You can't upload documents for analysis (unless they're already in Notion), you can't generate images, you can't execute code, and complex multi-turn reasoning is limited. For anything beyond your workspace, you still need ChatGPT or Claude.</p>
+<h3>ChatGPTの代替にはならない</h3>
+<p>Notion AIは、汎用的な会話ではなく、ワークスペースのタスクのために設計されています。分析のためにドキュメントをアップロードすることはできず（すでにNotionにあるものを除く）、画像の生成も、コードの実行もできず、複雑な複数ターンの推論にも限りがあります。ワークスペースの外のことには、やはりChatGPTやClaudeが必要です。</p>
 
-<h3>Only Valuable Inside Notion</h3>
-<p>If your team doesn't use Notion as its primary workspace, Notion AI offers zero value. The intelligence comes from your Notion data. An empty Notion workspace with AI is just a worse ChatGPT. The more your team uses Notion, the more valuable the AI becomes.</p>
+<h3>Notionの中でしか価値がない</h3>
+<p>チームがNotionをメインのワークスペースとして使っていなければ、Notion AIの価値はゼロです。インテリジェンスは、あなたのNotionのデータから生まれます。空のNotionのワークスペースとAIは、ただの劣ったChatGPTにすぎません。チームがNotionを使えば使うほど、AIの価値も高まります。</p>
 
-<h3>Cost Adds Up for Teams</h3>
-<p>At $10/user/month on top of the Notion subscription ($10-15/user/month), the total cost reaches $20-25/user/month. For a 20-person team, that's $400-500/month. The ROI is there for teams that live in Notion, but it's a real budget consideration.</p>
+<h3>チームではコストがかさむ</h3>
+<p>Notionのサブスクリプション（1ユーザーあたり月額10〜15ドル）に加えて、1ユーザーあたり月額10ドルがかかるため、合計は1ユーザーあたり月額20〜25ドルになります。20人のチームなら、月額400〜500ドルです。Notionを中心に仕事をしているチームには見合うリターンがありますが、予算面では現実的な検討事項です。</p>
 
-<h2>Notion AI 料金</h2>
+<h2>Notion AIの料金</h2>
 <table>
   <thead>
-    <tr><th>Notion Plan</th><th>Base Price</th><th>+ AI Add-on</th><th>Total</th></tr>
+    <tr><th>Notionのプラン</th><th>基本料金</th><th>＋AIアドオン</th><th>合計</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>$0</td><td>$10/member/mo</td><td>$10/member/mo</td></tr>
-    <tr><td>Plus</td><td>$10/member/mo</td><td>$10/member/mo</td><td>$20/member/mo</td></tr>
-    <tr><td>Business</td><td>$15/member/mo</td><td>$10/member/mo</td><td>$25/member/mo</td></tr>
-    <tr><td>Enterprise</td><td>Custom</td><td>$10/member/mo</td><td>Custom</td></tr>
+    <tr><td>Free</td><td>0ドル</td><td>メンバーあたり月額10ドル</td><td>メンバーあたり月額10ドル</td></tr>
+    <tr><td>Plus</td><td>メンバーあたり月額10ドル</td><td>メンバーあたり月額10ドル</td><td>メンバーあたり月額20ドル</td></tr>
+    <tr><td>Business</td><td>メンバーあたり月額15ドル</td><td>メンバーあたり月額10ドル</td><td>メンバーあたり月額25ドル</td></tr>
+    <tr><td>Enterprise</td><td>要相談</td><td>メンバーあたり月額10ドル</td><td>要相談</td></tr>
   </tbody>
 </table>
-<p>AI is included for all members on a workspace — you cannot enable it for some members only.</p>
+<p>AIは、ワークスペースのすべてのメンバーに含まれ、一部のメンバーだけに有効にすることはできません。</p>
 
-<h2>Who Should Use Notion AI?</h2>
+<h2>Notion AIを使うべき人</h2>
 
-<h3>Best For</h3>
+<h3>特におすすめ</h3>
 <ul>
-  <li><strong>Teams already on Notion</strong> — the workspace Q&A alone justifies the cost</li>
-  <li><strong>Knowledge-heavy organizations</strong> — companies with extensive documentation and wikis</li>
-  <li><strong>Project managers</strong> — database autofill and AI status summaries save hours</li>
-  <li><strong>Remote teams</strong> — cross-platform Q&A connects Slack, Drive, and GitHub knowledge</li>
+  <li><strong>すでにNotionを使っているチーム：</strong>ワークスペースのQ&Aだけで、コストに見合います</li>
+  <li><strong>知識を多く扱う組織：</strong>ドキュメントやWikiが豊富な企業</li>
+  <li><strong>プロジェクトマネージャー：</strong>データベースの自動入力とAIによるステータスの要約で、何時間も節約できます</li>
+  <li><strong>リモートチーム：</strong>プラットフォームをまたいだQ&Aが、Slack、ドライブ、GitHubの知識をつなぎます</li>
 </ul>
 
-<h3>Not Ideal For</h3>
+<h3>あまり向いていない人</h3>
 <ul>
-  <li><strong>Individuals</strong> — the cost is hard to justify for solo use when Claude is $20/month</li>
-  <li><strong>Teams not on Notion</strong> — don't switch to Notion just for AI</li>
-  <li><strong>Heavy AI generation needs</strong> — ChatGPT/Claude are better for content creation</li>
-  <li><strong>Budget-constrained teams</strong> — $10/user/month adds up fast</li>
+  <li><strong>個人：</strong>Claudeが月額20ドルである中、1人での利用ではコストを正当化しにくいです</li>
+  <li><strong>Notionを使っていないチーム：</strong>AIのためだけにNotionに乗り換えないでください</li>
+  <li><strong>AIによる生成を多く必要とする場合：</strong>コンテンツ制作には、ChatGPTやClaudeのほうが優れています</li>
+  <li><strong>予算に制約のあるチーム：</strong>1ユーザーあたり月額10ドルは、すぐにかさみます</li>
 </ul>
 
-<h2>Notion AI vs the Competition</h2>
+<h2>Notion AIと競合の比較</h2>
 
 <h3>Notion AI vs ChatGPT</h3>
-<p>Complementary, not competing. Notion AI works with your workspace data — meeting notes, project docs, team wikis. ChatGPT works with anything you paste into it. Use Notion AI for workspace intelligence, ChatGPT for everything else. Most power users have both.</p>
+<p>競合ではなく、補完し合います。Notion AIは、議事録、プロジェクトのドキュメント、チームのWikiなど、ワークスペースのデータで動作します。ChatGPTは、貼り付けたあらゆるものを扱います。ワークスペースのインテリジェンスにはNotion AI、それ以外のすべてにはChatGPTを使いましょう。ヘビーユーザーのほとんどは、両方を使っています。</p>
 
 <h3>Notion AI vs Microsoft Copilot</h3>
-<p>Same concept, different ecosystems. Copilot lives in Office 365 (Word, Excel, Teams). Notion AI lives in Notion. Choose based on which platform your team uses. Copilot is more expensive ($30/user/month) but covers more apps. Notion AI is cheaper and deeper within Notion.</p>
+<p>同じコンセプトで、エコシステムが異なります。CopilotはOffice 365（Word、Excel、Teams）の中にあり、Notion AIはNotionの中にあります。チームがどのプラットフォームを使っているかで選びましょう。Copilotはより高額（1ユーザーあたり月額30ドル）ですが、より多くのアプリをカバーします。Notion AIはより安価で、Notionの中ではより深く機能します。</p>
 
 <h3>Notion AI vs Confluence AI</h3>
-<p>Atlassian has added AI to Confluence with similar features — Q&A across pages, content generation, summarization. If your team uses the Atlassian stack (Jira + Confluence), Confluence AI is the natural choice. If you use Notion, stick with Notion AI. Don't switch platforms for AI features.</p>
+<p>Atlassianは、ページを横断するQ&A、コンテンツの生成、要約といった、同様の機能をConfluenceに追加しました。チームがAtlassianのスタック（Jira＋Confluence）を使っているなら、Confluence AIが自然な選択です。Notionを使っているなら、Notion AIを使い続けましょう。AI機能のためにプラットフォームを乗り換えてはいけません。</p>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>長所と短所のまとめ</h2>
+<h3>長所</h3>
 <ul>
-  <li>Workspace Q&A is genuinely transformative for teams</li>
-  <li>Cross-platform knowledge search (Slack, Drive, GitHub)</li>
-  <li>Database autofill saves hours of manual data entry</li>
-  <li>AI blocks create living, auto-updating dashboards</li>
-  <li>Contextual writing — knows your projects and style</li>
-  <li>Seamless integration — no context switching</li>
+  <li>ワークスペースのQ&Aは、チームにとって本当に変革的</li>
+  <li>プラットフォームをまたいだ知識検索（Slack、ドライブ、GitHub）</li>
+  <li>データベースの自動入力が、何時間もの手入力を節約</li>
+  <li>AIブロックが、自動更新される生きたダッシュボードを作る</li>
+  <li>文脈に沿った文章作成：プロジェクトとスタイルを把握している</li>
+  <li>シームレスな連携：画面の切り替えが不要</li>
 </ul>
-<h3>Cons</h3>
+<h3>短所</h3>
 <ul>
-  <li>$10/user/month adds up — $200/month for a 20-person team</li>
-  <li>Only valuable if your team already uses Notion heavily</li>
-  <li>Not a replacement for ChatGPT or Claude for general AI tasks</li>
-  <li>Q&A accuracy depends on how well your workspace is organized</li>
-  <li>Cannot enable for select users — all or nothing per workspace</li>
+  <li>1ユーザーあたり月額10ドルは、20人のチームで月額200ドルとかさむ</li>
+  <li>チームがすでにNotionを多用している場合にしか価値がない</li>
+  <li>一般的なAIのタスクでは、ChatGPTやClaudeの代わりにならない</li>
+  <li>Q&Aの精度は、ワークスペースがどれだけ整理されているかに左右される</li>
+  <li>特定のユーザーだけに有効にできず、ワークスペースごとに全員か誰もいないか</li>
 </ul>
 
-<h2>Final Verdict: A</h2>
-<p>Notion AI is the best example of AI integrated where you already work. The workspace Q&A feature alone — searching across all your team's knowledge to answer questions in seconds — is worth the $10/month for any team that has more than 50 pages of documentation. Database autofill, AI blocks, and contextual writing add genuine productivity gains on top.</p>
-<p><strong>Our recommendation:</strong> If your team uses Notion as its primary workspace, add AI — the ROI is immediate. If you're an individual, Claude Pro ($20/month) offers more value. If you don't use Notion, don't switch for the AI — it's the workspace that makes the AI valuable, not the other way around.</p>
+<h2>最終評価：A</h2>
+<p>Notion AIは、すでに働いている場所にAIを組み込んだ、最高の例です。チームの知識全体を横断して検索し、数秒で質問に答えるワークスペースのQ&A機能だけでも、50ページ以上のドキュメントがあるチームなら、月額10ドルの価値があります。データベースの自動入力、AIブロック、文脈に沿った文章作成が、その上にさらなる生産性の向上を加えます。</p>
+<p><strong>おすすめ：</strong>チームがNotionをメインのワークスペースとして使っているなら、AIを追加しましょう。すぐに元が取れます。個人なら、Claude Pro（月額20ドル）のほうが価値があります。Notionを使っていないなら、AIのために乗り換えないでください。AIに価値を与えるのはワークスペースであって、その逆ではありません。</p>
 
 <h2>よくある質問</h2>
 
-<h3>Is Notion AI worth $10/month?</h3>
-<p>For teams on Notion — yes, immediately. The workspace Q&A and database autofill save more than $10/month in time per person. For individuals — only if you have extensive Notion documentation you need to search through regularly.</p>
+<h3>Notion AIは月額10ドルの価値がありますか？</h3>
+<p>Notionを使っているチームなら、はい、すぐにです。ワークスペースのQ&Aとデータベースの自動入力は、1人あたり月額10ドル以上の時間を節約します。個人なら、定期的に検索する必要がある膨大なNotionのドキュメントがある場合に限ります。</p>
 
-<h3>Can Notion AI replace ChatGPT?</h3>
-<p>No. Notion AI is specialized for workspace tasks. For general AI conversation, document analysis, image generation, code execution, and creative writing, ChatGPT or Claude are better choices. Use Notion AI alongside a general AI assistant, not instead of one.</p>
+<h3>Notion AIはChatGPTの代わりになりますか？</h3>
+<p>いいえ。Notion AIは、ワークスペースのタスクに特化しています。一般的なAIとの会話、ドキュメントの分析、画像の生成、コードの実行、創作文には、ChatGPTやClaudeのほうが適しています。Notion AIは、汎用のAIアシスタントの代わりではなく、併用してください。</p>
 
-<h3>Does Notion AI work with external tools?</h3>
-<p>Yes. Notion AI connects to Slack, Google Drive, GitHub, and Confluence for cross-platform Q&A. This means you can ask Notion AI a question and it searches beyond Notion to find the answer.</p>
+<h3>Notion AIは外部のツールと連携しますか？</h3>
+<p>はい。Notion AIは、プラットフォームをまたいだQ&Aのために、Slack、Google ドライブ、GitHub、Confluenceに接続します。つまり、Notion AIに質問すると、Notionの外まで検索して答えを見つけてくれます。</p>
 
-<h3>Is my data safe with Notion AI?</h3>
-<p>Notion states that AI data is not used to train models and is processed with SOC 2 Type II compliance. Enterprise plans offer additional security controls including data residency options.</p>
+<h3>Notion AIでは、データは安全ですか？</h3>
+<p>Notionは、AIのデータはモデルの学習に使われず、SOC 2 Type II準拠で処理されると述べています。Enterpriseプランでは、データレジデンシーのオプションを含む、追加のセキュリティ管理が提供されています。</p>
 
-<p><em>Notion AI was tested by AIGradeLab in a team workspace with 200+ pages over 30 days. Grade reflects practical value for teams already on Notion as of November 2026. 料金 verified on notion.so.</em></p>
+<p><em>Notion AIは、AIGradeLabが、200ページ以上のあるチームのワークスペースで、30日間にわたり検証しました。評価は、2026年11月時点で、すでにNotionを使っているチームにとっての実用的な価値を反映しています。料金はnotion.soで確認しています。</em></p>

@@ -1,273 +1,273 @@
 ---
-title: "2026年おすすめAI Image Generators：10 Tools Tested and Graded"
-description: "We tested every major AI image generator with identical prompts and graded them A+ to F. Updated November 2026 with GPT Image 2.6, Nano Banana Pro, and Midjourney v8.2."
+title: "2026年のベストAI画像ジェネレーター：検証して評価した10のツール"
+description: "主要なAI画像ジェネレーターを、同一のプロンプトで検証し、A+からFで評価しました。GPT Image 2.6、Nano Banana Pro、Midjourney v8.2を反映し、2026年11月に更新。"
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "18 min read"
+readTime: "読了時間：18分"
 ---
 
-<h2>The Definitive AI Image Generator Ranking for November 2026</h2>
-      <p>The AI image generation landscape has transformed in the past two months alone. OpenAI dropped Images 2.6 with GIF support on November 4. Google's Nano Banana Pro is redefining photorealism. Midjourney v8.2 continues to set the artistic standard. We tested every major tool with identical prompts across five categories — photorealism, artistic style, text rendering, editing capabilities, and prompt adherence — and graded each one using our transparent AIGradeLab scoring system.</p>
+<h2>2026年11月版：AI画像ジェネレーターの決定版ランキング</h2>
+      <p>AI画像生成の状況は、この2か月だけで一変しました。OpenAIは、11月4日にGIFに対応したImages 2.6を公開しました。GoogleのNano Banana Proは、フォトリアリズムを塗り替えています。Midjourney v8.2は、引き続き芸術性の基準を打ち立てています。フォトリアリズム、芸術的なスタイル、テキスト描画、編集機能、プロンプトへの忠実さの5つのカテゴリーで、主要なツールすべてを同一のプロンプトで検証し、透明性の高いAIGradeLabのスコアリングシステムで、それぞれを評価しました。</p>
 
-      <h2>Quick Comparison Table</h2>
+      <h2>早見表</h2>
       <table>
         <thead>
-          <tr><th>Rank</th><th>Tool</th><th>Grade</th><th>Best For</th><th>Starting Price</th><th>Free Plan</th></tr>
+          <tr><th>順位</th><th>ツール</th><th>評価</th><th>最適な用途</th><th>開始価格</th><th>無料プラン</th></tr>
         </thead>
         <tbody>
-          <tr><td>1</td><td>Midjourney v8.2</td><td><strong>A+</strong></td><td>Artistic quality & cinematic visuals</td><td>$10/mo</td><td>No</td></tr>
-          <tr><td>2</td><td>ChatGPT Images 2.6</td><td><strong>A</strong></td><td>All-in-one generation + editing + GIFs</td><td>$20/mo (Plus)</td><td>Yes</td></tr>
-          <tr><td>3</td><td>Google Nano Banana Pro</td><td><strong>A</strong></td><td>Photorealism & text in images</td><td>Free (Gemini)</td><td>Yes</td></tr>
-          <tr><td>4</td><td>FLUX.2 Pro</td><td><strong>A-</strong></td><td>Open-weight flexibility & API</td><td>$0.03/image</td><td>Yes (dev)</td></tr>
-          <tr><td>5</td><td>Ideogram 4.0</td><td><strong>B+</strong></td><td>Text rendering in images</td><td>Free</td><td>Yes</td></tr>
-          <tr><td>6</td><td>Leonardo AI</td><td><strong>B+</strong></td><td>Creative control & game assets</td><td>Free</td><td>Yes</td></tr>
-          <tr><td>7</td><td>Adobe Firefly Image 4</td><td><strong>B</strong></td><td>Commercially safe images</td><td>$4.99/mo</td><td>Yes</td></tr>
-          <tr><td>8</td><td>Stable Diffusion 3.5</td><td><strong>B</strong></td><td>Self-hosted & full control</td><td>Free</td><td>Yes</td></tr>
-          <tr><td>9</td><td>Canva AI</td><td><strong>B-</strong></td><td>Quick social media visuals</td><td>$13/mo</td><td>Yes</td></tr>
-          <tr><td>10</td><td>Grok Imagine</td><td><strong>B-</strong></td><td>Creative generation on X</td><td>Free (X Premium)</td><td>Yes</td></tr>
+          <tr><td>1</td><td>Midjourney v8.2</td><td><strong>A+</strong></td><td>芸術的な品質と映画のようなビジュアル</td><td>月額10ドル</td><td>なし</td></tr>
+          <tr><td>2</td><td>ChatGPT Images 2.6</td><td><strong>A</strong></td><td>生成、編集、GIFをまとめて</td><td>月額20ドル（Plus）</td><td>あり</td></tr>
+          <tr><td>3</td><td>Google Nano Banana Pro</td><td><strong>A</strong></td><td>フォトリアリズムと画像内のテキスト</td><td>無料（Gemini）</td><td>あり</td></tr>
+          <tr><td>4</td><td>FLUX.2 Pro</td><td><strong>A-</strong></td><td>オープンウェイトの柔軟性とAPI</td><td>1枚0.03ドル</td><td>あり（開発者向け）</td></tr>
+          <tr><td>5</td><td>Ideogram 4.0</td><td><strong>B+</strong></td><td>画像内のテキスト描画</td><td>無料</td><td>あり</td></tr>
+          <tr><td>6</td><td>Leonardo AI</td><td><strong>B+</strong></td><td>クリエイティブな制御とゲーム用アセット</td><td>無料</td><td>あり</td></tr>
+          <tr><td>7</td><td>Adobe Firefly Image 4</td><td><strong>B</strong></td><td>商用で安全な画像</td><td>月額4.99ドル</td><td>あり</td></tr>
+          <tr><td>8</td><td>Stable Diffusion 3.5</td><td><strong>B</strong></td><td>セルフホストと完全な制御</td><td>無料</td><td>あり</td></tr>
+          <tr><td>9</td><td>Canva AI</td><td><strong>B-</strong></td><td>SNS用のビジュアルを素早く</td><td>月額13ドル</td><td>あり</td></tr>
+          <tr><td>10</td><td>Grok Imagine</td><td><strong>B-</strong></td><td>X上でのクリエイティブな生成</td><td>無料（X Premium）</td><td>あり</td></tr>
         </tbody>
       </table>
 
-      <h2>How We Test AI Image Generators</h2>
-      <p>Every tool was evaluated across five weighted categories:</p>
+      <h2>AI画像ジェネレーターの検証方法</h2>
+      <p>すべてのツールを、重み付けされた5つのカテゴリーで評価しました。</p>
       <ul>
-        <li><strong>Image Quality (30%)</strong> — Resolution, detail, lighting, and overall visual appeal</li>
-        <li><strong>Prompt Adherence (25%)</strong> — How accurately the output matches what you asked for</li>
-        <li><strong>Text Rendering (15%)</strong> — Ability to produce legible, accurate text inside images</li>
-        <li><strong>Editing & Control (15%)</strong> — Inpainting, outpainting, style references, and iterative editing</li>
-        <li><strong>Value & Accessibility (15%)</strong> — 料金 fairness, free tiers, and ease of use</li>
+        <li><strong>画像の品質（30%）：</strong>解像度、ディテール、照明、全体的な視覚的魅力</li>
+        <li><strong>プロンプトへの忠実さ（25%）：</strong>出力が、依頼した内容にどれだけ正確に合っているか</li>
+        <li><strong>テキストの描画（15%）：</strong>画像内に、読みやすく正確なテキストを作り出す能力</li>
+        <li><strong>編集と制御（15%）：</strong>インペインティング、アウトペインティング、スタイル参照、反復的な編集</li>
+        <li><strong>価値と利用しやすさ（15%）：</strong>料金の妥当性、無料プラン、使いやすさ</li>
       </ul>
-      <p>We ran identical prompts through every tool: a portrait with studio lighting, a product photo on marble, a poster with a 10-word headline, a fantasy landscape, and an architectural interior. Results were scored blind.</p>
+      <p>すべてのツールに、同一のプロンプトを実行しました。スタジオ照明のポートレート、大理石の上の商品写真、10語の見出し付きのポスター、ファンタジーの風景、建築のインテリアです。結果は、ブラインドで採点しました。</p>
 
-      <h2>1. Midjourney v8.2 — Grade: A+</h2>
-      <p>Midjourney remains the gold standard for AI image quality. V8.2 launched as the default model on July 24, 2026, with bolder aesthetics, reduced misfire rates, and a conversational Edit Model that lets you refine outputs by describing changes in plain English instead of regenerating from scratch.</p>
-      <h3>Why It Ranks #1</h3>
-      <p>The artistic taste built into Midjourney is unmatched. Lighting, color grading, depth of field, and composition are consistently excellent without requiring prompt engineering expertise. V8.2 also renders natively in 2K and includes short video clip generation on Pro and Mega plans.</p>
+      <h2>1. Midjourney v8.2：評価A+</h2>
+      <p>Midjourneyは、AIの画像品質のゴールドスタンダードであり続けています。V8.2は、2026年7月24日に、より大胆な美学、失敗率の低下、そして最初から生成し直す代わりに、変更を普通の英語で説明して出力を磨き上げられる対話型のEdit Modelとともに、デフォルトのモデルとして登場しました。</p>
+      <h3>1位の理由</h3>
+      <p>Midjourneyに組み込まれた芸術的なセンスは、他の追随を許しません。照明、色の調整、被写界深度、構図が、プロンプトエンジニアリングの専門知識を必要とせず、一貫して優れています。V8.2は、ネイティブで2Kで描画し、ProとMegaのプランでは、短い動画クリップの生成も含まれます。</p>
       <h3>料金</h3>
-      <p>Basic at $10/month (3.3 GPU hours). Standard at $30/month (15 hours, unlimited Relax). Pro at $60/month (30 hours). Mega at $120/month (60 hours). Annual billing saves 20%. No free tier.</p>
-      <h3>Pros</h3>
+      <p>Basicは月額10ドル（3.3 GPU時間）。Standardは月額30ドル（15時間、Relayモードは無制限）。Proは月額60ドル（30時間）。Megaは月額120ドル（60時間）。年間契約で20%の節約になります。無料プランはありません。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Unmatched artistic quality across all styles</li>
-        <li>V8.2 Edit Model for conversational refinement</li>
-        <li>Native 2K resolution</li>
-        <li>Short video clip generation on Pro+</li>
+        <li>あらゆるスタイルで、他の追随を許さない芸術的な品質</li>
+        <li>対話型で磨き上げるV8.2 Edit Model</li>
+        <li>ネイティブな2Kの解像度</li>
+        <li>Pro以上での、短い動画クリップの生成</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>No free tier at all</li>
-        <li>Subscription only — no pay-per-image option</li>
-        <li>No public API</li>
-        <li>Text rendering improving but not best-in-class</li>
+        <li>無料プランが一切ない</li>
+        <li>サブスクリプション専用：画像ごとの従量課金がない</li>
+        <li>公開APIがない</li>
+        <li>テキストの描画は向上しているが、最高水準ではない</li>
       </ul>
-      <p><strong>Verdict:</strong> If image quality is your top priority, nothing beats Midjourney v8.2. The Standard plan at $30/month with unlimited Relax generations is the sweet spot.</p>
+      <p><strong>評価：</strong>画像の品質が最優先なら、Midjourney v8.2に並ぶものはありません。Relayの生成が無制限の、月額30ドルのStandardプランが、最適な選択です。</p>
 
-      <h2>2. ChatGPT Images 2.6 (OpenAI) — Grade: A</h2>
-      <p>OpenAI released Images 2.6 on November 4, 2026 — making it one of the freshest entries on this list. The headline features: animated GIF creation, persistent reference images for brand consistency, SVG export, and 50% faster generation compared to Images 2.5.</p>
-      <h3>Why It Ranks #2</h3>
-      <p>The conversational workflow is the killer feature. Describe what you want, iterate in natural language, and the model maintains context across editing rounds. GIF creation is new and genuinely useful for social media content. The API splits into two models: Flare (speed) and Sunburst (quality).</p>
+      <h2>2. ChatGPT Images 2.6（OpenAI）：評価A</h2>
+      <p>OpenAIは、2026年11月4日にImages 2.6を公開し、このリストで最も新しい製品の1つとなりました。主な機能は、アニメーションGIFの作成、ブランドの一貫性のための永続的な参照画像、SVGのエクスポート、そしてImages 2.5と比べて50%高速な生成です。</p>
+      <h3>2位の理由</h3>
+      <p>決め手は、対話型のワークフローです。欲しいものを説明し、自然言語で反復すると、モデルは編集のラウンドをまたいで文脈を維持します。GIFの作成は新しく、SNS用のコンテンツに本当に役立ちます。APIは、Flare（速度）とSunburst（品質）の2つのモデルに分かれています。</p>
       <h3>料金</h3>
-      <p>Available on all ChatGPT tiers including Free (limited). Plus at $20/month. Pro at $200/month for priority access.</p>
-      <h3>Pros</h3>
+      <p>無料（限定的）を含む、すべてのChatGPTのプランで利用できます。Plusは月額20ドル。優先アクセスのProは月額200ドル。</p>
+      <h3>長所</h3>
       <ul>
-        <li>GIF creation — unique feature as of November 2026</li>
-        <li>Conversational editing with context memory</li>
-        <li>Reference images for consistent branding</li>
-        <li>SVG output support</li>
-        <li>Available on Free tier</li>
-        <li>Excellent text rendering</li>
+        <li>GIFの作成：2026年11月時点で唯一の機能</li>
+        <li>文脈を記憶する対話型の編集</li>
+        <li>一貫したブランディングのための参照画像</li>
+        <li>SVG出力に対応</li>
+        <li>無料プランで利用できる</li>
+        <li>優れたテキストの描画</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Artistic quality does not match Midjourney</li>
-        <li>Rate limits on Free and Plus tiers</li>
-        <li>API pricing can get expensive at scale</li>
+        <li>芸術的な品質はMidjourneyに及ばない</li>
+        <li>FreeとPlusのプランにはレート制限がある</li>
+        <li>大規模では、APIの料金が高額になりうる</li>
       </ul>
-      <p><strong>Verdict:</strong> The most versatile AI image generator available. If you already use ChatGPT, Images 2.6 turns it into a complete visual creation studio. The GIF feature alone is worth exploring.</p>
+      <p><strong>評価：</strong>利用できる中で最も用途の広いAI画像ジェネレーターです。すでにChatGPTを使っているなら、Images 2.6は、ChatGPTを完全なビジュアル制作のスタジオに変えます。GIFの機能だけでも、試す価値があります。</p>
 
-      <h2>3. Google Nano Banana Pro — Grade: A</h2>
-      <p>Nano Banana Pro (also called Gemini 3 Pro Image) is Google's latest image generation model built into Gemini. It leads independent benchmarks for photorealism and has become the default image model across Google Ads, Slides, and AI Mode in Search.</p>
-      <h3>Why It Ranks #3</h3>
-      <p>Photorealism is where Nano Banana Pro genuinely excels. In blind comparisons, it produces the most convincing skin textures, natural lighting, and realistic material rendering. Generation speed is impressive at 2-5 seconds per image. Supports up to 4K resolution in preview.</p>
+      <h2>3. Google Nano Banana Pro：評価A</h2>
+      <p>Nano Banana Pro（Gemini 3 Pro Imageとも呼ばれる）は、Geminiに組み込まれた、Googleの最新の画像生成モデルです。フォトリアリズムの独立したベンチマークでリードし、Google広告、スライド、検索のAIモードで、デフォルトの画像モデルになりました。</p>
+      <h3>3位の理由</h3>
+      <p>Nano Banana Proが本当に優れているのは、フォトリアリズムです。ブラインドの比較では、最も説得力のある肌の質感、自然な照明、リアルな素材の描写を生み出します。生成速度は、1枚あたり2〜5秒と印象的です。プレビューでは、最大4Kの解像度に対応しています。</p>
       <h3>料金</h3>
-      <p>Free through Gemini. AI Plus at $7.99/month. AI Pro at $20/month (~100 images/day at 2K). API pricing starts at ~$0.134 per image at 1K resolution. Imagen 4 Fast is cheaper at $0.02/image via API.</p>
-      <h3>Pros</h3>
+      <p>Geminiを通じて無料。AI Plusは月額7.99ドル。AI Proは月額20ドル（2Kで1日に約100枚）。APIの料金は、1Kの解像度で1枚あたり約0.134ドルからです。Imagen 4 Fastは、API経由で1枚0.02ドルと、より安価です。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Best photorealism on the market</li>
-        <li>Strong text rendering in images</li>
-        <li>Very fast generation (2-5 seconds)</li>
-        <li>Up to 4K resolution (preview)</li>
-        <li>Available through Gemini free tier</li>
-        <li>SynthID watermarking for provenance</li>
+        <li>市場で最高のフォトリアリズム</li>
+        <li>画像内の強力なテキスト描画</li>
+        <li>非常に高速な生成（2〜5秒）</li>
+        <li>最大4Kの解像度（プレビュー）</li>
+        <li>Geminiの無料プランで利用できる</li>
+        <li>来歴を示すSynthIDの透かし</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Less artistic flexibility than Midjourney</li>
-        <li>Limited editing compared to ChatGPT</li>
-        <li>API pricing is premium tier</li>
-        <li>4K still in preview</li>
+        <li>Midjourneyより、芸術的な柔軟性が低い</li>
+        <li>ChatGPTと比べて、編集が限られている</li>
+        <li>APIの料金が高めの価格帯</li>
+        <li>4Kはまだプレビュー</li>
       </ul>
-      <p><strong>Verdict:</strong> The photorealism champion. If you need product photography, headshots, or realistic lifestyle imagery, Nano Banana Pro is the best option in 2026.</p>
+      <p><strong>評価：</strong>フォトリアリズムの王者です。商品写真、ヘッドショット、リアルなライフスタイルの画像が必要なら、Nano Banana Proが2026年で最高の選択肢です。</p>
 
-      <h2>4. FLUX.2 Pro (Black Forest Labs) — Grade: A-</h2>
-      <p>FLUX.2 is the second generation from Black Forest Labs — the German lab founded by ex-Stability AI researchers. A 32-billion parameter model family with five variants covering every use case from free experimentation to production-grade output.</p>
-      <h3>Why It Ranks #4</h3>
-      <p>Flexibility. FLUX.2 Klein (4B) is fully open-source under Apache 2.0. Dev is free for non-commercial use. Pro delivers production quality at $0.03/image — the most affordable high-quality API on the market. Multi-reference editing supports up to 10 reference images.</p>
+      <h2>4. FLUX.2 Pro（Black Forest Labs）：評価A-</h2>
+      <p>FLUX.2は、元Stability AIの研究者が設立した、ドイツのラボであるBlack Forest Labsの第2世代です。320億パラメーターのモデルファミリーで、無料の実験から本番品質の出力まで、あらゆる用途をカバーする5つのバリアントがあります。</p>
+      <h3>4位の理由</h3>
+      <p>柔軟性です。FLUX.2 Klein（40億）は、Apache 2.0のもとで完全にオープンソースです。Devは、非商用なら無料です。Proは、1枚0.03ドルで本番品質を提供し、市場で最も手頃な、高品質のAPIです。複数参照の編集は、最大10枚の参照画像に対応します。</p>
       <h3>料金</h3>
-      <p>Klein: free (Apache 2.0). Dev: $0.01/image. Flex: ~$0.025/image. Pro: $0.03/image. Max: $0.07/image.</p>
-      <h3>Pros</h3>
+      <p>Klein：無料（Apache 2.0）。Dev：1枚0.01ドル。Flex：1枚約0.025ドル。Pro：1枚0.03ドル。Max：1枚0.07ドル。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Open-weight option — run locally for free</li>
-        <li>Best quality-to-price ratio on the market</li>
-        <li>Strong text rendering with Flex variant</li>
-        <li>Up to 4MP output resolution</li>
-        <li>Multi-reference editing (up to 10 images)</li>
+        <li>オープンウェイトの選択肢：ローカルで無料で実行できる</li>
+        <li>市場で最高の、品質対価格の比率</li>
+        <li>Flexバリアントによる、強力なテキスト描画</li>
+        <li>最大4MPの出力解像度</li>
+        <li>複数参照の編集（最大10枚の画像）</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>No consumer-friendly interface — API only</li>
-        <li>Requires technical knowledge for local setup</li>
-        <li>Thinner community than Midjourney or Stable Diffusion</li>
+        <li>一般ユーザー向けのインターフェースがない：APIのみ</li>
+        <li>ローカルのセットアップには、技術的な知識が必要</li>
+        <li>MidjourneyやStable Diffusionより、コミュニティが薄い</li>
       </ul>
-      <p><strong>Verdict:</strong> The power user's choice. Best quality-to-price ratio for developers and anyone comfortable with APIs.</p>
+      <p><strong>評価：</strong>パワーユーザーの選択です。開発者や、APIに慣れている人にとって、最高の品質対価格の比率です。</p>
 
-      <h2>5. Ideogram 4.0 — Grade: B+</h2>
-      <p>Ideogram built its reputation on text that actually spells correctly in AI images. Version 4.0, launched June 2026, added editable text layers, bounding-box layout control, and alpha channel output. It consistently produces 90-95% text accuracy — the highest of any AI image generator.</p>
+      <h2>5. Ideogram 4.0：評価B+</h2>
+      <p>Ideogramは、AI画像の中で、スペルが実際に正しいテキストで評判を築きました。2026年6月に登場したバージョン4.0では、編集可能なテキストレイヤー、バウンディングボックスによるレイアウトの制御、アルファチャンネルの出力が加わりました。90〜95%のテキスト精度を一貫して実現しており、あらゆるAI画像ジェネレーターの中で最高です。</p>
       <h3>料金</h3>
-      <p>Free tier available. Paid plans from approximately $8/month. Slow generations unlimited on paid tiers.</p>
-      <h3>Pros</h3>
+      <p>無料プランあり。有料プランは月額約8ドルから。有料プランでは、低速の生成が無制限です。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Best text rendering of any AI image generator</li>
-        <li>Editable text layers (4.0)</li>
-        <li>Style References for consistent outputs</li>
-        <li>Alpha channel output for design workflows</li>
+        <li>あらゆるAI画像ジェネレーターで最高のテキスト描画</li>
+        <li>編集可能なテキストレイヤー（4.0）</li>
+        <li>一貫した出力のためのStyle References</li>
+        <li>デザインのワークフローのための、アルファチャンネルの出力</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Photorealism of human faces is inconsistent</li>
-        <li>Less artistic range than Midjourney</li>
-        <li>Smaller community</li>
+        <li>人物の顔のフォトリアリズムにばらつきがある</li>
+        <li>Midjourneyより、芸術的な幅が狭い</li>
+        <li>コミュニティが小さい</li>
       </ul>
-      <p><strong>Verdict:</strong> If readable text in your images is non-negotiable — posters, packaging, social graphics — Ideogram 4.0 is the tool to use.</p>
+      <p><strong>評価：</strong>画像内の読みやすいテキストが譲れない（ポスター、パッケージ、SNS用のグラフィック）なら、Ideogram 4.0が使うべきツールです。</p>
 
-      <h2>6. Leonardo AI — Grade: B+</h2>
-      <p>Leonardo AI offers the most complete generate-edit-upscale workflow in one platform. The Phoenix model delivers strong results, and 150 free tokens per day make it the most generous free tier available for AI image generation.</p>
+      <h2>6. Leonardo AI：評価B+</h2>
+      <p>Leonardo AIは、1つのプラットフォームで、生成、編集、アップスケールまでの、最も完全なワークフローを提供します。Phoenixモデルは優れた結果を出し、1日150トークンの無料枠は、AI画像生成で利用できる、最も充実した無料プランです。</p>
       <h3>料金</h3>
-      <p>Free: 150 tokens/day (~4,500/month). Essential: ~$10/month. Premium: ~$24/month. Ultimate: ~$48/month.</p>
-      <h3>Pros</h3>
+      <p>無料：1日150トークン（月約4,500）。Essential：月額約10ドル。Premium：月額約24ドル。Ultimate：月額約48ドル。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Best free tier — 150 tokens per day</li>
-        <li>Full editing suite (canvas, generative fill, upscaler)</li>
-        <li>Custom model training</li>
-        <li>Texture and 3D asset generation</li>
+        <li>最高の無料プラン：1日150トークン</li>
+        <li>完全な編集スイート（キャンバス、生成塗りつぶし、アップスケーラー）</li>
+        <li>カスタムモデルの学習</li>
+        <li>テクスチャと3Dアセットの生成</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Token system can be confusing</li>
-        <li>Quality below Midjourney and Nano Banana Pro</li>
-        <li>Custom models cannot be exported</li>
+        <li>トークンの仕組みがわかりにくい</li>
+        <li>品質は、MidjourneyとNano Banana Proに及ばない</li>
+        <li>カスタムモデルはエクスポートできない</li>
       </ul>
-      <p><strong>Verdict:</strong> Best value all-in-one platform. Most features per dollar of any generator tested.</p>
+      <p><strong>評価：</strong>最高のコストパフォーマンスのオールインワンのプラットフォームです。検証したジェネレーターの中で、1ドルあたりの機能が最も多いです。</p>
 
-      <h2>7. Adobe Firefly Image 4 — Grade: B</h2>
-      <p>Adobe Firefly is the only major AI image generator trained exclusively on licensed content — Adobe Stock, openly licensed work, and public domain. Firefly Image 4 shipped April 2026 with 2K resolution and improved style control, integrating directly into Photoshop and the full Creative Cloud suite.</p>
+      <h2>7. Adobe Firefly Image 4：評価B</h2>
+      <p>Adobe Fireflyは、ライセンスされたコンテンツ（Adobe Stock、オープンにライセンスされた作品、パブリックドメイン）のみで学習した、唯一の主要なAI画像ジェネレーターです。Firefly Image 4は、2026年4月に、2Kの解像度と改善されたスタイルの制御とともに登場し、Photoshopと、Creative Cloudの全スイートに直接統合されています。</p>
       <h3>料金</h3>
-      <p>Firefly Starter at $4.99/month (100 credits). Included with Creative Cloud ($54.99/month). Enterprise at custom pricing.</p>
-      <h3>Pros</h3>
+      <p>Firefly Starterは月額4.99ドル（100クレジット）。Creative Cloud（月額54.99ドル）に含まれます。Enterpriseは要相談。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Commercially safe — trained on licensed content only</li>
-        <li>IP indemnification from Adobe</li>
-        <li>Deep Photoshop integration</li>
-        <li>Vector output for logos and icons</li>
+        <li>商用で安全：ライセンスされたコンテンツのみで学習</li>
+        <li>Adobeによる知的財産の補償</li>
+        <li>Photoshopとの深い連携</li>
+        <li>ロゴとアイコン向けのベクター出力</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Image quality competitive but not exceptional</li>
-        <li>Best features require Creative Cloud subscription</li>
-        <li>Credits burn quickly on heavy use</li>
+        <li>画像の品質は競争力があるが、傑出してはいない</li>
+        <li>最高の機能には、Creative Cloudのサブスクリプションが必要</li>
+        <li>ヘビーな利用では、クレジットをすぐに消費する</li>
       </ul>
-      <p><strong>Verdict:</strong> The enterprise-safe choice. If legal clarity on AI-generated images matters, Firefly is the answer.</p>
+      <p><strong>評価：</strong>企業が安心して使える選択です。AI生成画像の法的な明確さが重要なら、Fireflyが答えです。</p>
 
-      <h2>8. Stable Diffusion 3.5 — Grade: B</h2>
-      <p>The original open-source image generator remains widely used thanks to its massive community of custom models, LoRAs, and workflows through ComfyUI and Automatic1111.</p>
-      <h3>Pros</h3>
+      <h2>8. Stable Diffusion 3.5：評価B</h2>
+      <p>元祖のオープンソースの画像ジェネレーターは、カスタムモデル、LoRA、ComfyUIやAutomatic1111によるワークフローの巨大なコミュニティのおかげで、今も広く使われています。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Fully open-weight — run locally, modify freely</li>
-        <li>Massive community of extensions</li>
-        <li>No per-image cost when self-hosted</li>
-        <li>Complete creative control</li>
+        <li>完全なオープンウェイト：ローカルで実行し、自由に変更できる</li>
+        <li>拡張機能の巨大なコミュニティ</li>
+        <li>セルフホストなら、画像ごとのコストがかからない</li>
+        <li>完全なクリエイティブの制御</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Requires technical setup</li>
-        <li>Base model quality trails Midjourney and FLUX.2</li>
-        <li>Text rendering is poor without specialized models</li>
+        <li>技術的なセットアップが必要</li>
+        <li>基本モデルの品質は、MidjourneyとFLUX.2に及ばない</li>
+        <li>専用のモデルがないと、テキストの描画が貧弱</li>
       </ul>
-      <p><strong>Verdict:</strong> The tinkerer's paradise. Total control for those willing to set it up.</p>
+      <p><strong>評価：</strong>いじり好きの楽園です。セットアップをいとわない人には、完全な制御が手に入ります。</p>
 
-      <h2>9. Canva AI — Grade: B-</h2>
-      <p>Canva's built-in AI image generation is the most accessible option on this list. Not competing with Midjourney on quality — designed to get good-enough images into your designs as fast as possible.</p>
-      <h3>Pros</h3>
+      <h2>9. Canva AI：評価B-</h2>
+      <p>CanvaのAI画像生成が組み込まれており、このリストで最も手の届きやすい選択肢です。品質でMidjourneyと競うのではなく、そこそこ良い画像を、できるだけ早くデザインに取り込むために作られています。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Zero learning curve</li>
-        <li>Integrated with templates and branding tools</li>
-        <li>Affordable at $13/month (Canva Pro)</li>
+        <li>学習コストがゼロ</li>
+        <li>テンプレートとブランディングのツールと統合されている</li>
+        <li>月額13ドル（Canva Pro）と手頃</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Image quality noticeably below dedicated generators</li>
-        <li>Limited control over style and output</li>
+        <li>画像の品質が、専用のジェネレーターより明らかに低い</li>
+        <li>スタイルと出力の制御が限られている</li>
       </ul>
-      <p><strong>Verdict:</strong> Best for non-designers who need quick social media visuals.</p>
+      <p><strong>評価：</strong>SNS用のビジュアルを素早く必要とする、デザイナーでない人に最適です。</p>
 
-      <h2>10. Grok Imagine (xAI) — Grade: B-</h2>
-      <p>Grok's image generation through X (formerly Twitter) offers fewer content restrictions than competitors. Capable of meme content and creative variations that other platforms refuse.</p>
-      <h3>Pros</h3>
+      <h2>10. Grok Imagine（xAI）：評価B-</h2>
+      <p>X（旧Twitter）を通じたGrokの画像生成は、競合より、コンテンツの制限が少ないのが特徴です。他のプラットフォームが拒否する、ミームのコンテンツやクリエイティブなバリエーションにも対応できます。</p>
+      <h3>長所</h3>
       <ul>
-        <li>Fewer content restrictions</li>
-        <li>Integrated into X for quick sharing</li>
-        <li>Included with X Premium</li>
+        <li>コンテンツの制限が少ない</li>
+        <li>Xに統合されており、素早く共有できる</li>
+        <li>X Premiumに含まれる</li>
       </ul>
-      <h3>Cons</h3>
+      <h3>短所</h3>
       <ul>
-        <li>Inconsistent image quality</li>
-        <li>Limited editing capabilities</li>
-        <li>Platform-dependent</li>
+        <li>画像の品質にばらつきがある</li>
+        <li>編集機能が限られている</li>
+        <li>プラットフォームに依存する</li>
       </ul>
-      <p><strong>Verdict:</strong> Niche player for X content creation. Not a serious contender for professional work.</p>
+      <p><strong>評価：</strong>X向けのコンテンツ制作のニッチな存在です。プロの仕事の有力な候補ではありません。</p>
 
-      <h2>Which AI Image Generator Should You Choose?</h2>
+      <h2>どのAI画像ジェネレーターを選ぶべき？</h2>
       <ul>
-        <li><strong>Best overall quality:</strong> Midjourney v8.2</li>
-        <li><strong>Best all-rounder:</strong> ChatGPT Images 2.6</li>
-        <li><strong>Best for photorealism:</strong> Google Nano Banana Pro</li>
-        <li><strong>Best for developers:</strong> FLUX.2 Pro</li>
-        <li><strong>Best for text in images:</strong> Ideogram 4.0</li>
-        <li><strong>Best free option:</strong> Leonardo AI</li>
-        <li><strong>Best for commercial safety:</strong> Adobe Firefly Image 4</li>
-        <li><strong>Best for self-hosting:</strong> Stable Diffusion 3.5</li>
+        <li><strong>総合的に最高の品質：</strong>Midjourney v8.2</li>
+        <li><strong>最高のオールラウンダー：</strong>ChatGPT Images 2.6</li>
+        <li><strong>フォトリアリズムに最適：</strong>Google Nano Banana Pro</li>
+        <li><strong>開発者に最適：</strong>FLUX.2 Pro</li>
+        <li><strong>画像内のテキストに最適：</strong>Ideogram 4.0</li>
+        <li><strong>最高の無料の選択肢：</strong>Leonardo AI</li>
+        <li><strong>商用の安全性に最適：</strong>Adobe Firefly Image 4</li>
+        <li><strong>セルフホストに最適：</strong>Stable Diffusion 3.5</li>
       </ul>
-      <p>For most people, start with <strong>ChatGPT Images 2.6</strong> (free tier available) or <strong>Nano Banana Pro</strong> (free through Gemini). Move to <strong>Midjourney</strong> if you need premium artistic quality, or <strong>FLUX.2</strong> if you need API access and customization.</p>
+      <p>ほとんどの人は、<strong>ChatGPT Images 2.6</strong>（無料プランあり）か、<strong>Nano Banana Pro</strong>（Gemini経由で無料）から始めましょう。最高の芸術的な品質が必要なら<strong>Midjourney</strong>に、APIへのアクセスとカスタマイズが必要なら<strong>FLUX.2</strong>に移りましょう。</p>
 
-      <h2>AI Image Generator Market: Key Trends in Late 2026</h2>
-      <p><strong>Speed is the new battleground.</strong> Nano Banana Pro generates in 2-5 seconds. GPT Image 2.6 Flare delivers in as little as 6 seconds. Near-instant output is becoming the expectation.</p>
-      <p><strong>Text rendering is now table stakes.</strong> What was Ideogram's unique advantage is becoming baseline. ChatGPT Images 2.6, Nano Banana Pro, and FLUX.2 Flex all produce legible text.</p>
-      <p><strong>GIFs and motion are the next frontier.</strong> OpenAI's GIF support in Images 2.6 and Midjourney's short video clips are blurring the line between still and motion.</p>
-      <p><strong>Open vs closed is a real choice.</strong> FLUX.2 and Stable Diffusion offer full control. Midjourney and ChatGPT offer polish and convenience.</p>
+      <h2>AI画像ジェネレーター市場：2026年後半の主な傾向</h2>
+      <p><strong>速度が新たな戦場です。</strong>Nano Banana Proは、2〜5秒で生成します。GPT Image 2.6 Flareは、最短6秒で出力します。ほぼ即座の出力が、当たり前になりつつあります。</p>
+      <p><strong>テキストの描画は、今や最低条件です。</strong>Ideogramの独自の強みだったものが、基本になりつつあります。ChatGPT Images 2.6、Nano Banana Pro、FLUX.2 Flexは、いずれも読みやすいテキストを生成します。</p>
+      <p><strong>GIFとモーションが、次のフロンティアです。</strong>Images 2.6でのOpenAIのGIFへの対応と、Midjourneyの短い動画クリップは、静止画と動きの境界を曖昧にしています。</p>
+      <p><strong>オープンかクローズドかは、本当の選択です。</strong>FLUX.2とStable Diffusionは、完全な制御を提供します。MidjourneyとChatGPTは、洗練と利便性を提供します。</p>
 
       <h2>よくある質問</h2>
-      <h3>What is the best free AI image generator in 2026?</h3>
-      <p><strong>Leonardo AI</strong> offers the most generous free tier with 150 tokens per day and a full editing suite. <strong>Nano Banana Pro</strong> through Gemini and <strong>ChatGPT Images 2.6</strong> also offer free access with limitations.</p>
-      <h3>Which AI image generator has the best text rendering?</h3>
-      <p><strong>Ideogram 4.0</strong> leads with 90-95% text accuracy. ChatGPT Images 2.6 and Nano Banana Pro are close behind.</p>
-      <h3>Is Midjourney worth $30/month?</h3>
-      <p>Yes, if you generate images regularly and care about artistic quality. The Standard plan includes unlimited Relax mode, making the per-image cost effectively zero for patient users.</p>
-      <h3>Can I use AI-generated images commercially?</h3>
-      <p><strong>Adobe Firefly</strong> offers the strongest commercial license with IP indemnification. <strong>Midjourney</strong> allows commercial use on paid plans. Always check each platform's terms of service.</p>
-      <h3>What happened to DALL-E?</h3>
-      <p>DALL-E 3 was deprecated in May 2026. OpenAI replaced it with the GPT Image model family, now at version 2.6 (November 2026). If you use ChatGPT, you are already using the successor.</p>
-      <h3>What is Nano Banana Pro?</h3>
-      <p>Nano Banana Pro is Google's latest image generation model, also known as Gemini 3 Pro Image. Built into Gemini, it excels at photorealistic image generation with strong text rendering.</p>
+      <h3>2026年で最高の無料AI画像ジェネレーターは？</h3>
+      <p><strong>Leonardo AI</strong>が、1日150トークンと完全な編集スイートで、最も充実した無料プランを提供しています。Gemini経由の<strong>Nano Banana Pro</strong>と、<strong>ChatGPT Images 2.6</strong>も、制限付きで無料で利用できます。</p>
+      <h3>最高のテキスト描画を持つAI画像ジェネレーターは？</h3>
+      <p><strong>Ideogram 4.0</strong>が、90〜95%のテキスト精度でリードしています。ChatGPT Images 2.6とNano Banana Proが、すぐ後に続きます。</p>
+      <h3>Midjourneyは月額30ドルの価値がありますか？</h3>
+      <p>画像を定期的に生成し、芸術的な品質を重視するなら、はい。Standardプランには、無制限のRelayモードが含まれるため、待てるユーザーにとっては、画像あたりのコストは実質ゼロです。</p>
+      <h3>AI生成の画像を商用で使えますか？</h3>
+      <p><strong>Adobe Firefly</strong>は、知的財産の補償付きの、最も強力な商用ライセンスを提供します。<strong>Midjourney</strong>は、有料プランでの商用利用を認めています。必ず各プラットフォームの利用規約を確認してください。</p>
+      <h3>DALL-Eはどうなりましたか？</h3>
+      <p>DALL-E 3は、2026年5月に廃止されました。OpenAIは、これをGPT Imageのモデルファミリーに置き換え、現在はバージョン2.6（2026年11月）です。ChatGPTを使っているなら、すでに後継を使っています。</p>
+      <h3>Nano Banana Proとは何ですか？</h3>
+      <p>Nano Banana Proは、Googleの最新の画像生成モデルで、Gemini 3 Pro Imageとも呼ばれます。Geminiに組み込まれ、強力なテキスト描画を備えた、フォトリアルな画像の生成に優れています。</p>
 
-      <p><em>Every tool in this guide was tested by AIGradeLab using our standardized methodology. Grades reflect performance as of November 2026. 料金 verified on each platform's official website on November 14, 2026.</em></p>
+      <p><em>このガイドのすべてのツールは、AIGradeLabが、標準化された方法論で検証しました。評価は、2026年11月時点の性能を反映しています。料金は、2026年11月14日に、各プラットフォームの公式ウェブサイトで確認しています。</em></p>

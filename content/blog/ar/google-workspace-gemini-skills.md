@@ -1,114 +1,114 @@
 ---
-title: "Google Workspace يحصل على مهارات Gemini المخصصة: ابنِ أتمتتك الخاصة"
-description: "المهارات في Google Workspace تتيح تعليمات مخصصة قابلة لإعادة الاستخدام لـ Gemini."
-category: "Lab Notes"
+title: "Google Workspace تحصل على مهارات ذكاء اصطناعي مخصصة: ابنِ أتمتة Gemini الخاصة بك"
+description: "تطرح Google المهارات (Skills) في Workspace — تعليمات مخصصة قابلة لإعادة الاستخدام لـ Gemini عبر Docs وSheets وGmail وغيرها. إليك ما يعنيه ذلك لإنتاجية الأعمال."
+category: "ملاحظات المختبر"
 categorySlug: "lab-notes"
 date: "2026-11-22"
-readTime: "7 min read"
+readTime: "وقت القراءة: 7 دقائق"
 ---
 
-<h2>Gemini Skills Are Rolling Out Across Google Workspace</h2>
+<h2>مهارات Gemini تُطرح عبر Google Workspace</h2>
 
-<p>Google is deploying one of the most practical AI features we've seen this year: Skills in Google Workspace. Announced during the week of November 13, 2026, Skills are reusable, custom instructions that guide Gemini to apply your team's specific rules, templates, and reference files — consistently, every time.</p>
+<p>تنشر Google إحدى أكثر ميزات الذكاء الاصطناعي عمليةً التي رأيناها هذا العام: المهارات (Skills) في Google Workspace. أُعلن عنها خلال أسبوع 13 نوفمبر 2026، والمهارات هي تعليمات مخصصة قابلة لإعادة الاستخدام توجّه Gemini لتطبيق قواعد فريقك وقوالبه وملفاته المرجعية المحددة — باتساق، في كل مرة.</p>
 
-<p>Think of it as building your own Gemini automations without writing code. Instead of re-explaining your formatting preferences, company terminology, or review processes every time you prompt Gemini, you create a Skill once and apply it across Workspace apps.</p>
+<p>فكّر فيها كبناء أتمتة Gemini الخاصة بك دون كتابة كود. فبدلًا من إعادة شرح تفضيلات التنسيق أو مصطلحات شركتك أو عمليات المراجعة في كل مرة تخاطب فيها Gemini، تنشئ مهارة مرة واحدة وتطبّقها عبر تطبيقات Workspace.</p>
 
-<h2>What Are Gemini Skills?</h2>
+<h2>ما هي مهارات Gemini؟</h2>
 
-<p>A Skill is a saved set of instructions that tells Gemini how to handle a specific type of task. When you invoke a Skill, Gemini follows those instructions using whatever context you provide — a document, a spreadsheet, an email thread.</p>
+<p>المهارة هي مجموعة تعليمات محفوظة تخبر Gemini كيف يتعامل مع نوع محدد من المهام. وعندما تستدعي مهارة، يتبع Gemini تلك التعليمات باستخدام أي سياق تقدمه — مستند أو جدول بيانات أو سلسلة رسائل بريد.</p>
 
-<h3>Examples of What You Can Build</h3>
+<h3>أمثلة على ما يمكنك بناؤه</h3>
 
 <ul>
-<li><strong>Brand voice reviewer</strong> — A Skill that checks any document against your company's style guide and flags deviations</li>
-<li><strong>Meeting notes formatter</strong> — Converts raw meeting transcripts into your team's standard format with action items, owners, and deadlines</li>
-<li><strong>Email response template</strong> — Drafts customer replies following your support team's tone, escalation rules, and product terminology</li>
-<li><strong>Financial report analyzer</strong> — Summarizes spreadsheet data using your company's KPI definitions and reporting format</li>
-<li><strong>Code review checklist</strong> — Reviews code snippets against your team's specific standards and conventions</li>
+<li><strong>مراجع صوت العلامة التجارية</strong> — مهارة تفحص أي مستند مقابل دليل أسلوب شركتك وتبرز الانحرافات</li>
+<li><strong>منسّق ملاحظات الاجتماعات</strong> — يحوّل نصوص الاجتماعات الخام إلى صيغة فريقك القياسية مع بنود العمل والمسؤولين والمواعيد النهائية</li>
+<li><strong>قالب ردود البريد</strong> — يصوغ ردود العملاء وفق نبرة فريق الدعم لديك وقواعد التصعيد ومصطلحات المنتج</li>
+<li><strong>محلل التقارير المالية</strong> — يلخص بيانات جداول البيانات باستخدام تعريفات مؤشرات الأداء الرئيسية (KPI) وصيغة التقارير في شركتك</li>
+<li><strong>قائمة مراجعة الكود</strong> — يراجع مقتطفات الكود وفق معايير فريقك وأعرافه المحددة</li>
 </ul>
 
-<h2>Where Skills Work</h2>
+<h2>أين تعمل المهارات</h2>
 
-<p>Skills are rolling out across two environments:</p>
+<p>تُطرح المهارات عبر بيئتين:</p>
 
 <h3>Google Workspace Studio</h3>
 
-<p>Workspace Studio is Google's low-code/no-code platform for building business automations. Skills created here can be shared across your organization and integrated into broader workflow automations.</p>
+<p>Workspace Studio هي منصة Google منخفضة الكود/عديمة الكود لبناء أتمتة الأعمال. ويمكن مشاركة المهارات المنشأة هنا عبر مؤسستك ودمجها في أتمتة سير عمل أوسع.</p>
 
-<h3>Workspace Apps</h3>
+<h3>تطبيقات Workspace</h3>
 
-<p>Skills are available directly within the Workspace apps you already use: Docs, Sheets, Slides, Gmail, and Meet. This means you can invoke a Skill from the Gemini side panel while working on a document, without switching to a separate tool.</p>
+<p>المهارات متاحة مباشرة داخل تطبيقات Workspace التي تستخدمها أصلًا: Docs وSheets وSlides وGmail وMeet. وهذا يعني أنك تستطيع استدعاء مهارة من اللوحة الجانبية لـ Gemini أثناء عملك على مستند، دون التبديل إلى أداة منفصلة.</p>
 
-<h2>Also This Week: Gemini Expands in Gmail</h2>
+<h2>أيضًا هذا الأسبوع: Gemini يتوسع في Gmail</h2>
 
-<p>Alongside the Skills rollout, Google is expanding Gemini in Gmail to more Workspace users aged 18 and older. Previously limited to specific plan tiers, Gemini-powered features in Gmail — smart compose, email summarization, reply suggestions — are becoming available to a broader set of Workspace accounts.</p>
+<p>إلى جانب طرح المهارات، توسّع Google Gemini في Gmail ليشمل مزيدًا من مستخدمي Workspace بعمر 18 عامًا فأكثر. فبعد أن كانت محصورة في باقات محددة، تصبح ميزات Gmail المدعومة بـ Gemini — الكتابة الذكية وتلخيص البريد واقتراحات الرد — متاحة لمجموعة أوسع من حسابات Workspace.</p>
 
-<p>The expansion covers both Rapid Release and Scheduled Release domains, meaning most organizations should see the features within the next few weeks.</p>
+<p>يشمل التوسع نطاقات الإصدار السريع (Rapid Release) والإصدار المجدول (Scheduled Release)، مما يعني أن معظم المؤسسات ينبغي أن ترى الميزات خلال الأسابيع القليلة القادمة.</p>
 
-<h2>Gemini Omni 1.2 Flash in Google Vids</h2>
+<h2>Gemini Omni 1.2 Flash في Google Vids</h2>
 
-<p>Google also updated Google Vids with Gemini Omni 1.2 Flash, bringing longer-duration video generation (up to 15 seconds) with improved character consistency and vocal realism. Users get three free 15-second clips per month.</p>
+<p>حدّثت Google أيضًا Google Vids بـ Gemini Omni 1.2 Flash، مقدمةً توليد فيديو أطول مدة (حتى 15 ثانية) مع اتساق أفضل للشخصيات وواقعية أكبر للصوت. ويحصل المستخدمون على ثلاثة مقاطع مجانية مدة كل منها 15 ثانية شهريًا.</p>
 
-<p>For businesses creating quick product demos, social content, or internal training videos, this is a meaningful upgrade. The 15-second limit and three-per-month cap keep it firmly in the "supplement your video workflow" category rather than replacing dedicated video tools.</p>
+<p>وللشركات التي تنشئ عروضًا توضيحية سريعة للمنتجات أو محتوى اجتماعيًا أو فيديوهات تدريب داخلية، هذه ترقية مهمة. لكن حد الـ15 ثانية وسقف الثلاثة شهريًا يبقيانه بوضوح في فئة «استكمال مسار الفيديو لديك» لا استبدال أدوات الفيديو المتخصصة.</p>
 
-<h2>Gemini Decisions API</h2>
+<h2>واجهة Gemini Decisions API</h2>
 
-<p>On November 11, Google launched the Gemini Decisions API, powered by the new Gemini Decision 1 model. Available through the Gemini API and Google AI Studio, this API is designed for applications that need structured decision-making rather than free-form text generation.</p>
+<p>في 11 نوفمبر، أطلقت Google واجهة Gemini Decisions API، المدعومة بنموذج Gemini Decision 1 الجديد. وهي متاحة عبر Gemini API وGoogle AI Studio، وصُممت للتطبيقات التي تحتاج إلى اتخاذ قرارات منظمة بدلًا من توليد نص حر الصيغة.</p>
 
-<p>Use cases include routing customer support tickets, prioritizing task queues, and making binary go/no-go decisions based on structured data inputs. The Decisions API returns structured outputs with confidence scores, making it easier to integrate into automated workflows.</p>
+<p>تشمل حالات الاستخدام توجيه تذاكر دعم العملاء وترتيب أولويات قوائم المهام واتخاذ قرارات ثنائية (نعم/لا) بناءً على مدخلات بيانات منظمة. وتعيد الواجهة مخرجات منظمة مع درجات ثقة، مما يسهّل دمجها في سير العمل الآلي.</p>
 
-<h2>What This Means for Business Productivity</h2>
+<h2>ماذا يعني هذا لإنتاجية الأعمال</h2>
 
-<h3>The Skill Economy Is Coming</h3>
+<h3>اقتصاد المهارات قادم</h3>
 
-<p>Skills represent a shift in how businesses use AI. Instead of every employee crafting their own prompts (with wildly varying quality), organizations can create standardized Skills that encode their best practices. This means:</p>
-
-<ul>
-<li><strong>Consistency</strong> — Every team member produces output that follows the same standards</li>
-<li><strong>Onboarding</strong> — New hires can use organizational Skills immediately without learning institutional knowledge first</li>
-<li><strong>Quality control</strong> — Skills can embed review criteria and compliance requirements</li>
-<li><strong>Scalability</strong> — Build once, deploy to hundreds of users</li>
-</ul>
-
-<h3>Competition with Microsoft Copilot</h3>
-
-<p>Google's Skills feature directly competes with Microsoft's Copilot agents and custom instructions in the M365 ecosystem. The approaches differ — Google's Skills are more template-driven while Microsoft's Copilot agents can be more agentic — but the goal is the same: let businesses customize AI behavior without code.</p>
-
-<p>For organizations choosing between Google Workspace and Microsoft 365, AI customization capabilities are becoming a decision factor alongside traditional feature comparisons.</p>
-
-<h2>How to Get Started</h2>
-
-<h3>For Workspace Admins</h3>
-
-<ol>
-<li>Check your Workspace edition — Skills require Business Standard or higher</li>
-<li>Enable Gemini features in the Admin Console if not already active</li>
-<li>Access Workspace Studio to create and manage organization-wide Skills</li>
-<li>Start with 2-3 high-impact Skills that address your team's most repetitive AI tasks</li>
-</ol>
-
-<h3>For Individual Users</h3>
-
-<ol>
-<li>Open any Workspace app (Docs, Sheets, Gmail)</li>
-<li>Open the Gemini side panel</li>
-<li>Look for the Skills option in the prompt interface</li>
-<li>Create personal Skills or use organization-shared ones</li>
-</ol>
-
-<h3>Skill Design Tips</h3>
+<p>تمثل المهارات تحولًا في كيفية استخدام الشركات للذكاء الاصطناعي. فبدلًا من أن يصيغ كل موظف أوامره الخاصة (بجودة متفاوتة جدًا)، تستطيع المؤسسات إنشاء مهارات موحدة تُرمّز أفضل ممارساتها. وهذا يعني:</p>
 
 <ul>
-<li><strong>Be specific</strong> — Vague instructions produce vague results. Include examples of good and bad output.</li>
-<li><strong>Include reference files</strong> — Attach your style guide, templates, or sample documents to give Gemini concrete examples.</li>
-<li><strong>Test iteratively</strong> — Run your Skill against different inputs to find edge cases before sharing it with your team.</li>
-<li><strong>Version control</strong> — Keep notes on what you changed and why. Skills evolve as your processes do.</li>
+<li><strong>الاتساق</strong> — كل عضو في الفريق ينتج مخرجات تتبع المعايير نفسها</li>
+<li><strong>التهيئة</strong> — يستطيع الموظفون الجدد استخدام مهارات المؤسسة فورًا دون تعلم المعرفة المؤسسية أولًا</li>
+<li><strong>مراقبة الجودة</strong> — يمكن للمهارات تضمين معايير المراجعة ومتطلبات الامتثال</li>
+<li><strong>قابلية التوسع</strong> — ابنِ مرة واحدة وانشر لمئات المستخدمين</li>
 </ul>
 
-<p>If you're managing productivity workflows across tools, <a href="https://toolcraftkit.com">ToolCraftKit</a> offers free utilities — from invoice generators to Pomodoro timers — that complement your Workspace setup without adding subscription costs.</p>
+<h3>المنافسة مع Microsoft Copilot</h3>
 
-<h2>The Bottom Line</h2>
+<p>تنافس ميزة المهارات من Google مباشرة وكلاء Microsoft Copilot والتعليمات المخصصة في منظومة M365. تختلف المقاربات — فمهارات Google أكثر اعتمادًا على القوالب بينما قد يكون وكلاء Copilot أكثر وكيلية — لكن الهدف واحد: تمكين الشركات من تخصيص سلوك الذكاء الاصطناعي دون كود.</p>
 
-<p>Google Workspace Skills are the most practically useful AI feature Google has shipped this quarter. They solve a real problem — inconsistent AI outputs across teams — with a straightforward solution. Combined with expanded Gemini in Gmail, video generation in Vids, and the new Decisions API, Google is making a strong case that Workspace is the AI-first productivity suite for businesses.</p>
+<p>وللمؤسسات التي تختار بين Google Workspace وMicrosoft 365، أصبحت قدرات تخصيص الذكاء الاصطناعي عامل قرار إلى جانب مقارنات الميزات التقليدية.</p>
 
-<p>The question isn't whether to start using Skills — it's which processes to standardize first.</p>
+<h2>كيف تبدأ</h2>
+
+<h3>لمسؤولي Workspace</h3>
+
+<ol>
+<li>تحقق من إصدار Workspace لديك — تتطلب المهارات Business Standard أو أعلى</li>
+<li>فعّل ميزات Gemini في وحدة تحكم المسؤول (Admin Console) إن لم تكن نشطة</li>
+<li>ادخل إلى Workspace Studio لإنشاء المهارات على مستوى المؤسسة وإدارتها</li>
+<li>ابدأ بمهارتين أو ثلاث عالية التأثير تعالج مهام الذكاء الاصطناعي الأكثر تكرارًا لدى فريقك</li>
+</ol>
+
+<h3>للمستخدمين الأفراد</h3>
+
+<ol>
+<li>افتح أي تطبيق Workspace (Docs أو Sheets أو Gmail)</li>
+<li>افتح اللوحة الجانبية لـ Gemini</li>
+<li>ابحث عن خيار المهارات في واجهة الأوامر</li>
+<li>أنشئ مهارات شخصية أو استخدم المهارات المشتركة في المؤسسة</li>
+</ol>
+
+<h3>نصائح لتصميم المهارات</h3>
+
+<ul>
+<li><strong>كن محددًا</strong> — التعليمات الغامضة تنتج نتائج غامضة. أدرج أمثلة على المخرجات الجيدة والسيئة.</li>
+<li><strong>أدرج ملفات مرجعية</strong> — أرفق دليل الأسلوب أو القوالب أو المستندات النموذجية لتعطي Gemini أمثلة ملموسة.</li>
+<li><strong>اختبر بالتكرار</strong> — شغّل مهارتك على مدخلات مختلفة لاكتشاف الحالات الحدية قبل مشاركتها مع فريقك.</li>
+<li><strong>التحكم في الإصدارات</strong> — دوّن ما غيّرته ولماذا. تتطور المهارات مع تطور عملياتك.</li>
+</ul>
+
+<p>وإذا كنت تدير مسارات عمل الإنتاجية عبر أدوات متعددة، فإن <a href="https://toolcraftkit.com">ToolCraftKit</a> يقدم أدوات مجانية — من مولّدات الفواتير إلى مؤقتات Pomodoro — تكمّل إعداد Workspace لديك دون إضافة تكاليف اشتراك.</p>
+
+<h2>الخلاصة</h2>
+
+<p>مهارات Google Workspace هي أكثر ميزات الذكاء الاصطناعي فائدةً عمليًا التي أطلقتها Google هذا الربع. فهي تحل مشكلة حقيقية — تفاوت مخرجات الذكاء الاصطناعي بين الفرق — بحل مباشر. ومع توسع Gemini في Gmail وتوليد الفيديو في Vids وواجهة Decisions API الجديدة، تقدم Google حجة قوية بأن Workspace هي حزمة الإنتاجية التي تضع الذكاء الاصطناعي أولًا للشركات.</p>
+
+<p>السؤال ليس هل تبدأ باستخدام المهارات — بل أي العمليات توحّدها أولًا.</p>

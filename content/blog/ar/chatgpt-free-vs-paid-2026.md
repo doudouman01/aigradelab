@@ -1,135 +1,135 @@
 ---
-title: "ChatGPT المجاني مقابل المدفوع في 2026: هل Plus يستحق 20 دولار شهرياً؟"
-description: "مقارنة شاملة بين ChatGPT المجاني و Plus و Pro. أيهما يناسبك."
-category: "Head-to-Head"
+title: "ChatGPT المجاني مقابل Plus مقابل Pro في 2026: هل يستحق $20 شهريًا؟"
+description: "قارنّا ChatGPT المجاني وPlus ($20/شهر) وPro ($200/شهر) جنبًا إلى جنب. ما تحصل عليه وما تفتقده ومتى تحديدًا ينبغي أن ترقّي. نوفمبر 2026."
+category: "مواجهات مباشرة"
 categorySlug: "head-to-head"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "10 min read"
+readTime: "وقت القراءة: 10 دقائق"
 ---
 
-<h2>Three Tiers, One Question: Do You Need to Pay?</h2>
-<p>ChatGPT has 1.2 billion weekly users, and most of them use the free tier. But the free experience and the paid experience are very different products in November 2026. We tested all three tiers — Free, Plus ($20/month), and Pro ($200/month) — side by side for two weeks to find out exactly where the free tier falls short and whether the upgrades are worth the money.</p>
+<h2>ثلاث باقات وسؤال واحد: هل تحتاج إلى الدفع؟</h2>
+<p>لدى ChatGPT 1.2 مليار مستخدم أسبوعيًا، ومعظمهم يستخدمون الباقة المجانية. لكن التجربة المجانية والتجربة المدفوعة منتجان مختلفان جدًا في نوفمبر 2026. اختبرنا الباقات الثلاث — المجانية وPlus ($20/شهر) وPro ($200/شهر) — جنبًا إلى جنب لمدة أسبوعين لنعرف بالضبط أين تقصّر الباقة المجانية وهل تستحق الترقيات ثمنها.</p>
 
-<h2>What Each Tier Gets You</h2>
+<h2>ما تقدمه كل باقة</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Free</th><th>Plus ($20/mo)</th><th>Pro ($200/mo)</th></tr>
+    <tr><th>الميزة</th><th>مجاني</th><th>Plus ($20/شهر)</th><th>Pro ($200/شهر)</th></tr>
   </thead>
   <tbody>
-    <tr><td>AI Model</td><td>GPT-4o mini</td><td>GPT-5.5</td><td>GPT-5.5 (priority)</td></tr>
-    <tr><td>Web search</td><td>Yes (limited)</td><td>Yes</td><td>Yes (unlimited)</td></tr>
-    <tr><td>Image generation</td><td>Limited</td><td>Standard</td><td>Unlimited</td></tr>
-    <tr><td>GIF creation</td><td>Limited</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Video (Sora)</td><td>No</td><td>Limited</td><td>Yes</td></tr>
-    <tr><td>Deep Research</td><td>No</td><td>Yes</td><td>Yes (higher limits)</td></tr>
-    <tr><td>Voice mode</td><td>Basic</td><td>Advanced Voice</td><td>Advanced Voice</td></tr>
-    <tr><td>File uploads</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Custom GPTs</td><td>Use only</td><td>Create & use</td><td>Create & use</td></tr>
-    <tr><td>Code execution</td><td>Limited</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Memory</td><td>Limited</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Rate limits</td><td>Tight</td><td>Standard</td><td>Highest</td></tr>
-    <tr><td>Peak-time access</td><td>Queued</td><td>Priority</td><td>Guaranteed</td></tr>
+    <tr><td>نموذج الذكاء الاصطناعي</td><td>GPT-4o mini</td><td>GPT-5.5</td><td>GPT-5.5 (بأولوية)</td></tr>
+    <tr><td>البحث على الويب</td><td>نعم (محدود)</td><td>نعم</td><td>نعم (غير محدود)</td></tr>
+    <tr><td>توليد الصور</td><td>محدود</td><td>قياسي</td><td>غير محدود</td></tr>
+    <tr><td>إنشاء GIF</td><td>محدود</td><td>نعم</td><td>نعم</td></tr>
+    <tr><td>الفيديو (Sora)</td><td>لا</td><td>محدود</td><td>نعم</td></tr>
+    <tr><td>البحث العميق (Deep Research)</td><td>لا</td><td>نعم</td><td>نعم (حدود أعلى)</td></tr>
+    <tr><td>الوضع الصوتي</td><td>أساسي</td><td>Advanced Voice</td><td>Advanced Voice</td></tr>
+    <tr><td>رفع الملفات</td><td>نعم</td><td>نعم</td><td>نعم</td></tr>
+    <tr><td>GPTs المخصصة</td><td>استخدام فقط</td><td>إنشاء واستخدام</td><td>إنشاء واستخدام</td></tr>
+    <tr><td>تنفيذ الكود</td><td>محدود</td><td>نعم</td><td>نعم</td></tr>
+    <tr><td>الذاكرة</td><td>محدودة</td><td>نعم</td><td>نعم</td></tr>
+    <tr><td>حدود الاستخدام</td><td>ضيقة</td><td>قياسية</td><td>الأعلى</td></tr>
+    <tr><td>الوصول وقت الذروة</td><td>في الطابور</td><td>بأولوية</td><td>مضمون</td></tr>
   </tbody>
 </table>
 
-<h2>ChatGPT Free — What You Actually Get</h2>
-<p>The free tier runs GPT-4o mini — a lighter, faster model that is less capable than the flagship GPT-5.5. It handles simple questions, basic writing, and casual conversations well. Web search works but with lower limits. Image generation is restricted to a handful per day. No Deep Research, limited voice mode, and during peak times you may be placed in a queue.</p>
-<h3>Free Is Enough If You:</h3>
+<h2>ChatGPT المجاني — ما تحصل عليه فعلًا</h2>
+<p>تعمل الباقة المجانية بنموذج GPT-4o mini — نموذج أخف وأسرع وأقل قدرة من النموذج الرائد GPT-5.5. يتعامل جيدًا مع الأسئلة البسيطة والكتابة الأساسية والمحادثات العابرة. يعمل البحث على الويب لكن بحدود أدنى. ويقتصر توليد الصور على عدد قليل يوميًا. لا بحث عميق، ووضع صوتي محدود، وقد تُوضع في طابور وقت الذروة.</p>
+<h3>الباقة المجانية كافية إذا كنت:</h3>
 <ul>
-  <li>Use AI a few times per week for quick questions</li>
-  <li>Need basic writing help — emails, short texts, brainstorming</li>
-  <li>Want to try AI without any commitment</li>
-  <li>Do light research that does not require Deep Research</li>
+  <li>تستخدم الذكاء الاصطناعي بضع مرات أسبوعيًا لأسئلة سريعة</li>
+  <li>تحتاج إلى مساعدة كتابة أساسية — رسائل ونصوص قصيرة وعصف ذهني</li>
+  <li>تريد تجربة الذكاء الاصطناعي دون أي التزام</li>
+  <li>تجري بحثًا خفيفًا لا يتطلب البحث العميق</li>
 </ul>
-<h3>Free Is Not Enough If You:</h3>
+<h3>الباقة المجانية غير كافية إذا كنت:</h3>
 <ul>
-  <li>Use AI daily for work or study</li>
-  <li>Need the best model quality (GPT-5.5 is noticeably better than 4o mini)</li>
-  <li>Generate images regularly</li>
-  <li>Need Deep Research for thorough multi-source analysis</li>
-  <li>Hit the rate limits frequently</li>
-</ul>
-
-<h2>ChatGPT Plus ($20/month) — The Sweet Spot</h2>
-<p>Plus unlocks GPT-5.5, the flagship model that is meaningfully smarter than GPT-4o mini. The difference is immediately obvious on complex tasks — better reasoning, more nuanced writing, fewer errors. You also get Deep Research (multi-source analysis that reads dozens of pages), Advanced Voice Mode for natural conversations, standard image and GIF generation, limited Sora video creation, and priority access during peak times.</p>
-<h3>Plus Is Worth It If You:</h3>
-<ul>
-  <li>Use AI daily for work, writing, or study</li>
-  <li>Notice quality limitations on the free tier</li>
-  <li>Need images, GIFs, or visual content regularly</li>
-  <li>Use Deep Research for thorough analysis</li>
-  <li>Want Advanced Voice Mode for hands-free conversations</li>
-  <li>Find the free tier rate limits frustrating</li>
-</ul>
-<h3>Plus Is Not Worth It If You:</h3>
-<ul>
-  <li>Use AI only occasionally — the free tier handles casual use fine</li>
-  <li>Only need basic grammar help — Grammarly Free is better for that</li>
-  <li>Only need research — Perplexity Free or at $10/month (students) is cheaper</li>
+  <li>تستخدم الذكاء الاصطناعي يوميًا للعمل أو الدراسة</li>
+  <li>تحتاج إلى أفضل جودة نموذج (GPT-5.5 أفضل بوضوح من 4o mini)</li>
+  <li>تولّد صورًا بانتظام</li>
+  <li>تحتاج إلى البحث العميق لتحليل شامل متعدد المصادر</li>
+  <li>تبلغ حدود الاستخدام كثيرًا</li>
 </ul>
 
-<h2>ChatGPT Pro ($200/month) — For Power Users Only</h2>
-<p>Pro is 10x the price of Plus and is designed for professionals who use AI as a core work tool. The main advantages: highest rate limits (effectively unlimited for most users), guaranteed access during peak times, early access to new features, Sora video generation with higher limits, and the most capable model configurations.</p>
-<h3>Pro Is Worth It If You:</h3>
+<h2>ChatGPT Plus ($20/شهر) — النقطة المثالية</h2>
+<p>يفتح Plus نموذج GPT-5.5، النموذج الرائد الأذكى بشكل ملموس من GPT-4o mini. ويظهر الفرق فورًا في المهام المعقدة — استدلال أفضل وكتابة أكثر دقة وأخطاء أقل. وتحصل أيضًا على البحث العميق (تحليل متعدد المصادر يقرأ عشرات الصفحات) والوضع الصوتي المتقدم لمحادثات طبيعية وتوليد صور وGIF قياسي وإنشاء فيديو Sora محدود وأولوية الوصول وقت الذروة.</p>
+<h3>Plus يستحق إذا كنت:</h3>
 <ul>
-  <li>Hit Plus rate limits multiple times per week</li>
-  <li>Use AI 4-8 hours per day as a core work tool</li>
-  <li>Need Sora video generation at volume</li>
-  <li>Want earliest access to new features</li>
-  <li>Run a business where AI downtime costs more than $200/month</li>
+  <li>تستخدم الذكاء الاصطناعي يوميًا للعمل أو الكتابة أو الدراسة</li>
+  <li>تلاحظ قيود الجودة في الباقة المجانية</li>
+  <li>تحتاج إلى صور أو GIF أو محتوى بصري بانتظام</li>
+  <li>تستخدم البحث العميق لتحليل شامل</li>
+  <li>تريد الوضع الصوتي المتقدم لمحادثات دون استخدام اليدين</li>
+  <li>تجد حدود الباقة المجانية محبطة</li>
 </ul>
-<h3>Pro Is Not Worth It For:</h3>
+<h3>Plus لا يستحق إذا كنت:</h3>
 <ul>
-  <li>Most users. Seriously. Plus handles 95% of use cases. Pro is for the top 5% of power users who genuinely hit Plus limits regularly.</li>
+  <li>تستخدم الذكاء الاصطناعي عرضيًا فقط — الباقة المجانية تتولى الاستخدام العابر جيدًا</li>
+  <li>تحتاج فقط إلى مساعدة قواعد أساسية — Grammarly المجاني أفضل لذلك</li>
+  <li>تحتاج فقط إلى البحث — Perplexity المجاني أو بسعر $10/شهر (للطلاب) أرخص</li>
 </ul>
 
-<h2>The Quality Difference: Free vs Plus</h2>
-<p>The biggest reason to upgrade is the model. GPT-5.5 (Plus) vs GPT-4o mini (Free) is not a subtle difference — it is a generation gap. Here is how they compare on real tasks:</p>
+<h2>ChatGPT Pro ($200/شهر) — للمستخدمين المتمرسين فقط</h2>
+<p>سعر Pro يعادل 10 أضعاف سعر Plus، وهو مصمم للمحترفين الذين يستخدمون الذكاء الاصطناعي كأداة عمل أساسية. المزايا الرئيسية: أعلى حدود استخدام (غير محدودة فعليًا لمعظم المستخدمين) ووصول مضمون وقت الذروة ووصول مبكر للميزات الجديدة وتوليد فيديو Sora بحدود أعلى وأقدر تكوينات النماذج.</p>
+<h3>Pro يستحق إذا كنت:</h3>
+<ul>
+  <li>تبلغ حدود Plus عدة مرات أسبوعيًا</li>
+  <li>تستخدم الذكاء الاصطناعي من 4 إلى 8 ساعات يوميًا كأداة عمل أساسية</li>
+  <li>تحتاج إلى توليد فيديو Sora بكميات كبيرة</li>
+  <li>تريد أبكر وصول إلى الميزات الجديدة</li>
+  <li>تدير عملًا يكلّف فيه انقطاع الذكاء الاصطناعي أكثر من $200/شهر</li>
+</ul>
+<h3>Pro لا يستحق لـ:</h3>
+<ul>
+  <li>معظم المستخدمين. بجدية. يتولى Plus 95% من حالات الاستخدام. Pro للـ5% الأعلى من المستخدمين المتمرسين الذين يبلغون حدود Plus فعلًا بانتظام.</li>
+</ul>
+
+<h2>فرق الجودة: المجاني مقابل Plus</h2>
+<p>السبب الأكبر للترقية هو النموذج. GPT-5.5 (Plus) مقابل GPT-4o mini (المجاني) ليس فرقًا طفيفًا — بل فجوة جيل. وإليك كيف يقارنان في مهام حقيقية:</p>
 <table>
   <thead>
-    <tr><th>Task</th><th>Free (GPT-4o mini)</th><th>Plus (GPT-5.5)</th></tr>
+    <tr><th>المهمة</th><th>المجاني (GPT-4o mini)</th><th>Plus (GPT-5.5)</th></tr>
   </thead>
   <tbody>
-    <tr><td>Simple questions</td><td>Good</td><td>Good (similar)</td></tr>
-    <tr><td>Complex analysis</td><td>Adequate</td><td>Significantly better</td></tr>
-    <tr><td>Professional writing</td><td>Generic, needs heavy editing</td><td>Polished, needs light editing</td></tr>
-    <tr><td>Coding</td><td>Simple tasks only</td><td>Handles complex projects</td></tr>
-    <tr><td>Reasoning</td><td>Misses nuances</td><td>Catches edge cases</td></tr>
-    <tr><td>Long conversations</td><td>Loses context quickly</td><td>Maintains context well</td></tr>
+    <tr><td>الأسئلة البسيطة</td><td>جيد</td><td>جيد (مشابه)</td></tr>
+    <tr><td>التحليل المعقد</td><td>مقبول</td><td>أفضل بكثير</td></tr>
+    <tr><td>الكتابة المهنية</td><td>عام، يحتاج إلى تحرير كثيف</td><td>مصقول، يحتاج إلى تحرير خفيف</td></tr>
+    <tr><td>البرمجة</td><td>المهام البسيطة فقط</td><td>يتعامل مع المشاريع المعقدة</td></tr>
+    <tr><td>الاستدلال</td><td>تفوته الفروق الدقيقة</td><td>يلتقط الحالات الحدية</td></tr>
+    <tr><td>المحادثات الطويلة</td><td>يفقد السياق بسرعة</td><td>يحافظ على السياق جيدًا</td></tr>
   </tbody>
 </table>
-<p>For simple, everyday questions, the free tier is genuinely fine. The quality gap becomes obvious on anything that requires depth — analysis, professional writing, coding, or multi-step reasoning.</p>
+<p>للأسئلة اليومية البسيطة، الباقة المجانية جيدة فعلًا. وتصبح فجوة الجودة واضحة في أي شيء يتطلب عمقًا — التحليل أو الكتابة المهنية أو البرمجة أو الاستدلال متعدد الخطوات.</p>
 
-<h2>ChatGPT Plus vs Claude Pro vs Gemini Advanced</h2>
-<p>All three cost $20/month. Here is how to choose:</p>
+<h2>ChatGPT Plus مقابل Claude Pro مقابل Gemini Advanced</h2>
+<p>الثلاثة بسعر $20/شهر. وإليك كيف تختار:</p>
 <ul>
-  <li><strong>ChatGPT Plus:</strong> Best all-rounder — writing, images, video, voice, research, coding, data analysis. The most features per dollar.</li>
-  <li><strong>Claude Pro:</strong> Best output quality — writing sounds more human, coding is more reliable, reasoning is more careful. Fewer features but better at each one.</li>
-  <li><strong>Gemini Advanced:</strong> Best for Google users — Gmail, Drive, Docs integration plus 2TB storage included. Most generous free tier.</li>
+  <li><strong>ChatGPT Plus:</strong> الأفضل بوجه عام — الكتابة والصور والفيديو والصوت والبحث والبرمجة وتحليل البيانات. أكثر ميزات مقابل كل دولار.</li>
+  <li><strong>Claude Pro:</strong> أفضل جودة مخرجات — الكتابة أقرب إلى الأسلوب البشري والبرمجة أكثر موثوقية والاستدلال أكثر حرصًا. ميزات أقل لكن أفضل في كل منها.</li>
+  <li><strong>Gemini Advanced:</strong> الأفضل لمستخدمي Google — تكامل Gmail وDrive وDocs مع تخزين 2 تيرابايت مضمَّن. أسخى باقة مجانية.</li>
 </ul>
-<p>If you can only afford one, ChatGPT Plus gives you the most. If quality matters more than breadth, Claude Pro produces better output.</p>
+<p>إذا كنت تستطيع تحمّل واحد فقط، فإن ChatGPT Plus يمنحك الأكثر. وإذا كانت الجودة أهم من الاتساع، فإن Claude Pro ينتج مخرجات أفضل.</p>
 
-<h2>The Verdict: Should You Pay for ChatGPT?</h2>
-<p><strong>Try Free first.</strong> Use it for a week. If you never hit the limits and the quality is sufficient, stay on Free — it is genuinely useful.</p>
-<p><strong>Upgrade to Plus ($20/month)</strong> when you use AI daily and start noticing the free tier's limitations — slower responses during peak times, lower quality on complex tasks, image generation limits, or missing Deep Research.</p>
-<p><strong>Upgrade to Pro ($200/month)</strong> only if you hit Plus limits multiple times per week and AI is a core part of your work that generates revenue. For 95% of users, Plus is the ceiling.</p>
+<h2>الحكم: هل ينبغي أن تدفع مقابل ChatGPT؟</h2>
+<p><strong>جرّب المجاني أولًا.</strong> استخدمه لأسبوع. وإذا لم تبلغ الحدود وكانت الجودة كافية، فابقَ على المجاني — فهو مفيد فعلًا.</p>
+<p><strong>رقِّ إلى Plus ($20/شهر)</strong> عندما تستخدم الذكاء الاصطناعي يوميًا وتبدأ في ملاحظة قيود الباقة المجانية — ردود أبطأ وقت الذروة وجودة أدنى في المهام المعقدة وحدود توليد الصور أو غياب البحث العميق.</p>
+<p><strong>رقِّ إلى Pro ($200/شهر)</strong> فقط إذا كنت تبلغ حدود Plus عدة مرات أسبوعيًا وكان الذكاء الاصطناعي جزءًا أساسيًا من عملك يدر إيرادات. ولـ95% من المستخدمين، Plus هو السقف.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is ChatGPT Free good enough?</h3>
-<p>For casual use — quick questions, basic writing, simple research — yes. For daily professional use, studying, coding, or any task where quality matters — upgrade to Plus. The model difference (GPT-4o mini vs GPT-5.5) is significant.</p>
+<h3>هل ChatGPT المجاني جيد بما يكفي؟</h3>
+<p>للاستخدام العابر — أسئلة سريعة وكتابة أساسية وبحث بسيط — نعم. أما للاستخدام المهني اليومي أو الدراسة أو البرمجة أو أي مهمة تهم فيها الجودة — فارقِّ إلى Plus. فرق النموذج (GPT-4o mini مقابل GPT-5.5) كبير.</p>
 
-<h3>Can I switch between Free and Plus?</h3>
-<p>Yes. Subscribe to Plus monthly, cancel anytime. Many users subscribe during busy periods (exam season, project deadlines) and cancel when they do not need it.</p>
+<h3>هل يمكنني التبديل بين المجاني وPlus؟</h3>
+<p>نعم. اشترك في Plus شهريًا وألغِ في أي وقت. يشترك كثير من المستخدمين في الفترات المزدحمة (موسم الامتحانات ومواعيد تسليم المشاريع) ويلغون عندما لا يحتاجون إليه.</p>
 
-<h3>Is ChatGPT Plus better than Claude Pro?</h3>
-<p>Plus offers more features (images, video, voice, plugins). Claude Pro offers better output quality (writing, coding, reasoning). Both cost $20/month. Choose based on whether you value breadth or quality.</p>
+<h3>هل ChatGPT Plus أفضل من Claude Pro؟</h3>
+<p>يقدم Plus ميزات أكثر (صور وفيديو وصوت وإضافات). ويقدم Claude Pro جودة مخرجات أفضل (كتابة وبرمجة واستدلال). كلاهما بسعر $20/شهر. اختر بناءً على ما إذا كنت تقدّر الاتساع أم الجودة.</p>
 
-<h3>Is the $200/month Pro plan a scam?</h3>
-<p>No, but it is for a tiny audience. If AI generates revenue for you — content creation, development, consulting — and you hit Plus limits regularly, Pro pays for itself. For everyone else, Plus is sufficient.</p>
+<h3>هل خطة Pro بسعر $200/شهر احتيال؟</h3>
+<p>لا، لكنها لجمهور ضئيل. إذا كان الذكاء الاصطناعي يدر عليك إيرادات — إنشاء محتوى أو تطوير أو استشارات — وكنت تبلغ حدود Plus بانتظام، فإن Pro يسدّد تكلفته. أما للجميع الآخرين، فإن Plus كافٍ.</p>
 
-<h3>Does ChatGPT have a student discount?</h3>
-<p>No. Unlike Perplexity ($10/month for students), ChatGPT has no student pricing. Students can use the free tier or pay the full $20/month for Plus.</p>
+<h3>هل لدى ChatGPT خصم للطلاب؟</h3>
+<p>لا. على عكس Perplexity ($10/شهر للطلاب)، ليس لدى ChatGPT تسعير للطلاب. يمكن للطلاب استخدام الباقة المجانية أو دفع $20/شهر كاملة لـ Plus.</p>
 
-<p><em>All three ChatGPT tiers were tested by AIGradeLab for two weeks. Pricing and features verified on openai.com on November 14, 2026.</em></p>
+<p><em>اختبر AIGradeLab باقات ChatGPT الثلاث لمدة أسبوعين. الأسعار والميزات تم التحقق منها على openai.com في 14 نوفمبر 2026.</em></p>

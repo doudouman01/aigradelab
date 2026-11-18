@@ -1,11 +1,11 @@
 ---
-title: "Recensione Runway ML 2026: The Best AI Video Generator? Il Nostro Voto"
-description: "We tested Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
+title: "Recensione Runway ML 2026: il miglior generatore di video AI? Il nostro voto"
+description: "Abbiamo testato Runway Gen-3 per generazione video, editing e flussi di lavoro creativi. Ecco il nostro voto e se il piano Pro vale 28 $/mese."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-09-13"
 lastTested: "Sep 2026"
-readTime: "10 min read"
+readTime: "10 min di lettura"
 grade: "A"
 scores_ux: 8.0
 scores_quality: 9.0
@@ -15,36 +15,36 @@ scores_support: 7.5
 toolName: "Runway"
 ---
 
-<h2>What Runway Does</h2>
-      <p>Runway is an AI creative platform focused on video. Its flagship feature, Gen-3 Alpha, generates video clips from text prompts or images. But Runway is more than a generator — it also offers AI-powered video editing tools: background removal, inpainting, motion tracking, color grading, audio cleanup, and green screen effects. Think of it as an AI-native Adobe Premiere alternative.</p>
+<h2>Cosa fa Runway</h2>
+      <p>Runway è una piattaforma creativa basata sull'AI focalizzata sul video. La sua funzione di punta, Gen-3 Alpha, genera clip video da prompt testuali o immagini. Ma Runway è più di un generatore — offre anche strumenti di editing video basati sull'AI: rimozione dello sfondo, inpainting, motion tracking, color grading, pulizia dell'audio ed effetti green screen. Pensalo come un'alternativa a Adobe Premiere nativa per l'AI.</p>
 
-      <h2>Cosa Abbiamo Testato</h2>
-      <p>We used Runway for three weeks across different workflows: generating b-roll footage for YouTube videos, creating product showcase clips, making social media video ads, editing existing footage with AI tools, and experimenting with creative effects. We used both the text-to-video and image-to-video modes extensively.</p>
+      <h2>Cosa abbiamo testato</h2>
+      <p>Abbiamo usato Runway per tre settimane in diversi flussi di lavoro: generare filmati b-roll per video YouTube, creare clip di presentazione di prodotto, realizzare annunci video per i social, modificare filmati esistenti con strumenti AI e sperimentare effetti creativi. Abbiamo usato intensamente sia la modalità da testo a video sia quella da immagine a video.</p>
 
-      <h2>Cosa Funziona Bene</h2>
+      <h2>Cosa funziona bene</h2>
       <ul>
-        <li><strong>Video generation quality:</strong> Gen-3 Alpha produces the most consistently impressive AI video available. Motion is smooth, camera movements feel natural, lighting behaves realistically, and the overall cinematic quality is a tier above competitors. Five-second clips regularly look like they could come from stock footage libraries.</li>
-        <li><strong>Image-to-video:</strong> Feed Runway a still image and it animates it convincingly. This is exceptionally useful for product photos, concept art, and marketing visuals. The results are more predictable than text-to-video because you control the starting frame.</li>
-        <li><strong>Editing suite:</strong> The non-generation AI tools — background removal, inpainting, object removal, motion brush — are production-ready. For YouTubers and content creators, these features alone justify the subscription. Removing a background from video used to require After Effects expertise. Runway does it with one click.</li>
-        <li><strong>Web-based:</strong> Everything runs in the browser. No massive software downloads, no GPU requirements, no render waiting. Upload, generate, edit, export — all from a Chrome tab.</li>
+        <li><strong>Qualità della generazione video:</strong> Gen-3 Alpha produce il video AI più costantemente impressionante disponibile. Il movimento è fluido, i movimenti di camera sembrano naturali, l'illuminazione si comporta in modo realistico e la qualità cinematografica complessiva è un livello sopra i concorrenti. Le clip di cinque secondi sembrano spesso provenire da librerie di filmati stock.</li>
+        <li><strong>Da immagine a video:</strong> dai a Runway un'immagine statica e la anima in modo convincente. È eccezionalmente utile per foto di prodotto, concept art e visual di marketing. I risultati sono più prevedibili rispetto al da testo a video perché controlli il fotogramma iniziale.</li>
+        <li><strong>Suite di editing:</strong> gli strumenti AI che non riguardano la generazione — rimozione dello sfondo, inpainting, rimozione di oggetti, motion brush — sono pronti per la produzione. Per YouTuber e creator di contenuti, queste funzioni da sole giustificano l'abbonamento. Rimuovere lo sfondo da un video richiedeva competenze di After Effects. Runway lo fa con un clic.</li>
+        <li><strong>Basato sul web:</strong> tutto gira nel browser. Nessun download di software pesante, nessun requisito GPU, nessuna attesa di rendering. Carichi, generi, modifichi, esporti — tutto da una scheda di Chrome.</li>
       </ul>
 
-      <h2>Cosa Non Convince</h2>
+      <h2>Cosa non convince</h2>
       <ul>
-        <li><strong>Credit system:</strong> Runway uses a credit-based system that burns through quickly. The Standard plan at $12/month includes 625 credits — enough for roughly 25 five-second clips. Professional use requires the Pro plan at $28/month with 2,250 credits, and even that runs out fast during heavy production periods.</li>
-        <li><strong>Duration limits:</strong> Generated clips are limited to about 10 seconds. For longer videos, you must generate multiple clips and stitch them together. Maintaining visual consistency across multiple generations requires careful prompting.</li>
-        <li><strong>Prompt control:</strong> Getting exactly the video you envision requires significant prompt iteration. The gap between what you describe and what Runway generates can be frustrating. Plan for multiple attempts per clip.</li>
-        <li><strong>Audio:</strong> Generated videos have no audio. You need to add music, voiceover, and sound effects separately. This adds workflow steps compared to traditional video production.</li>
-        <li><strong>Commercial licensing:</strong> Read the terms carefully. The Standard plan has restrictions on commercial use that may affect business users.</li>
+        <li><strong>Sistema a crediti:</strong> Runway usa un sistema basato sui crediti che si consuma in fretta. Il piano Standard a 12 $/mese include 625 crediti — sufficienti per circa 25 clip da cinque secondi. L'uso professionale richiede il piano Pro a 28 $/mese con 2.250 crediti e anche quelli finiscono presto nei periodi di produzione intensa.</li>
+        <li><strong>Limiti di durata:</strong> le clip generate sono limitate a circa 10 secondi. Per video più lunghi devi generare più clip e unirle. Mantenere la coerenza visiva tra più generazioni richiede prompt accurati.</li>
+        <li><strong>Controllo del prompt:</strong> ottenere esattamente il video che immagini richiede molte iterazioni del prompt. Il divario tra ciò che descrivi e ciò che Runway genera può essere frustrante. Metti in conto più tentativi per ogni clip.</li>
+        <li><strong>Audio:</strong> i video generati non hanno audio. Musica, voce fuori campo ed effetti sonori vanno aggiunti separatamente. Questo aggiunge passaggi al flusso di lavoro rispetto alla produzione video tradizionale.</li>
+        <li><strong>Licenze commerciali:</strong> leggi attentamente i termini. Il piano Standard ha restrizioni sull'uso commerciale che possono riguardare gli utenti aziendali.</li>
       </ul>
 
       <h2>Runway vs Sora vs Pika</h2>
-      <p><strong>Runway</strong> currently produces the most reliable, highest-quality video generation. The editing tools add significant value beyond just generation. Best overall package for video creators.</p>
-      <p><strong>Sora</strong> (OpenAI) has shown impressive demos and can produce stunning results, but availability is limited and consistency is lower. Included with ChatGPT Plus, which adds value if you already subscribe.</p>
-      <p><strong>Pika</strong> is more affordable and easier to use for simple video generation, but the quality and feature depth are behind Runway. Good for beginners and casual use.</p>
+      <p><strong>Runway</strong> produce attualmente la generazione video più affidabile e di qualità più alta. Gli strumenti di editing aggiungono un valore significativo oltre alla sola generazione. Il miglior pacchetto complessivo per i creator di video.</p>
+      <p><strong>Sora</strong> (OpenAI) ha mostrato demo impressionanti e può produrre risultati straordinari, ma la disponibilità è limitata e la coerenza è inferiore. È incluso in ChatGPT Plus, il che aggiunge valore se sei già abbonato.</p>
+      <p><strong>Pika</strong> è più economico e più facile da usare per la semplice generazione di video, ma qualità e profondità di funzioni sono dietro Runway. Adatto ai principianti e all'uso occasionale.</p>
 
       <h2>Prezzi</h2>
-      <p>Free tier with limited credits. Standard at $12/month (625 credits). Pro at $28/month (2,250 credits). Unlimited at $76/month. Enterprise at custom pricing. For professional use, the Pro plan at $28/month is the sweet spot — enough credits for regular content production without the unlimited plan's premium price.</p>
+      <p>Piano gratuito con crediti limitati. Standard a 12 $/mese (625 crediti). Pro a 28 $/mese (2.250 crediti). Unlimited a 76 $/mese. Enterprise con prezzi su misura. Per l'uso professionale, il piano Pro a 28 $/mese è il punto ideale — abbastanza crediti per una produzione regolare di contenuti senza il prezzo premium del piano illimitato.</p>
 
-      <h2>Il Verdetto</h2>
-      <p>Runway earns an <strong>A</strong> because it offers the best combination of AI video generation and AI video editing available. The generation quality leads the industry, and the editing tools add practical value that competitors lack. The grade is held back from A+ by the aggressive credit system, short duration limits, and the prompt iteration required to get specific results. If video is part of your content or marketing workflow, Runway is the tool to invest in. Start with the Standard plan to test, then upgrade to Pro once you confirm it fits your workflow.</p>
+      <h2>Il verdetto</h2>
+      <p>Runway ottiene una <strong>A</strong> perché offre la migliore combinazione disponibile di generazione e editing video con l'AI. La qualità di generazione guida il settore e gli strumenti di editing aggiungono un valore pratico che i concorrenti non hanno. Il voto è frenato dalla A+ dall'aggressivo sistema a crediti, dai brevi limiti di durata e dalle iterazioni di prompt necessarie per ottenere risultati specifici. Se il video fa parte del tuo flusso di contenuti o di marketing, Runway è lo strumento in cui investire. Inizia con il piano Standard per provare, poi passa a Pro una volta confermato che si adatta al tuo flusso di lavoro.</p>

@@ -1,206 +1,206 @@
 ---
-title: "أفضل أدوات العروض التقديمية بالذكاء الاصطناعي في 2026"
-description: "اختبرنا أفضل أدوات العروض التقديمية بالذكاء الاصطناعي — Gamma و Beautiful.ai و Tome والمزيد. كل أداة مُقيَّمة. نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل أدوات العروض التقديمية بالذكاء الاصطناعي في 2026: 6 أدوات مُختبَرة ومُقيَّمة"
+description: "اختبرنا أبرز أدوات العروض التقديمية بالذكاء الاصطناعي — Gamma وBeautiful.ai وCanva وTome وSlidesAI وPowerPoint Copilot. كل أداة مُقيَّمة. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-19"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "وقت القراءة: 12 دقيقة"
 ---
 
-<h2>AI Presentations in 2026: From Prompt to Slide Deck</h2>
-<p>Nobody likes making presentations. AI tools now handle the part people hate most — turning ideas into polished slides. Describe your topic and get a complete deck in minutes instead of hours. The quality varies wildly between tools, though. Some produce slides you'd present to a client tomorrow. Others produce slides you'd be embarrassed to show an intern. We tested the 6 best to find which ones actually save time without sacrificing quality.</p>
+<h2>العروض التقديمية بالذكاء الاصطناعي في 2026: من الوصف إلى عرض كامل</h2>
+<p>لا أحد يحب إعداد العروض التقديمية. وتتولى أدوات الذكاء الاصطناعي الآن الجزء الذي يكرهه الناس أكثر — تحويل الأفكار إلى شرائح مصقولة. صِف موضوعك واحصل على عرض كامل في دقائق بدل ساعات. لكن الجودة تتفاوت بشدة بين الأدوات. بعضها ينتج شرائح يمكنك تقديمها لعميل غدًا. وبعضها ينتج شرائح تخجل من عرضها على متدرّب. اختبرنا أفضل 6 أدوات لنعرف أيّها يوفّر الوقت فعلًا دون التضحية بالجودة.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Grade</th><th>Price</th><th>Best For</th></tr>
+    <tr><th>#</th><th>الأداة</th><th>التقييم</th><th>السعر</th><th>الأفضل لـ</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Gamma</td><td><strong>A</strong></td><td>Free / $10-20/mo</td><td>Best all-around AI presentations</td></tr>
-    <tr><td>2</td><td>Beautiful.ai</td><td><strong>B+</strong></td><td>$12-40/mo</td><td>Design-forward smart slides</td></tr>
-    <tr><td>3</td><td>Canva</td><td><strong>A</strong></td><td>Free / $13/mo</td><td>Best templates and design flexibility</td></tr>
-    <tr><td>4</td><td>Tome</td><td><strong>B+</strong></td><td>Free / $16/mo</td><td>Narrative-driven storytelling decks</td></tr>
-    <tr><td>5</td><td>SlidesAI</td><td><strong>B</strong></td><td>Free / $10/mo</td><td>Google Slides AI add-on</td></tr>
-    <tr><td>6</td><td>PowerPoint Copilot</td><td><strong>C+</strong></td><td>$30/user/mo</td><td>PowerPoint users (needs work)</td></tr>
+    <tr><td>1</td><td>Gamma</td><td><strong>A</strong></td><td>مجاني / $10-20/شهر</td><td>أفضل عروض تقديمية بالذكاء الاصطناعي بوجه عام</td></tr>
+    <tr><td>2</td><td>Beautiful.ai</td><td><strong>B+</strong></td><td>$12-40/شهر</td><td>شرائح ذكية بتصميم متقدم</td></tr>
+    <tr><td>3</td><td>Canva</td><td><strong>A</strong></td><td>مجاني / $13/شهر</td><td>أفضل القوالب ومرونة التصميم</td></tr>
+    <tr><td>4</td><td>Tome</td><td><strong>B+</strong></td><td>مجاني / $16/شهر</td><td>عروض سرد قصصي</td></tr>
+    <tr><td>5</td><td>SlidesAI</td><td><strong>B</strong></td><td>مجاني / $10/شهر</td><td>إضافة ذكاء اصطناعي لـ Google Slides</td></tr>
+    <tr><td>6</td><td>PowerPoint Copilot</td><td><strong>C+</strong></td><td>$30/مستخدم/شهر</td><td>مستخدمو PowerPoint (يحتاج إلى تحسين)</td></tr>
   </tbody>
 </table>
 
-<h2>1. Gamma — Grade: A — Best AI Presentation Tool</h2>
-<div class="score-card"><h3>Gamma Scores</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+<h2>1. Gamma — التقييم: A — أفضل أداة عروض تقديمية بالذكاء الاصطناعي</h2>
+<div class="score-card"><h3>تقييمات Gamma</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
-<p>Gamma is the best AI-first presentation tool available. Describe your topic — "quarterly marketing report for Q3, include social media growth, campaign ROI, and Q4 recommendations" — and Gamma generates a complete, beautifully designed presentation in under 2 minutes. The layouts are modern, the visuals are relevant, and the content structure is logical.</p>
-<p>What separates Gamma from competitors is the output quality. Slides look professionally designed out of the box — clean typography, balanced layouts, appropriate imagery, and consistent visual hierarchy. You can present a Gamma deck without touching it, which is rare among AI presentation tools.</p>
-<h3>Key Features</h3>
+<p>Gamma هي أفضل أداة عروض تقديمية قائمة على الذكاء الاصطناعي أولًا. صِف موضوعك — «تقرير تسويقي فصلي للربع الثالث، يتضمن نمو وسائل التواصل الاجتماعي وعائد الحملات وتوصيات الربع الرابع» — وستولّد Gamma عرضًا كاملًا بتصميم جميل في أقل من دقيقتين. التخطيطات عصرية، والمرئيات ذات صلة، وبنية المحتوى منطقية.</p>
+<p>ما يميز Gamma عن منافسيها هو جودة المخرجات. تبدو الشرائح مصممة باحتراف من البداية — طباعة نظيفة وتخطيطات متوازنة وصور مناسبة وتسلسل بصري متسق. يمكنك تقديم عرض Gamma دون لمسه، وهذا نادر بين أدوات العروض التقديمية بالذكاء الاصطناعي.</p>
+<h3>الميزات الرئيسية</h3>
 <ul>
-  <li>Text to complete presentation in under 2 minutes</li>
-  <li>Beautiful default templates with modern design</li>
-  <li>Embedded videos, GIFs, charts, and interactive elements</li>
-  <li>Web-based — present from browser, no software needed</li>
-  <li>Collaboration features for team editing</li>
-  <li>Export to PowerPoint and PDF</li>
-  <li>Nested cards for non-linear content</li>
+  <li>من النص إلى عرض تقديمي كامل في أقل من دقيقتين</li>
+  <li>قوالب افتراضية جميلة بتصميم عصري</li>
+  <li>فيديوهات وصور GIF ومخططات وعناصر تفاعلية مضمّنة</li>
+  <li>قائمة على الويب — قدّم من المتصفح دون الحاجة إلى برنامج</li>
+  <li>ميزات تعاون لتحرير الفريق</li>
+  <li>تصدير إلى PowerPoint وPDF</li>
+  <li>بطاقات متداخلة للمحتوى غير الخطي</li>
 </ul>
-<h3>Pros</h3>
+<h3>المزايا</h3>
 <ul>
-  <li>Best AI-generated slide design quality</li>
-  <li>Fastest prompt-to-deck workflow</li>
-  <li>Free tier with 400 AI credits — genuinely usable</li>
-  <li>Interactive elements (embedded content, expandable cards)</li>
-  <li>Web-based presenting — share a link, no file needed</li>
+  <li>أفضل جودة تصميم شرائح مولَّدة بالذكاء الاصطناعي</li>
+  <li>أسرع مسار عمل من الوصف إلى العرض</li>
+  <li>باقة مجانية بـ 400 رصيد ذكاء اصطناعي — قابلة للاستخدام فعلًا</li>
+  <li>عناصر تفاعلية (محتوى مضمّن وبطاقات قابلة للتوسيع)</li>
+  <li>عرض قائم على الويب — شارك رابطًا دون ملف</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Less layout control than PowerPoint or Keynote</li>
-  <li>Content can be surface-level — edit for depth</li>
-  <li>Gamma branding on free tier</li>
-  <li>Export to PowerPoint loses some formatting</li>
-  <li>Limited animation options</li>
+  <li>تحكم أقل في التخطيط من PowerPoint أو Keynote</li>
+  <li>قد يكون المحتوى سطحيًا — حرّره لإضافة العمق</li>
+  <li>علامة Gamma التجارية في الباقة المجانية</li>
+  <li>يفقد التصدير إلى PowerPoint بعض التنسيق</li>
+  <li>خيارات حركة محدودة</li>
 </ul>
-<p><strong>Pricing:</strong> Free (400 credits, Gamma branding). Plus $10/month. Pro $20/month.</p>
-<p><strong>Verdict:</strong> The best AI presentation tool for speed and quality. For weekly team updates, client proposals, class presentations, and pitch decks, Gamma produces better results faster than any alternative. The free tier is generous enough for occasional use.</p>
+<p><strong>التسعير:</strong> مجاني (400 رصيد، علامة Gamma التجارية). Plus بسعر $10/شهر. Pro بسعر $20/شهر.</p>
+<p><strong>الحكم:</strong> أفضل أداة عروض تقديمية بالذكاء الاصطناعي من حيث السرعة والجودة. للتحديثات الأسبوعية للفريق وعروض العملاء والعروض الدراسية والعروض الاستثمارية، تنتج Gamma نتائج أفضل وأسرع من أي بديل. والباقة المجانية سخية بما يكفي للاستخدام العرضي.</p>
 
-<h2>2. Beautiful.ai — Grade: B+ — Best Smart Design</h2>
-<p>Beautiful.ai takes a different approach: instead of generating from a prompt, it applies AI to make every slide look professional as you build it. Smart templates automatically resize, reflow, and rebalance as you add content. Add a bullet point and the layout adjusts. Add an image and the composition rebalances. It's impossible to make an ugly slide in Beautiful.ai — the design rules are enforced by AI.</p>
-<h3>Pros</h3>
+<h2>2. Beautiful.ai — التقييم: B+ — أفضل تصميم ذكي</h2>
+<p>يتبع Beautiful.ai نهجًا مختلفًا: فبدلًا من التوليد من وصف، يطبّق الذكاء الاصطناعي ليجعل كل شريحة تبدو احترافية وأنت تبنيها. تُغيّر القوالب الذكية حجمها وتعيد تدفقها وتوازنها تلقائيًا كلما أضفت محتوى. أضف نقطة وسيتكيف التخطيط. أضف صورة وسيُعاد توازن التكوين. يستحيل صنع شريحة قبيحة في Beautiful.ai — فقواعد التصميم يفرضها الذكاء الاصطناعي.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Smart templates — slides look good no matter what you add</li>
-  <li>Design guardrails prevent bad slides</li>
-  <li>Clean, modern aesthetic by default</li>
-  <li>Team brand controls for consistent decks</li>
-  <li>AI content generation within structured templates</li>
+  <li>قوالب ذكية — تبدو الشرائح جيدة مهما أضفت</li>
+  <li>ضوابط تصميم تمنع الشرائح السيئة</li>
+  <li>جمالية نظيفة وعصرية افتراضيًا</li>
+  <li>ضوابط علامة الفريق التجارية لعروض متسقة</li>
+  <li>توليد محتوى بالذكاء الاصطناعي ضمن قوالب منظمة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Less creative freedom — the AI controls the design</li>
-  <li>$12/month minimum — no free tier</li>
-  <li>Limited export options</li>
-  <li>Not as fast as Gamma for prompt-to-deck</li>
+  <li>حرية إبداعية أقل — الذكاء الاصطناعي يتحكم في التصميم</li>
+  <li>حد أدنى $12/شهر — لا توجد باقة مجانية</li>
+  <li>خيارات تصدير محدودة</li>
+  <li>ليس بسرعة Gamma من الوصف إلى العرض</li>
 </ul>
-<p><strong>Pricing:</strong> Pro $12/month. Team $40/user/month.</p>
-<p><strong>Verdict:</strong> Best for teams that need consistent, professional slides without a designer. The smart templates are genuinely clever — but the lack of creative freedom frustrates power users who want specific layouts.</p>
+<p><strong>التسعير:</strong> Pro بسعر $12/شهر. Team بسعر $40/مستخدم/شهر.</p>
+<p><strong>الحكم:</strong> الأفضل للفرق التي تحتاج إلى شرائح متسقة واحترافية دون مصمم. القوالب الذكية بارعة حقًا — لكن غياب الحرية الإبداعية يحبط المستخدمين المتقدمين الذين يريدون تخطيطات محددة.</p>
 
-<h2>3. Canva — Grade: A — Best Template Library</h2>
-<p>Canva's presentation tool combines the world's largest template library with AI features (Magic Design, Magic Write). For visual impact and design flexibility, Canva often produces the best-looking slides — because you start from a professionally designed template and customize it. Magic Design generates presentations from a prompt, but the real value is the thousands of presentation templates across every style and industry.</p>
-<h3>Pros</h3>
+<h2>3. Canva — التقييم: A — أفضل مكتبة قوالب</h2>
+<p>تجمع أداة العروض التقديمية في Canva بين أكبر مكتبة قوالب في العالم وميزات الذكاء الاصطناعي (Magic Design وMagic Write). وللتأثير البصري ومرونة التصميم، غالبًا ما ينتج Canva أجمل الشرائح — لأنك تبدأ من قالب مصمم باحتراف وتخصصه. يولّد Magic Design العروض من وصف، لكن القيمة الحقيقية هي آلاف قوالب العروض عبر كل أسلوب وقطاع.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Largest template library — thousands of presentation designs</li>
-  <li>Most design flexibility — full creative control</li>
-  <li>Magic Design generates decks from prompts</li>
-  <li>Video, animation, and interactive elements</li>
-  <li>Present directly from Canva — record presenter video overlay</li>
-  <li>Free tier with good presentation templates</li>
+  <li>أكبر مكتبة قوالب — آلاف تصاميم العروض التقديمية</li>
+  <li>أكبر مرونة تصميمية — تحكم إبداعي كامل</li>
+  <li>يولّد Magic Design العروض من الأوصاف</li>
+  <li>فيديو ورسوم متحركة وعناصر تفاعلية</li>
+  <li>قدّم مباشرةً من Canva — سجّل فيديو المقدّم كطبقة علوية</li>
+  <li>باقة مجانية بقوالب عروض جيدة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>AI generation less polished than Gamma</li>
-  <li>Can look "Canva-ish" with default templates</li>
-  <li>Not designed specifically for presentations — it's a design tool</li>
-  <li>Collaboration less smooth than dedicated presentation tools</li>
+  <li>توليد الذكاء الاصطناعي أقل صقلًا من Gamma</li>
+  <li>قد يبدو بطابع «Canva» مع القوالب الافتراضية</li>
+  <li>غير مصمم خصيصًا للعروض التقديمية — إنه أداة تصميم</li>
+  <li>التعاون أقل سلاسة من أدوات العروض المتخصصة</li>
 </ul>
-<p><strong>Pricing:</strong> Free (generous templates). Pro $13/month.</p>
-<p><strong>Verdict:</strong> Best for visual presentations where design impact matters — marketing pitches, creative presentations, and anything where stunning visuals sell the message. For data-heavy business presentations, Gamma or PowerPoint are better. Read our full <a href="/ar/blog/canva-review-2026">Canva Review</a>.</p>
+<p><strong>التسعير:</strong> مجاني (قوالب سخية). Pro بسعر $13/شهر.</p>
+<p><strong>الحكم:</strong> الأفضل للعروض البصرية حيث يهم التأثير التصميمي — العروض التسويقية والعروض الإبداعية وكل ما تبيع فيه المرئيات المبهرة الرسالة. أما للعروض التجارية الغنية بالبيانات، فـ Gamma أو PowerPoint أفضل. اقرأ <a href="/ar/blog/canva-review-2026">مراجعة Canva</a> الكاملة.</p>
 
-<h2>4. Tome — Grade: B+ — Best for Storytelling</h2>
-<p>Tome approaches presentations as stories, not slide decks. Generate a narrative-driven presentation where each page flows into the next — more like a visual document than a traditional deck. Tome excels at thought leadership content, strategic narratives, and presentations that need to persuade through storytelling rather than data. The AI generates both text and imagery, creating a cohesive visual narrative from a single prompt.</p>
-<h3>Pros</h3>
+<h2>4. Tome — التقييم: B+ — الأفضل للسرد القصصي</h2>
+<p>يتعامل Tome مع العروض التقديمية بوصفها قصصًا لا مجموعات شرائح. ولّد عرضًا قائمًا على السرد تتدفق فيه كل صفحة إلى التالية — أشبه بمستند بصري منه بعرض تقليدي. يتفوق Tome في محتوى الريادة الفكرية والسرديات الاستراتيجية والعروض التي تحتاج إلى الإقناع عبر السرد لا البيانات. ويولّد الذكاء الاصطناعي النص والصور معًا، فينشئ سردًا بصريًا متماسكًا من وصف واحد.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Narrative-first approach — stories, not bullet points</li>
-  <li>AI generates text + images together for visual coherence</li>
-  <li>Modern, immersive presentation format</li>
-  <li>Good for proposals, pitch decks, and thought leadership</li>
-  <li>Free tier available</li>
+  <li>نهج السرد أولًا — قصص لا نقاط نقطية</li>
+  <li>يولّد الذكاء الاصطناعي النص والصور معًا لتماسك بصري</li>
+  <li>صيغة عرض عصرية وغامرة</li>
+  <li>جيد للمقترحات والعروض الاستثمارية والريادة الفكرية</li>
+  <li>باقة مجانية متاحة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Non-traditional format — not everyone accepts it</li>
-  <li>Less structured than traditional slides for data presentations</li>
-  <li>$16/month for unlimited — pricier than Gamma</li>
-  <li>Export options limited</li>
-  <li>Content can be wordy — needs editing for conciseness</li>
+  <li>صيغة غير تقليدية — لا يتقبلها الجميع</li>
+  <li>أقل تنظيمًا من الشرائح التقليدية في عروض البيانات</li>
+  <li>$16/شهر للاستخدام غير المحدود — أغلى من Gamma</li>
+  <li>خيارات تصدير محدودة</li>
+  <li>قد يكون المحتوى مسهبًا — يحتاج إلى تحرير للإيجاز</li>
 </ul>
-<p><strong>Pricing:</strong> Free (limited). Pro $16/month.</p>
-<p><strong>Verdict:</strong> Best for narrative presentations — fundraising pitches, strategy proposals, and creative briefs. Not the right tool for quarterly business reviews or data-heavy reports. The storytelling format is either a perfect fit or completely wrong for your audience.</p>
+<p><strong>التسعير:</strong> مجاني (محدود). Pro بسعر $16/شهر.</p>
+<p><strong>الحكم:</strong> الأفضل للعروض السردية — عروض جمع التمويل ومقترحات الاستراتيجية والملخصات الإبداعية. وليس الأداة المناسبة للمراجعات التجارية الفصلية أو التقارير الغنية بالبيانات. صيغة السرد القصصي إما أن تناسب جمهورك تمامًا أو لا تناسبه إطلاقًا.</p>
 
-<h2>5. SlidesAI — Grade: B — Best for Google Slides Users</h2>
-<p>SlidesAI is a Google Slides add-on that generates presentations from text. Paste your notes, outline, or content and SlidesAI creates a complete Google Slides deck with appropriate layouts and design. The main advantage: you stay in Google Slides, which many organizations already use. No new tool, no new login, no export hassle.</p>
-<h3>Pros</h3>
+<h2>5. SlidesAI — التقييم: B — الأفضل لمستخدمي Google Slides</h2>
+<p>SlidesAI هي إضافة لـ Google Slides تولّد عروضًا من النص. الصق ملاحظاتك أو مخططك أو محتواك وسينشئ SlidesAI عرض Google Slides كاملًا بتخطيطات وتصميم مناسبين. الميزة الأساسية: تبقى في Google Slides الذي تستخدمه مؤسسات كثيرة أصلًا. لا أداة جديدة ولا تسجيل دخول جديد ولا متاعب تصدير.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Works inside Google Slides — no new tool to learn</li>
-  <li>Generate from text, notes, or outlines</li>
-  <li>Multiple design themes available</li>
-  <li>Free tier with 3 presentations/month</li>
-  <li>Output is a real Google Slides file — full editing control</li>
+  <li>يعمل داخل Google Slides — لا أداة جديدة لتعلّمها</li>
+  <li>التوليد من النص أو الملاحظات أو المخططات</li>
+  <li>عدة سمات تصميم متاحة</li>
+  <li>باقة مجانية بـ 3 عروض/شهر</li>
+  <li>المخرج ملف Google Slides حقيقي — تحكم كامل في التحرير</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Design quality below Gamma and Canva</li>
-  <li>Limited template variety</li>
-  <li>AI content generation is basic</li>
-  <li>Google Slides only — no PowerPoint support</li>
+  <li>جودة التصميم أدنى من Gamma وCanva</li>
+  <li>تنوع قوالب محدود</li>
+  <li>توليد المحتوى بالذكاء الاصطناعي أساسي</li>
+  <li>Google Slides فقط — لا دعم لـ PowerPoint</li>
 </ul>
-<p><strong>Pricing:</strong> Free (3 decks/month). Basic $10/month. Pro $20/month.</p>
-<p><strong>Verdict:</strong> The best option for teams locked into Google Workspace who want AI assistance without leaving Google Slides. Design quality is below standalone tools, but the convenience of staying in Google Slides matters for many organizations.</p>
+<p><strong>التسعير:</strong> مجاني (3 عروض/شهر). Basic بسعر $10/شهر. Pro بسعر $20/شهر.</p>
+<p><strong>الحكم:</strong> الخيار الأفضل للفرق المرتبطة بـ Google Workspace التي تريد مساعدة الذكاء الاصطناعي دون مغادرة Google Slides. جودة التصميم أدنى من الأدوات المستقلة، لكن راحة البقاء في Google Slides مهمة لمؤسسات كثيرة.</p>
 
-<h2>6. PowerPoint Copilot — Grade: C+ — Needs Improvement</h2>
-<p>Microsoft Copilot in PowerPoint generates slides from prompts and can create presentations from Word documents or outlines. The promise is compelling — AI inside the tool 500 million people already use. The reality is disappointing. Copilot-generated slides are generic, visually bland, and content-thin. Stock images rarely match the topic. Layouts feel templated in the worst way.</p>
-<h3>Pros</h3>
+<h2>6. PowerPoint Copilot — التقييم: C+ — يحتاج إلى تحسين</h2>
+<p>يولّد Microsoft Copilot في PowerPoint الشرائح من الأوصاف ويمكنه إنشاء عروض من مستندات Word أو المخططات. الوعد مغرٍ — ذكاء اصطناعي داخل الأداة التي يستخدمها 500 مليون شخص أصلًا. أما الواقع فمخيّب. الشرائح التي يولّدها Copilot عامة وباهتة بصريًا وفقيرة المحتوى. نادرًا ما تتطابق الصور الجاهزة مع الموضوع. وتبدو التخطيطات نمطية بأسوأ معنى.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Built into PowerPoint — no new tool needed</li>
-  <li>Can generate from Word documents and outlines</li>
-  <li>Full PowerPoint editing after generation</li>
-  <li>Enterprise security for corporate use</li>
+  <li>مدمج في PowerPoint — لا حاجة إلى أداة جديدة</li>
+  <li>يمكنه التوليد من مستندات Word والمخططات</li>
+  <li>تحرير PowerPoint كامل بعد التوليد</li>
+  <li>أمان مؤسسي للاستخدام في الشركات</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Worst AI-generated slide quality on this list</li>
-  <li>$30/user/month (Copilot M365) is the most expensive option</li>
-  <li>Generic layouts and irrelevant stock images</li>
-  <li>Content is surface-level bullet points</li>
-  <li>More time fixing than creating from scratch</li>
+  <li>أسوأ جودة شرائح مولَّدة بالذكاء الاصطناعي في هذه القائمة</li>
+  <li>$30/مستخدم/شهر (Copilot M365) هو الخيار الأغلى</li>
+  <li>تخطيطات عامة وصور جاهزة غير ذات صلة</li>
+  <li>المحتوى نقاط نقطية سطحية</li>
+  <li>وقت أطول في الإصلاح من الإنشاء من الصفر</li>
 </ul>
-<p><strong>Pricing:</strong> Requires Copilot for M365 at $30/user/month.</p>
-<p><strong>Verdict:</strong> The most disappointing AI presentation tool. At $30/user/month, Copilot in PowerPoint should produce better results than Gamma's free tier — it doesn't. Use Gamma or Canva for AI generation, then export to PowerPoint if needed. Read our full <a href="/ar/blog/microsoft-copilot-review-2026">Microsoft Copilot Review</a>.</p>
+<p><strong>التسعير:</strong> يتطلب Copilot for M365 بسعر $30/مستخدم/شهر.</p>
+<p><strong>الحكم:</strong> أكثر أدوات العروض التقديمية بالذكاء الاصطناعي إخيابًا للآمال. بسعر $30/مستخدم/شهر، ينبغي أن ينتج Copilot في PowerPoint نتائج أفضل من الباقة المجانية في Gamma — لكنه لا يفعل. استخدم Gamma أو Canva للتوليد بالذكاء الاصطناعي ثم صدّر إلى PowerPoint عند الحاجة. اقرأ <a href="/ar/blog/microsoft-copilot-review-2026">مراجعة Microsoft Copilot</a> الكاملة.</p>
 
-<h2>Which AI Presentation Tool Should You Choose?</h2>
+<h2>أي أداة عروض تقديمية بالذكاء الاصطناعي ينبغي أن تختار؟</h2>
 <ul>
-  <li><strong>Best overall:</strong> Gamma — fastest, best design, generous free tier</li>
-  <li><strong>Best visual impact:</strong> Canva — most templates, most creative control</li>
-  <li><strong>Best for teams needing consistency:</strong> Beautiful.ai — smart templates enforce design quality</li>
-  <li><strong>Best for storytelling:</strong> Tome — narrative-first approach for pitches</li>
-  <li><strong>Best for Google Slides users:</strong> SlidesAI — stays inside Google Workspace</li>
-  <li><strong>Skip:</strong> PowerPoint Copilot — overpay for underwhelming results</li>
+  <li><strong>الأفضل إجمالًا:</strong> Gamma — الأسرع والأفضل تصميمًا وباقة مجانية سخية</li>
+  <li><strong>الأفضل تأثيرًا بصريًا:</strong> Canva — أكثر القوالب وأكبر تحكم إبداعي</li>
+  <li><strong>الأفضل للفرق التي تحتاج إلى اتساق:</strong> Beautiful.ai — القوالب الذكية تفرض جودة التصميم</li>
+  <li><strong>الأفضل للسرد القصصي:</strong> Tome — نهج السرد أولًا للعروض الاستثمارية</li>
+  <li><strong>الأفضل لمستخدمي Google Slides:</strong> SlidesAI — يبقى داخل Google Workspace</li>
+  <li><strong>تجنّبه:</strong> PowerPoint Copilot — تدفع كثيرًا مقابل نتائج مخيبة</li>
 </ul>
 
-<h3>The Presentation Workflow</h3>
-<p>The smartest approach combines tools:</p>
+<h3>مسار عمل العرض التقديمي</h3>
+<p>أذكى نهج هو الجمع بين الأدوات:</p>
 <ol>
-  <li><strong>Research:</strong> Use Claude or Perplexity to gather and analyze information</li>
-  <li><strong>Generate:</strong> Use Gamma to create the first draft deck from your research</li>
-  <li><strong>Design:</strong> If visual impact matters more, rebuild key slides in Canva</li>
-  <li><strong>Export:</strong> Export to PowerPoint or PDF for sharing</li>
+  <li><strong>البحث:</strong> استخدم Claude أو Perplexity لجمع المعلومات وتحليلها</li>
+  <li><strong>التوليد:</strong> استخدم Gamma لإنشاء المسودة الأولى للعرض من بحثك</li>
+  <li><strong>التصميم:</strong> إن كان التأثير البصري أهم، أعد بناء الشرائح الرئيسية في Canva</li>
+  <li><strong>التصدير:</strong> صدّر إلى PowerPoint أو PDF للمشاركة</li>
 </ol>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>What is the best AI presentation tool in 2026?</h3>
-<p><strong>Gamma</strong> — best combination of speed, quality, and price. Free tier is generous enough for most users. Upgrade to Plus ($10/month) to remove branding.</p>
+<h3>ما أفضل أداة عروض تقديمية بالذكاء الاصطناعي في 2026؟</h3>
+<p><strong>Gamma</strong> — أفضل مزيج من السرعة والجودة والسعر. والباقة المجانية سخية بما يكفي لمعظم المستخدمين. قم بالترقية إلى Plus ($10/شهر) لإزالة العلامة التجارية.</p>
 
-<h3>Can AI make good presentations?</h3>
-<p>AI makes good first-draft presentations. Gamma and Canva produce slides that are 70-80% ready to present. The last 20-30% — refining content, adding specific data, adjusting messaging — still requires human work. AI eliminates the blank-slide problem and design drudgery.</p>
+<h3>هل يستطيع الذكاء الاصطناعي إنتاج عروض تقديمية جيدة؟</h3>
+<p>ينتج الذكاء الاصطناعي مسودات أولى جيدة للعروض. تنتج Gamma وCanva شرائح جاهزة للعرض بنسبة 70-80%. أما الـ20-30% الأخيرة — صقل المحتوى وإضافة بيانات محددة وتعديل الرسالة — فما زالت تتطلب عملًا بشريًا. ويلغي الذكاء الاصطناعي مشكلة الشريحة الفارغة وعناء التصميم.</p>
 
-<h3>Is PowerPoint Copilot worth it for presentations?</h3>
-<p>No. Copilot's PowerPoint output is the weakest on this list. Use Gamma (free) for AI generation and export to PowerPoint if your organization requires .pptx format.</p>
+<h3>هل يستحق PowerPoint Copilot العناء للعروض التقديمية؟</h3>
+<p>لا. مخرجات Copilot في PowerPoint هي الأضعف في هذه القائمة. استخدم Gamma (المجاني) للتوليد بالذكاء الاصطناعي وصدّر إلى PowerPoint إن كانت مؤسستك تتطلب صيغة .pptx.</p>
 
-<h3>Gamma or Canva for presentations?</h3>
-<p><strong>Gamma</strong> for speed — prompt to deck in 2 minutes. <strong>Canva</strong> for design impact — more templates, more visual control, better for creative presentations. Both have free tiers — try both.</p>
+<h3>Gamma أم Canva للعروض التقديمية؟</h3>
+<p><strong>Gamma</strong> للسرعة — من الوصف إلى العرض في دقيقتين. <strong>Canva</strong> للتأثير التصميمي — قوالب أكثر وتحكم بصري أكبر، وهو أفضل للعروض الإبداعية. لكليهما باقة مجانية — جرّبهما معًا.</p>
 
-<h3>Can I export AI presentations to PowerPoint?</h3>
-<p>Yes — Gamma, Canva, Beautiful.ai, and Tome all export to .pptx format. Some formatting may shift during export, but the structure and content transfer well.</p>
+<h3>هل يمكنني تصدير العروض التقديمية بالذكاء الاصطناعي إلى PowerPoint؟</h3>
+<p>نعم — تصدّر Gamma وCanva وBeautiful.ai وTome إلى صيغة .pptx. قد يتغير بعض التنسيق أثناء التصدير، لكن البنية والمحتوى ينتقلان جيدًا.</p>
 
-<p><em>Every tool was tested by AIGradeLab across business, marketing, education, and creative presentation workflows. Grades reflect practical presentation value as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>اختبر AIGradeLab كل أداة عبر مسارات العروض التجارية والتسويقية والتعليمية والإبداعية. تعكس التقييمات القيمة العملية للعروض التقديمية حتى نوفمبر 2026. الأسعار تم التحقق منها على الموقع الرسمي لكل منصة.</em></p>

@@ -1,114 +1,114 @@
 ---
-title: "ChatGPT يتقاعد عن Advanced Voice: كل ما تحتاج معرفته عن GPT-Live"
-description: "دليل شامل لأوضاع الصوت في ChatGPT — ما يتغير ومتى وما يجب فعله."
-category: "Lab Notes"
+title: "ChatGPT يتقاعد من Advanced Voice: كل ما تحتاج إلى معرفته عن GPT-Live"
+description: "ستوقف OpenAI الوضعين الصوتيين Advanced وStandard في 11 ديسمبر 2026. إليك ما يحل محله GPT-Live وما الذي يتغير وكيف تستعد للانتقال."
+category: "ملاحظات المختبر"
 categorySlug: "lab-notes"
 date: "2026-11-21"
-readTime: "7 min read"
+readTime: "وقت القراءة: 7 دقائق"
 ---
 
-<h2>The Voice Transition Is Coming</h2>
+<h2>الانتقال الصوتي قادم</h2>
 
-<p>OpenAI has confirmed that ChatGPT will retire both Advanced Voice and Standard Voice on December 11, 2026. The company is consolidating its voice capabilities around GPT-Live, its newer and more capable voice model. If you use ChatGPT's voice features regularly, here's everything you need to know about the switch.</p>
+<p>أكدت OpenAI أن ChatGPT سيتقاعد من الوضعين Advanced Voice وStandard Voice في 11 ديسمبر 2026. وتوحّد الشركة قدراتها الصوتية حول GPT-Live، نموذجها الصوتي الأحدث والأكثر قدرة. وإذا كنت تستخدم ميزات الصوت في ChatGPT بانتظام، فإليك كل ما تحتاج إلى معرفته عن هذا التحول.</p>
 
-<h2>What's Being Retired</h2>
+<h2>ما الذي سيُتقاعد</h2>
 
 <h3>Standard Voice</h3>
 
-<p>Standard Voice was ChatGPT's original voice interaction mode — a cascade system that converted your speech to text, processed it through a text-based model, and converted the response back to speech. It worked, but conversations felt stilted. There were noticeable pauses between your question and the response, and the system couldn't handle interruptions naturally.</p>
+<p>كان Standard Voice وضع التفاعل الصوتي الأصلي في ChatGPT — نظام متسلسل يحوّل كلامك إلى نص ويعالجه عبر نموذج نصي ثم يحوّل الاستجابة مجددًا إلى كلام. كان يعمل، لكن المحادثات بدت متكلفة. كانت هناك فواصل ملحوظة بين سؤالك والاستجابة، ولم يكن النظام قادرًا على التعامل مع المقاطعات بشكل طبيعي.</p>
 
 <h3>Advanced Voice</h3>
 
-<p>Advanced Voice launched in late 2024 as a significant upgrade. It introduced more natural-sounding voices, better handling of conversational patterns, and reduced latency. However, it was still fundamentally a cascade system — speech went through text before being processed — which limited how naturally the AI could converse.</p>
+<p>أُطلق Advanced Voice في أواخر 2024 كترقية كبيرة. قدّم أصواتًا أكثر طبيعية وتعاملًا أفضل مع أنماط المحادثة وزمن استجابة أقل. لكنه كان في جوهره نظامًا متسلسلًا — يمر الكلام عبر النص قبل المعالجة — مما حدّ من مدى طبيعية محادثة الذكاء الاصطناعي.</p>
 
-<h2>What GPT-Live Brings</h2>
+<h2>ما يقدمه GPT-Live</h2>
 
-<p>GPT-Live represents a fundamental architecture shift. Rather than the speech-to-text-to-speech cascade, GPT-Live processes audio natively. It can hear your tone, detect hesitation, understand emphasis, and respond in a way that feels more like a real conversation.</p>
+<p>يمثل GPT-Live تحولًا جوهريًا في البنية. فبدلًا من التسلسل من الكلام إلى النص إلى الكلام، يعالج GPT-Live الصوت أصليًا. يستطيع سماع نبرتك واكتشاف التردد وفهم التأكيد والرد بطريقة تبدو أقرب إلى محادثة حقيقية.</p>
 
-<h3>Key Improvements Over Advanced Voice</h3>
+<h3>التحسينات الرئيسية مقارنةً بـ Advanced Voice</h3>
 
 <ul>
-<li><strong>True full-duplex</strong> — GPT-Live can listen while speaking, allowing natural interruptions and conversational back-and-forth without awkward pauses</li>
-<li><strong>Emotional awareness</strong> — The model picks up on tone and vocal cues, adjusting its responses accordingly</li>
-<li><strong>Lower latency</strong> — Responses feel nearly instantaneous, eliminating the "thinking" gaps that made voice AI feel robotic</li>
-<li><strong>Richer voice quality</strong> — More expressive and natural-sounding output voices</li>
-<li><strong>Multi-turn context</strong> — Better at maintaining conversation context across long voice sessions</li>
+<li><strong>ثنائي الاتجاه الكامل حقًا</strong> — يستطيع GPT-Live الاستماع أثناء التحدث، مما يتيح مقاطعات طبيعية وتبادلًا محادثيًا دون فواصل محرجة</li>
+<li><strong>الوعي العاطفي</strong> — يلتقط النموذج النبرة والإشارات الصوتية ويعدّل استجاباته وفقًا لذلك</li>
+<li><strong>زمن استجابة أقل</strong> — تبدو الاستجابات فورية تقريبًا، مما يزيل فجوات «التفكير» التي جعلت الذكاء الاصطناعي الصوتي يبدو آليًا</li>
+<li><strong>جودة صوت أغنى</strong> — أصوات مخرجات أكثر تعبيرًا وطبيعية</li>
+<li><strong>سياق متعدد الأدوار</strong> — أفضل في الحفاظ على سياق المحادثة عبر الجلسات الصوتية الطويلة</li>
 </ul>
 
-<h2>Timeline and Availability</h2>
+<h2>الجدول الزمني والتوفر</h2>
 
 <table>
 <thead>
-<tr><th>Date</th><th>Event</th></tr>
+<tr><th>التاريخ</th><th>الحدث</th></tr>
 </thead>
 <tbody>
-<tr><td>November 10, 2026</td><td>OpenAI announces retirement of Advanced and Standard Voice</td></tr>
-<tr><td>November 10 - December 10</td><td>Transition period — all three voice modes available</td></tr>
-<tr><td>December 11, 2026</td><td>Advanced Voice and Standard Voice permanently disabled</td></tr>
-<tr><td>December 11+</td><td>GPT-Live becomes the sole voice interaction mode</td></tr>
+<tr><td>10 نوفمبر 2026</td><td>تعلن OpenAI تقاعد Advanced Voice وStandard Voice</td></tr>
+<tr><td>10 نوفمبر - 10 ديسمبر</td><td>فترة الانتقال — الأوضاع الصوتية الثلاثة متاحة</td></tr>
+<tr><td>11 ديسمبر 2026</td><td>تعطيل Advanced Voice وStandard Voice نهائيًا</td></tr>
+<tr><td>11 ديسمبر وما بعده</td><td>يصبح GPT-Live وضع التفاعل الصوتي الوحيد</td></tr>
 </tbody>
 </table>
 
-<h2>Who Is Affected?</h2>
+<h2>من المتأثر؟</h2>
 
-<h3>ChatGPT Plus and Pro Subscribers</h3>
+<h3>مشتركو ChatGPT Plus وPro</h3>
 
-<p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
+<p>إذا كنت على خطة مدفوعة، فلديك وصول إلى GPT-Live بالفعل. ينبغي أن يكون الانتقال سلسًا — فمن المرجح أنك تستخدم GPT-Live أصلًا إذا استخدمت ميزات الصوت مؤخرًا، إذ جعلته OpenAI الافتراضي منذ أشهر.</p>
 
-<h3>Free Tier Users</h3>
+<h3>مستخدمو الباقة المجانية</h3>
 
-<p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
+<p>سينتقل المستخدمون المجانيون الذين كان لديهم وصول محدود إلى Standard Voice إلى وصول محدود إلى GPT-Live. ولم تُحدَّث تفاصيل حدود الصوت في الباقة المجانية للمشهد ما بعد ديسمبر بعد.</p>
 
-<h3>API Developers</h3>
+<h3>مطورو واجهات API</h3>
 
-<p>Developers using the Audio API endpoints should check their integration. The legacy voice endpoints will be deprecated alongside the consumer features. OpenAI's GPT-Live API offers different capabilities and pricing compared to the previous voice APIs.</p>
+<p>ينبغي للمطورين الذين يستخدمون نقاط نهاية Audio API التحقق من تكاملهم. ستُهمَل نقاط النهاية الصوتية القديمة إلى جانب ميزات المستهلكين. وتقدم واجهة GPT-Live API قدرات وتسعيرًا مختلفًا مقارنةً بواجهات الصوت السابقة.</p>
 
-<h3>Enterprise and Team Users</h3>
+<h3>مستخدمو Enterprise وTeam</h3>
 
-<p>Enterprise accounts with custom voice configurations should review their settings before December 11. Any workflows built around Advanced Voice's specific behavior patterns may need adjustment.</p>
+<p>ينبغي لحسابات Enterprise ذات الإعدادات الصوتية المخصصة مراجعة إعداداتها قبل 11 ديسمبر. وقد تحتاج أي مسارات عمل بُنيت حول أنماط سلوك Advanced Voice المحددة إلى تعديل.</p>
 
-<h2>What to Do Now</h2>
+<h2>ماذا تفعل الآن</h2>
 
-<h3>1. Test GPT-Live Before the Switch</h3>
+<h3>1. اختبر GPT-Live قبل التحول</h3>
 
-<p>If you haven't used GPT-Live yet, start now. Open ChatGPT, tap the voice icon, and confirm you're using GPT-Live (it should be the default). Spend a few sessions getting comfortable with its conversational style.</p>
+<p>إذا لم تستخدم GPT-Live بعد، فابدأ الآن. افتح ChatGPT وانقر أيقونة الصوت وتأكد من أنك تستخدم GPT-Live (ينبغي أن يكون الافتراضي). اقضِ بضع جلسات للتعود على أسلوبه المحادثي.</p>
 
-<h3>2. Update Your Workflows</h3>
+<h3>2. حدّث مسارات عملك</h3>
 
-<p>If you've built any processes around ChatGPT's voice features — daily briefings, brainstorming sessions, hands-free note-taking — test them with GPT-Live during the transition period to catch any behavioral differences.</p>
+<p>إذا بنيت أي عمليات حول ميزات الصوت في ChatGPT — إحاطات يومية وجلسات عصف ذهني وتدوين ملاحظات دون استخدام اليدين — فاختبرها مع GPT-Live خلال فترة الانتقال لاكتشاف أي اختلافات سلوكية.</p>
 
-<h3>3. Check Your API Integrations</h3>
+<h3>3. افحص تكاملات API</h3>
 
-<p>Developers should review the GPT-Live API documentation and test their integrations well before the December 11 deadline. Don't wait for the last day.</p>
+<p>ينبغي للمطورين مراجعة وثائق GPT-Live API واختبار تكاملاتهم قبل موعد 11 ديسمبر بوقت كافٍ. لا تنتظر اليوم الأخير.</p>
 
-<h3>4. Explore Alternatives</h3>
+<h3>4. استكشف البدائل</h3>
 
-<p>GPT-Live isn't the only game in town for voice AI. If you're evaluating options:</p>
-
-<ul>
-<li><strong>Google Gemini</strong> — Offers voice interaction through the Gemini app and Google Assistant</li>
-<li><strong>Claude</strong> — Anthropic offers voice mode with CarPlay support</li>
-<li><strong>ElevenLabs</strong> — For custom voice generation and voice-first applications</li>
-</ul>
-
-<h2>The Bigger Picture: Voice AI Is Consolidating</h2>
-
-<p>OpenAI's decision to retire older voice modes reflects a broader trend in AI: consolidation around native multimodal models. Rather than bolting voice capabilities onto text models, the industry is building models that understand audio, text, images, and video natively.</p>
-
-<p>This same trend is visible across the market:</p>
+<p>GPT-Live ليس الخيار الوحيد في الذكاء الاصطناعي الصوتي. إذا كنت تقيّم الخيارات:</p>
 
 <ul>
-<li>Google's Gemini 4 models are natively multimodal</li>
-<li>Bland AI just launched Tofu-1, a native speech-to-speech model</li>
-<li>Meta's Muse agent works across text and voice</li>
+<li><strong>Google Gemini</strong> — يقدم التفاعل الصوتي عبر تطبيق Gemini وGoogle Assistant</li>
+<li><strong>Claude</strong> — تقدم Anthropic وضعًا صوتيًا مع دعم CarPlay</li>
+<li><strong>ElevenLabs</strong> — لتوليد الأصوات المخصصة والتطبيقات التي يكون الصوت فيها أولًا</li>
 </ul>
 
-<p>The cascade approach — speech to text to model to speech — is becoming a legacy architecture. If your business relies on voice AI, planning for native multimodal is the right long-term bet.</p>
+<h2>الصورة الأكبر: الذكاء الاصطناعي الصوتي يتوحّد</h2>
 
-<h2>The Bottom Line</h2>
+<p>يعكس قرار OpenAI بتقاعد الأوضاع الصوتية الأقدم اتجاهًا أوسع في الذكاء الاصطناعي: التوحّد حول النماذج متعددة الوسائط الأصلية. فبدلًا من إلحاق القدرات الصوتية بالنماذج النصية، تبني الصناعة نماذج تفهم الصوت والنص والصور والفيديو أصليًا.</p>
 
-<p>The retirement of Advanced and Standard Voice is a cleanup, not a downgrade. GPT-Live is objectively better in every measurable dimension. The main risk is for developers and businesses with hard-coded integrations against the old API endpoints — test now, migrate early, and you'll be fine.</p>
+<p>ويظهر هذا الاتجاه نفسه في السوق كله:</p>
 
-<p>For most users, you won't notice a thing on December 12. Voice in ChatGPT will just work — and work better than it ever has.</p>
+<ul>
+<li>نماذج Gemini 4 من Google متعددة الوسائط أصليًا</li>
+<li>أطلقت Bland AI للتو Tofu-1، نموذج كلام إلى كلام أصلي</li>
+<li>يعمل وكيل Muse من Meta عبر النص والصوت</li>
+</ul>
 
-<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at ToolCraftKit to stay on top of your AI evaluations.</em></p>
+<p>أصبح النهج المتسلسل — الكلام إلى نص إلى نموذج إلى كلام — بنية قديمة. وإذا كان عملك يعتمد على الذكاء الاصطناعي الصوتي، فإن التخطيط للنماذج متعددة الوسائط الأصلية هو الرهان الصحيح على المدى البعيد.</p>
+
+<h2>الخلاصة</h2>
+
+<p>تقاعد Advanced Voice وStandard Voice عملية تنظيف لا تراجع. فـ GPT-Live أفضل بشكل موضوعي في كل بُعد قابل للقياس. والخطر الرئيسي على المطورين والشركات ذات التكاملات المبرمجة صراحةً مع نقاط نهاية API القديمة — اختبر الآن وانتقل مبكرًا وستكون بخير.</p>
+
+<p>ولمعظم المستخدمين، لن تلاحظ شيئًا في 12 ديسمبر. سيعمل الصوت في ChatGPT ببساطة — وبشكل أفضل مما كان عليه من قبل.</p>
+
+<p><em>تحتاج إلى تنظيم سير عمل أدوات الذكاء الاصطناعي؟ اطّلع على <a href="https://toolcraftkit.com">Pomodoro Timer</a> المجاني وأدوات الإنتاجية في ToolCraftKit لتبقى على اطلاع بتقييماتك للذكاء الاصطناعي.</em></p>

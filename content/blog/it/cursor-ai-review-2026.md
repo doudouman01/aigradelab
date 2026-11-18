@@ -1,11 +1,11 @@
 ---
-title: "Recensione Cursor AI 2026: The Best AI Code Editor? Il Nostro Voto"
-description: "We tested Cursor for real-world coding — Composer 1.5, agent mode, codebase indexing. Here is our honest grade, pricing breakdown, and whether it is worth $30/month. Updated November 2026."
+title: "Recensione Cursor AI 2026: il miglior editor di codice con AI? Il nostro voto"
+description: "Abbiamo testato Cursor nella programmazione reale — Composer 1.5, agent mode, indicizzazione del codebase. Ecco il nostro voto sincero, i prezzi e se vale 30 $/mese. Aggiornato a novembre 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "12 min di lettura"
 grade: "A"
 scores_ux: 8.8
 scores_quality: 9.2
@@ -15,105 +15,105 @@ scores_support: 7.5
 toolName: "Cursor"
 ---
 
-<h2>What Cursor Does</h2>
-<p>Cursor is an AI-native code editor built as a fork of VS Code. It does not add AI to an editor — it rebuilds the editing experience around AI. Every part of the workflow is AI-aware: autocomplete predicts multi-line sequences based on your project's patterns, chat understands your full codebase, and Composer edits multiple files simultaneously from natural language descriptions. In 2026, Cursor has become the editor that professional developers recommend most often.</p>
+<h2>Cosa fa Cursor</h2>
+<p>Cursor è un editor di codice nativo per l'AI costruito come fork di VS Code. Non aggiunge l'AI a un editor — ricostruisce l'esperienza di editing attorno all'AI. Ogni parte del flusso di lavoro è consapevole dell'AI: l'autocompletamento prevede sequenze multi-riga in base agli schemi del tuo progetto, la chat comprende l'intero codebase e Composer modifica più file contemporaneamente a partire da descrizioni in linguaggio naturale. Nel 2026 Cursor è diventato l'editor che gli sviluppatori professionisti raccomandano più spesso.</p>
 
-<h2>Cosa Abbiamo Testato</h2>
-<p>We used Cursor daily for six weeks on real projects: a Next.js SaaS application, a Python data pipeline, bug fixing across multiple repositories, and implementing new features from plain-English descriptions. We compared output quality against GitHub Copilot, Claude Code, and manual coding.</p>
+<h2>Cosa abbiamo testato</h2>
+<p>Abbiamo usato Cursor ogni giorno per sei settimane su progetti reali: un'applicazione SaaS Next.js, una pipeline di dati in Python, correzione di bug su più repository e implementazione di nuove funzionalità a partire da descrizioni in linguaggio semplice. Abbiamo confrontato la qualità dell'output con GitHub Copilot, Claude Code e la programmazione manuale.</p>
 
-<h2>What Has Changed Since September 2026</h2>
-<p>Three major updates make Cursor significantly more capable than when we first reviewed it:</p>
+<h2>Cosa è cambiato da settembre 2026</h2>
+<p>Tre aggiornamenti importanti rendono Cursor sensibilmente più capace rispetto a quando lo abbiamo recensito la prima volta:</p>
 <ul>
-  <li><strong>Composer 1.5:</strong> Cursor's proprietary agentic model, launched February 2026. It handles multi-file edits with better context awareness and fewer hallucinations than the previous version.</li>
-  <li><strong>Agent mode:</strong> The AI plans a multi-step approach, edits files, runs commands, handles errors, and iterates autonomously. You describe what you want built, and Cursor builds it — running tests and fixing issues along the way.</li>
-  <li><strong>Prezzi shift:</strong> Cursor now offers Plus ($8/month) and Premium ($30/month) tiers. GitHub Copilot moved to usage-based AI Credits billing in June 2026, which changes the competitive math.</li>
+  <li><strong>Composer 1.5:</strong> il modello agentico proprietario di Cursor, lanciato a febbraio 2026. Gestisce le modifiche multi-file con una migliore consapevolezza del contesto e meno allucinazioni rispetto alla versione precedente.</li>
+  <li><strong>Agent mode:</strong> l'AI pianifica un approccio in più passaggi, modifica i file, esegue comandi, gestisce gli errori e itera in autonomia. Descrivi ciò che vuoi costruire e Cursor lo costruisce — eseguendo test e correggendo i problemi lungo il percorso.</li>
+  <li><strong>Cambio di prezzi:</strong> Cursor ora offre i livelli Plus (8 $/mese) e Premium (30 $/mese). GitHub Copilot è passato a una fatturazione a consumo con AI Credits a giugno 2026, il che cambia i conti della concorrenza.</li>
 </ul>
 
-<h2>Cosa Funziona Bene</h2>
+<h2>Cosa funziona bene</h2>
 <ul>
-  <li><strong>Codebase indexing:</strong> Cursor indexes your entire project — every file, every import, every type definition. When you ask it to implement a feature, it knows your project structure, your naming conventions, and your existing patterns. This is the single biggest advantage over GitHub Copilot, which treats each suggestion more independently. The difference is immediately obvious when working on projects with more than a few files.</li>
-  <li><strong>Composer multi-file editing:</strong> Describe what you want in plain English and Composer creates, modifies, and connects files across your project. "Add user authentication with email and password, create the login and signup pages, and connect them to the existing database" — Composer handles this as a coherent task, not as separate disconnected edits. For refactoring or adding features that touch multiple files, this saves hours.</li>
-  <li><strong>Agent mode:</strong> This is Composer taken further. The agent plans its approach, executes steps, runs your tests, reads error messages, and iterates. Hand it a bug report with a stack trace and it will locate the issue, propose a fix, implement it, run the tests, and report back. The autonomy is genuinely useful for tasks you would otherwise delegate to a junior developer.</li>
-  <li><strong>Tab completion:</strong> The autocomplete is context-aware in a way that feels like the AI understands what you are building, not just what you are typing. It predicts multi-line sequences — entire function bodies, test cases, API handlers — based on patterns in your project. Acceptance rate in our testing was around 45%, up from 40% in our September review.</li>
-  <li><strong>Familiar environment:</strong> Built on VS Code, every extension, theme, keybinding, and setting carries over. Switching from VS Code to Cursor takes less than 5 minutes. If you already use VS Code, there is no learning curve for the editor itself — only for the AI features.</li>
+  <li><strong>Indicizzazione del codebase:</strong> Cursor indicizza l'intero progetto — ogni file, ogni import, ogni definizione di tipo. Quando gli chiedi di implementare una funzionalità, conosce la struttura del progetto, le convenzioni di denominazione e gli schemi esistenti. È il singolo vantaggio più grande rispetto a GitHub Copilot, che tratta ogni suggerimento in modo più indipendente. La differenza è immediatamente evidente nei progetti con più di qualche file.</li>
+  <li><strong>Editing multi-file con Composer:</strong> descrivi ciò che vuoi in linguaggio semplice e Composer crea, modifica e collega i file nel tuo progetto. "Aggiungi l'autenticazione utente con email e password, crea le pagine di login e registrazione e collegale al database esistente" — Composer lo gestisce come un compito coerente, non come modifiche separate e scollegate. Per il refactoring o per aggiungere funzionalità che toccano più file, fa risparmiare ore.</li>
+  <li><strong>Agent mode:</strong> è Composer portato più in là. L'agente pianifica il suo approccio, esegue i passaggi, lancia i tuoi test, legge i messaggi di errore e itera. Dagli una segnalazione di bug con uno stack trace e individuerà il problema, proporrà una correzione, la implementerà, eseguirà i test e ti darà conto del risultato. L'autonomia è davvero utile per compiti che altrimenti delegheresti a uno sviluppatore junior.</li>
+  <li><strong>Completamento con Tab:</strong> l'autocompletamento è consapevole del contesto in un modo che fa sentire che l'AI capisce ciò che stai costruendo, non solo ciò che stai digitando. Prevede sequenze multi-riga — interi corpi di funzione, casi di test, gestori API — in base agli schemi del tuo progetto. Il tasso di accettazione nei nostri test è stato di circa il 45%, rispetto al 40% della nostra recensione di settembre.</li>
+  <li><strong>Ambiente familiare:</strong> costruito su VS Code, ogni estensione, tema, scorciatoia e impostazione si trasferisce. Passare da VS Code a Cursor richiede meno di 5 minuti. Se usi già VS Code, non c'è alcuna curva di apprendimento per l'editor in sé — solo per le funzioni AI.</li>
 </ul>
 
-<h2>Cosa Non Convince</h2>
+<h2>Cosa non convince</h2>
 <ul>
-  <li><strong>Usage limits:</strong> Premium's request limits can constrain heavy users. During intense development sprints — debugging a complex issue, building a new feature module — it is possible to hit the ceiling in a single day. You can still code, but without the premium AI features until the limit resets. This is the most common complaint from Cursor power users.</li>
-  <li><strong>VS Code only:</strong> If your team uses JetBrains (IntelliJ, PyCharm, WebStorm), Neovim, or Xcode, Cursor is not an option. This is the primary reason GitHub Copilot retains 68% market share — it works everywhere.</li>
-  <li><strong>Occasional hallucinations:</strong> Agent mode sometimes generates code that looks correct but has subtle bugs — an incorrect import path, a wrong API method, a type mismatch that TypeScript catches but a dynamic language would not. The generated code requires review, especially for complex logic.</li>
-  <li><strong>Large monorepos:</strong> Performance degrades with very large codebases. Indexing slows down, context windows fill up, and suggestions become less relevant. For monorepos with millions of lines, the experience is noticeably worse than on smaller projects.</li>
-  <li><strong>Documentation:</strong> Cursor's official documentation is sparse. Most tips, workflows, and best practices come from the community — YouTube videos, Twitter threads, and blog posts. The company ships features faster than it documents them.</li>
+  <li><strong>Limiti di utilizzo:</strong> i limiti di richieste di Premium possono vincolare gli utenti intensivi. Durante sprint di sviluppo intensi — il debug di un problema complesso, la costruzione di un nuovo modulo — è possibile raggiungere il tetto in un solo giorno. Puoi continuare a programmare, ma senza le funzioni AI premium finché il limite non si azzera. È la lamentela più comune tra gli utenti esperti di Cursor.</li>
+  <li><strong>Solo VS Code:</strong> se il tuo team usa JetBrains (IntelliJ, PyCharm, WebStorm), Neovim o Xcode, Cursor non è un'opzione. È il motivo principale per cui GitHub Copilot mantiene il 68% di quota di mercato — funziona ovunque.</li>
+  <li><strong>Allucinazioni occasionali:</strong> l'agent mode a volte genera codice che sembra corretto ma contiene bug sottili — un percorso di import errato, un metodo API sbagliato, un'incongruenza di tipo che TypeScript intercetta ma un linguaggio dinamico no. Il codice generato richiede una revisione, soprattutto per la logica complessa.</li>
+  <li><strong>Grandi monorepo:</strong> le prestazioni peggiorano con codebase molto grandi. L'indicizzazione rallenta, le finestre di contesto si riempiono e i suggerimenti diventano meno pertinenti. Per i monorepo con milioni di righe, l'esperienza è nettamente peggiore che nei progetti più piccoli.</li>
+  <li><strong>Documentazione:</strong> la documentazione ufficiale di Cursor è scarna. La maggior parte dei consigli, dei flussi di lavoro e delle buone pratiche arriva dalla community — video su YouTube, thread su Twitter e post di blog. L'azienda rilascia funzioni più in fretta di quanto le documenti.</li>
 </ul>
 
 <h2>Cursor vs GitHub Copilot vs Claude Code</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Cursor</th><th>GitHub Copilot</th><th>Claude Code</th></tr>
+    <tr><th>Caratteristica</th><th>Cursor</th><th>GitHub Copilot</th><th>Claude Code</th></tr>
   </thead>
   <tbody>
-    <tr><td>Type</td><td>AI-native IDE</td><td>IDE extension</td><td>Terminal agent</td></tr>
-    <tr><td>IDE support</td><td>VS Code only</td><td>40+ IDEs</td><td>Any terminal</td></tr>
-    <tr><td>Codebase awareness</td><td>Full project index</td><td>Limited</td><td>Full repo</td></tr>
-    <tr><td>Multi-file editing</td><td>Composer (best)</td><td>Agent (newer)</td><td>Yes (terminal)</td></tr>
-    <tr><td>Autonomous mode</td><td>Agent mode</td><td>Coding agent</td><td>Full autonomy</td></tr>
-    <tr><td>Best for</td><td>In-the-flow daily coding</td><td>Teams, multi-IDE</td><td>Large delegated tasks</td></tr>
-    <tr><td>Free tier</td><td>Yes (limited)</td><td>Yes (2,000/month)</td><td>No (needs Claude Pro)</td></tr>
-    <tr><td>Pro price</td><td>$30/month</td><td>$10/month</td><td>$20/month</td></tr>
+    <tr><td>Tipo</td><td>IDE nativo per l'AI</td><td>Estensione per IDE</td><td>Agente da terminale</td></tr>
+    <tr><td>Supporto IDE</td><td>Solo VS Code</td><td>Oltre 40 IDE</td><td>Qualsiasi terminale</td></tr>
+    <tr><td>Consapevolezza del codebase</td><td>Indice completo del progetto</td><td>Limitata</td><td>Intero repo</td></tr>
+    <tr><td>Editing multi-file</td><td>Composer (il migliore)</td><td>Agent (più recente)</td><td>Sì (terminale)</td></tr>
+    <tr><td>Modalità autonoma</td><td>Agent mode</td><td>Coding agent</td><td>Piena autonomia</td></tr>
+    <tr><td>Ideale per</td><td>Programmazione quotidiana nel flusso</td><td>Team, multi-IDE</td><td>Grandi compiti delegati</td></tr>
+    <tr><td>Piano gratuito</td><td>Sì (limitato)</td><td>Sì (2.000/mese)</td><td>No (serve Claude Pro)</td></tr>
+    <tr><td>Prezzo Pro</td><td>30 $/mese</td><td>10 $/mese</td><td>20 $/mese</td></tr>
   </tbody>
 </table>
-<p><strong>Choose Cursor</strong> if you use VS Code and want the deepest AI integration for daily coding. <strong>Choose Copilot</strong> if you need multi-IDE support, a generous free tier, or native GitHub integration. <strong>Choose Claude Code</strong> if you are a senior developer who wants to delegate entire features from the terminal.</p>
-<p>The power move: use Cursor for interactive coding and Claude Code for large delegated tasks. They complement each other rather than compete.</p>
+<p><strong>Scegli Cursor</strong> se usi VS Code e vuoi l'integrazione AI più profonda per la programmazione quotidiana. <strong>Scegli Copilot</strong> se ti serve il supporto multi-IDE, un piano gratuito generoso o l'integrazione nativa con GitHub. <strong>Scegli Claude Code</strong> se sei uno sviluppatore senior che vuole delegare intere funzionalità dal terminale.</p>
+<p>La mossa da professionisti: usa Cursor per la programmazione interattiva e Claude Code per i grandi compiti delegati. Si completano a vicenda anziché competere.</p>
 
-<h2>Prezzi: November 2026</h2>
+<h2>Prezzi: novembre 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>What You Get</th></tr>
+    <tr><th>Piano</th><th>Prezzo</th><th>Cosa ottieni</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>$0</td><td>Limited completions, basic chat</td></tr>
-    <tr><td>Plus</td><td>$8/month</td><td>More completions, standard models</td></tr>
-    <tr><td>Premium</td><td>$30/month</td><td>Full agent mode, premium models, highest limits</td></tr>
-    <tr><td>Business</td><td>$40/user/month</td><td>Team features, admin controls, SSO</td></tr>
+    <tr><td>Free</td><td>0 $</td><td>Completamenti limitati, chat di base</td></tr>
+    <tr><td>Plus</td><td>8 $/mese</td><td>Più completamenti, modelli standard</td></tr>
+    <tr><td>Premium</td><td>30 $/mese</td><td>Agent mode completo, modelli premium, limiti più alti</td></tr>
+    <tr><td>Business</td><td>40 $/utente/mese</td><td>Funzioni di team, controlli di amministrazione, SSO</td></tr>
   </tbody>
 </table>
-<p>The Plus plan at $8/month is enough for light to moderate AI-assisted coding. Premium at $30/month unlocks the full experience — agent mode, Composer with premium models, and the highest usage limits. For developers who code full-time, Premium pays for itself in the first week through time saved.</p>
+<p>Il piano Plus a 8 $/mese basta per una programmazione assistita dall'AI da leggera a moderata. Premium a 30 $/mese sblocca l'esperienza completa — agent mode, Composer con modelli premium e i limiti di utilizzo più alti. Per gli sviluppatori che programmano a tempo pieno, Premium si ripaga nella prima settimana grazie al tempo risparmiato.</p>
 
-<h2>Who Should Use Cursor</h2>
+<h2>Chi dovrebbe usare Cursor</h2>
 <ul>
-  <li><strong>Full-time developers on VS Code:</strong> This is Cursor's core audience. If you code daily in VS Code, switching to Cursor is the highest-impact productivity change you can make in 2026.</li>
-  <li><strong>Solo developers and freelancers:</strong> Agent mode lets one developer move at the speed of a small team. For solo projects and side projects, the productivity multiplier is dramatic.</li>
-  <li><strong>Teams standardized on VS Code:</strong> Cursor Business adds collaboration features on top of the AI capabilities.</li>
+  <li><strong>Sviluppatori a tempo pieno su VS Code:</strong> è il pubblico principale di Cursor. Se programmi ogni giorno in VS Code, passare a Cursor è il cambiamento di produttività più incisivo che puoi fare nel 2026.</li>
+  <li><strong>Sviluppatori singoli e freelance:</strong> l'agent mode permette a un solo sviluppatore di muoversi alla velocità di un piccolo team. Per i progetti personali e collaterali, il moltiplicatore di produttività è notevole.</li>
+  <li><strong>Team standardizzati su VS Code:</strong> Cursor Business aggiunge funzioni di collaborazione alle capacità AI.</li>
 </ul>
 
-<h2>Who Should Not Use Cursor</h2>
+<h2>Chi non dovrebbe usare Cursor</h2>
 <ul>
-  <li><strong>JetBrains users:</strong> Cursor does not support IntelliJ, PyCharm, or WebStorm. GitHub Copilot is your best option.</li>
-  <li><strong>Budget-constrained developers:</strong> Devin Desktop (formerly Windsurf) offers a more generous free tier and a competitive Pro plan at $20/month. GitHub Copilot starts at $10/month.</li>
-  <li><strong>Developers who rarely code:</strong> If you code occasionally — a few hours per week — the $30/month Premium is hard to justify. The free tier or Copilot's $10/month plan makes more sense.</li>
+  <li><strong>Utenti JetBrains:</strong> Cursor non supporta IntelliJ, PyCharm o WebStorm. GitHub Copilot è la tua migliore opzione.</li>
+  <li><strong>Sviluppatori con budget limitato:</strong> Devin Desktop (ex Windsurf) offre un piano gratuito più generoso e un piano Pro competitivo a 20 $/mese. GitHub Copilot parte da 10 $/mese.</li>
+  <li><strong>Sviluppatori che programmano di rado:</strong> se programmi occasionalmente — poche ore a settimana — i 30 $/mese di Premium sono difficili da giustificare. Il piano gratuito o i 10 $/mese di Copilot hanno più senso.</li>
 </ul>
 
-<h2>Il Verdetto</h2>
-<p>Cursor earns an <strong>A</strong> because it has fundamentally changed how AI-assisted coding feels. Codebase indexing, Composer 1.5, and agent mode represent a genuine leap in what is possible. The experience of describing a feature in plain English and watching Cursor build it across your project — creating files, writing logic, connecting components, running tests — still feels like the future, even after months of daily use.</p>
-<p>The grade is held back from A+ by the VS Code limitation (which excludes a large portion of developers), the usage limits on Premium (which frustrate power users during intense coding sessions), and the sparse documentation. If Cursor adds JetBrains support and removes the usage ceiling, it becomes an easy A+.</p>
-<p>For VS Code developers who code daily, Cursor is not just recommended — it is essential. Start with the free tier to see the difference, then upgrade to Premium when you hit the limits. You will hit them fast.</p>
+<h2>Il verdetto</h2>
+<p>Cursor ottiene una <strong>A</strong> perché ha cambiato radicalmente la sensazione della programmazione assistita dall'AI. L'indicizzazione del codebase, Composer 1.5 e l'agent mode rappresentano un vero salto in ciò che è possibile. L'esperienza di descrivere una funzionalità in linguaggio semplice e vedere Cursor costruirla nel tuo progetto — creando file, scrivendo logica, collegando componenti, eseguendo test — sembra ancora il futuro, anche dopo mesi di uso quotidiano.</p>
+<p>Il voto è frenato dalla A+ dal limite di VS Code (che esclude una larga parte degli sviluppatori), dai limiti di utilizzo di Premium (che frustrano gli utenti esperti durante le sessioni intense) e dalla documentazione scarna. Se Cursor aggiungesse il supporto a JetBrains ed eliminasse il tetto di utilizzo, diventerebbe facilmente una A+.</p>
+<p>Per gli sviluppatori VS Code che programmano ogni giorno, Cursor non è solo consigliato — è essenziale. Inizia con il piano gratuito per vedere la differenza, poi passa a Premium quando raggiungi i limiti. Li raggiungerai in fretta.</p>
 
-<h2>Domande Frequenti</h2>
+<h2>FAQ</h2>
 
-<h3>Is Cursor free?</h3>
-<p>Yes, Cursor has a free tier with limited completions and basic chat. Plus at $8/month and Premium at $30/month unlock more features and higher limits.</p>
+<h3>Cursor è gratuito?</h3>
+<p>Sì, Cursor ha un piano gratuito con completamenti limitati e chat di base. Plus a 8 $/mese e Premium a 30 $/mese sbloccano più funzioni e limiti più alti.</p>
 
-<h3>Is Cursor better than GitHub Copilot?</h3>
-<p>For VS Code users, yes — deeper codebase awareness and better multi-file editing. Copilot wins on IDE support (40+ editors), free tier generosity ($0 for 2,000 completions), and native GitHub integration.</p>
+<h3>Cursor è meglio di GitHub Copilot?</h3>
+<p>Per gli utenti di VS Code, sì — consapevolezza del codebase più profonda e migliore editing multi-file. Copilot vince per supporto IDE (oltre 40 editor), generosità del piano gratuito (0 $ per 2.000 completamenti) e integrazione nativa con GitHub.</p>
 
-<h3>Can I use my VS Code extensions in Cursor?</h3>
-<p>Yes. Cursor is built on VS Code and supports all VS Code extensions, themes, and keybindings. Migration takes less than 5 minutes.</p>
+<h3>Posso usare le mie estensioni di VS Code in Cursor?</h3>
+<p>Sì. Cursor è costruito su VS Code e supporta tutte le estensioni, i temi e le scorciatoie di VS Code. La migrazione richiede meno di 5 minuti.</p>
 
-<h3>Is Cursor worth $30/month?</h3>
-<p>For full-time developers, absolutely. The time saved on multi-file tasks, refactoring, and feature implementation pays for itself within a week. For occasional coders, the free tier or Plus at $8/month is sufficient.</p>
+<h3>Cursor vale 30 $/mese?</h3>
+<p>Per gli sviluppatori a tempo pieno, assolutamente. Il tempo risparmiato su compiti multi-file, refactoring e implementazione di funzionalità si ripaga in una settimana. Per chi programma occasionalmente, bastano il piano gratuito o Plus a 8 $/mese.</p>
 
-<h3>Does Cursor work with JetBrains?</h3>
-<p>No. Cursor is VS Code only. JetBrains users should use GitHub Copilot or the JetBrains AI Assistant.</p>
+<h3>Cursor funziona con JetBrains?</h3>
+<p>No. Cursor è solo VS Code. Gli utenti JetBrains dovrebbero usare GitHub Copilot o JetBrains AI Assistant.</p>
 
-<p><em>Cursor was tested by AIGradeLab over six weeks of daily use on real-world projects. Grade reflects performance as of November 2026. Prezzi verified on cursor.com on November 14, 2026.</em></p>
+<p><em>Cursor è stato testato da AIGradeLab in sei settimane di uso quotidiano su progetti reali. Il voto riflette le prestazioni a novembre 2026. Prezzi verificati su cursor.com il 14 novembre 2026.</em></p>

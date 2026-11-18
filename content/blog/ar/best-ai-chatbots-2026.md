@@ -1,152 +1,152 @@
 ---
-title: "أفضل روبوتات المحادثة بالذكاء الاصطناعي في 2026: 7 روبوتات مُختَبرة ومُصنَّفة"
-description: "اختبرنا أفضل روبوتات المحادثة — ChatGPT و Claude و Gemini و Perplexity و Copilot و Pi و Poe. كل روبوت مُقيَّم للجودة والمميزات والقيمة. محدّث نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل روبوتات المحادثة بالذكاء الاصطناعي في 2026: 7 روبوتات مُختبَرة ومُرتَّبة"
+description: "اختبرنا أبرز روبوتات المحادثة بالذكاء الاصطناعي — ChatGPT وClaude وGemini وPerplexity وCopilot وPi وPoe. كل روبوت مُقيَّم من حيث الجودة والميزات والقيمة. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 min read"
+readTime: "وقت القراءة: 14 دقيقة"
 ---
 
-<h2>AI Chatbots in 2026: Which One Should You Actually Use?</h2>
-<p>There are now dozens of AI chatbots available. Most people try one and stick with it — but the best choice depends entirely on what you use it for. ChatGPT is the most versatile. Claude is the smartest. Gemini knows your Google life. Perplexity never makes a claim without a source. We tested the 7 best AI chatbots across real-world tasks to help you pick the right one — or the right combination.</p>
+<h2>روبوتات المحادثة بالذكاء الاصطناعي في 2026: أيّها ينبغي أن تستخدم فعلًا؟</h2>
+<p>توجد الآن عشرات من روبوتات المحادثة بالذكاء الاصطناعي. يجرّب معظم الناس واحدًا ويلتزمون به — لكن الخيار الأفضل يعتمد كليًا على ما تستخدمه فيه. ChatGPT هو الأكثر تنوعًا. وClaude هو الأذكى. وGemini يعرف حياتك على Google. وPerplexity لا يطلق ادعاءً دون مصدر. اختبرنا أفضل 7 روبوتات محادثة بالذكاء الاصطناعي عبر مهام واقعية لنساعدك على اختيار الأنسب — أو التركيبة الأنسب.</p>
 
-<h2>Quick Ranking</h2>
+<h2>ترتيب سريع</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Chatbot</th><th>Grade</th><th>Best For</th><th>Price</th></tr>
+    <tr><th>#</th><th>روبوت المحادثة</th><th>التقييم</th><th>الأفضل لـ</th><th>السعر</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>ChatGPT</td><td><strong>A</strong></td><td>Overall versatility</td><td>Free / $20/mo</td></tr>
-    <tr><td>2</td><td>Claude</td><td><strong>A+</strong></td><td>Analysis, writing, coding</td><td>Free / $20/mo</td></tr>
-    <tr><td>3</td><td>Perplexity</td><td><strong>A</strong></td><td>Research with sources</td><td>Free / $20/mo</td></tr>
-    <tr><td>4</td><td>Google Gemini</td><td><strong>B+</strong></td><td>Google ecosystem</td><td>Free / $20/mo</td></tr>
-    <tr><td>5</td><td>Microsoft Copilot</td><td><strong>B+</strong></td><td>Office 365 users</td><td>Free / $30/mo</td></tr>
-    <tr><td>6</td><td>Pi</td><td><strong>B</strong></td><td>Emotional support, conversation</td><td>Free</td></tr>
-    <tr><td>7</td><td>Poe</td><td><strong>B</strong></td><td>Access to multiple AI models</td><td>Free / $20/mo</td></tr>
+    <tr><td>1</td><td>ChatGPT</td><td><strong>A</strong></td><td>التنوع العام</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>2</td><td>Claude</td><td><strong>A+</strong></td><td>التحليل والكتابة والبرمجة</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>3</td><td>Perplexity</td><td><strong>A</strong></td><td>البحث مع المصادر</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>4</td><td>Google Gemini</td><td><strong>B+</strong></td><td>منظومة Google</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>5</td><td>Microsoft Copilot</td><td><strong>B+</strong></td><td>مستخدمو Office 365</td><td>مجاني / $30/شهر</td></tr>
+    <tr><td>6</td><td>Pi</td><td><strong>B</strong></td><td>الدعم العاطفي والمحادثة</td><td>مجاني</td></tr>
+    <tr><td>7</td><td>Poe</td><td><strong>B</strong></td><td>الوصول إلى عدة نماذج ذكاء اصطناعي</td><td>مجاني / $20/شهر</td></tr>
   </tbody>
 </table>
 
-<h2>1. ChatGPT — Grade: A — Most Versatile</h2>
-<div class="score-card"><h3>ChatGPT Scores</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+<h2>1. ChatGPT — التقييم: A — الأكثر تنوعًا</h2>
+<div class="score-card"><h3>تقييمات ChatGPT</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
-<p>ChatGPT remains the chatbot that does everything. Text, images (GPT Image), video (Sora), voice conversation, code execution, data analysis, web browsing, file uploads, and Custom GPTs. No other chatbot matches this breadth. The free tier gives you GPT-4o access — the most generous free AI offering alongside Gemini.</p>
-<p><strong>Why #1:</strong> If you can only use one chatbot, ChatGPT covers the most ground. It's not the best at analysis (Claude) or research (Perplexity), but it's the best at everything combined.</p>
-<p><strong>Weakness:</strong> Can be confidently wrong. Output quality trails Claude for complex tasks.</p>
-<p><strong>Price:</strong> Free / Plus $20/mo / Pro $200/mo</p>
-<p>Read our full <a href="/ar/blog/chatgpt-review-2026">ChatGPT Review</a>.</p>
+<p>يظل ChatGPT روبوت المحادثة الذي يفعل كل شيء. نصوص وصور (GPT Image) وفيديو (Sora) ومحادثة صوتية وتنفيذ شيفرة وتحليل بيانات وتصفح الويب ورفع الملفات وCustom GPTs. لا يضاهي أي روبوت محادثة آخر هذا الاتساع. تمنحك الباقة المجانية إمكانية الوصول إلى GPT-4o — وهي أسخى باقة ذكاء اصطناعي مجانية إلى جانب Gemini.</p>
+<p><strong>لماذا في المرتبة الأولى:</strong> إن كان بإمكانك استخدام روبوت محادثة واحد فقط، فإن ChatGPT يغطي أكبر مساحة. ليس الأفضل في التحليل (Claude) ولا في البحث (Perplexity)، لكنه الأفضل في كل ذلك مجتمعًا.</p>
+<p><strong>نقطة الضعف:</strong> قد يخطئ بثقة. وتتأخر جودة مخرجاته عن Claude في المهام المعقدة.</p>
+<p><strong>السعر:</strong> مجاني / Plus بسعر $20/شهر / Pro بسعر $200/شهر</p>
+<p>اقرأ <a href="/ar/blog/chatgpt-review-2026">مراجعة ChatGPT</a> الكاملة.</p>
 
-<h2>2. Claude — Grade: A+ — Smartest AI</h2>
-<div class="score-card"><h3>Claude Scores</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+<h2>2. Claude — التقييم: A+ — الذكاء الاصطناعي الأذكى</h2>
+<div class="score-card"><h3>تقييمات Claude</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
-<p>Claude is the AI that thinks before it speaks. For document analysis, complex reasoning, careful writing, and coding, Claude produces the highest quality output of any chatbot. The 200K+ context window lets you upload entire books, contracts, and codebases. Artifacts create interactive documents and tools inside conversations. For professionals who need depth over breadth, Claude is the best.</p>
-<p><strong>Why A+:</strong> The best raw AI quality available. When accuracy and nuance matter, nothing matches Claude.</p>
-<p><strong>Weakness:</strong> No image generation. Fewer integrations than ChatGPT. Free tier more limited.</p>
-<p><strong>Price:</strong> Free / Pro $20/mo / Team $30/user/mo</p>
-<p>Read our full <a href="/ar/blog/claude-review-2026">Claude Review</a>.</p>
+<p>Claude هو الذكاء الاصطناعي الذي يفكر قبل أن يتكلم. في تحليل المستندات والاستدلال المعقد والكتابة الدقيقة والبرمجة، ينتج Claude أعلى جودة مخرجات بين جميع روبوتات المحادثة. تتيح نافذة السياق التي تتجاوز 200 ألف رمز رفع كتب كاملة وعقود وقواعد شيفرة بأكملها. وتنشئ Artifacts مستندات وأدوات تفاعلية داخل المحادثات. وللمحترفين الذين يحتاجون إلى العمق قبل الاتساع، يُعدّ Claude الأفضل.</p>
+<p><strong>لماذا +A:</strong> أفضل جودة خام متاحة للذكاء الاصطناعي. حين تهمّ الدقة والفروق الدقيقة، لا شيء يضاهي Claude.</p>
+<p><strong>نقطة الضعف:</strong> لا يولّد صورًا. تكاملات أقل من ChatGPT. والباقة المجانية أكثر محدودية.</p>
+<p><strong>السعر:</strong> مجاني / Pro بسعر $20/شهر / Team بسعر $30/مستخدم/شهر</p>
+<p>اقرأ <a href="/ar/blog/claude-review-2026">مراجعة Claude</a> الكاملة.</p>
 
-<h2>3. Perplexity — Grade: A — Best for Research</h2>
-<div class="score-card"><h3>Perplexity Scores</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+<h2>3. Perplexity — التقييم: A — الأفضل للبحث</h2>
+<div class="score-card"><h3>تقييمات Perplexity</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
-<p>Perplexity is the AI chatbot built for truth. Every answer comes with numbered source citations — you can verify every claim. Pro Search digs deeper, asking clarifying questions and synthesizing multiple sources. For research, fact-checking, and any question where accuracy matters more than creativity, Perplexity is the best choice.</p>
-<p><strong>Why A:</strong> The only chatbot that treats every answer as a claim that needs evidence. Ideal for students, journalists, researchers, and anyone who needs to trust the output.</p>
-<p><strong>Weakness:</strong> Not a writing tool. Not creative. Focused on information retrieval, not content generation.</p>
-<p><strong>Price:</strong> Free / Pro $20/mo</p>
-<p>Read our full <a href="/ar/blog/perplexity-ai-review-2026">Perplexity Review</a>.</p>
+<p>Perplexity هو روبوت المحادثة المبني من أجل الحقيقة. تأتي كل إجابة مع اقتباسات مصادر مرقّمة — يمكنك التحقق من كل ادعاء. ويتعمق البحث المتقدم (Pro Search) أكثر، فيطرح أسئلة توضيحية ويجمع بين مصادر متعددة. وللبحث والتحقق من الحقائق وأي سؤال تهمّ فيه الدقة أكثر من الإبداع، يُعدّ Perplexity الخيار الأفضل.</p>
+<p><strong>لماذا A:</strong> روبوت المحادثة الوحيد الذي يعامل كل إجابة كادعاء يحتاج إلى دليل. مثالي للطلاب والصحفيين والباحثين وكل من يحتاج إلى الوثوق بالمخرجات.</p>
+<p><strong>نقطة الضعف:</strong> ليس أداة كتابة. وليس إبداعيًا. يركّز على استرجاع المعلومات لا توليد المحتوى.</p>
+<p><strong>السعر:</strong> مجاني / Pro بسعر $20/شهر</p>
+<p>اقرأ <a href="/ar/blog/perplexity-ai-review-2026">مراجعة Perplexity</a> الكاملة.</p>
 
-<h2>4. Google Gemini — Grade: B+ — Best for Google Users</h2>
-<p>Gemini's advantage is Google. Search your Gmail, summarize Drive documents, work inside Docs and Sheets, get real-time information from Google Search — all in one conversation. The AI quality is solid but trails ChatGPT and Claude for writing and analysis. The free tier is generous, and Advanced ($20/month) includes 2TB Google One storage.</p>
-<p><strong>Why B+:</strong> Best Google integration by far. But AI quality ranks third behind Claude and ChatGPT.</p>
-<p><strong>Weakness:</strong> Writing feels generic. More hallucinations than competitors. Privacy concerns with deep Google data access.</p>
-<p><strong>Price:</strong> Free / Advanced $20/mo</p>
-<p>Read our full <a href="/ar/blog/gemini-review-2026">Gemini Review</a>.</p>
+<h2>4. Google Gemini — التقييم: B+ — الأفضل لمستخدمي Google</h2>
+<p>ميزة Gemini هي Google. ابحث في Gmail، ولخّص مستندات Drive، واعمل داخل Docs وSheets، واحصل على معلومات فورية من بحث Google — كل ذلك في محادثة واحدة. جودة الذكاء الاصطناعي متينة لكنها تتأخر عن ChatGPT وClaude في الكتابة والتحليل. الباقة المجانية سخية، وتتضمن باقة Advanced (بسعر $20/شهر) مساحة تخزين 2 تيرابايت على Google One.</p>
+<p><strong>لماذا +B:</strong> أفضل تكامل مع Google بفارق كبير. لكن جودة الذكاء الاصطناعي تحتل المرتبة الثالثة بعد Claude وChatGPT.</p>
+<p><strong>نقطة الضعف:</strong> الكتابة تبدو عامة. هلوسات أكثر من المنافسين. مخاوف الخصوصية من الوصول العميق إلى بيانات Google.</p>
+<p><strong>السعر:</strong> مجاني / Advanced بسعر $20/شهر</p>
+<p>اقرأ <a href="/ar/blog/gemini-review-2026">مراجعة Gemini</a> الكاملة.</p>
 
-<h2>5. Microsoft Copilot — Grade: B+ — Best for Office 365</h2>
-<p>Copilot embeds AI into Word, Excel, PowerPoint, Outlook, and Teams. Draft documents, generate formulas, summarize email threads, create presentations, and get Teams meeting summaries. For organizations deep in the Microsoft ecosystem, Copilot adds AI without changing workflows. The standalone free chatbot (copilot.microsoft.com) is decent but unremarkable.</p>
-<p><strong>Why B+:</strong> The Office 365 integration is the value — not the chatbot itself. Teams meeting summaries alone can justify the subscription.</p>
-<p><strong>Weakness:</strong> $30/user/month is expensive. Standalone chatbot quality below ChatGPT and Claude. PowerPoint output needs heavy editing.</p>
-<p><strong>Price:</strong> Free chatbot / M365 Copilot $30/user/mo</p>
+<h2>5. Microsoft Copilot — التقييم: B+ — الأفضل لـ Office 365</h2>
+<p>يدمج Copilot الذكاء الاصطناعي في Word وExcel وPowerPoint وOutlook وTeams. صِغ المستندات، وولّد الصيغ، ولخّص سلاسل البريد، وأنشئ العروض التقديمية، واحصل على ملخصات اجتماعات Teams. وللمؤسسات المتعمقة في منظومة Microsoft، يضيف Copilot الذكاء الاصطناعي دون تغيير مسارات العمل. أما روبوت المحادثة المجاني المستقل (copilot.microsoft.com) فهو جيد لكنه لا يلفت الانتباه.</p>
+<p><strong>لماذا +B:</strong> القيمة في تكامل Office 365 — لا في روبوت المحادثة نفسه. وملخصات اجتماعات Teams وحدها قد تبرّر الاشتراك.</p>
+<p><strong>نقطة الضعف:</strong> $30/مستخدم/شهر مبلغ مرتفع. جودة روبوت المحادثة المستقل أدنى من ChatGPT وClaude. ومخرجات PowerPoint تحتاج إلى تحرير كبير.</p>
+<p><strong>السعر:</strong> روبوت محادثة مجاني / M365 Copilot بسعر $30/مستخدم/شهر</p>
 
-<h2>6. Pi — Grade: B — Best Conversational AI</h2>
-<p>Pi (by Inflection AI) is the chatbot designed for conversation, not productivity. It's warm, empathetic, asks good follow-up questions, and feels more like talking to a supportive friend than querying a database. For emotional support, processing difficult decisions, thinking out loud, and companionship, Pi excels. It's not trying to be ChatGPT — it's trying to be a better conversation partner.</p>
-<p><strong>Why B:</strong> The most emotionally intelligent chatbot. Genuinely helpful for reflection and personal conversation.</p>
-<p><strong>Weakness:</strong> Not a productivity tool. Can't generate images, analyze data, or browse the web. Limited factual accuracy compared to competitors.</p>
-<p><strong>Price:</strong> Free</p>
+<h2>6. Pi — التقييم: B — أفضل ذكاء اصطناعي للمحادثة</h2>
+<p>Pi (من Inflection AI) هو روبوت المحادثة المصمَّم للحوار لا للإنتاجية. إنه دافئ ومتعاطف ويطرح أسئلة متابعة جيدة، ويبدو أقرب إلى الحديث مع صديق داعم منه إلى الاستعلام من قاعدة بيانات. في الدعم العاطفي ومعالجة القرارات الصعبة والتفكير بصوت عالٍ والمؤانسة، يتفوق Pi. إنه لا يحاول أن يكون ChatGPT — بل يحاول أن يكون شريك حوار أفضل.</p>
+<p><strong>لماذا B:</strong> أكثر روبوتات المحادثة ذكاءً عاطفيًا. مفيد حقًا للتأمل والمحادثة الشخصية.</p>
+<p><strong>نقطة الضعف:</strong> ليس أداة إنتاجية. لا يستطيع توليد الصور أو تحليل البيانات أو تصفح الويب. دقة الحقائق محدودة مقارنةً بالمنافسين.</p>
+<p><strong>السعر:</strong> مجاني</p>
 
-<h2>7. Poe — Grade: B — Best Multi-Model Access</h2>
-<p>Poe (by Quora) isn't one chatbot — it's a platform that gives you access to multiple AI models in one interface. GPT-4o, Claude, Gemini, Llama, Mistral, and dozens of community-created bots. Switch between models mid-conversation. Compare outputs side by side. For power users who want access to every major AI without separate subscriptions, Poe is the aggregator.</p>
-<p><strong>Why B:</strong> Useful for comparing models and accessing AIs you don't subscribe to individually.</p>
-<p><strong>Weakness:</strong> Jack of all trades, master of none. Each model works better in its native platform. Credit limits can be restrictive.</p>
-<p><strong>Price:</strong> Free (limited) / Premium $20/mo</p>
+<h2>7. Poe — التقييم: B — الأفضل للوصول إلى عدة نماذج</h2>
+<p>Poe (من Quora) ليس روبوت محادثة واحدًا — بل منصة تمنحك الوصول إلى عدة نماذج ذكاء اصطناعي في واجهة واحدة. GPT-4o وClaude وGemini وLlama وMistral وعشرات الروبوتات التي أنشأها المجتمع. بدّل بين النماذج في منتصف المحادثة. وقارن المخرجات جنبًا إلى جنب. وللمستخدمين المتقدمين الذين يريدون الوصول إلى كل ذكاء اصطناعي رئيسي دون اشتراكات منفصلة، يُعدّ Poe المجمِّع المناسب.</p>
+<p><strong>لماذا B:</strong> مفيد لمقارنة النماذج والوصول إلى أنظمة ذكاء اصطناعي لا تشترك فيها منفردةً.</p>
+<p><strong>نقطة الضعف:</strong> يعرف شيئًا عن كل شيء ولا يتقن شيئًا. يعمل كل نموذج بشكل أفضل في منصته الأصلية. وقد تكون حدود الأرصدة مقيِّدة.</p>
+<p><strong>السعر:</strong> مجاني (محدود) / Premium بسعر $20/شهر</p>
 
-<h2>Which Chatbot Should You Choose?</h2>
+<h2>أي روبوت محادثة ينبغي أن تختار؟</h2>
 
-<h3>By Use Case</h3>
+<h3>حسب حالة الاستخدام</h3>
 <table>
   <thead>
-    <tr><th>Need</th><th>Best Choice</th><th>Runner-Up</th></tr>
+    <tr><th>الحاجة</th><th>الخيار الأفضل</th><th>الوصيف</th></tr>
   </thead>
   <tbody>
-    <tr><td>General assistant</td><td>ChatGPT</td><td>Claude</td></tr>
-    <tr><td>Writing quality</td><td>Claude</td><td>ChatGPT</td></tr>
-    <tr><td>Research with sources</td><td>Perplexity</td><td>Gemini</td></tr>
-    <tr><td>Coding</td><td>Claude</td><td>ChatGPT</td></tr>
-    <tr><td>Image generation</td><td>ChatGPT (GPT Image)</td><td>Gemini (Imagen)</td></tr>
-    <tr><td>Google integration</td><td>Gemini</td><td>—</td></tr>
-    <tr><td>Office 365 integration</td><td>Copilot</td><td>—</td></tr>
-    <tr><td>Emotional support</td><td>Pi</td><td>Claude</td></tr>
-    <tr><td>Try multiple AIs</td><td>Poe</td><td>—</td></tr>
-    <tr><td>Document analysis</td><td>Claude</td><td>ChatGPT</td></tr>
-    <tr><td>Free tier quality</td><td>ChatGPT / Gemini</td><td>Perplexity</td></tr>
+    <tr><td>مساعد عام</td><td>ChatGPT</td><td>Claude</td></tr>
+    <tr><td>جودة الكتابة</td><td>Claude</td><td>ChatGPT</td></tr>
+    <tr><td>بحث مع مصادر</td><td>Perplexity</td><td>Gemini</td></tr>
+    <tr><td>البرمجة</td><td>Claude</td><td>ChatGPT</td></tr>
+    <tr><td>توليد الصور</td><td>ChatGPT (GPT Image)</td><td>Gemini (Imagen)</td></tr>
+    <tr><td>التكامل مع Google</td><td>Gemini</td><td>—</td></tr>
+    <tr><td>التكامل مع Office 365</td><td>Copilot</td><td>—</td></tr>
+    <tr><td>الدعم العاطفي</td><td>Pi</td><td>Claude</td></tr>
+    <tr><td>تجربة عدة نماذج ذكاء اصطناعي</td><td>Poe</td><td>—</td></tr>
+    <tr><td>تحليل المستندات</td><td>Claude</td><td>ChatGPT</td></tr>
+    <tr><td>جودة الباقة المجانية</td><td>ChatGPT / Gemini</td><td>Perplexity</td></tr>
   </tbody>
 </table>
 
-<h3>The Power User Combo ($40/month)</h3>
+<h3>تركيبة المستخدم المتقدم ($40/شهر)</h3>
 <ul>
-  <li><strong>ChatGPT Plus ($20)</strong> — images, video, voice, versatility</li>
-  <li><strong>Claude Pro ($20)</strong> — deep analysis, writing, coding</li>
-  <li><strong>Perplexity Free</strong> — sourced research</li>
-  <li><strong>Gemini Free</strong> — Google integration when needed</li>
+  <li><strong>ChatGPT Plus ($20)</strong> — صور وفيديو وصوت وتنوع</li>
+  <li><strong>Claude Pro ($20)</strong> — تحليل عميق وكتابة وبرمجة</li>
+  <li><strong>Perplexity المجاني</strong> — بحث موثّق بالمصادر</li>
+  <li><strong>Gemini المجاني</strong> — تكامل مع Google عند الحاجة</li>
 </ul>
 
-<h3>The Budget Setup ($0/month)</h3>
+<h3>الإعداد الاقتصادي ($0/شهر)</h3>
 <ul>
-  <li><strong>ChatGPT Free</strong> — general assistant</li>
-  <li><strong>Perplexity Free</strong> — research</li>
-  <li><strong>Gemini Free</strong> — Google integration</li>
-  <li><strong>Pi Free</strong> — conversation and reflection</li>
+  <li><strong>ChatGPT المجاني</strong> — مساعد عام</li>
+  <li><strong>Perplexity المجاني</strong> — البحث</li>
+  <li><strong>Gemini المجاني</strong> — التكامل مع Google</li>
+  <li><strong>Pi المجاني</strong> — المحادثة والتأمل</li>
 </ul>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>What is the best AI chatbot in 2026?</h3>
-<p>For overall versatility: <strong>ChatGPT</strong>. For quality and intelligence: <strong>Claude</strong>. For research: <strong>Perplexity</strong>. For Google users: <strong>Gemini</strong>. Most power users use 2-3 chatbots for different strengths.</p>
+<h3>ما أفضل روبوت محادثة بالذكاء الاصطناعي في 2026؟</h3>
+<p>للتنوع العام: <strong>ChatGPT</strong>. للجودة والذكاء: <strong>Claude</strong>. للبحث: <strong>Perplexity</strong>. لمستخدمي Google: <strong>Gemini</strong>. يستخدم معظم المستخدمين المتقدمين 2-3 روبوتات محادثة لتوظيف نقاط قوة مختلفة.</p>
 
-<h3>Are AI chatbots free?</h3>
-<p>Yes — ChatGPT, Claude, Gemini, Perplexity, Pi, Copilot, and Poe all offer free tiers. The free tiers are genuinely useful. Paid tiers ($20/month) add higher limits, better models, and premium features.</p>
+<h3>هل روبوتات المحادثة بالذكاء الاصطناعي مجانية؟</h3>
+<p>نعم — تقدّم ChatGPT وClaude وGemini وPerplexity وPi وCopilot وPoe باقات مجانية. والباقات المجانية مفيدة حقًا. أما الباقات المدفوعة ($20/شهر) فتضيف حدودًا أعلى ونماذج أفضل وميزات مميّزة.</p>
 
-<h3>Which AI chatbot is most accurate?</h3>
-<p><strong>Perplexity</strong> — every answer comes with source citations. <strong>Claude</strong> — the most careful and thorough in its reasoning. <strong>ChatGPT</strong> and <strong>Gemini</strong> are more likely to present incorrect information confidently.</p>
+<h3>أي روبوت محادثة بالذكاء الاصطناعي هو الأكثر دقة؟</h3>
+<p><strong>Perplexity</strong> — كل إجابة تأتي مع اقتباسات مصادر. <strong>Claude</strong> — الأكثر حرصًا وإتقانًا في استدلاله. أما <strong>ChatGPT</strong> و<strong>Gemini</strong> فأكثر عرضة لتقديم معلومات خاطئة بثقة.</p>
 
-<h3>Can I use multiple AI chatbots?</h3>
-<p>Yes, and most power users do. A common setup: ChatGPT for general tasks and images, Claude for analysis and writing, Perplexity for research. The free tiers make it easy to use multiple chatbots at zero cost.</p>
+<h3>هل يمكنني استخدام عدة روبوتات محادثة؟</h3>
+<p>نعم، ومعظم المستخدمين المتقدمين يفعلون ذلك. إعداد شائع: ChatGPT للمهام العامة والصور، وClaude للتحليل والكتابة، وPerplexity للبحث. وتسهّل الباقات المجانية استخدام عدة روبوتات دون تكلفة.</p>
 
-<h3>Which AI chatbot is best for students?</h3>
-<p><strong>ChatGPT Free</strong> for explanations and tutoring. <strong>Perplexity Free</strong> for sourced research. <strong>Claude Free</strong> for essay help and analysis. All three are free. Read our <a href="/ar/blog/best-ai-tools-education-2026">Best AI Tools for Education</a> guide for more.</p>
+<h3>أي روبوت محادثة بالذكاء الاصطناعي هو الأفضل للطلاب؟</h3>
+<p><strong>ChatGPT المجاني</strong> للشروحات والتدريس. <strong>Perplexity المجاني</strong> للبحث الموثّق بالمصادر. <strong>Claude المجاني</strong> للمساعدة في المقالات والتحليل. الثلاثة مجانية. اقرأ دليلنا <a href="/ar/blog/best-ai-tools-education-2026">أفضل أدوات الذكاء الاصطناعي للتعليم</a> لمزيد من المعلومات.</p>
 
-<p><em>Every chatbot was tested by AIGradeLab across writing, research, coding, analysis, and conversation. Grades reflect practical value as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>اختبر AIGradeLab كل روبوت محادثة في الكتابة والبحث والبرمجة والتحليل والمحادثة. تعكس التقييمات القيمة العملية حتى نوفمبر 2026. الأسعار تم التحقق منها على الموقع الرسمي لكل منصة.</em></p>

@@ -1,11 +1,11 @@
 ---
 title: "Reseña de Perplexity IA 2026: ¿La Mejor Herramienta de Investigación IA? Nuestra Nota"
-description: "Probamos Perplexity AI for research, fact-checking, and daily questions. Comet browser, model picker, shopping, Academic mode. Actualizado noviembre 2026."
-category: "Graded Reviews"
+description: "Probamos Perplexity AI en investigación, verificación de datos y preguntas diarias. Navegador Comet, selector de modelos, compras y modo Académico. Actualizado en noviembre de 2026."
+category: "Reseñas Calificadas"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "12 min de lectura"
 grade: "A"
 scores_ux: 9.2
 scores_quality: 9.0
@@ -15,108 +15,108 @@ scores_support: 7.5
 toolName: "Perplexity"
 ---
 
-<h2>What Perplexity Does</h2>
-<p>Perplexity AI is an answer engine that searches the web in real-time and delivers cited, sourced answers. Every claim comes with a numbered inline citation — [1], [2], [3] — that links to the original source. In 2026, Perplexity has evolved far beyond a simple search tool. It now includes a dedicated Comet browser, built-in shopping with PayPal checkout, finance features with brokerage linking, a model picker that lets you switch between GPT-5.4, Claude, and Gemini, and focus modes for Academic, Reddit, YouTube, and Video searches.</p>
+<h2>Qué hace Perplexity</h2>
+<p>Perplexity AI es un motor de respuestas que busca en la web en tiempo real y ofrece respuestas con citas y fuentes. Cada afirmación viene con una cita numerada en línea ([1], [2], [3]) que enlaza con la fuente original. En 2026, Perplexity ha evolucionado mucho más allá de una simple herramienta de búsqueda. Ahora incluye el navegador Comet, compras integradas con pago mediante PayPal, funciones de finanzas con vinculación de brokers, un selector de modelos que permite cambiar entre GPT-5.4, Claude y Gemini, y modos de enfoque para búsquedas Académicas, de Reddit, de YouTube y de Vídeo.</p>
 
-<h2>What Changed Since Our September Review</h2>
+<h2>Qué ha cambiado desde nuestra reseña de septiembre</h2>
 <ul>
-  <li><strong>Comet browser:</strong> A full AI-native browser for Mac, Windows, iOS, and Android. AI-powered search from the address bar, highlight text on any page to ask about it, and contextual AI assistance while browsing.</li>
-  <li><strong>Shopping:</strong> Research products and buy them directly through Perplexity with PayPal checkout — no leaving the app. Amazon sued over this feature; the case is ongoing but functionality continues.</li>
-  <li><strong>Finance:</strong> Connect brokerage accounts through Plaid (US and Canada) for AI-assisted portfolio analysis and financial research.</li>
-  <li><strong>Model picker on Pro:</strong> Choose between GPT-5.4, Claude, and Gemini for each query. Different models, different strengths — use the right one for each task.</li>
-  <li><strong>Max tier ($200/month):</strong> Power-user tier with Sora video, unlimited Labs, and earliest feature access.</li>
+  <li><strong>Navegador Comet:</strong> un navegador completo nativo de IA para Mac, Windows, iOS y Android. Búsqueda con IA desde la barra de direcciones, resalta texto en cualquier página para preguntar sobre él y asistencia de IA contextual mientras navegas.</li>
+  <li><strong>Compras:</strong> investiga productos y cómpralos directamente a través de Perplexity con pago mediante PayPal, sin salir de la aplicación. Amazon demandó por esta función; el caso sigue en curso, pero la funcionalidad continúa.</li>
+  <li><strong>Finanzas:</strong> conecta cuentas de corretaje a través de Plaid (EE. UU. y Canadá) para análisis de carteras asistido por IA e investigación financiera.</li>
+  <li><strong>Selector de modelos en Pro:</strong> elige entre GPT-5.4, Claude y Gemini en cada consulta. Modelos distintos, puntos fuertes distintos: usa el adecuado para cada tarea.</li>
+  <li><strong>Nivel Max ($200/mes):</strong> nivel para usuarios avanzados con vídeo de Sora, Labs ilimitado y acceso más temprano a las funciones.</li>
 </ul>
 
-<h2>Qué Probamos</h2>
-<p>We used Perplexity daily for six weeks: academic research for articles, fact-checking claims, product research before purchasing, competitive intelligence, breaking news verification, and daily quick questions. We compared against ChatGPT Search, Google, and manual research workflows.</p>
+<h2>Qué probamos</h2>
+<p>Usamos Perplexity a diario durante seis semanas: investigación académica para artículos, verificación de afirmaciones, investigación de productos antes de comprar, inteligencia competitiva, verificación de noticias de última hora y preguntas rápidas diarias. Lo comparamos con ChatGPT Search, Google y flujos de investigación manuales.</p>
 
-<h2>Lo Que Funciona Bien</h2>
+<h2>Lo que funciona bien</h2>
 <ul>
-  <li><strong>Citation system — still the gold standard:</strong> Every claim gets a numbered inline citation that you can click to verify. This is not a list of sources at the bottom — it is a specific citation tied to each fact. For any task where accuracy matters — journalism, academic work, competitive analysis, legal research — this fundamentally changes how trustworthy AI answers feel. ChatGPT has improved its citations, but Perplexity's remain more precise and verifiable.</li>
-  <li><strong>Focus modes are unique:</strong> No other AI tool lets you restrict searches to specific source types. Academic mode pulls from peer-reviewed papers and scholarly sources — invaluable for literature reviews. Reddit mode surfaces real user opinions and experiences — perfect for product research. YouTube mode finds relevant videos. These modes exist nowhere else.</li>
-  <li><strong>Model picker:</strong> Pro subscribers can choose GPT-5.4, Claude, or Gemini for each query. This is genuinely useful: use Claude for nuanced analysis, GPT for breadth, Gemini for Google-specific knowledge. You are not locked into one model's strengths and weaknesses.</li>
-  <li><strong>Real-time search on every query:</strong> Unlike ChatGPT which decides whether to search or use training data, Perplexity searches the web for every single query. For time-sensitive questions, this makes Perplexity consistently more current.</li>
-  <li><strong>Comet browser:</strong> The dedicated browser integrates AI into every web interaction. Highlight text on any page and ask Perplexity about it. Search from the address bar with AI-powered results. For researchers who spend hours browsing, Comet puts AI assistance one highlight away.</li>
-  <li><strong>Clean interface:</strong> No ads. No SEO spam. No sponsored results. Direct answers with sources. The simplicity is refreshing compared to Google's increasingly cluttered search results.</li>
-  <li><strong>Student pricing:</strong> $10/month for verified students — half the price of any competitor's Pro tier. For academic research, this is the best value in AI.</li>
+  <li><strong>Sistema de citas, aún el estándar de oro:</strong> cada afirmación recibe una cita numerada en línea en la que puedes hacer clic para verificarla. No es una lista de fuentes al final: es una cita concreta ligada a cada dato. En cualquier tarea en la que importe la precisión (periodismo, trabajo académico, análisis de la competencia, investigación jurídica), esto cambia de raíz lo fiables que resultan las respuestas de la IA. ChatGPT ha mejorado sus citas, pero las de Perplexity siguen siendo más precisas y verificables.</li>
+  <li><strong>Los modos de enfoque son únicos:</strong> ninguna otra herramienta de IA te permite restringir las búsquedas a tipos de fuente concretos. El modo Académico extrae de artículos revisados por pares y fuentes eruditas, inestimable para las revisiones bibliográficas. El modo Reddit muestra opiniones y experiencias reales de usuarios, perfecto para investigar productos. El modo YouTube encuentra vídeos relevantes. Estos modos no existen en ningún otro sitio.</li>
+  <li><strong>Selector de modelos:</strong> los suscriptores Pro pueden elegir GPT-5.4, Claude o Gemini en cada consulta. Es realmente útil: usa Claude para análisis matizados, GPT para amplitud y Gemini para conocimiento específico de Google. No quedas atado a los puntos fuertes y débiles de un solo modelo.</li>
+  <li><strong>Búsqueda en tiempo real en cada consulta:</strong> a diferencia de ChatGPT, que decide si buscar o usar sus datos de entrenamiento, Perplexity busca en la web en todas las consultas. En preguntas sensibles al tiempo, esto hace que Perplexity sea sistemáticamente más actual.</li>
+  <li><strong>Navegador Comet:</strong> el navegador dedicado integra la IA en cada interacción web. Resalta texto en cualquier página y pregunta a Perplexity sobre él. Busca desde la barra de direcciones con resultados de IA. Para los investigadores que pasan horas navegando, Comet pone la asistencia de IA a un resalte de distancia.</li>
+  <li><strong>Interfaz limpia:</strong> sin anuncios. Sin spam SEO. Sin resultados patrocinados. Respuestas directas con fuentes. La sencillez es un soplo de aire fresco comparada con los resultados de búsqueda de Google, cada vez más saturados.</li>
+  <li><strong>Precio para estudiantes:</strong> $10/mes para estudiantes verificados, la mitad que el nivel Pro de cualquier competidor. Para la investigación académica, es la mejor relación calidad-precio en IA.</li>
 </ul>
 
-<h2>Lo Que Falla</h2>
+<h2>Lo que se queda corto</h2>
 <ul>
-  <li><strong>Cannot create content:</strong> Perplexity finds and summarizes information. It does not write blog posts, draft emails, generate images, run code, or create presentations. If you need research AND creation, you need Perplexity plus Claude or ChatGPT.</li>
-  <li><strong>No memory across sessions:</strong> Every conversation starts fresh. Perplexity does not remember your preferences, your role, or your past research. For ongoing projects that build on previous findings, this is a real limitation compared to ChatGPT's persistent memory.</li>
-  <li><strong>Source quality varies:</strong> Perplexity searches broadly and sometimes surfaces low-quality sources alongside authoritative ones. A numbered citation does not mean the source is reliable. You still need to evaluate what it cites.</li>
-  <li><strong>Shopping controversy:</strong> Amazon sued Perplexity over its shopping features in late 2025. A preliminary injunction was granted in March 2026, vacated by the Ninth Circuit in August, and the case was sent back. The feature works but the legal uncertainty is real.</li>
-  <li><strong>API citation fees:</strong> Users report hidden costs for citation retrieval in the API that are not immediately obvious from the pricing page. Developers building on Perplexity's API should test costs carefully before committing.</li>
+  <li><strong>No puede crear contenido:</strong> Perplexity encuentra y resume información. No escribe entradas de blog, no redacta correos, no genera imágenes, no ejecuta código ni crea presentaciones. Si necesitas investigación Y creación, necesitas Perplexity más Claude o ChatGPT.</li>
+  <li><strong>Sin memoria entre sesiones:</strong> cada conversación empieza de cero. Perplexity no recuerda tus preferencias, tu puesto ni tus investigaciones anteriores. Para proyectos continuos que se apoyan en hallazgos previos, es una limitación real frente a la memoria persistente de ChatGPT.</li>
+  <li><strong>La calidad de las fuentes varía:</strong> Perplexity busca de forma amplia y a veces muestra fuentes de baja calidad junto a otras de autoridad. Una cita numerada no significa que la fuente sea fiable. Sigues teniendo que evaluar lo que cita.</li>
+  <li><strong>Polémica de las compras:</strong> Amazon demandó a Perplexity por sus funciones de compras a finales de 2025. En marzo de 2026 se concedió una medida cautelar preliminar, que el Noveno Circuito anuló en agosto, y el caso fue devuelto. La función opera, pero la incertidumbre jurídica es real.</li>
+  <li><strong>Tarifas de citas en la API:</strong> los usuarios informan de costes ocultos por la recuperación de citas en la API que no resultan evidentes en la página de precios. Los desarrolladores que construyan sobre la API de Perplexity deben probar los costes con cuidado antes de comprometerse.</li>
 </ul>
 
 <h2>Perplexity vs ChatGPT Search vs Google</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Perplexity</th><th>ChatGPT Search</th><th>Google</th></tr>
+    <tr><th>Característica</th><th>Perplexity</th><th>ChatGPT Search</th><th>Google</th></tr>
   </thead>
   <tbody>
-    <tr><td>Answer format</td><td>Synthesized + inline citations</td><td>Synthesized + source list</td><td>Links to websites</td></tr>
-    <tr><td>Citation precision</td><td><strong>Best (numbered, per-claim)</strong></td><td>Good (source list)</td><td>N/A (you verify yourself)</td></tr>
-    <tr><td>Focus modes</td><td><strong>Academic, Reddit, YouTube, Video</strong></td><td>None</td><td>Tabs (images, news, etc.)</td></tr>
-    <tr><td>Real-time</td><td>Every query</td><td>When triggered</td><td>Always</td></tr>
-    <tr><td>Content creation</td><td>No</td><td><strong>Yes (full ChatGPT)</strong></td><td>No</td></tr>
-    <tr><td>Image generation</td><td>No</td><td><strong>Yes (Images 2.6)</strong></td><td>No</td></tr>
-    <tr><td>Shopping</td><td>Yes (PayPal)</td><td>Yes (product cards)</td><td><strong>Yes (Shopping tab)</strong></td></tr>
-    <tr><td>Price</td><td>Free / $20 Pro</td><td>Free / $20 Plus</td><td>Free</td></tr>
-    <tr><td>Best for</td><td>Verified research</td><td>Research + creation</td><td>Browsing + local search</td></tr>
+    <tr><td>Formato de respuesta</td><td>Sintetizada + citas en línea</td><td>Sintetizada + lista de fuentes</td><td>Enlaces a sitios web</td></tr>
+    <tr><td>Precisión de las citas</td><td><strong>La mejor (numeradas, por afirmación)</strong></td><td>Buena (lista de fuentes)</td><td>N/D (verificas tú mismo)</td></tr>
+    <tr><td>Modos de enfoque</td><td><strong>Académico, Reddit, YouTube, Vídeo</strong></td><td>Ninguna</td><td>Pestañas (imágenes, noticias, etc.)</td></tr>
+    <tr><td>Tiempo real</td><td>En cada consulta</td><td>Cuando se activa</td><td>Siempre</td></tr>
+    <tr><td>Creación de contenido</td><td>No</td><td><strong>Sí (ChatGPT completo)</strong></td><td>No</td></tr>
+    <tr><td>Generación de imágenes</td><td>No</td><td><strong>Sí (Images 2.6)</strong></td><td>No</td></tr>
+    <tr><td>Compras</td><td>Sí (PayPal)</td><td>Sí (fichas de producto)</td><td><strong>Sí (pestaña Compras)</strong></td></tr>
+    <tr><td>Precio</td><td>Gratis / $20 Pro</td><td>Free / $20 Plus</td><td>Gratis</td></tr>
+    <tr><td>Ideal para</td><td>Investigación verificada</td><td>Investigación + creación</td><td>Navegación + búsqueda local</td></tr>
   </tbody>
 </table>
 
-<h2>Precios: November 2026</h2>
+<h2>Precios: noviembre de 2026</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
+    <tr><th>Plan</th><th>Precio</th><th>Funciones clave</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>$0</td><td>Unlimited quick searches, 5 Pro searches/day</td></tr>
-    <tr><td>Pro</td><td>$20/month</td><td>Unlimited Pro, model picker, file uploads, focus modes</td></tr>
-    <tr><td>Education Pro</td><td>$10/month</td><td>All Pro features, verified students</td></tr>
-    <tr><td>Max</td><td>$200/month</td><td>Sora video, unlimited Labs, earliest access</td></tr>
-    <tr><td>Enterprise Pro</td><td>$34-40/user/month</td><td>SOC 2, HIPAA, team features</td></tr>
+    <tr><td>Gratis</td><td>$0</td><td>Búsquedas rápidas ilimitadas, 5 búsquedas Pro al día</td></tr>
+    <tr><td>Pro</td><td>$20/mes</td><td>Pro ilimitado, selector de modelos, subida de archivos, modos de enfoque</td></tr>
+    <tr><td>Education Pro</td><td>$10/mes</td><td>Todas las funciones Pro, estudiantes verificados</td></tr>
+    <tr><td>Max</td><td>$200/mes</td><td>Vídeo de Sora, Labs ilimitado, acceso más temprano</td></tr>
+    <tr><td>Enterprise Pro</td><td>$34-40/usuario/mes</td><td>SOC 2, HIPAA, funciones de equipo</td></tr>
   </tbody>
 </table>
 
-<h2>Quién Debería Usar Perplexity</h2>
+<h2>Quién debería usar Perplexity</h2>
 <ul>
-  <li><strong>Researchers and academics:</strong> The Academic focus mode + citation system is purpose-built for scholarly work. At $10/month for students, it is unbeatable.</li>
-  <li><strong>Journalists and fact-checkers:</strong> Every claim cited, every source linked. Verification is built into the workflow.</li>
-  <li><strong>Knowledge workers who need accuracy:</strong> Consultants, analysts, lawyers — anyone whose work depends on verifiable information.</li>
-  <li><strong>Product researchers:</strong> Before any purchase, Perplexity delivers cited comparisons faster than hours of Google tab-hopping.</li>
-  <li><strong>Anyone who wants a cleaner search experience:</strong> No ads, no SEO spam, just answers with sources.</li>
+  <li><strong>Investigadores y académicos:</strong> el modo de enfoque Académico + el sistema de citas están hechos a medida para el trabajo erudito. A $10/mes para estudiantes, es imbatible.</li>
+  <li><strong>Periodistas y verificadores de datos:</strong> cada afirmación citada, cada fuente enlazada. La verificación está integrada en el flujo de trabajo.</li>
+  <li><strong>Trabajadores del conocimiento que necesitan precisión:</strong> consultores, analistas, abogados, cualquiera cuyo trabajo dependa de información verificable.</li>
+  <li><strong>Investigadores de productos:</strong> antes de cualquier compra, Perplexity ofrece comparativas con citas más rápido que horas saltando entre pestañas de Google.</li>
+  <li><strong>Cualquiera que quiera una experiencia de búsqueda más limpia:</strong> sin anuncios, sin spam SEO, solo respuestas con fuentes.</li>
 </ul>
 
-<h2>Quién No Debería Usar Perplexity</h2>
+<h2>Quién no debería usar Perplexity</h2>
 <ul>
-  <li><strong>Users who need an all-in-one AI:</strong> Perplexity researches but does not create. If you need writing, images, code, and research in one tool, ChatGPT is more practical.</li>
-  <li><strong>Local search users:</strong> Google Maps integration, local business listings, and directions are still Google's domain. Perplexity is not a Google replacement for "restaurants near me."</li>
+  <li><strong>Usuarios que necesitan una IA todo en uno:</strong> Perplexity investiga pero no crea. Si necesitas escritura, imágenes, código e investigación en una sola herramienta, ChatGPT es más práctico.</li>
+  <li><strong>Usuarios de búsqueda local:</strong> la integración con Google Maps, los listados de negocios locales y las indicaciones siguen siendo territorio de Google. Perplexity no sustituye a Google para "restaurantes cerca de mí".</li>
 </ul>
 
-<h2>El Veredicto</h2>
-<p>Perplexity earns an <strong>A</strong> — maintaining its grade from September — because the citation system, focus modes, and model picker make it the most trustworthy AI research tool available. The additions since September (Comet browser, shopping, finance, Max tier) expand its utility without diluting what makes it special.</p>
-<p>The grade stays at A instead of A+ because it cannot create content, has no memory across sessions, and the source quality varies. Perplexity does one thing — research — better than anyone else. But it only does that one thing.</p>
-<p>For most people, the optimal setup is Perplexity (free or Pro) for research plus Claude or ChatGPT for creation. Together, they cover the full research-to-output workflow. Perplexity finds the verified facts; the other tool turns them into polished output.</p>
+<h2>El veredicto</h2>
+<p>Perplexity se lleva una <strong>A</strong>, manteniendo su nota de septiembre, porque el sistema de citas, los modos de enfoque y el selector de modelos lo convierten en la herramienta de investigación con IA más fiable disponible. Las novedades desde septiembre (navegador Comet, compras, finanzas, nivel Max) amplían su utilidad sin diluir lo que lo hace especial.</p>
+<p>La nota se queda en A en lugar de A+ porque no puede crear contenido, no tiene memoria entre sesiones y la calidad de las fuentes varía. Perplexity hace una sola cosa, investigar, mejor que nadie. Pero solo hace esa cosa.</p>
+<p>Para la mayoría de las personas, la configuración óptima es Perplexity (gratis o Pro) para investigar más Claude o ChatGPT para crear. Juntos cubren el flujo completo de la investigación al resultado. Perplexity encuentra los datos verificados; la otra herramienta los convierte en un resultado pulido.</p>
 
-<h2>Preguntas Frecuentes</h2>
+<h2>Preguntas frecuentes</h2>
 
-<h3>Is Perplexity better than Google?</h3>
-<p>For research questions that need synthesized answers with sources — yes. For local search, shopping, maps, and image search — Google is still better. They serve different needs.</p>
+<h3>¿Es Perplexity mejor que Google?</h3>
+<p>Para preguntas de investigación que necesitan respuestas sintetizadas con fuentes, sí. Para búsqueda local, compras, mapas y búsqueda de imágenes, Google sigue siendo mejor. Sirven necesidades distintas.</p>
 
-<h3>Is Perplexity Pro worth $20/month?</h3>
-<p>If you do research daily and use more than 5 Pro searches — yes. The model picker alone adds significant value. If your research needs are occasional, the free tier with 5 Pro searches per day is sufficient.</p>
+<h3>¿Vale la pena Perplexity Pro por $20/mes?</h3>
+<p>Si investigas a diario y usas más de 5 búsquedas Pro, sí. Solo el selector de modelos aporta un valor significativo. Si tus necesidades de investigación son ocasionales, el plan gratuito con 5 búsquedas Pro al día es suficiente.</p>
 
-<h3>What is the Comet browser?</h3>
-<p>Perplexity's dedicated browser for Mac, Windows, iOS, and Android. It integrates AI search into every browsing interaction — highlight text to ask about it, search from the address bar with AI results.</p>
+<h3>¿Qué es el navegador Comet?</h3>
+<p>El navegador dedicado de Perplexity para Mac, Windows, iOS y Android. Integra la búsqueda con IA en cada interacción de navegación: resalta texto para preguntar sobre él y busca desde la barra de direcciones con resultados de IA.</p>
 
-<h3>Does Perplexity have a student discount?</h3>
-<p>Yes. Education Pro at $10/month for verified students — all Pro features at half price.</p>
+<h3>¿Tiene Perplexity descuento para estudiantes?</h3>
+<p>Sí. Education Pro, a $10/mes para estudiantes verificados, con todas las funciones Pro a mitad de precio.</p>
 
-<h3>Can Perplexity replace ChatGPT?</h3>
-<p>For research — it is better. For writing, coding, image generation, and general AI assistance — no. Most power users keep both.</p>
+<h3>¿Puede Perplexity reemplazar a ChatGPT?</h3>
+<p>Para investigar, es mejor. Para escritura, programación, generación de imágenes y asistencia de IA general, no. La mayoría de los usuarios avanzados mantienen ambos.</p>
 
-<p><em>Perplexity was tested by AIGradeLab over six weeks of daily research use. Grade reflects performance as of November 2026. Precios verified on perplexity.ai on November 14, 2026.</em></p>
+<p><em>AIGradeLab probó Perplexity durante seis semanas de uso diario para investigación. La nota refleja el rendimiento a noviembre de 2026. Precios verificados en perplexity.ai el 14 de noviembre de 2026.</em></p>

@@ -1,114 +1,114 @@
 ---
-title: "ChatGPT Is Retiring Advanced Voice: Everything You Need to Know About GPT-Live"
-description: "OpenAI is sunsetting Advanced and Standard Voice on December 11, 2026. Here's what GPT-Live replaces, what changes, and how to prepare for the transition."
+title: "ChatGPT stellt Advanced Voice ein: Alles zu GPT-Live, was Sie wissen müssen"
+description: "OpenAI schaltet Advanced Voice und Standard Voice am 11. Dezember 2026 ab. Hier erfahren Sie, was GPT-Live ersetzt, was sich ändert und wie Sie sich auf den Wechsel vorbereiten."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
-readTime: "7 min read"
+readTime: "7 Min. Lesezeit"
 ---
 
-<h2>The Voice Transition Is Coming</h2>
+<h2>Der Wechsel bei den Sprachmodi steht bevor</h2>
 
-<p>OpenAI has confirmed that ChatGPT will retire both Advanced Voice and Standard Voice on December 11, 2026. The company is consolidating its voice capabilities around GPT-Live, its newer and more capable voice model. If you use ChatGPT's voice features regularly, here's everything you need to know about the switch.</p>
+<p>OpenAI hat bestätigt, dass ChatGPT am 11. Dezember 2026 sowohl Advanced Voice als auch Standard Voice abschalten wird. Das Unternehmen bündelt seine Sprachfunktionen rund um GPT-Live, das neuere und leistungsfähigere Sprachmodell. Wenn Sie die Sprachfunktionen von ChatGPT regelmäßig nutzen, erfahren Sie hier alles Wichtige zum Wechsel.</p>
 
-<h2>What's Being Retired</h2>
+<h2>Was eingestellt wird</h2>
 
 <h3>Standard Voice</h3>
 
-<p>Standard Voice was ChatGPT's original voice interaction mode — a cascade system that converted your speech to text, processed it through a text-based model, and converted the response back to speech. It worked, but conversations felt stilted. There were noticeable pauses between your question and the response, and the system couldn't handle interruptions naturally.</p>
+<p>Standard Voice war der ursprüngliche Sprachmodus von ChatGPT – ein Kaskadensystem, das Ihre Sprache in Text umwandelte, mit einem textbasierten Modell verarbeitete und die Antwort wieder in Sprache zurückverwandelte. Das funktionierte, aber Gespräche wirkten hölzern. Zwischen Frage und Antwort gab es spürbare Pausen, und Unterbrechungen konnte das System nicht natürlich handhaben.</p>
 
 <h3>Advanced Voice</h3>
 
-<p>Advanced Voice launched in late 2024 as a significant upgrade. It introduced more natural-sounding voices, better handling of conversational patterns, and reduced latency. However, it was still fundamentally a cascade system — speech went through text before being processed — which limited how naturally the AI could converse.</p>
+<p>Advanced Voice kam Ende 2024 als deutliches Upgrade. Es brachte natürlicher klingende Stimmen, einen besseren Umgang mit Gesprächsmustern und geringere Latenz. Dennoch blieb es im Kern ein Kaskadensystem – die Sprache lief vor der Verarbeitung über Text –, was einschränkte, wie natürlich die KI sprechen konnte.</p>
 
-<h2>What GPT-Live Brings</h2>
+<h2>Was GPT-Live bringt</h2>
 
-<p>GPT-Live represents a fundamental architecture shift. Rather than the speech-to-text-to-speech cascade, GPT-Live processes audio natively. It can hear your tone, detect hesitation, understand emphasis, and respond in a way that feels more like a real conversation.</p>
+<p>GPT-Live bedeutet einen grundlegenden Architekturwechsel. Statt der Kaskade aus Speech-to-Text und Text-to-Speech verarbeitet GPT-Live Audio nativ. Es hört Ihren Tonfall, erkennt Zögern, versteht Betonung und antwortet so, dass es sich eher nach einem echten Gespräch anfühlt.</p>
 
-<h3>Key Improvements Over Advanced Voice</h3>
+<h3>Die wichtigsten Verbesserungen gegenüber Advanced Voice</h3>
 
 <ul>
-<li><strong>True full-duplex</strong> — GPT-Live can listen while speaking, allowing natural interruptions and conversational back-and-forth without awkward pauses</li>
-<li><strong>Emotional awareness</strong> — The model picks up on tone and vocal cues, adjusting its responses accordingly</li>
-<li><strong>Lower latency</strong> — Responses feel nearly instantaneous, eliminating the "thinking" gaps that made voice AI feel robotic</li>
-<li><strong>Richer voice quality</strong> — More expressive and natural-sounding output voices</li>
-<li><strong>Multi-turn context</strong> — Better at maintaining conversation context across long voice sessions</li>
+<li><strong>Echtes Vollduplex</strong> – GPT-Live kann zuhören, während es spricht, und ermöglicht so natürliche Unterbrechungen und ein Hin und Her ohne unangenehme Pausen</li>
+<li><strong>Emotionales Gespür</strong> – Das Modell erkennt Tonfall und stimmliche Signale und passt seine Antworten entsprechend an</li>
+<li><strong>Geringere Latenz</strong> – Antworten kommen nahezu sofort, die „Denkpausen", die Sprach-KI roboterhaft wirken ließen, entfallen</li>
+<li><strong>Reichere Stimmqualität</strong> – Ausdrucksstärkere, natürlicher klingende Ausgabestimmen</li>
+<li><strong>Kontext über mehrere Gesprächsrunden</strong> – Hält den Gesprächskontext auch über lange Sprachsitzungen besser aufrecht</li>
 </ul>
 
-<h2>Timeline and Availability</h2>
+<h2>Zeitplan und Verfügbarkeit</h2>
 
 <table>
 <thead>
-<tr><th>Date</th><th>Event</th></tr>
+<tr><th>Datum</th><th>Ereignis</th></tr>
 </thead>
 <tbody>
-<tr><td>November 10, 2026</td><td>OpenAI announces retirement of Advanced and Standard Voice</td></tr>
-<tr><td>November 10 - December 10</td><td>Transition period — all three voice modes available</td></tr>
-<tr><td>December 11, 2026</td><td>Advanced Voice and Standard Voice permanently disabled</td></tr>
-<tr><td>December 11+</td><td>GPT-Live becomes the sole voice interaction mode</td></tr>
+<tr><td>10. November 2026</td><td>OpenAI kündigt die Einstellung von Advanced und Standard Voice an</td></tr>
+<tr><td>10. November – 10. Dezember</td><td>Übergangsphase – alle drei Sprachmodi verfügbar</td></tr>
+<tr><td>11. Dezember 2026</td><td>Advanced Voice und Standard Voice werden dauerhaft deaktiviert</td></tr>
+<tr><td>Ab 11. Dezember</td><td>GPT-Live wird zum einzigen Sprachmodus</td></tr>
 </tbody>
 </table>
 
-<h2>Who Is Affected?</h2>
+<h2>Wer ist betroffen?</h2>
 
-<h3>ChatGPT Plus and Pro Subscribers</h3>
+<h3>ChatGPT-Plus- und Pro-Abonnenten</h3>
 
-<p>If you're on a paid plan, you already have access to GPT-Live. The transition should be seamless — you're likely already using GPT-Live if you've used voice features recently, as OpenAI has been defaulting to it for months.</p>
+<p>Wenn Sie einen kostenpflichtigen Tarif haben, nutzen Sie GPT-Live bereits. Der Übergang dürfte nahtlos verlaufen – wenn Sie die Sprachfunktionen zuletzt genutzt haben, arbeiten Sie wahrscheinlich schon mit GPT-Live, da OpenAI es seit Monaten als Standard setzt.</p>
 
-<h3>Free Tier Users</h3>
+<h3>Nutzer des Gratis-Tarifs</h3>
 
-<p>Free users who had limited access to Standard Voice will transition to limited GPT-Live access. The specifics of free-tier voice limits haven't been updated for the post-December landscape yet.</p>
+<p>Gratis-Nutzer mit begrenztem Zugang zu Standard Voice wechseln zu begrenztem GPT-Live-Zugang. Die genauen Sprachlimits des kostenlosen Tarifs für die Zeit nach dem Dezember wurden noch nicht aktualisiert.</p>
 
-<h3>API Developers</h3>
+<h3>API-Entwickler</h3>
 
-<p>Developers using the Audio API endpoints should check their integration. The legacy voice endpoints will be deprecated alongside the consumer features. OpenAI's GPT-Live API offers different capabilities and pricing compared to the previous voice APIs.</p>
+<p>Entwickler, die die Audio-API-Endpunkte nutzen, sollten ihre Integration prüfen. Die älteren Sprach-Endpunkte werden gemeinsam mit den Verbraucherfunktionen eingestellt. Die GPT-Live-API von OpenAI bietet andere Fähigkeiten und Preise als die bisherigen Sprach-APIs.</p>
 
-<h3>Enterprise and Team Users</h3>
+<h3>Enterprise- und Team-Nutzer</h3>
 
-<p>Enterprise accounts with custom voice configurations should review their settings before December 11. Any workflows built around Advanced Voice's specific behavior patterns may need adjustment.</p>
+<p>Enterprise-Konten mit individuellen Sprachkonfigurationen sollten ihre Einstellungen vor dem 11. Dezember prüfen. Workflows, die auf das spezifische Verhalten von Advanced Voice ausgelegt sind, müssen eventuell angepasst werden.</p>
 
-<h2>What to Do Now</h2>
+<h2>Was Sie jetzt tun sollten</h2>
 
-<h3>1. Test GPT-Live Before the Switch</h3>
+<h3>1. GPT-Live vor dem Wechsel testen</h3>
 
-<p>If you haven't used GPT-Live yet, start now. Open ChatGPT, tap the voice icon, and confirm you're using GPT-Live (it should be the default). Spend a few sessions getting comfortable with its conversational style.</p>
+<p>Wenn Sie GPT-Live noch nicht genutzt haben, fangen Sie jetzt an. Öffnen Sie ChatGPT, tippen Sie auf das Sprachsymbol und prüfen Sie, ob GPT-Live aktiv ist (es sollte der Standard sein). Gewöhnen Sie sich in einigen Sitzungen an den Gesprächsstil.</p>
 
-<h3>2. Update Your Workflows</h3>
+<h3>2. Workflows aktualisieren</h3>
 
-<p>If you've built any processes around ChatGPT's voice features — daily briefings, brainstorming sessions, hands-free note-taking — test them with GPT-Live during the transition period to catch any behavioral differences.</p>
+<p>Wenn Sie Abläufe rund um die Sprachfunktionen von ChatGPT aufgebaut haben – tägliche Briefings, Brainstormings, freihändiges Notieren –, testen Sie diese während der Übergangsphase mit GPT-Live, um Verhaltensunterschiede rechtzeitig zu bemerken.</p>
 
-<h3>3. Check Your API Integrations</h3>
+<h3>3. API-Integrationen prüfen</h3>
 
-<p>Developers should review the GPT-Live API documentation and test their integrations well before the December 11 deadline. Don't wait for the last day.</p>
+<p>Entwickler sollten die GPT-Live-API-Dokumentation durchgehen und ihre Integrationen deutlich vor der Frist am 11. Dezember testen. Warten Sie nicht bis zum letzten Tag.</p>
 
-<h3>4. Explore Alternatives</h3>
+<h3>4. Alternativen prüfen</h3>
 
-<p>GPT-Live isn't the only game in town for voice AI. If you're evaluating options:</p>
-
-<ul>
-<li><strong>Google Gemini</strong> — Offers voice interaction through the Gemini app and Google Assistant</li>
-<li><strong>Claude</strong> — Anthropic offers voice mode with CarPlay support</li>
-<li><strong>ElevenLabs</strong> — For custom voice generation and voice-first applications</li>
-</ul>
-
-<h2>The Bigger Picture: Voice AI Is Consolidating</h2>
-
-<p>OpenAI's decision to retire older voice modes reflects a broader trend in AI: consolidation around native multimodal models. Rather than bolting voice capabilities onto text models, the industry is building models that understand audio, text, images, and video natively.</p>
-
-<p>This same trend is visible across the market:</p>
+<p>GPT-Live ist nicht die einzige Option bei Sprach-KI. Wenn Sie Alternativen abwägen:</p>
 
 <ul>
-<li>Google's Gemini 4 models are natively multimodal</li>
-<li>Bland AI just launched Tofu-1, a native speech-to-speech model</li>
-<li>Meta's Muse agent works across text and voice</li>
+<li><strong>Google Gemini</strong> – Bietet Sprachinteraktion über die Gemini-App und den Google Assistant</li>
+<li><strong>Claude</strong> – Anthropic bietet einen Sprachmodus mit CarPlay-Unterstützung</li>
+<li><strong>ElevenLabs</strong> – Für individuelle Stimmgenerierung und Voice-first-Anwendungen</li>
 </ul>
 
-<p>The cascade approach — speech to text to model to speech — is becoming a legacy architecture. If your business relies on voice AI, planning for native multimodal is the right long-term bet.</p>
+<h2>Das große Ganze: Sprach-KI konsolidiert sich</h2>
+
+<p>Die Entscheidung von OpenAI, ältere Sprachmodi einzustellen, spiegelt einen breiteren Trend in der KI wider: die Konsolidierung rund um native multimodale Modelle. Statt Sprachfunktionen an Textmodelle anzuflanschen, baut die Branche Modelle, die Audio, Text, Bilder und Video nativ verstehen.</p>
+
+<p>Derselbe Trend zeigt sich im ganzen Markt:</p>
+
+<ul>
+<li>Googles Gemini-4-Modelle sind nativ multimodal</li>
+<li>Bland AI hat gerade Tofu-1 vorgestellt, ein natives Speech-to-Speech-Modell</li>
+<li>Metas Agent Muse arbeitet über Text und Sprache hinweg</li>
+</ul>
+
+<p>Der Kaskadenansatz – Sprache zu Text zu Modell zu Sprache – wird zur Altlast. Wer geschäftlich auf Sprach-KI setzt, fährt langfristig mit nativer Multimodalität am besten.</p>
 
 <h2>Fazit</h2>
 
-<p>The retirement of Advanced and Standard Voice is a cleanup, not a downgrade. GPT-Live is objectively better in every measurable dimension. The main risk is for developers and businesses with hard-coded integrations against the old API endpoints — test now, migrate early, and you'll be fine.</p>
+<p>Die Abschaltung von Advanced und Standard Voice ist eine Aufräumaktion, kein Rückschritt. GPT-Live ist in jeder messbaren Hinsicht besser. Das Hauptrisiko betrifft Entwickler und Unternehmen mit fest eingebauten Integrationen auf die alten API-Endpunkte – wer jetzt testet und früh migriert, ist auf der sicheren Seite.</p>
 
-<p>For most users, you won't notice a thing on December 12. Voice in ChatGPT will just work — and work better than it ever has.</p>
+<p>Die meisten Nutzer werden am 12. Dezember nichts bemerken. Sprache in ChatGPT funktioniert einfach weiter – und besser als je zuvor.</p>
 
-<p><em>Need to organize your AI tool workflow? Check out the free <a href="https://toolcraftkit.com">Pomodoro Timer</a> and productivity tools at ToolCraftKit to stay on top of your AI evaluations.</em></p>
+<p><em>Sie möchten Ihren KI-Tool-Workflow organisieren? Probieren Sie den kostenlosen <a href="https://toolcraftkit.com">Pomodoro Timer</a> und weitere Produktivitäts-Tools von ToolCraftKit, um Ihre KI-Bewertungen im Griff zu behalten.</em></p>

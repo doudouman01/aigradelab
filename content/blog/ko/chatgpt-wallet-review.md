@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT Wallet 리뷰: OpenAI Lets AI Agents Pay for You"
-description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. We tested it and graded it. Here's our full review."
+title: "ChatGPT Wallet 리뷰: OpenAI, AI 에이전트가 대신 결제하게 하다"
+description: "ChatGPT Wallet은 카드 정보를 노출하지 않고 AI 에이전트가 구매할 수 있게 합니다. 직접 테스트하고 등급을 매겼습니다. 전체 리뷰를 확인하세요."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
 lastTested: "2026-11-15"
-readTime: "9 min read"
+readTime: "읽기 시간: 9분"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -15,115 +15,115 @@ scores_support: 7
 toolName: "ChatGPT Wallet"
 ---
 
-<h2>What Is ChatGPT Wallet?</h2>
+<h2>ChatGPT Wallet이란?</h2>
 
-<p>ChatGPT Wallet is OpenAI's new payment feature that lets AI agents — specifically ChatGPT's "dot" agent — complete purchases on your behalf without ever seeing your actual credit card number. Think of it as a secure intermediary layer between your payment method and the merchants your AI agent interacts with.</p>
+<p>ChatGPT Wallet은 AI 에이전트, 구체적으로 ChatGPT의 "dot" 에이전트가 실제 신용카드 번호를 보지 않고도 사용자를 대신해 구매를 완료할 수 있게 하는 OpenAI의 새로운 결제 기능입니다. 결제 수단과 AI 에이전트가 상호작용하는 판매자 사이의 안전한 중개 계층이라고 생각하시면 됩니다.</p>
 
-<p>Launched on November 13, 2026, ChatGPT Wallet was developed in partnership with American Express, Mastercard, and Visa. It's currently available exclusively to ChatGPT Pro subscribers in the United States, with a gradual rollout underway.</p>
+<p>2026년 11월 13일에 출시된 ChatGPT Wallet은 American Express, Mastercard, Visa와 협력하여 개발되었습니다. 현재는 미국의 ChatGPT Pro 구독자에게만 제공되며 점진적으로 확대되고 있습니다.</p>
 
-<p>This is a significant step in what the industry calls "agentic commerce" — the idea that AI agents will increasingly handle routine purchases, bookings, and transactions on behalf of humans.</p>
+<p>이는 업계에서 "에이전틱 커머스"라고 부르는 흐름, 즉 AI 에이전트가 점점 더 사람을 대신해 일상적인 구매, 예약, 거래를 처리하게 될 것이라는 구상에서 중요한 한 걸음입니다.</p>
 
-<h2>How ChatGPT Wallet Works</h2>
+<h2>ChatGPT Wallet의 작동 방식</h2>
 
-<p>The workflow is straightforward, at least in concept:</p>
+<p>적어도 개념상으로는 워크플로가 간단합니다.</p>
 
 <ol>
-<li><strong>You set up the wallet:</strong> Link a supported credit or debit card (Visa, Mastercard, or American Express) to your ChatGPT account through the wallet settings.</li>
-<li><strong>You task the agent:</strong> Ask ChatGPT's dot agent to handle a purchase — book a flight, order supplies, buy a gift.</li>
-<li><strong>The agent shops:</strong> The AI agent browses, compares, and selects items based on your instructions.</li>
-<li><strong>You review and approve:</strong> Before any money moves, the wallet prompts you to review the merchant, items, total amount, and which card will be charged.</li>
-<li><strong>Biometric confirmation:</strong> You approve the purchase using biometrics (Face ID, fingerprint) — no typing in card numbers or CVVs.</li>
+<li><strong>지갑 설정:</strong> 지갑 설정에서 지원되는 신용카드 또는 체크카드(Visa, Mastercard, American Express)를 ChatGPT 계정에 연결합니다.</li>
+<li><strong>에이전트에게 작업 지시:</strong> ChatGPT의 dot 에이전트에게 항공권 예약, 용품 주문, 선물 구매 같은 구매를 요청합니다.</li>
+<li><strong>에이전트가 쇼핑:</strong> AI 에이전트가 지시에 따라 탐색, 비교, 상품 선택을 합니다.</li>
+<li><strong>검토 및 승인:</strong> 결제가 이루어지기 전에 지갑이 판매자, 상품, 총액, 청구될 카드를 검토하도록 안내합니다.</li>
+<li><strong>생체 인증 확인:</strong> 생체 인식(Face ID, 지문)으로 구매를 승인합니다. 카드 번호나 CVV를 입력할 필요가 없습니다.</li>
 </ol>
 
-<p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
+<p>핵심적인 보안 설계는 어떤 시점에도 AI 에이전트 자체가 실제 카드 정보에 접근하지 못한다는 점입니다. 결제 자격 증명은 토큰화되어 있어, 에이전트는 실제 카드 번호가 아닌 보안 프록시와 작동합니다. 판매자는 카드 정보가 아닌 거래별 토큰을 받습니다.</p>
 
-<h2>What We Liked</h2>
+<h2>마음에 든 점</h2>
 
-<h3>Security Architecture Is Thoughtful</h3>
+<h3>신중하게 설계된 보안 아키텍처</h3>
 
-<p>The tokenized approach addresses the single biggest concern about letting AI agents handle payments: what happens if the agent is compromised or makes a mistake? Because ChatGPT Wallet never exposes your real card number to the AI model, a hypothetical security breach at the agent level wouldn't leak your payment credentials.</p>
+<p>토큰화 방식은 AI 에이전트에게 결제를 맡기는 것에 대한 가장 큰 우려, 즉 에이전트가 해킹되거나 실수하면 어떻게 되는가라는 문제를 해결합니다. ChatGPT Wallet은 실제 카드 번호를 AI 모델에 절대 노출하지 않으므로, 가상의 에이전트 수준 보안 침해가 발생해도 결제 자격 증명이 유출되지 않습니다.</p>
 
-<p>The biometric confirmation step adds a critical human-in-the-loop check. You always see exactly what you're buying and how much you're paying before anything is charged. This isn't just a "confirm" button — it's a full transaction summary with biometric verification.</p>
+<p>생체 인증 확인 단계는 중요한 휴먼 인 더 루프 점검을 더합니다. 결제되기 전에 무엇을 사고 얼마를 내는지 항상 정확히 확인할 수 있습니다. 단순한 "확인" 버튼이 아니라 생체 인증이 결합된 전체 거래 요약입니다.</p>
 
-<h3>Major Card Network Support from Day One</h3>
+<h3>첫날부터 주요 카드 네트워크 지원</h3>
 
-<p>Launching with Visa, Mastercard, and American Express covers the vast majority of credit and debit cards in the US market. This isn't a startup trying to get merchants to adopt a new payment rail — it's built on existing payment infrastructure that merchants already accept.</p>
+<p>Visa, Mastercard, American Express로 출시하면 미국 시장의 대부분의 신용카드와 체크카드를 포괄합니다. 판매자가 새로운 결제 방식을 도입하도록 설득하는 스타트업이 아니라, 판매자가 이미 받아들이는 기존 결제 인프라 위에 구축되었습니다.</p>
 
-<h3>The Agent Shopping Experience</h3>
+<h3>에이전트 쇼핑 경험</h3>
 
-<p>When it works, it's genuinely useful. The dot agent can compare prices across multiple merchants, check availability, apply known preferences (like preferred airlines or retailers), and handle the entire checkout flow. For routine purchases — office supplies, travel bookings, recurring orders — this can save meaningful time.</p>
+<p>잘 작동할 때는 정말 유용합니다. dot 에이전트는 여러 판매자의 가격을 비교하고, 재고를 확인하고, 선호 항공사나 소매점 같은 알려진 선호 사항을 적용하며, 결제 전 과정을 처리할 수 있습니다. 사무용품, 여행 예약, 정기 주문 같은 일상적인 구매에서는 의미 있는 시간을 절약할 수 있습니다.</p>
 
-<h2>What Needs Work</h2>
+<h2>보완이 필요한 점</h2>
 
-<h3>Pro-Only, US-Only: The Biggest Limitation</h3>
+<h3>Pro 전용, 미국 전용: 가장 큰 한계</h3>
 
-<p>At $200/month, ChatGPT Pro is OpenAI's premium tier. Restricting Wallet to Pro users means the feature is only available to a small fraction of ChatGPT's 900+ million weekly active users. The average consumer who could most benefit from automated shopping isn't paying $200/month for an AI subscription.</p>
+<p>월 $200의 ChatGPT Pro는 OpenAI의 프리미엄 등급입니다. Wallet을 Pro 사용자로 제한하면 ChatGPT의 9억 명 이상 주간 활성 사용자 중 극히 일부만 이 기능을 쓸 수 있습니다. 자동 쇼핑의 혜택을 가장 크게 받을 일반 소비자는 AI 구독에 월 $200를 내지 않습니다.</p>
 
-<p>The US-only restriction further narrows the addressable market. OpenAI hasn't announced a timeline for international expansion, though the involvement of global card networks suggests it's planned.</p>
+<p>미국 한정이라는 제한은 대상 시장을 더욱 좁힙니다. OpenAI는 해외 확장 일정을 발표하지 않았지만, 글로벌 카드 네트워크가 참여하고 있다는 점은 계획이 있음을 시사합니다.</p>
 
-<h3>Merchant Coverage Is Still Limited</h3>
+<h3>판매자 지원 범위가 여전히 제한적</h3>
 
-<p>During our testing, the agent successfully completed purchases on major e-commerce platforms but hit walls on smaller merchants and niche retailers. The wallet works best with merchants that have modern checkout systems — older or custom checkout flows sometimes confused the agent.</p>
+<p>테스트 중 에이전트는 주요 이커머스 플랫폼에서는 구매를 성공적으로 완료했지만 소규모 판매자와 틈새 소매점에서는 벽에 부딪혔습니다. 지갑은 최신 결제 시스템을 갖춘 판매자와 가장 잘 작동하며, 오래되었거나 맞춤형 결제 흐름은 가끔 에이전트를 혼란스럽게 했습니다.</p>
 
-<h3>No Recurring Payment Management Yet</h3>
+<h3>정기 결제 관리 기능은 아직 없음</h3>
 
-<p>You can use the wallet for one-time purchases, but there's no built-in system for managing subscriptions, recurring orders, or automatic reorders. This feels like an obvious next step, but it's not here yet.</p>
+<p>지갑을 일회성 구매에 사용할 수 있지만 구독, 정기 주문, 자동 재주문을 관리하는 내장 시스템은 없습니다. 분명한 다음 단계처럼 보이지만 아직 제공되지 않습니다.</p>
 
-<h3>Error Handling Could Be More Transparent</h3>
+<h3>오류 처리가 더 투명해야 함</h3>
 
-<p>When a transaction fails — and in our testing, about 15% did — the error messages are vague. "Unable to complete this purchase" doesn't help you understand whether the issue was with your card, the merchant, or the agent's understanding of what you wanted.</p>
+<p>거래가 실패할 때(저희 테스트에서는 약 15%) 오류 메시지가 모호합니다. "이 구매를 완료할 수 없습니다"라는 메시지로는 문제가 카드, 판매자, 에이전트의 요청 이해 중 어디에 있는지 알 수 없습니다.</p>
 
-<h2>How It Compares</h2>
+<h2>비교</h2>
 
-<p>ChatGPT Wallet enters a space where, frankly, there isn't much direct competition yet:</p>
-
-<ul>
-<li><strong>Google Gemini:</strong> No equivalent payment feature as of November 2026. Google Pay integration has been rumored but not shipped.</li>
-<li><strong>Claude (Anthropic):</strong> No payment capability. Anthropic has been focused on its IPO roadshow rather than commerce features.</li>
-<li><strong>Sierra's Poppy Protocol:</strong> The Personal Agent Protocol (Poppy 1.0, released November 13) defines how agents connect to businesses, with payments as a future extension — but it's a protocol, not a consumer product. Shopify and Meta's Muse are early adopters.</li>
-<li><strong>Apple Intelligence:</strong> Apple Pay integration with Siri has been available, but it's limited to Apple's ecosystem and doesn't offer the same agent-driven shopping experience.</li>
-</ul>
-
-<p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
-
-<h2>가격</h2>
-
-<p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
-
-<p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
-
-<h2>Privacy and Data Considerations</h2>
-
-<p>OpenAI states that purchase data is used to improve the shopping experience but can be managed through your privacy settings. Key considerations:</p>
+<p>ChatGPT Wallet은 솔직히 아직 직접적인 경쟁자가 많지 않은 영역에 진입합니다.</p>
 
 <ul>
-<li>Transaction history is stored in your account and can be viewed or deleted</li>
-<li>The AI agent can reference past purchases to make better recommendations (you can disable this)</li>
-<li>Card information is managed by the payment networks, not stored by OpenAI directly</li>
-<li>Purchase data is not used for model training (per OpenAI's Pro subscriber data policy)</li>
+<li><strong>Google Gemini:</strong> 2026년 11월 기준 동등한 결제 기능이 없습니다. Google Pay 통합이 소문으로만 돌았고 출시되지 않았습니다.</li>
+<li><strong>Claude (Anthropic):</strong> 결제 기능이 없습니다. Anthropic은 커머스 기능보다 IPO 로드쇼에 집중해 왔습니다.</li>
+<li><strong>Sierra의 Poppy Protocol:</strong> Personal Agent Protocol(11월 13일 출시된 Poppy 1.0)은 에이전트가 기업과 연결되는 방식을 정의하며 결제는 향후 확장으로 계획되어 있습니다. 하지만 소비자 제품이 아닌 프로토콜입니다. Shopify와 Meta의 Muse가 초기 도입자입니다.</li>
+<li><strong>Apple Intelligence:</strong> Siri와 Apple Pay 통합은 이미 제공되었으나 Apple 생태계로 제한되며 동일한 에이전트 주도 쇼핑 경험을 제공하지 않습니다.</li>
 </ul>
 
-<h2>Who Should Use ChatGPT Wallet</h2>
+<p>여기서 OpenAI의 선점 효과는 실질적입니다. 세 주요 카드 네트워크와 동시에 제휴함으로써 경쟁사가 맞추거나 넘어서야 할 기준을 세웠습니다.</p>
 
-<p><strong>Good fit:</strong> ChatGPT Pro subscribers who already use the dot agent regularly, frequent online shoppers who value time savings, professionals who expense routine purchases, and early adopters who want to experience the future of agentic commerce.</p>
+<h2>요금</h2>
 
-<p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
+<p>ChatGPT Wallet 자체에는 ChatGPT Pro 구독(월 $200) 외에 추가 요금이 없습니다. 다른 구매와 마찬가지로 표준 카드 거래 수수료가 적용됩니다. OpenAI의 지갑 전용 추가 요금이나 거래당 수수료는 없습니다.</p>
 
-<h2>평가: B+</h2>
+<p>진짜 비용 문제는 현재 Plus 플랜(월 $20)을 사용 중이라면 지갑 기능만으로 Pro 구독이 정당화되느냐입니다. 대부분의 사용자에게 답은 아니오입니다. Wallet은 Pro 패키지 안의 좋은 부가 혜택이지, 그것만으로 업그레이드할 이유는 아닙니다.</p>
+
+<h2>개인정보 및 데이터 관련 고려 사항</h2>
+
+<p>OpenAI는 구매 데이터가 쇼핑 경험 개선에 사용되지만 개인정보 설정에서 관리할 수 있다고 밝힙니다. 주요 고려 사항은 다음과 같습니다.</p>
+
+<ul>
+<li>거래 내역은 계정에 저장되며 조회하거나 삭제할 수 있습니다</li>
+<li>AI 에이전트는 과거 구매를 참조해 더 나은 추천을 할 수 있습니다 (비활성화 가능)</li>
+<li>카드 정보는 결제 네트워크가 관리하며 OpenAI가 직접 저장하지 않습니다</li>
+<li>구매 데이터는 모델 학습에 사용되지 않습니다 (OpenAI Pro 구독자 데이터 정책에 따름)</li>
+</ul>
+
+<h2>ChatGPT Wallet을 사용해야 할 사람</h2>
+
+<p><strong>적합한 경우:</strong> 이미 dot 에이전트를 정기적으로 사용하는 ChatGPT Pro 구독자, 시간 절약을 중시하는 빈번한 온라인 쇼핑객, 일상적인 구매를 경비 처리하는 직장인, 에이전틱 커머스의 미래를 체험하고 싶은 얼리 어답터.</p>
+
+<p><strong>아직은 아닌 경우:</strong> 미국 외 지역의 모든 분, 무료 또는 Plus 플랜 사용자, 주로 소규모 또는 틈새 소매점에서 쇼핑하는 분, 토큰화되어 있더라도 AI 에이전트가 결제 수단에 접근할 경로를 갖는 것이 불편한 모든 분.</p>
+
+<h2>저희 등급: B+</h2>
 
 <table>
-<thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>
+<thead><tr><th>항목</th><th>점수</th><th>비고</th></tr></thead>
 <tbody>
-<tr><td>UX</td><td>7/10</td><td>Clean setup, but error handling needs polish</td></tr>
-<tr><td>Quality</td><td>8/10</td><td>Tokenized security is best-in-class for a v1</td></tr>
-<tr><td>Value</td><td>6/10</td><td>Pro-only pricing limits accessibility</td></tr>
-<tr><td>연동성</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
-<tr><td>지원</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
+<tr><td>UX</td><td>7/10</td><td>깔끔한 설정, 하지만 오류 처리 다듬기 필요</td></tr>
+<tr><td>품질</td><td>8/10</td><td>토큰화 보안은 v1으로서 최고 수준</td></tr>
+<tr><td>가치</td><td>6/10</td><td>Pro 전용 가격이 접근성을 제한</td></tr>
+<tr><td>통합</td><td>8/10</td><td>첫날부터 Visa/Mastercard/Amex 지원은 강점</td></tr>
+<tr><td>지원</td><td>7/10</td><td>표준 OpenAI Pro 지원, 지갑 전용 문서는 부족</td></tr>
 </tbody>
 </table>
 
-<p>ChatGPT Wallet is the most polished implementation of AI-powered payments we've seen. The security model is sound, the card network partnerships are impressive, and the user experience — when it works — feels like a genuine preview of how we'll all shop in a few years. The B+ reflects the strong foundation dinged by real limitations: Pro-only access, US-only availability, and a merchant coverage gap that will take time to close.</p>
+<p>ChatGPT Wallet은 지금까지 본 AI 기반 결제 중 가장 완성도 높은 구현입니다. 보안 모델은 탄탄하고, 카드 네트워크 제휴는 인상적이며, 작동할 때의 사용자 경험은 몇 년 후 우리 모두가 쇼핑하는 방식을 미리 보여 주는 듯합니다. B+는 탄탄한 기반이 Pro 전용, 미국 전용, 메우는 데 시간이 걸릴 판매자 지원 격차라는 실제 한계로 감점된 결과를 반영합니다.</p>
 
-<p>This grade will likely move up as OpenAI expands access and improves reliability. We'll retest when Plus tier access and international support arrive.</p>
+<p>OpenAI가 접근을 확대하고 신뢰성을 개선하면 이 등급은 올라갈 가능성이 높습니다. Plus 등급 접근과 해외 지원이 시작되면 다시 테스트하겠습니다.</p>
 
-<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">ToolCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>
+<p><em>Pro 구독 없이 지금 바로 쓸 수 있는 무료 AI 기반 도구를 찾고 계신가요? <a href="https://toolcraftkit.com">ToolCraftKit.com</a>에서 25개 언어로 제공되는 100개 이상의 무료 도구 모음을 둘러보십시오.</em></p>

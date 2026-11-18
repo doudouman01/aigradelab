@@ -1,124 +1,124 @@
 ---
-title: "ChatGPT مقابل Perplexity في 2026: أيهما أفضل للبحث؟"
-description: "مقارنة شاملة بين ChatGPT و Perplexity للبحث والإجابة على الأسئلة."
-category: "Head-to-Head"
+title: "ChatGPT مقابل Perplexity 2026: أي ذكاء اصطناعي تستخدم للبحث؟"
+description: "اختبرنا ChatGPT وPerplexity وجهًا لوجه في البحث والدقة والمصادر والاستخدام اليومي. مقارنة كاملة بالدرجات. تحديث نوفمبر 2026."
+category: "مواجهات مباشرة"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "وقت القراءة: 12 دقيقة"
 ---
 
-<h2>Two AIs, Two Philosophies</h2>
-<p>ChatGPT and Perplexity approach the same question — "help me find accurate information" — from opposite directions. ChatGPT is a conversational AI that can also search the web. Perplexity is a search engine that uses AI to synthesize results. The difference matters: ChatGPT writes confidently, sometimes without evidence. Perplexity cites every claim, sometimes at the cost of creativity. We tested both across 50+ real research tasks to find where each excels.</p>
+<h2>ذكاءان اصطناعيان وفلسفتان</h2>
+<p>يتناول ChatGPT وPerplexity السؤال نفسه — «ساعدني في العثور على معلومات دقيقة» — من اتجاهين متعاكسين. ChatGPT ذكاء اصطناعي محادثي يستطيع أيضًا البحث في الويب. أما Perplexity فمحرك بحث يستخدم الذكاء الاصطناعي لتجميع النتائج. والفرق مهم: يكتب ChatGPT بثقة، أحيانًا دون دليل. ويوثّق Perplexity كل ادعاء، أحيانًا على حساب الإبداع. اختبرنا كليهما عبر أكثر من 50 مهمة بحثية حقيقية لنعرف أين يتفوق كلٌّ منهما.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>ChatGPT</th><th>Perplexity</th></tr>
+    <tr><th>الميزة</th><th>ChatGPT</th><th>Perplexity</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
-    <tr><td>Price</td><td>Free / $20/mo</td><td>Free / $20/mo</td></tr>
-    <tr><td>Source citations</td><td>Sometimes</td><td>Always (numbered)</td></tr>
-    <tr><td>Accuracy</td><td>Good (can hallucinate)</td><td>Very good (source-backed)</td></tr>
-    <tr><td>Writing quality</td><td>Very good</td><td>Good (factual tone)</td></tr>
-    <tr><td>Creative tasks</td><td>Excellent</td><td>Limited</td></tr>
-    <tr><td>Image generation</td><td>GPT Image (best)</td><td>No</td></tr>
-    <tr><td>Video generation</td><td>Sora (included)</td><td>No</td></tr>
-    <tr><td>Voice mode</td><td>Yes (natural)</td><td>No</td></tr>
-    <tr><td>File analysis</td><td>Yes</td><td>Limited</td></tr>
-    <tr><td>Best for</td><td>Everything + research</td><td>Research + fact-checking</td></tr>
+    <tr><td><strong>التقييم</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
+    <tr><td>السعر</td><td>مجاني / $20/شهر</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>استشهادات المصادر</td><td>أحيانًا</td><td>دائمًا (مرقمة)</td></tr>
+    <tr><td>الدقة</td><td>جيدة (قد يهلوس)</td><td>جيدة جدًا (مدعومة بالمصادر)</td></tr>
+    <tr><td>جودة الكتابة</td><td>جيدة جدًا</td><td>جيدة (نبرة واقعية)</td></tr>
+    <tr><td>المهام الإبداعية</td><td>ممتاز</td><td>محدود</td></tr>
+    <tr><td>توليد الصور</td><td>GPT Image (الأفضل)</td><td>لا</td></tr>
+    <tr><td>توليد الفيديو</td><td>Sora (مضمَّن)</td><td>لا</td></tr>
+    <tr><td>الوضع الصوتي</td><td>نعم (طبيعي)</td><td>لا</td></tr>
+    <tr><td>تحليل الملفات</td><td>نعم</td><td>محدود</td></tr>
+    <tr><td>الأفضل لـ</td><td>كل شيء + البحث</td><td>البحث + التحقق من الحقائق</td></tr>
   </tbody>
 </table>
 
-<h2>Research Accuracy: Perplexity Wins</h2>
-<p>This is the core differentiator. Every Perplexity answer comes with numbered source citations — [1], [2], [3] — linking directly to the web pages that support each claim. You can verify every fact in 10 seconds. ChatGPT often provides information without citing sources, and when it does cite, the sources aren't always linked or verifiable.</p>
-<p>In our testing across 50 factual questions, Perplexity provided verifiable sources for 95%+ of claims. ChatGPT provided sources for about 60% of claims, and 5-10% of its unsourced claims contained factual errors. For any research where accuracy matters — academic work, journalism, business decisions, medical questions — Perplexity's sourcing is invaluable.</p>
+<h2>دقة البحث: Perplexity يفوز</h2>
+<p>هذا هو الفارق الجوهري. تأتي كل إجابة من Perplexity مع استشهادات مرقمة بالمصادر — [1] و[2] و[3] — تربط مباشرة بصفحات الويب التي تدعم كل ادعاء. يمكنك التحقق من كل حقيقة في 10 ثوانٍ. أما ChatGPT فكثيرًا ما يقدم معلومات دون ذكر المصادر، وحين يذكرها لا تكون المصادر دائمًا مرتبطة بروابط أو قابلة للتحقق.</p>
+<p>في اختبارنا على 50 سؤالًا واقعيًا، قدّم Perplexity مصادر قابلة للتحقق لأكثر من 95% من الادعاءات. وقدّم ChatGPT مصادر لنحو 60% من الادعاءات، واحتوت 5-10% من ادعاءاته غير الموثقة على أخطاء واقعية. ولأي بحث تهم فيه الدقة — العمل الأكاديمي والصحافة والقرارات التجارية والأسئلة الطبية — فإن توثيق Perplexity لا يقدَّر بثمن.</p>
 
-<h3>Pro Search: Perplexity's Deep Research Mode</h3>
-<p>Perplexity Pro Search (available on the $20/month plan) goes beyond basic search. It asks clarifying questions, searches multiple sources, synthesizes findings, and produces comprehensive research briefs with full citation. A single Pro Search on a complex topic produces a research brief that would take hours to compile manually — with every claim sourced.</p>
+<h3>Pro Search: وضع البحث العميق في Perplexity</h3>
+<p>يتجاوز Pro Search في Perplexity (المتاح في خطة $20/شهر) البحث الأساسي. فهو يطرح أسئلة توضيحية ويبحث في مصادر متعددة ويجمع النتائج وينتج ملخصات بحثية شاملة مع استشهادات كاملة. وبحث Pro واحد في موضوع معقد ينتج ملخصًا بحثيًا كان تجميعه يدويًا سيستغرق ساعات — مع توثيق كل ادعاء بمصدره.</p>
 
-<h2>Versatility: ChatGPT Wins Decisively</h2>
-<p>Perplexity is a research tool. ChatGPT is a research tool AND a writing tool AND an image generator AND a video generator AND a voice assistant AND a code executor AND a file analyzer. The gap in versatility is enormous:</p>
+<h2>التنوع: ChatGPT يفوز بحسم</h2>
+<p>Perplexity أداة بحث. أما ChatGPT فأداة بحث ومعها أداة كتابة ومولّد صور ومولّد فيديو ومساعد صوتي ومنفّذ كود ومحلل ملفات. وفجوة التنوع هائلة:</p>
 <ul>
-  <li><strong>Image generation:</strong> ChatGPT creates images with GPT Image. Perplexity cannot.</li>
-  <li><strong>Video generation:</strong> ChatGPT includes Sora. Perplexity cannot.</li>
-  <li><strong>Voice conversation:</strong> ChatGPT has natural voice mode. Perplexity has basic voice.</li>
-  <li><strong>Code execution:</strong> ChatGPT runs Python, analyzes data, creates charts. Perplexity cannot.</li>
-  <li><strong>File analysis:</strong> ChatGPT analyzes spreadsheets, PDFs, and images. Perplexity has limited file support.</li>
-  <li><strong>Custom GPTs:</strong> ChatGPT has thousands of specialized assistants. Perplexity has none.</li>
-  <li><strong>Creative writing:</strong> ChatGPT writes stories, scripts, and creative content. Perplexity is factual only.</li>
+  <li><strong>توليد الصور:</strong> ينشئ ChatGPT صورًا بـ GPT Image. أما Perplexity فلا يستطيع.</li>
+  <li><strong>توليد الفيديو:</strong> يتضمن ChatGPT أداة Sora. أما Perplexity فلا يستطيع.</li>
+  <li><strong>المحادثة الصوتية:</strong> لدى ChatGPT وضع صوتي طبيعي. ولدى Perplexity صوت أساسي.</li>
+  <li><strong>تنفيذ الكود:</strong> يشغّل ChatGPT كود Python ويحلل البيانات وينشئ المخططات. أما Perplexity فلا يستطيع.</li>
+  <li><strong>تحليل الملفات:</strong> يحلل ChatGPT جداول البيانات وملفات PDF والصور. ولدى Perplexity دعم محدود للملفات.</li>
+  <li><strong>GPTs المخصصة:</strong> لدى ChatGPT آلاف المساعدين المتخصصين. وليس لدى Perplexity أي منهم.</li>
+  <li><strong>الكتابة الإبداعية:</strong> يكتب ChatGPT القصص والسيناريوهات والمحتوى الإبداعي. أما Perplexity فواقعي فقط.</li>
 </ul>
 
-<h2>Writing Quality: ChatGPT Wins</h2>
-<p>ChatGPT produces more engaging, varied, and creative writing. Blog posts, marketing copy, emails, stories, and scripts all benefit from ChatGPT's conversational style. Perplexity's writing is accurate but reads like a research report — factual, structured, and citation-heavy. For content creation, ChatGPT is the better writer. For research reporting, Perplexity's style is appropriate.</p>
+<h2>جودة الكتابة: ChatGPT يفوز</h2>
+<p>ينتج ChatGPT كتابة أكثر جاذبية وتنوعًا وإبداعًا. تستفيد المقالات والنصوص التسويقية والرسائل والقصص والسيناريوهات كلها من أسلوب ChatGPT المحادثي. أما كتابة Perplexity فدقيقة لكنها تُقرأ كتقرير بحثي — واقعية ومنظمة وكثيفة الاستشهادات. وفي إنشاء المحتوى، ChatGPT هو الكاتب الأفضل. وفي إعداد التقارير البحثية، أسلوب Perplexity مناسب.</p>
 
-<h2>Speed and Interface: Perplexity Wins</h2>
-<p>Perplexity is faster for research. Type a question and get a sourced answer in seconds — no conversation, no context-setting, no prompt engineering. The interface is clean and focused: question, answer, sources, follow-up questions. ChatGPT's conversational interface is more powerful but slower for quick factual lookups.</p>
-<p>Perplexity's follow-up questions are particularly useful — they guide you deeper into a topic without having to think about what to ask next. For research rabbit holes, this guided exploration surfaces information you didn't know to look for.</p>
+<h2>السرعة والواجهة: Perplexity يفوز</h2>
+<p>Perplexity أسرع للبحث. اكتب سؤالًا واحصل على إجابة موثقة في ثوانٍ — دون محادثة ودون تهيئة سياق ودون هندسة أوامر. الواجهة نظيفة ومركّزة: سؤال وإجابة ومصادر وأسئلة متابعة. أما واجهة ChatGPT المحادثية فأقوى لكنها أبطأ في عمليات البحث الواقعي السريع.</p>
+<p>أسئلة المتابعة في Perplexity مفيدة بشكل خاص — فهي تقودك أعمق في الموضوع دون أن تضطر إلى التفكير فيما تسأل عنه تاليًا. ولاستكشاف الموضوعات المتشعبة، يكشف هذا الاستكشاف الموجَّه معلومات لم تكن تعرف أنك تبحث عنها.</p>
 
-<h2>Free Tier Comparison</h2>
+<h2>مقارنة الباقات المجانية</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>ChatGPT Free</th><th>Perplexity Free</th></tr>
+    <tr><th>الميزة</th><th>ChatGPT المجاني</th><th>Perplexity المجاني</th></tr>
   </thead>
   <tbody>
-    <tr><td>AI model</td><td>GPT-4o (limited)</td><td>Standard (not Pro Search)</td></tr>
-    <tr><td>Source citations</td><td>Sometimes</td><td>Always</td></tr>
-    <tr><td>Image generation</td><td>Limited</td><td>No</td></tr>
-    <tr><td>Web browsing</td><td>Yes</td><td>Yes (always)</td></tr>
-    <tr><td>File uploads</td><td>Yes</td><td>Limited</td></tr>
-    <tr><td>Best free use</td><td>General AI + basic research</td><td>Quick sourced research</td></tr>
+    <tr><td>نموذج الذكاء الاصطناعي</td><td>GPT-4o (محدود)</td><td>قياسي (دون Pro Search)</td></tr>
+    <tr><td>استشهادات المصادر</td><td>أحيانًا</td><td>دائمًا</td></tr>
+    <tr><td>توليد الصور</td><td>محدود</td><td>لا</td></tr>
+    <tr><td>تصفح الويب</td><td>نعم</td><td>نعم (دائمًا)</td></tr>
+    <tr><td>رفع الملفات</td><td>نعم</td><td>محدود</td></tr>
+    <tr><td>أفضل استخدام مجاني</td><td>ذكاء اصطناعي عام + بحث أساسي</td><td>بحث سريع موثَّق</td></tr>
   </tbody>
 </table>
 
-<h2>The Power User Setup: Both ($40/month)</h2>
-<p>Most power users use both — and they're not redundant:</p>
+<h2>إعداد المستخدم المتمرس: كلاهما ($40/شهر)</h2>
+<p>يستخدم معظم المستخدمين المتمرسين كليهما — وهما ليسا مكررين:</p>
 <ul>
-  <li><strong>Perplexity Pro ($20)</strong> — all research, fact-checking, and sourced information gathering</li>
-  <li><strong>ChatGPT Plus ($20)</strong> — writing, images, video, code, data analysis, and everything else</li>
+  <li><strong>Perplexity Pro ($20)</strong> — كل البحث والتحقق من الحقائق وجمع المعلومات الموثقة</li>
+  <li><strong>ChatGPT Plus ($20)</strong> — الكتابة والصور والفيديو والكود وتحليل البيانات وكل شيء آخر</li>
 </ul>
-<p>The workflow: research with Perplexity (get the facts and sources), create with ChatGPT (write the content, make the images). Each tool does what it does best.</p>
-<p>If you can only afford one: <strong>ChatGPT Plus</strong> — it does research adequately and everything else well. <strong>Perplexity Pro</strong> only if research is your primary AI use case.</p>
+<p>سير العمل: ابحث بـ Perplexity (احصل على الحقائق والمصادر)، وأنشئ بـ ChatGPT (اكتب المحتوى وولّد الصور). كل أداة تفعل ما تجيده.</p>
+<p>إذا كنت تستطيع تحمّل واحد فقط: <strong>ChatGPT Plus</strong> — فهو يؤدي البحث بشكل مقبول وكل شيء آخر بشكل جيد. و<strong>Perplexity Pro</strong> فقط إذا كان البحث حالة استخدامك الأساسية للذكاء الاصطناعي.</p>
 
-<h2>The Verdict</h2>
+<h2>الحكم</h2>
 <table>
   <thead>
-    <tr><th>Category</th><th>Winner</th></tr>
+    <tr><th>الفئة</th><th>الفائز</th></tr>
   </thead>
   <tbody>
-    <tr><td>Research accuracy</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Source citations</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Research speed</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Deep research</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Writing quality</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Versatility</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Image generation</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Video generation</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Code and data</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Free tier (research)</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Free tier (overall)</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td><strong>Overall</strong></td><td><strong>Different tools for different jobs</strong></td></tr>
+    <tr><td>دقة البحث</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>استشهادات المصادر</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>سرعة البحث</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>البحث العميق</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>جودة الكتابة</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>التنوع</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>توليد الصور</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>توليد الفيديو</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>الكود والبيانات</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>الباقة المجانية (البحث)</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>الباقة المجانية (بوجه عام)</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td><strong>بوجه عام</strong></td><td><strong>أدوات مختلفة لمهام مختلفة</strong></td></tr>
   </tbody>
 </table>
 
-<h2>Final Take</h2>
-<p><strong>Perplexity</strong> is the best research AI available — every answer sourced, verifiable, and trustworthy. For students, journalists, researchers, and professionals who need accurate information with citations, Perplexity is essential.</p>
-<p><strong>ChatGPT</strong> is the best all-around AI — research plus writing plus images plus video plus voice plus code in one platform. For anyone who needs a single AI tool, ChatGPT covers the most ground.</p>
-<p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. Read our full <a href="/ar/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/ar/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
+<h2>الخلاصة النهائية</h2>
+<p><strong>Perplexity</strong> هو أفضل ذكاء اصطناعي للبحث متاح — كل إجابة موثقة وقابلة للتحقق وجديرة بالثقة. وللطلاب والصحفيين والباحثين والمهنيين الذين يحتاجون إلى معلومات دقيقة مع استشهادات، فإن Perplexity أساسي.</p>
+<p><strong>ChatGPT</strong> هو أفضل ذكاء اصطناعي شامل — البحث والكتابة والصور والفيديو والصوت والكود في منصة واحدة. ولكل من يحتاج إلى أداة ذكاء اصطناعي واحدة، يغطي ChatGPT أكبر مساحة.</p>
+<p>هما ليسا منافسين — بل مكمّلان. وأفضل إعداد يستخدم كليهما: Perplexity للحقيقة وChatGPT للإبداع. اقرأ <a href="/ar/blog/chatgpt-review-2026">مراجعة ChatGPT</a> و<a href="/ar/blog/perplexity-ai-review-2026">مراجعة Perplexity</a> الكاملتين للاطلاع على تفاصيل أوفى.</p>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>Is Perplexity more accurate than ChatGPT?</h3>
-<p>For factual research — yes. Perplexity cites sources on every claim, making verification instant. ChatGPT can be confidently wrong without sources. For research accuracy, Perplexity is the safer choice.</p>
+<h3>هل Perplexity أدق من ChatGPT؟</h3>
+<p>في البحث الواقعي — نعم. يوثّق Perplexity المصادر على كل ادعاء، مما يجعل التحقق فوريًا. وقد يكون ChatGPT مخطئًا بثقة دون مصادر. وفي دقة البحث، Perplexity هو الخيار الأكثر أمانًا.</p>
 
-<h3>Can Perplexity replace Google?</h3>
-<p>For information research — increasingly yes. Perplexity gives you the answer directly with sources, instead of a list of links to click through. For navigation (finding a website), shopping, and local searches — Google is still better.</p>
+<h3>هل يستطيع Perplexity أن يحل محل Google؟</h3>
+<p>في البحث عن المعلومات — بشكل متزايد نعم. يعطيك Perplexity الإجابة مباشرة مع المصادر، بدلًا من قائمة روابط للنقر عليها. أما للتنقل (العثور على موقع) والتسوق وعمليات البحث المحلية — فما زال Google أفضل.</p>
 
-<h3>Should I get ChatGPT Plus or Perplexity Pro?</h3>
-<p>If you can only choose one: <strong>ChatGPT Plus</strong> — it does more. If research is your primary need: <strong>Perplexity Pro</strong>. If you can afford both ($40/month): get both — they serve different purposes.</p>
+<h3>هل ينبغي أن أشترك في ChatGPT Plus أم Perplexity Pro؟</h3>
+<p>إذا كان عليك اختيار واحد فقط: <strong>ChatGPT Plus</strong> — فهو يفعل أكثر. وإذا كان البحث حاجتك الأساسية: <strong>Perplexity Pro</strong>. وإذا كنت تستطيع تحمّل كليهما ($40/شهر): اشترك في الاثنين — فهما يخدمان أغراضًا مختلفة.</p>
 
-<h3>Is Perplexity good for students?</h3>
-<p>Excellent. Every answer comes with sources you can cite in papers. The academic focus mode filters for scholarly sources. It's the closest thing to an AI research assistant that professors would approve of — because every claim is verifiable.</p>
+<h3>هل Perplexity جيد للطلاب؟</h3>
+<p>ممتاز. تأتي كل إجابة مع مصادر يمكنك الاستشهاد بها في الأوراق. ويرشّح وضع التركيز الأكاديمي المصادر العلمية. وهو أقرب ما يكون إلى مساعد بحث بالذكاء الاصطناعي توافق عليه الأساتذة — لأن كل ادعاء قابل للتحقق.</p>
 
-<p><em>Both tools were tested by AIGradeLab across research, writing, and fact-checking workflows. Grades reflect practical value as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>اختبر AIGradeLab الأداتين عبر مسارات البحث والكتابة والتحقق من الحقائق. تعكس التقييمات القيمة العملية حتى نوفمبر 2026. الأسعار تم التحقق منها على موقع كل منصة.</em></p>

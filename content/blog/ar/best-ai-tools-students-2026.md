@@ -1,177 +1,177 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي للطلاب في 2026"
-description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي للطلاب. كل أداة مُقيَّمة بشفافية. نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل أدوات الذكاء الاصطناعي للطلاب في 2026: 8 أدوات تساعدك على التعلّم فعلًا"
+description: "اختبرنا أفضل أدوات الذكاء الاصطناعي للدراسة وكتابة المقالات والبحث والتحضير للامتحانات. خيارات مجانية وبأسعار الطلاب. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "وقت القراءة: 13 دقيقة"
 ---
 
-<h2>AI Tools That Help You Learn, Not Just Cheat</h2>
-<p>The best AI tools for students in 2026 are not the ones that write your essays for you — professors can detect that. The best tools are the ones that help you understand concepts faster, research more efficiently, organize your work, and study smarter. We tested every major AI tool from a student's perspective: budget, learning value, and academic integrity.</p>
+<h2>أدوات ذكاء اصطناعي تساعدك على التعلّم لا على الغش</h2>
+<p>أفضل أدوات الذكاء الاصطناعي للطلاب في 2026 ليست تلك التي تكتب مقالاتك نيابةً عنك — فالأساتذة قادرون على اكتشاف ذلك. أفضل الأدوات هي التي تساعدك على فهم المفاهيم بسرعة أكبر، والبحث بكفاءة أعلى، وتنظيم عملك، والدراسة بذكاء. اختبرنا كل أداة ذكاء اصطناعي رئيسية من منظور الطالب: الميزانية والقيمة التعليمية والنزاهة الأكاديمية.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Best For</th><th>Student Price</th><th>Free Tier</th></tr>
+    <tr><th>#</th><th>الأداة</th><th>الأفضل لـ</th><th>سعر الطلاب</th><th>باقة مجانية</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Perplexity</td><td>Research with sources</td><td>$10/mo (Education Pro)</td><td>Yes (5 Pro/day)</td></tr>
-    <tr><td>2</td><td>ChatGPT</td><td>All-purpose study assistant</td><td>$20/mo Plus</td><td>Yes</td></tr>
-    <tr><td>3</td><td>Claude</td><td>Essay feedback & deep analysis</td><td>$20/mo Pro</td><td>Yes</td></tr>
-    <tr><td>4</td><td>Google Gemini</td><td>Google Workspace students</td><td>Free</td><td>Yes (generous)</td></tr>
-    <tr><td>5</td><td>Grammarly</td><td>Writing improvement</td><td>$12/mo Premium</td><td>Yes</td></tr>
-    <tr><td>6</td><td>Notion AI</td><td>Notes & organization</td><td>Free (Education plan)</td><td>Yes</td></tr>
-    <tr><td>7</td><td>Otter.ai</td><td>Lecture transcription</td><td>Free (300 min/mo)</td><td>Yes</td></tr>
-    <tr><td>8</td><td>DeepSeek</td><td>Math & coding help</td><td>Free (unlimited)</td><td>Yes (unlimited)</td></tr>
+    <tr><td>1</td><td>Perplexity</td><td>البحث مع المصادر</td><td>$10/شهر (Education Pro)</td><td>نعم (5 عمليات Pro يوميًا)</td></tr>
+    <tr><td>2</td><td>ChatGPT</td><td>مساعد دراسة متعدد الأغراض</td><td>$20/شهر Plus</td><td>نعم</td></tr>
+    <tr><td>3</td><td>Claude</td><td>ملاحظات على المقالات وتحليل عميق</td><td>$20/شهر Pro</td><td>نعم</td></tr>
+    <tr><td>4</td><td>Google Gemini</td><td>طلاب Google Workspace</td><td>مجاني</td><td>نعم (سخية)</td></tr>
+    <tr><td>5</td><td>Grammarly</td><td>تحسين الكتابة</td><td>$12/شهر Premium</td><td>نعم</td></tr>
+    <tr><td>6</td><td>Notion AI</td><td>الملاحظات والتنظيم</td><td>مجاني (خطة التعليم)</td><td>نعم</td></tr>
+    <tr><td>7</td><td>Otter.ai</td><td>تفريغ المحاضرات</td><td>مجاني (300 دقيقة/شهر)</td><td>نعم</td></tr>
+    <tr><td>8</td><td>DeepSeek</td><td>مساعدة في الرياضيات والبرمجة</td><td>مجاني (غير محدود)</td><td>نعم (غير محدودة)</td></tr>
   </tbody>
 </table>
 
-<h2>A Note on Academic Integrity</h2>
-<p>Most universities now have clear AI usage policies. The general rule: using AI to help you understand and learn is encouraged. Using AI to generate work you submit as your own is plagiarism. Every recommendation below focuses on learning and productivity, not on producing assignments. Check your university's specific policy before using any AI tool for coursework.</p>
+<h2>ملاحظة حول النزاهة الأكاديمية</h2>
+<p>لدى معظم الجامعات الآن سياسات واضحة لاستخدام الذكاء الاصطناعي. القاعدة العامة: استخدام الذكاء الاصطناعي لمساعدتك على الفهم والتعلم أمر مشجَّع. أما استخدامه لتوليد عمل تقدمه على أنه من إنتاجك فهو انتحال. تركز كل توصية أدناه على التعلم والإنتاجية لا على إنتاج الواجبات. تحقق من سياسة جامعتك المحددة قبل استخدام أي أداة ذكاء اصطناعي في المقررات الدراسية.</p>
 
-<h2>1. Perplexity — Best for Academic Research</h2>
-<p><strong>Student price: $10/month (Education Pro) | Free: 5 Pro searches/day</strong></p>
-<p>Perplexity is the research tool every student should try first. Ask any question and get a synthesized answer with numbered citations linking to the sources. The Academic focus mode restricts results to peer-reviewed papers and scholarly sources — invaluable for literature reviews and research papers.</p>
-<h3>Why Students Love It</h3>
+<h2>1. Perplexity — الأفضل للبحث الأكاديمي</h2>
+<p><strong>سعر الطلاب: $10/شهر (Education Pro) | المجاني: 5 عمليات بحث Pro يوميًا</strong></p>
+<p>Perplexity هو أداة البحث التي ينبغي لكل طالب تجربتها أولًا. اطرح أي سؤال واحصل على إجابة مُركَّبة مع استشهادات مرقمة تربطك بالمصادر. ويقصر وضع التركيز الأكاديمي النتائج على الأوراق المحكَّمة والمصادر العلمية — وهو لا يقدَّر بثمن في مراجعات الأدبيات والأوراق البحثية.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>Academic focus mode:</strong> Search only peer-reviewed papers and academic sources. For research papers and literature reviews, this is transformative.</li>
-  <li><strong>Cited answers:</strong> Every claim has a numbered citation [1][2][3] — click to verify. Your professor can see exactly where the information came from.</li>
-  <li><strong>$10/month student pricing:</strong> Half the price of ChatGPT Plus, with unlimited Pro searches. The best value for students who do heavy research.</li>
-  <li><strong>Study aid:</strong> Ask "explain [concept] like I am a first-year student" and get a clear, sourced explanation with links to learn more.</li>
+  <li><strong>وضع التركيز الأكاديمي:</strong> ابحث في الأوراق المحكَّمة والمصادر الأكاديمية فقط. وهذا تحوّل جذري للأوراق البحثية ومراجعات الأدبيات.</li>
+  <li><strong>إجابات موثَّقة:</strong> لكل ادعاء استشهاد مرقم [1][2][3] — انقر للتحقق. يستطيع أستاذك أن يرى بدقة من أين جاءت المعلومة.</li>
+  <li><strong>سعر الطلاب $10/شهر:</strong> نصف سعر ChatGPT Plus، مع عمليات بحث Pro غير محدودة. أفضل قيمة للطلاب الذين يكثرون من البحث.</li>
+  <li><strong>أداة مساعدة للدراسة:</strong> اطلب «اشرح [المفهوم] كأنني طالب في السنة الأولى» واحصل على شرح واضح موثَّق بالمصادر مع روابط للمزيد.</li>
 </ul>
-<h3>Academic Integrity</h3>
-<p>Perplexity is a research tool — like a smarter Google. Using it to find and cite sources for your paper is exactly how research should work. Just cite the original sources Perplexity points you to, not Perplexity itself.</p>
+<h3>النزاهة الأكاديمية</h3>
+<p>Perplexity أداة بحث — كأنه Google أذكى. استخدامه للعثور على مصادر لورقتك والاستشهاد بها هو بالضبط كيف ينبغي أن يعمل البحث. فقط استشهد بالمصادر الأصلية التي يرشدك إليها Perplexity، لا بـ Perplexity نفسه.</p>
 
-<h2>2. ChatGPT — Best All-Purpose Study Assistant</h2>
-<p><strong>Student price: $20/month Plus | Free: GPT-4o mini</strong></p>
-<p>ChatGPT is the Swiss Army knife for students. Use it as a tutor that explains concepts in different ways until you understand, a study partner that quizzes you, a brainstorming tool for essay outlines, and a coding assistant for CS assignments. The free tier is genuinely useful for most student needs.</p>
-<h3>Why Students Love It</h3>
+<h2>2. ChatGPT — أفضل مساعد دراسة متعدد الأغراض</h2>
+<p><strong>سعر الطلاب: $20/شهر Plus | المجاني: GPT-4o mini</strong></p>
+<p>ChatGPT هو السكين السويسري للطلاب. استخدمه كمعلّم خصوصي يشرح المفاهيم بطرق مختلفة حتى تفهم، وشريك دراسة يختبرك، وأداة عصف ذهني لمخططات المقالات، ومساعد برمجة لواجبات علوم الحاسوب. والباقة المجانية مفيدة فعلًا لمعظم احتياجات الطلاب.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>Personalized tutoring:</strong> "Explain quantum entanglement using a basketball analogy" — ChatGPT adapts explanations to your level and learning style.</li>
-  <li><strong>Study flashcards and quizzes:</strong> "Create 20 multiple-choice questions about the French Revolution" — instant exam prep.</li>
-  <li><strong>Essay outlining:</strong> Not writing the essay, but structuring your argument. "Help me outline a paper arguing that [thesis]. What are the strongest counterarguments?"</li>
-  <li><strong>Code debugging:</strong> For CS students, paste your code and ask "why does this throw an error?" — faster than office hours.</li>
-  <li><strong>Image analysis:</strong> Upload a diagram, chart, or handwritten notes and ask ChatGPT to explain what it sees.</li>
+  <li><strong>تدريس خصوصي مخصص:</strong> «اشرح التشابك الكمي باستخدام تشبيه كرة السلة» — يكيّف ChatGPT الشرح بحسب مستواك وأسلوب تعلمك.</li>
+  <li><strong>بطاقات الدراسة والاختبارات:</strong> «أنشئ 20 سؤال اختيار من متعدد عن الثورة الفرنسية» — تحضير فوري للامتحان.</li>
+  <li><strong>وضع مخططات المقالات:</strong> ليس كتابة المقال، بل هيكلة حجتك. «ساعدني في وضع مخطط لورقة تدافع عن [الأطروحة]. ما أقوى الحجج المضادة؟»</li>
+  <li><strong>تصحيح الأكواد:</strong> لطلاب علوم الحاسوب، الصق كودك واسأل «لماذا يظهر هذا الخطأ؟» — أسرع من ساعات المكتب.</li>
+  <li><strong>تحليل الصور:</strong> ارفع رسمًا تخطيطيًا أو مخططًا أو ملاحظات مكتوبة بخط اليد واطلب من ChatGPT شرح ما يراه.</li>
 </ul>
-<h3>Academic Integrity</h3>
-<p>Using ChatGPT to understand concepts, outline arguments, and debug code is legitimate learning. Submitting ChatGPT-generated text as your own work is plagiarism. Use it as a tutor, not a ghostwriter.</p>
+<h3>النزاهة الأكاديمية</h3>
+<p>استخدام ChatGPT لفهم المفاهيم ووضع مخططات للحجج وتصحيح الأكواد تعلّم مشروع. أما تقديم نص مولَّد بـ ChatGPT على أنه عملك فهو انتحال. استخدمه كمعلّم لا ككاتب خفي.</p>
 
-<h2>3. Claude — Best for Essay Feedback & Deep Analysis</h2>
-<p><strong>Student price: $20/month Pro | Free: Sonnet (limited)</strong></p>
-<p>Claude produces the highest-quality writing and analysis of any AI tool. For students who need feedback on their own writing — "is my argument logical?" "what are the weaknesses in this essay?" "how can I strengthen this paragraph?" — Claude provides the most thoughtful, detailed critiques.</p>
-<h3>Why Students Love It</h3>
+<h2>3. Claude — الأفضل لملاحظات المقالات والتحليل العميق</h2>
+<p><strong>سعر الطلاب: $20/شهر Pro | المجاني: Sonnet (محدود)</strong></p>
+<p>ينتج Claude أعلى كتابة وتحليل جودةً بين أدوات الذكاء الاصطناعي. وللطلاب الذين يحتاجون إلى ملاحظات على كتابتهم — «هل حجتي منطقية؟» «ما نقاط الضعف في هذا المقال؟» «كيف أقوّي هذه الفقرة؟» — يقدم Claude أكثر النقد تفكيرًا وتفصيلًا.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>Writing feedback:</strong> Paste your essay and ask for honest critique. Claude identifies weak arguments, logical gaps, unclear sentences, and structural issues — like having a teaching assistant review your draft.</li>
-  <li><strong>Long document analysis:</strong> Upload a 50-page reading assignment and ask specific questions. Claude handles large documents better than any other AI.</li>
-  <li><strong>Complex reasoning:</strong> For philosophy, law, and STEM courses that require multi-step logical analysis, Claude's reasoning is the most careful and methodical.</li>
-  <li><strong>Coding projects:</strong> Claude Code is the top-rated AI coding tool — invaluable for CS students working on complex projects.</li>
+  <li><strong>ملاحظات على الكتابة:</strong> الصق مقالك واطلب نقدًا صريحًا. يحدد Claude الحجج الضعيفة والثغرات المنطقية والجمل غير الواضحة ومشكلات البنية — كأن مساعد تدريس يراجع مسودتك.</li>
+  <li><strong>تحليل المستندات الطويلة:</strong> ارفع قراءة مقررة من 50 صفحة واطرح أسئلة محددة. يتعامل Claude مع المستندات الكبيرة أفضل من أي ذكاء اصطناعي آخر.</li>
+  <li><strong>الاستدلال المعقد:</strong> في مقررات الفلسفة والقانون والعلوم والتقنية التي تتطلب تحليلًا منطقيًا متعدد الخطوات، استدلال Claude هو الأكثر حرصًا ومنهجية.</li>
+  <li><strong>مشاريع البرمجة:</strong> Claude Code هو أعلى أدوات البرمجة بالذكاء الاصطناعي تقييمًا — لا يقدَّر بثمن لطلاب علوم الحاسوب الذين يعملون على مشاريع معقدة.</li>
 </ul>
-<h3>Academic Integrity</h3>
-<p>Using Claude for feedback on your own writing is like getting peer review — it helps you improve. Using Claude to write the essay itself is not. The key difference: you write, Claude critiques.</p>
+<h3>النزاهة الأكاديمية</h3>
+<p>استخدام Claude للحصول على ملاحظات على كتابتك أشبه بمراجعة الأقران — يساعدك على التحسن. أما استخدامه لكتابة المقال نفسه فلا. الفارق الجوهري: أنت تكتب وClaude ينتقد.</p>
 
-<h2>4. Google Gemini — Best Free Option for Google Users</h2>
-<p><strong>Student price: Free | Upgrade: $20/month Advanced</strong></p>
-<p>Gemini's free tier is the most generous of any AI assistant. For students already using Google Docs, Gmail, and Google Drive (which is most students), Gemini integrates directly — summarize your Google Docs notes, search your Drive for that file you cannot find, and draft emails to professors.</p>
-<h3>Why Students Love It</h3>
+<h2>4. Google Gemini — أفضل خيار مجاني لمستخدمي Google</h2>
+<p><strong>سعر الطلاب: مجاني | الترقية: $20/شهر Advanced</strong></p>
+<p>باقة Gemini المجانية هي الأسخى بين مساعدات الذكاء الاصطناعي. وللطلاب الذين يستخدمون أصلًا Google Docs وGmail وGoogle Drive (وهم معظم الطلاب)، يتكامل Gemini مباشرة — لخّص ملاحظات Google Docs، وابحث في Drive عن ذلك الملف الذي لا تجده، وصُغ رسائل إلى الأساتذة.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>Free and generous:</strong> The best AI model available for $0. No daily limits that make it unusable.</li>
-  <li><strong>Google Workspace integration:</strong> "Find the notes I wrote about mitochondria in my Drive" — Gemini searches your files.</li>
-  <li><strong>YouTube analysis:</strong> Upload a lecture video link and ask questions about the content.</li>
-  <li><strong>Image generation:</strong> Create diagrams and visual study aids with Nano Banana Pro — free.</li>
-</ul>
-
-<h2>5. Grammarly — Best for Writing Improvement</h2>
-<p><strong>Student price: $12/month Premium | Free: Grammar and spelling</strong></p>
-<p>Grammarly catches errors in everything you write — essays, emails to professors, lab reports, applications. The free tier handles grammar and spelling. Premium adds tone detection, clarity suggestions, and full-sentence rewrites. For non-native English speakers, Grammarly is arguably the most valuable tool on this list.</p>
-<h3>Why Students Love It</h3>
-<ul>
-  <li><strong>Works everywhere:</strong> Google Docs, Word, Gmail, browser — no copy-pasting needed.</li>
-  <li><strong>Catches what you miss:</strong> Subject-verb agreement, comma splices, unclear antecedents — errors that cost marks.</li>
-  <li><strong>Plagiarism detection:</strong> Premium includes a plagiarism checker — run your paper before submitting.</li>
-  <li><strong>Tone for emails:</strong> "Does this email to my professor sound too casual?" Grammarly tells you.</li>
+  <li><strong>مجاني وسخي:</strong> أفضل نموذج ذكاء اصطناعي متاح بـ $0. لا حدود يومية تجعله غير قابل للاستخدام.</li>
+  <li><strong>التكامل مع Google Workspace:</strong> «ابحث عن الملاحظات التي كتبتها عن الميتوكوندريا في Drive» — يبحث Gemini في ملفاتك.</li>
+  <li><strong>تحليل YouTube:</strong> ارفع رابط فيديو محاضرة واطرح أسئلة عن المحتوى.</li>
+  <li><strong>توليد الصور:</strong> أنشئ رسومات تخطيطية ووسائل دراسة مرئية باستخدام Nano Banana Pro — مجانًا.</li>
 </ul>
 
-<h2>6. Notion AI — Best for Notes & Organization</h2>
-<p><strong>Student price: Free (Notion Education plan) | AI add-on: $10/mo</strong></p>
-<p>Notion is free for students with an .edu email, and it is the best tool for organizing coursework — notes, assignments, deadlines, readings, and projects all in one workspace. The AI add-on summarizes lecture notes, extracts action items, answers questions about your notes, and helps brainstorm.</p>
-<h3>Why Students Love It</h3>
+<h2>5. Grammarly — الأفضل لتحسين الكتابة</h2>
+<p><strong>سعر الطلاب: $12/شهر Premium | المجاني: القواعد والإملاء</strong></p>
+<p>يلتقط Grammarly الأخطاء في كل ما تكتبه — المقالات ورسائل الأساتذة وتقارير المختبر وطلبات التقديم. وتتولى الباقة المجانية القواعد والإملاء. ويضيف Premium كشف النبرة واقتراحات الوضوح وإعادة صياغة الجمل كاملةً. وللناطقين بغير الإنجليزية، يُعد Grammarly على الأرجح أكثر الأدوات قيمةً في هذه القائمة.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>Free for students:</strong> Full Notion workspace at no cost with a .edu email.</li>
-  <li><strong>Everything in one place:</strong> Notes, assignments, calendar, readings, group projects.</li>
-  <li><strong>AI summarization:</strong> Paste lecture notes and get key takeaways and study questions.</li>
-  <li><strong>Workspace Q&A:</strong> "What did my biology notes say about cell division?" — AI searches your notes.</li>
+  <li><strong>يعمل في كل مكان:</strong> Google Docs وWord وGmail والمتصفح — دون حاجة إلى النسخ واللصق.</li>
+  <li><strong>يلتقط ما يفوتك:</strong> تطابق الفاعل والفعل والفواصل الخاطئة والمراجع الغامضة — أخطاء تكلّفك درجات.</li>
+  <li><strong>كشف الانتحال:</strong> يتضمن Premium مدقق انتحال — افحص ورقتك قبل التسليم.</li>
+  <li><strong>النبرة في الرسائل:</strong> «هل تبدو هذه الرسالة إلى أستاذي عفوية جدًا؟» يخبرك Grammarly.</li>
 </ul>
 
-<h2>7. Otter.ai — Best for Lecture Transcription</h2>
-<p><strong>Student price: Free (300 min/month) | Pro: $17/mo</strong></p>
-<p>Otter transcribes lectures in real-time — live or recorded. It generates searchable transcripts, highlights key points, and creates summaries with action items. For students who struggle to take notes while listening, or who want to revisit specific moments from a lecture, Otter is a game-changer.</p>
-<h3>Why Students Love It</h3>
+<h2>6. Notion AI — الأفضل للملاحظات والتنظيم</h2>
+<p><strong>سعر الطلاب: مجاني (خطة Notion Education) | إضافة الذكاء الاصطناعي: $10/شهر</strong></p>
+<p>Notion مجاني للطلاب ببريد .edu، وهو أفضل أداة لتنظيم المقررات — الملاحظات والواجبات والمواعيد النهائية والقراءات والمشاريع كلها في مساحة عمل واحدة. وتلخّص إضافة الذكاء الاصطناعي ملاحظات المحاضرات وتستخرج بنود العمل وتجيب عن أسئلة حول ملاحظاتك وتساعد في العصف الذهني.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>300 free minutes/month:</strong> Enough for about 10 lectures — covers most students' needs.</li>
-  <li><strong>Searchable transcripts:</strong> "What did the professor say about regression analysis?" — search and find the exact moment.</li>
-  <li><strong>Auto-generated summaries:</strong> Get key points and action items from each lecture without reviewing the whole recording.</li>
-  <li><strong>Focus on learning:</strong> Stop frantically typing notes and actually listen to the lecture.</li>
+  <li><strong>مجاني للطلاب:</strong> مساحة عمل Notion كاملة دون تكلفة ببريد .edu.</li>
+  <li><strong>كل شيء في مكان واحد:</strong> الملاحظات والواجبات والتقويم والقراءات والمشاريع الجماعية.</li>
+  <li><strong>التلخيص بالذكاء الاصطناعي:</strong> الصق ملاحظات المحاضرة واحصل على أهم النقاط وأسئلة للدراسة.</li>
+  <li><strong>الأسئلة والأجوبة على مساحة العمل:</strong> «ماذا قالت ملاحظاتي في الأحياء عن انقسام الخلية؟» — يبحث الذكاء الاصطناعي في ملاحظاتك.</li>
 </ul>
 
-<h2>8. DeepSeek — Best Free Math & Coding Help</h2>
-<p><strong>Student price: Free (unlimited) | No paid plan needed</strong></p>
-<p>DeepSeek is completely free with no limits — and it is genuinely strong at math, coding, and logical reasoning. The R1 reasoning model shows step-by-step work on mathematical problems, making it an excellent study tool for STEM students. For students who cannot afford $20/month subscriptions, DeepSeek provides 80-90% of the capability at zero cost.</p>
-<h3>Why Students Love It</h3>
+<h2>7. Otter.ai — الأفضل لتفريغ المحاضرات</h2>
+<p><strong>سعر الطلاب: مجاني (300 دقيقة/شهر) | Pro: $17/شهر</strong></p>
+<p>يفرّغ Otter المحاضرات نصيًا في الوقت الفعلي — مباشرةً أو مسجَّلة. ينشئ نصوصًا قابلة للبحث ويبرز النقاط الرئيسية ويعد ملخصات مع بنود العمل. وللطلاب الذين يجدون صعوبة في تدوين الملاحظات أثناء الاستماع، أو الذين يريدون العودة إلى لحظات محددة من المحاضرة، يُعد Otter نقلة نوعية.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li><strong>Completely free:</strong> No limits, no account required, no daily caps. Period.</li>
-  <li><strong>Step-by-step math:</strong> R1 shows its reasoning process — not just the answer but how to reach it.</li>
-  <li><strong>Strong coding assistance:</strong> Debug code, explain algorithms, help with CS assignments.</li>
-  <li><strong>Open-weight models:</strong> CS students can download and study the models themselves.</li>
+  <li><strong>300 دقيقة مجانية شهريًا:</strong> تكفي لنحو 10 محاضرات — تغطي احتياجات معظم الطلاب.</li>
+  <li><strong>نصوص قابلة للبحث:</strong> «ماذا قال الأستاذ عن تحليل الانحدار؟» — ابحث واعثر على اللحظة بالضبط.</li>
+  <li><strong>ملخصات مولَّدة تلقائيًا:</strong> احصل على النقاط الرئيسية وبنود العمل من كل محاضرة دون مراجعة التسجيل كاملًا.</li>
+  <li><strong>التركيز على التعلم:</strong> توقف عن كتابة الملاحظات بسرعة محمومة واستمع فعلًا إلى المحاضرة.</li>
 </ul>
-<h3>Limitation</h3>
-<p>Writing quality is behind ChatGPT and Claude. For essay writing and humanities work, use one of the other tools. For STEM, DeepSeek is excellent and free.</p>
 
-<h2>The Student AI Stack by Budget</h2>
-
-<h3>$0/month (All Free)</h3>
+<h2>8. DeepSeek — أفضل مساعدة مجانية في الرياضيات والبرمجة</h2>
+<p><strong>سعر الطلاب: مجاني (غير محدود) | لا حاجة إلى خطة مدفوعة</strong></p>
+<p>DeepSeek مجاني تمامًا دون حدود — وهو قوي فعلًا في الرياضيات والبرمجة والاستدلال المنطقي. ويعرض نموذج الاستدلال R1 خطوات الحل في المسائل الرياضية، مما يجعله أداة دراسة ممتازة لطلاب العلوم والتقنية. وللطلاب الذين لا يستطيعون تحمّل اشتراكات بـ $20/شهر، يوفر DeepSeek 80-90% من القدرات بلا تكلفة.</p>
+<h3>لماذا يحبه الطلاب</h3>
 <ul>
-  <li>Google Gemini Free — general AI assistant</li>
-  <li>DeepSeek Free — math and coding</li>
-  <li>Perplexity Free — research (5 Pro searches/day)</li>
-  <li>Grammarly Free — grammar checking</li>
-  <li>Otter.ai Free — lecture transcription (300 min/mo)</li>
-  <li>Notion Free — notes and organization (with .edu email)</li>
+  <li><strong>مجاني تمامًا:</strong> بلا حدود وبلا حساب مطلوب وبلا سقف يومي. نقطة.</li>
+  <li><strong>رياضيات خطوة بخطوة:</strong> يعرض R1 عملية استدلاله — ليس الإجابة فحسب بل كيفية الوصول إليها.</li>
+  <li><strong>مساعدة برمجية قوية:</strong> تصحيح الأكواد وشرح الخوارزميات والمساعدة في واجبات علوم الحاسوب.</li>
+  <li><strong>نماذج مفتوحة الأوزان:</strong> يستطيع طلاب علوم الحاسوب تنزيل النماذج ودراستها بأنفسهم.</li>
 </ul>
-<p>This $0 stack covers 80% of what students need. Start here.</p>
+<h3>القيود</h3>
+<p>جودة الكتابة أدنى من ChatGPT وClaude. لكتابة المقالات والأعمال في العلوم الإنسانية، استخدم إحدى الأدوات الأخرى. أما في العلوم والتقنية، فـ DeepSeek ممتاز ومجاني.</p>
 
-<h3>$10/month (Best Value)</h3>
+<h2>حزمة الذكاء الاصطناعي للطلاب حسب الميزانية</h2>
+
+<h3>$0/شهر (كلها مجانية)</h3>
 <ul>
-  <li>Perplexity Education Pro ($10) — unlimited academic research</li>
-  <li>Everything else free (Gemini, DeepSeek, Grammarly, Otter, Notion)</li>
+  <li>Google Gemini المجاني — مساعد ذكاء اصطناعي عام</li>
+  <li>DeepSeek المجاني — الرياضيات والبرمجة</li>
+  <li>Perplexity المجاني — البحث (5 عمليات بحث Pro يوميًا)</li>
+  <li>Grammarly المجاني — تدقيق القواعد</li>
+  <li>Otter.ai المجاني — تفريغ المحاضرات (300 دقيقة/شهر)</li>
+  <li>Notion المجاني — الملاحظات والتنظيم (ببريد .edu)</li>
 </ul>
-<p>The single best $10 a student can spend on AI. Academic focus mode with unlimited Pro searches transforms research workflows.</p>
+<p>تغطي هذه الحزمة المجانية 80% مما يحتاجه الطلاب. ابدأ من هنا.</p>
 
-<h3>$32/month (Power Student)</h3>
+<h3>$10/شهر (أفضل قيمة)</h3>
 <ul>
-  <li>Perplexity Education Pro ($10) — research</li>
-  <li>ChatGPT Plus ($20) — tutoring, coding, image analysis</li>
-  <li>Grammarly Free — writing</li>
-  <li>Notion Free — organization</li>
+  <li>Perplexity Education Pro ($10) — بحث أكاديمي غير محدود</li>
+  <li>كل ما عداه مجاني (Gemini وDeepSeek وGrammarly وOtter وNotion)</li>
 </ul>
-<p>For students who use AI heavily across multiple courses. The combination of Perplexity for sourced research and ChatGPT for everything else covers every academic need.</p>
+<p>أفضل $10 يمكن لطالب إنفاقها على الذكاء الاصطناعي. وضع التركيز الأكاديمي مع عمليات بحث Pro غير المحدودة يحوّل سير عمل البحث.</p>
 
-<h2>FAQ</h2>
+<h3>$32/شهر (الطالب المتمكن)</h3>
+<ul>
+  <li>Perplexity Education Pro ($10) — البحث</li>
+  <li>ChatGPT Plus ($20) — التدريس الخصوصي والبرمجة وتحليل الصور</li>
+  <li>Grammarly المجاني — الكتابة</li>
+  <li>Notion المجاني — التنظيم</li>
+</ul>
+<p>للطلاب الذين يستخدمون الذكاء الاصطناعي بكثافة في مقررات متعددة. يغطي الجمع بين Perplexity للبحث الموثَّق وChatGPT لكل شيء آخر كل الاحتياجات الأكاديمية.</p>
 
-<h3>Is using AI cheating?</h3>
-<p>It depends on how you use it and your university's policy. Using AI to understand concepts, get feedback on your work, and research more efficiently is generally accepted. Submitting AI-generated work as your own is plagiarism at every university. When in doubt, ask your professor.</p>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>What is the best free AI tool for students?</h3>
-<p><strong>Google Gemini Free</strong> — most generous free tier. <strong>DeepSeek</strong> — completely free with no limits, best for math and coding. <strong>Perplexity Free</strong> — best for research with 5 free Pro searches per day.</p>
+<h3>هل استخدام الذكاء الاصطناعي غش؟</h3>
+<p>يعتمد ذلك على كيفية استخدامك له وسياسة جامعتك. استخدام الذكاء الاصطناعي لفهم المفاهيم والحصول على ملاحظات على عملك والبحث بكفاءة أكبر مقبول عمومًا. أما تقديم عمل مولَّد بالذكاء الاصطناعي على أنه عملك فهو انتحال في كل جامعة. وعند الشك، اسأل أستاذك.</p>
 
-<h3>Can professors detect AI-generated text?</h3>
-<p>Yes, increasingly well. AI detection tools exist, but more importantly, professors who read your previous work know your writing style. A sudden shift in quality, vocabulary, or style is the biggest red flag. Use AI to improve your writing, not replace it.</p>
+<h3>ما أفضل أداة ذكاء اصطناعي مجانية للطلاب؟</h3>
+<p><strong>Google Gemini المجاني</strong> — أسخى باقة مجانية. <strong>DeepSeek</strong> — مجاني تمامًا دون حدود، الأفضل للرياضيات والبرمجة. <strong>Perplexity المجاني</strong> — الأفضل للبحث مع 5 عمليات بحث Pro مجانية يوميًا.</p>
 
-<h3>Does Perplexity have a student discount?</h3>
-<p>Yes. Perplexity Education Pro costs $10/month for verified students — half the regular $20/month Pro price. All Pro features included.</p>
+<h3>هل يستطيع الأساتذة اكتشاف النصوص المولَّدة بالذكاء الاصطناعي؟</h3>
+<p>نعم، وبدقة متزايدة. توجد أدوات كشف الذكاء الاصطناعي، لكن الأهم أن الأساتذة الذين قرأوا أعمالك السابقة يعرفون أسلوب كتابتك. والتغير المفاجئ في الجودة أو المفردات أو الأسلوب هو أكبر إشارة تحذير. استخدم الذكاء الاصطناعي لتحسين كتابتك لا لاستبدالها.</p>
 
-<h3>Should I pay for ChatGPT Plus as a student?</h3>
-<p>The free tier handles most student needs. Upgrade to Plus ($20/month) if you use AI daily for tutoring, coding, or research and find the free limits restrictive. Try the free tier for a month first.</p>
+<h3>هل لدى Perplexity خصم للطلاب؟</h3>
+<p>نعم. يكلّف Perplexity Education Pro مبلغ $10/شهر للطلاب الموثَّقين — نصف سعر Pro العادي البالغ $20/شهر. وتتضمن جميع ميزات Pro.</p>
 
-<p><em>Every tool was tested by AIGradeLab from a student's perspective — focusing on learning value, budget, and academic integrity. November 2026.</em></p>
+<h3>هل ينبغي أن أدفع مقابل ChatGPT Plus كطالب؟</h3>
+<p>تتولى الباقة المجانية معظم احتياجات الطلاب. رقِّ إلى Plus ($20/شهر) إذا كنت تستخدم الذكاء الاصطناعي يوميًا في التدريس الخصوصي أو البرمجة أو البحث ووجدت حدود الباقة المجانية مقيِّدة. جرّب الباقة المجانية لمدة شهر أولًا.</p>
+
+<p><em>اختبر AIGradeLab كل أداة من منظور الطالب — مع التركيز على القيمة التعليمية والميزانية والنزاهة الأكاديمية. نوفمبر 2026.</em></p>

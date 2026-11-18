@@ -1,11 +1,11 @@
 ---
-title: "Runway Bewertung 2026: Best AI Video Generator — Getestet und Bewertet"
-description: "We tested Runway Gen-3 for AI video generation, editing, and production. Full review with scores. The best AI video tool? Updated November 2026."
+title: "Runway im Test 2026: Der beste KI-Videogenerator – getestet und bewertet"
+description: "Wir haben Runway Gen-3 für KI-Videogenerierung, Bearbeitung und Produktion getestet. Vollständiger Test mit Bewertungen. Das beste KI-Videotool? Stand: November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "12 Min. Lesezeit"
 grade: "A"
 scores_ux: 8.2
 scores_quality: 9.2
@@ -15,143 +15,143 @@ scores_support: 7.5
 toolName: "Runway"
 ---
 
-<h2>Runway in 2026: The Professional's AI Video Platform</h2>
-<p>Runway is the most complete AI video platform available. While Sora generates clips and CapCut edits them, Runway does both — and does them better than most alternatives. Gen-3 Alpha produces the highest quality AI-generated video clips available, and the editing suite (background removal, inpainting, motion tracking, color grading) adds production value that turns raw AI clips into usable content. For creators and professionals who take AI video seriously, Runway is the platform to beat.</p>
+<h2>Runway 2026: Die KI-Videoplattform für Profis</h2>
+<p>Runway ist die vollständigste verfügbare KI-Videoplattform. Während Sora Clips erzeugt und CapCut sie schneidet, kann Runway beides – und macht es besser als die meisten Alternativen. Gen-3 Alpha liefert die qualitativ hochwertigsten KI-generierten Videoclips, und die Bearbeitungssuite (Hintergrundentfernung, Inpainting, Motion Tracking, Farbkorrektur) schafft Produktionswert, der rohe KI-Clips in nutzbare Inhalte verwandelt. Für Creator und Profis, die KI-Video ernst nehmen, ist Runway die Plattform, die es zu schlagen gilt.</p>
 
-<h2>Runway Scores</h2>
-<div class="score-card"><h3>Overall Grade: A</h3>
+<h2>Runway-Bewertung</h2>
+<div class="score-card"><h3>Gesamtnote: A</h3>
   <div class="score-row"><span class="score-label">Benutzerfreundlichkeit</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">Ergebnisqualität</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">Ausgabequalität</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
   <div class="score-row"><span class="score-label">Preis-Leistung</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
   <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
   <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
-<h2>Gen-3 Alpha: The Best AI Video Generation</h2>
+<h2>Gen-3 Alpha: Die beste KI-Videogenerierung</h2>
 
-<h3>Consistent Cinematic Quality</h3>
-<p>This is what separates Runway from Sora and Kling. Gen-3 Alpha produces consistently high-quality video. Smooth motion, coherent lighting across frames, natural camera movements, and impressive scene composition — not just occasionally, but reliably. Where Sora delivers brilliance one generation and mediocrity the next, Runway delivers production-quality clips you can count on.</p>
+<h3>Durchgehend kinoreife Qualität</h3>
+<p>Das unterscheidet Runway von Sora und Kling. Gen-3 Alpha liefert durchgehend hochwertiges Video. Flüssige Bewegung, stimmiges Licht über Frames hinweg, natürliche Kamerabewegungen und eindrucksvolle Bildkomposition – nicht nur gelegentlich, sondern zuverlässig. Wo Sora in einer Generierung brilliert und in der nächsten mittelmäßig ist, liefert Runway Clips in Produktionsqualität, auf die Sie sich verlassen können.</p>
 
-<h3>Three Generation Modes</h3>
+<h3>Drei Generierungsmodi</h3>
 <ul>
-  <li><strong>Text-to-Video:</strong> Describe a scene and Gen-3 creates it. Best for abstract concepts, landscapes, and creative content where you don't need specific visual references.</li>
-  <li><strong>Image-to-Video:</strong> Upload a still image and animate it. The most predictable mode — you know what the first frame looks like, and Runway animates from there. Best for product shots, art animation, and controlled creative work.</li>
-  <li><strong>Video-to-Video:</strong> Upload existing footage and transform it. Change the style, the setting, or the aesthetic of real video. Useful for creative reinterpretation and style transfer.</li>
+  <li><strong>Text-zu-Video:</strong> Beschreiben Sie eine Szene, und Gen-3 erschafft sie. Am besten für abstrakte Konzepte, Landschaften und kreative Inhalte, bei denen Sie keine konkreten visuellen Vorlagen brauchen.</li>
+  <li><strong>Bild-zu-Video:</strong> Laden Sie ein Standbild hoch und animieren Sie es. Der am besten vorhersehbare Modus – Sie wissen, wie das erste Bild aussieht, und Runway animiert von dort aus. Am besten für Produktaufnahmen, Kunstanimation und kontrollierte kreative Arbeit.</li>
+  <li><strong>Video-zu-Video:</strong> Laden Sie vorhandenes Material hoch und verwandeln Sie es. Ändern Sie Stil, Umgebung oder Ästhetik echten Videos. Nützlich für kreative Neuinterpretation und Stiltransfer.</li>
 </ul>
 
-<h3>Motion Brush and Camera Control</h3>
-<p>Runway's Motion Brush lets you paint specific areas of an image and define how they should move — the clouds drift left, the water ripples, the character walks forward. This level of control is something Sora and Kling don't offer. Combined with camera path controls (pan, zoom, tilt, orbit), you direct the AI rather than hoping for the right output.</p>
+<h3>Motion Brush und Kamerasteuerung</h3>
+<p>Mit Runways Motion Brush malen Sie bestimmte Bildbereiche an und legen fest, wie sie sich bewegen sollen – die Wolken ziehen nach links, das Wasser kräuselt sich, die Figur geht nach vorn. Diese Kontrolle bieten Sora und Kling nicht. Zusammen mit der Steuerung von Kamerapfaden (Schwenk, Zoom, Neigung, Orbit) führen Sie die KI Regie, statt auf das richtige Ergebnis zu hoffen.</p>
 
-<h2>The Editing Suite: More Than Generation</h2>
-<p>Runway isn't just a video generator — it's a production platform with AI-powered editing tools:</p>
+<h2>Die Bearbeitungssuite: Mehr als Generierung</h2>
+<p>Runway ist nicht nur ein Videogenerator, sondern eine Produktionsplattform mit KI-gestützten Bearbeitungstools:</p>
 <ul>
-  <li><strong>Background Removal (Green Screen):</strong> Remove video backgrounds with one click — no green screen needed. Accuracy is impressive even with complex hair and movement.</li>
-  <li><strong>Inpainting:</strong> Remove unwanted objects from video. A car in the background, a logo on a shirt, a person walking through your shot — paint over it and Runway fills in the gap naturally.</li>
-  <li><strong>Motion Tracking:</strong> Track objects through video for effects, text overlays, and compositing.</li>
-  <li><strong>AI Color Grading:</strong> Apply cinematic color grades with AI assistance — describe the mood and Runway adjusts the palette.</li>
-  <li><strong>Super Resolution:</strong> Upscale video quality — useful for improving older footage or AI-generated clips.</li>
+  <li><strong>Hintergrundentfernung (Greenscreen):</strong> Videohintergründe mit einem Klick entfernen – kein Greenscreen nötig. Die Genauigkeit ist selbst bei komplexem Haar und Bewegung beeindruckend.</li>
+  <li><strong>Inpainting:</strong> Unerwünschte Objekte aus Videos entfernen. Ein Auto im Hintergrund, ein Logo auf einem Shirt, eine Person, die durchs Bild läuft – übermalen Sie es, und Runway füllt die Lücke natürlich auf.</li>
+  <li><strong>Motion Tracking:</strong> Objekte durch das Video verfolgen für Effekte, Texteinblendungen und Compositing.</li>
+  <li><strong>KI-Farbkorrektur:</strong> Kinoreife Farbstimmungen mit KI-Unterstützung anwenden – beschreiben Sie die Stimmung, und Runway passt die Palette an.</li>
+  <li><strong>Super Resolution:</strong> Videoqualität hochskalieren – nützlich zur Verbesserung älteren Materials oder KI-generierter Clips.</li>
 </ul>
-<p>This editing suite is what makes Runway a complete platform. Generate a clip, remove the background, add inpainting fixes, color grade it, and export — all without leaving Runway.</p>
+<p>Diese Bearbeitungssuite macht Runway zur kompletten Plattform. Clip generieren, Hintergrund entfernen, Inpainting-Korrekturen ergänzen, Farbkorrektur anwenden und exportieren – alles, ohne Runway zu verlassen.</p>
 
-<h2>Where Runway Falls Short</h2>
+<h2>Wo Runway Schwächen zeigt</h2>
 
-<h3>Credit System Burns Fast</h3>
-<p>Runway uses a credit system, and video generation eats through credits quickly. The Standard plan ($12/month) includes 625 credits — enough for roughly 25 video generations. For regular users, Pro ($28/month) with 2,250 credits is the minimum viable plan. Heavy users will consider Unlimited ($76/month). Compared to Sora (included with ChatGPT at $20/month), Runway is significantly more expensive.</p>
+<h3>Das Credit-System ist schnell aufgebraucht</h3>
+<p>Runway arbeitet mit Credits, und die Videogenerierung verbraucht sie schnell. Der Standard-Tarif (12 $/Monat) enthält 625 Credits – genug für etwa 25 Videogenerierungen. Für regelmäßige Nutzer ist Pro (28 $/Monat) mit 2.250 Credits der minimal sinnvolle Tarif. Vielnutzer werden Unlimited (76 $/Monat) in Betracht ziehen. Im Vergleich zu Sora (bei ChatGPT für 20 $/Monat enthalten) ist Runway deutlich teurer.</p>
 
-<h3>Clip Length Limitations</h3>
-<p>Gen-3 generates clips of approximately 5-10 seconds per generation. Creating longer content requires generating multiple clips and editing them together — which Runway's editor supports, but it adds time to the workflow. Kling AI generates clips up to 30 seconds, giving it an advantage for longer sequences.</p>
+<h3>Begrenzte Clip-Länge</h3>
+<p>Gen-3 erzeugt Clips von etwa 5–10 Sekunden pro Generierung. Für längere Inhalte müssen mehrere Clips generiert und zusammengeschnitten werden – was Runways Editor unterstützt, aber den Workflow verlängert. Kling AI erzeugt Clips bis zu 30 Sekunden, was bei längeren Sequenzen ein Vorteil ist.</p>
 
-<h3>No Audio Generation</h3>
-<p>Runway generates silent video. No sound effects, no music, no voiceover. You'll need to add audio separately using tools like ElevenLabs (voice), Suno (music), or a traditional audio editor. This adds an extra step to every production.</p>
+<h3>Keine Audiogenerierung</h3>
+<p>Runway erzeugt stummes Video. Keine Soundeffekte, keine Musik, kein Voiceover. Audio müssen Sie separat mit Tools wie ElevenLabs (Stimme), Suno (Musik) oder einem klassischen Audioeditor ergänzen. Das fügt jeder Produktion einen zusätzlichen Schritt hinzu.</p>
 
-<h3>Learning Curve</h3>
-<p>Runway's full feature set — Motion Brush, camera controls, inpainting, style references — takes time to learn. The interface is clean but not immediately intuitive for beginners. Expect 2-3 hours of experimentation before you're comfortable with all the tools. Sora's prompt-and-wait simplicity has a lower barrier to entry.</p>
+<h3>Lernkurve</h3>
+<p>Runways gesamter Funktionsumfang – Motion Brush, Kamerasteuerung, Inpainting, Stilreferenzen – braucht Zeit zum Erlernen. Die Oberfläche ist aufgeräumt, aber für Einsteiger nicht sofort intuitiv. Rechnen Sie mit 2–3 Stunden Experimentieren, bis Sie mit allen Tools vertraut sind. Soras „Prompt eingeben und warten" hat eine niedrigere Einstiegshürde.</p>
 
-<h2>Runway Preise</h2>
+<h2>Runway-Preise</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>Credits</th><th>Best For</th></tr>
+    <tr><th>Tarif</th><th>Preis</th><th>Credits</th><th>Am besten für</th></tr>
   </thead>
   <tbody>
-    <tr><td>Free</td><td>$0</td><td>125 (one-time)</td><td>Testing the platform</td></tr>
-    <tr><td>Standard</td><td>$12/month</td><td>625/month</td><td>Occasional use</td></tr>
-    <tr><td>Pro</td><td>$28/month</td><td>2,250/month</td><td>Regular creators</td></tr>
-    <tr><td>Unlimited</td><td>$76/month</td><td>Unlimited</td><td>Professional production</td></tr>
-    <tr><td>Enterprise</td><td>Custom</td><td>Custom</td><td>Teams and studios</td></tr>
+    <tr><td>Free</td><td>$0</td><td>125 (einmalig)</td><td>Die Plattform testen</td></tr>
+    <tr><td>Standard</td><td>12 $/Monat</td><td>625/Monat</td><td>Gelegentliche Nutzung</td></tr>
+    <tr><td>Pro</td><td>28 $/Monat</td><td>2.250/Monat</td><td>Regelmäßige Creator</td></tr>
+    <tr><td>Unlimited</td><td>76 $/Monat</td><td>Unbegrenzt</td><td>Professionelle Produktion</td></tr>
+    <tr><td>Enterprise</td><td>Individuell</td><td>Individuell</td><td>Teams und Studios</td></tr>
   </tbody>
 </table>
 
-<h2>Runway vs Sora vs Kling</h2>
+<h2>Runway vs. Sora vs. Kling</h2>
 <table>
   <thead>
-    <tr><th>Category</th><th>Winner</th></tr>
+    <tr><th>Kategorie</th><th>Gewinner</th></tr>
   </thead>
   <tbody>
-    <tr><td>Output quality</td><td><strong>Runway</strong></td></tr>
-    <tr><td>Consistency</td><td><strong>Runway</strong></td></tr>
-    <tr><td>Creative control</td><td><strong>Runway</strong> (Motion Brush, camera)</td></tr>
-    <tr><td>Editing tools</td><td><strong>Runway</strong> (full suite)</td></tr>
-    <tr><td>Clip length</td><td><strong>Kling</strong> (up to 30 sec)</td></tr>
-    <tr><td>Price</td><td><strong>Sora</strong> (included with ChatGPT)</td></tr>
-    <tr><td>Free tier</td><td><strong>Kling</strong></td></tr>
-    <tr><td>Speed</td><td><strong>Runway</strong></td></tr>
+    <tr><td>Ausgabequalität</td><td><strong>Runway</strong></td></tr>
+    <tr><td>Konsistenz</td><td><strong>Runway</strong></td></tr>
+    <tr><td>Kreative Kontrolle</td><td><strong>Runway</strong> (Motion Brush, Kamera)</td></tr>
+    <tr><td>Bearbeitungstools</td><td><strong>Runway</strong> (komplette Suite)</td></tr>
+    <tr><td>Clip-Länge</td><td><strong>Kling</strong> (bis zu 30 Sek.)</td></tr>
+    <tr><td>Preis</td><td><strong>Sora</strong> (in ChatGPT enthalten)</td></tr>
+    <tr><td>Gratis-Tarif</td><td><strong>Kling</strong></td></tr>
+    <tr><td>Tempo</td><td><strong>Runway</strong></td></tr>
   </tbody>
 </table>
-<p>For the full comparison, read our <a href="/de/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> guide.</p>
+<p>Den vollständigen Vergleich finden Sie in unserem Leitfaden <a href="/de/blog/best-ai-video-tools-2026">Die besten KI-Video-Tools 2026</a>.</p>
 
-<h2>Who Should Use Runway?</h2>
+<h2>Wer sollte Runway nutzen?</h2>
 
-<h3>Best For</h3>
+<h3>Am besten geeignet für</h3>
 <ul>
-  <li><strong>YouTubers and content creators</strong> — generation + editing in one platform</li>
-  <li><strong>Marketing teams</strong> — ad creative, product videos, social content</li>
-  <li><strong>Filmmakers and VFX artists</strong> — highest quality AI clips with creative control</li>
-  <li><strong>Agencies</strong> — client-ready video production at scale</li>
+  <li><strong>YouTuber und Content Creator</strong> – Generierung + Bearbeitung auf einer Plattform</li>
+  <li><strong>Marketing-Teams</strong> – Anzeigenkreation, Produktvideos, Social-Content</li>
+  <li><strong>Filmemacher und VFX-Künstler</strong> – hochwertigste KI-Clips mit kreativer Kontrolle</li>
+  <li><strong>Agenturen</strong> – kundenfertige Videoproduktion im großen Maßstab</li>
 </ul>
 
-<h3>Not Ideal For</h3>
+<h3>Weniger geeignet für</h3>
 <ul>
-  <li><strong>Budget-conscious users</strong> — Sora (with ChatGPT) is much cheaper</li>
-  <li><strong>Occasional video needs</strong> — credit system punishes low usage</li>
-  <li><strong>Talking-head videos</strong> — HeyGen or Synthesia are better for avatars</li>
-  <li><strong>Beginners</strong> — learning curve is steeper than Sora's prompt-and-wait</li>
+  <li><strong>Preisbewusste Nutzer</strong> – Sora (mit ChatGPT) ist deutlich günstiger</li>
+  <li><strong>Gelegentlichen Videobedarf</strong> – das Credit-System bestraft geringe Nutzung</li>
+  <li><strong>Talking-Head-Videos</strong> – HeyGen oder Synthesia sind für Avatare besser</li>
+  <li><strong>Einsteiger</strong> – die Lernkurve ist steiler als bei Soras „Prompt eingeben und warten"</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>Pro und Contra im Überblick</h2>
+<h3>Pro</h3>
 <ul>
-  <li>Best and most consistent AI video quality available</li>
-  <li>Full editing suite — background removal, inpainting, motion tracking</li>
-  <li>Motion Brush and camera controls for precise creative direction</li>
-  <li>Three generation modes — text, image, and video-to-video</li>
-  <li>Web-based — no downloads, no GPU required</li>
-  <li>Fast generation times (1-2 minutes per clip)</li>
+  <li>Beste und konsistenteste verfügbare KI-Videoqualität</li>
+  <li>Komplette Bearbeitungssuite – Hintergrundentfernung, Inpainting, Motion Tracking</li>
+  <li>Motion Brush und Kamerasteuerung für präzise kreative Regie</li>
+  <li>Drei Generierungsmodi – Text-, Bild- und Video-zu-Video</li>
+  <li>Browserbasiert – keine Downloads, keine GPU nötig</li>
+  <li>Schnelle Generierung (1–2 Minuten pro Clip)</li>
 </ul>
-<h3>Cons</h3>
+<h3>Contra</h3>
 <ul>
-  <li>Expensive — Pro at $28/month is the practical minimum</li>
-  <li>Credits burn fast with regular use</li>
-  <li>Clips limited to ~10 seconds per generation</li>
-  <li>No audio — sound must be added separately</li>
-  <li>Learning curve for the full feature set</li>
+  <li>Teuer – Pro für 28 $/Monat ist das praktische Minimum</li>
+  <li>Credits sind bei regelmäßiger Nutzung schnell weg</li>
+  <li>Clips auf ca. 10 Sekunden pro Generierung begrenzt</li>
+  <li>Kein Audio – Ton muss separat ergänzt werden</li>
+  <li>Lernkurve für den vollen Funktionsumfang</li>
 </ul>
 
-<h2>Final Verdict: A</h2>
-<p>Runway is the best AI video platform in 2026 — period. Gen-3 Alpha produces the highest quality, most consistent AI video available, and the editing suite transforms it from a toy into a production tool. The price is the barrier: at $28-76/month, it's a real investment. But for creators and professionals who make video regularly, the combination of generation quality + editing tools + creative control makes Runway the clear leader.</p>
-<p><strong>Our recommendation:</strong> Try the free tier (125 credits) to test quality. If AI video is part of your regular workflow, go straight to Pro ($28/month). For occasional use, Sora with ChatGPT ($20/month) is the better value. For the budget option, try Kling's free tier first.</p>
+<h2>Abschließendes Urteil: A</h2>
+<p>Runway ist 2026 die beste KI-Videoplattform – Punkt. Gen-3 Alpha liefert das hochwertigste, konsistenteste verfügbare KI-Video, und die Bearbeitungssuite macht daraus vom Spielzeug ein Produktionswerkzeug. Der Preis ist die Hürde: Mit 28–76 $/Monat ist es eine echte Investition. Doch für Creator und Profis, die regelmäßig Video machen, macht die Kombination aus Generierungsqualität, Bearbeitungstools und kreativer Kontrolle Runway zum klaren Spitzenreiter.</p>
+<p><strong>Unsere Empfehlung:</strong> Testen Sie die Qualität im Gratis-Tarif (125 Credits). Wenn KI-Video Teil Ihres regelmäßigen Workflows ist, gehen Sie direkt auf Pro (28 $/Monat). Für gelegentliche Nutzung ist Sora mit ChatGPT (20 $/Monat) das bessere Preis-Leistungs-Verhältnis. Für die Budget-Option probieren Sie zuerst Klings Gratis-Tarif.</p>
 
-<h2>Häufig Gestellte Fragen</h2>
+<h2>FAQ</h2>
 
-<h3>Is Runway worth $28/month?</h3>
-<p>For regular video creators — yes. The combination of generation quality + editing tools pays for itself by replacing separate subscriptions and freelancer costs. For occasional use — Sora with ChatGPT ($20/month) is better value.</p>
+<h3>Lohnt sich Runway für 28 $/Monat?</h3>
+<p>Für regelmäßige Videoersteller – ja. Die Kombination aus Generierungsqualität und Bearbeitungstools amortisiert sich, weil sie getrennte Abos und Freelancer-Kosten ersetzt. Für gelegentliche Nutzung ist Sora mit ChatGPT (20 $/Monat) das bessere Preis-Leistungs-Verhältnis.</p>
 
-<h3>Runway or Sora?</h3>
-<p><strong>Runway</strong> for quality, consistency, and control. <strong>Sora</strong> for price (included with ChatGPT). If video matters to your work, Runway is worth the premium. If video is occasional, Sora does the job.</p>
+<h3>Runway oder Sora?</h3>
+<p><strong>Runway</strong> für Qualität, Konsistenz und Kontrolle. <strong>Sora</strong> für den Preis (in ChatGPT enthalten). Wenn Video für Ihre Arbeit wichtig ist, ist Runway den Aufpreis wert. Wenn Video nur gelegentlich vorkommt, erledigt Sora die Aufgabe.</p>
 
-<h3>Can Runway replace a video editor?</h3>
-<p>For simple projects — social media clips, short ads, content repurposing — yes. For complex multi-camera editing, long-form content, and advanced post-production — no. Runway complements Premiere/DaVinci, it doesn't replace them.</p>
+<h3>Kann Runway einen Videoeditor ersetzen?</h3>
+<p>Für einfache Projekte – Social-Media-Clips, kurze Anzeigen, Wiederverwertung von Inhalten – ja. Für komplexen Mehrkamera-Schnitt, lange Inhalte und fortgeschrittene Postproduktion – nein. Runway ergänzt Premiere/DaVinci, ersetzt sie aber nicht.</p>
 
-<h3>How many videos can I make on Runway Pro?</h3>
-<p>Pro includes 2,250 credits per month. A typical 10-second Gen-3 generation uses approximately 90 credits, giving you roughly 25 generations per month. With some failed or unwanted generations, expect 15-20 usable clips monthly.</p>
+<h3>Wie viele Videos kann ich mit Runway Pro erstellen?</h3>
+<p>Pro enthält 2.250 Credits pro Monat. Eine typische 10-Sekunden-Generierung mit Gen-3 verbraucht etwa 90 Credits, sodass Sie auf rund 25 Generierungen pro Monat kommen. Mit einigen fehlgeschlagenen oder unerwünschten Generierungen können Sie mit 15–20 brauchbaren Clips pro Monat rechnen.</p>
 
-<p><em>Runway was tested by AIGradeLab across content creation, marketing, and creative production workflows. Grade reflects practical value for video professionals as of November 2026. Preise verified on runwayml.com.</em></p>
+<p><em>Runway wurde von AIGradeLab in Workflows rund um Content-Erstellung, Marketing und kreative Produktion getestet. Die Note spiegelt den praktischen Nutzen für Videoprofis im November 2026 wider. Preise wurden auf runwayml.com überprüft.</em></p>

@@ -1,276 +1,276 @@
 ---
-title: "2026 최고의 AI Coding Tools: 8 Tools Tested and Graded"
-description: "We tested the top AI coding assistants for real-world development — Cursor, Claude Code, GitHub Copilot, OpenAI Codex, and more. Every tool graded with honest verdicts. Updated November 2026."
+title: "2026년 최고의 AI 코딩 도구: 8개 도구 테스트 및 등급 평가"
+description: "실제 개발 환경에서 최고의 AI 코딩 어시스턴트를 테스트했습니다 — Cursor, Claude Code, GitHub Copilot, OpenAI Codex 외. 모든 도구 솔직한 등급 평가. 2026년 11월 업데이트."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "16 min read"
+readTime: "읽기 시간: 16분"
 ---
 
-<h2>AI Coding Has Split Into Three Categories</h2>
-<p>The AI coding market crossed $5 billion in annual revenue in 2025, and adoption among professional developers surged past 75%. But in 2026, "AI coding tool" no longer means one thing. The market has split into three distinct categories: IDE assistants that live inside your editor (Cursor, GitHub Copilot), terminal agents that take over entire tasks (Claude Code, OpenAI Codex), and app builders that let non-developers create software from prompts (Bolt, Lovable). We tested the best from each category on real-world projects.</p>
+<h2>AI 코딩이 세 가지 카테고리로 분화되었습니다</h2>
+<p>AI 코딩 시장은 2025년에 연 매출 50억 달러를 돌파했고, 전문 개발자의 채택률이 75%를 넘었습니다. 하지만 2026년, "AI 코딩 도구"는 더 이상 하나를 의미하지 않습니다. 시장은 세 가지 뚜렷한 카테고리로 분화되었습니다: 에디터 안에 상주하는 IDE 어시스턴트(Cursor, GitHub Copilot), 전체 작업을 맡는 터미널 에이전트(Claude Code, OpenAI Codex), 비개발자가 프롬프트로 소프트웨어를 만들 수 있게 하는 앱 빌더(Bolt, Lovable). 각 카테고리의 최고를 실제 프로젝트에서 테스트했습니다.</p>
 
-<h2>Quick Comparison: November 2026</h2>
+<h2>빠른 비교: 2026년 11월</h2>
 <table>
   <thead>
-    <tr><th>Rank</th><th>Tool</th><th>Grade</th><th>Type</th><th>Best For</th><th>Price</th></tr>
+    <tr><th>순위</th><th>도구</th><th>등급</th><th>유형</th><th>최적 용도</th><th>가격</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Cursor</td><td><strong>A</strong></td><td>AI-native IDE</td><td>Daily coding in VS Code</td><td>Free / $8 Plus / $30 Premium</td></tr>
-    <tr><td>2</td><td>Claude Code</td><td><strong>A</strong></td><td>Terminal agent</td><td>Multi-file refactoring & deep codebase work</td><td>$20/mo (Claude Pro)</td></tr>
-    <tr><td>3</td><td>GitHub Copilot</td><td><strong>A-</strong></td><td>IDE assistant</td><td>Teams on GitHub + multi-IDE support</td><td>Free / $10 Individual / $19 Business</td></tr>
-    <tr><td>4</td><td>OpenAI Codex</td><td><strong>B+</strong></td><td>Cloud sandbox agent</td><td>Sandboxed coding tasks via ChatGPT</td><td>$20/mo (ChatGPT Plus)</td></tr>
-    <tr><td>5</td><td>Devin Desktop</td><td><strong>B+</strong></td><td>AI-native IDE</td><td>Best free AI coding option</td><td>Free / $20 Pro</td></tr>
-    <tr><td>6</td><td>Kiro (AWS)</td><td><strong>B+</strong></td><td>IDE assistant</td><td>AWS-integrated development</td><td>Free / $19 Pro</td></tr>
-    <tr><td>7</td><td>Bolt</td><td><strong>B</strong></td><td>App builder</td><td>Non-devs building full-stack apps</td><td>Free / $20 Starter</td></tr>
-    <tr><td>8</td><td>Lovable</td><td><strong>B</strong></td><td>App builder</td><td>Entrepreneurs validating MVPs</td><td>Free / $20 Starter</td></tr>
+    <tr><td>1</td><td>Cursor</td><td><strong>A</strong></td><td>AI 네이티브 IDE</td><td>VS Code에서 일상 코딩</td><td>무료 / $8 Plus / $30 Premium</td></tr>
+    <tr><td>2</td><td>Claude Code</td><td><strong>A</strong></td><td>터미널 에이전트</td><td>다중 파일 리팩토링 및 깊은 코드베이스 작업</td><td>$20/월 (Claude Pro)</td></tr>
+    <tr><td>3</td><td>GitHub Copilot</td><td><strong>A-</strong></td><td>IDE 어시스턴트</td><td>GitHub 사용 팀 + 멀티 IDE 지원</td><td>무료 / $10 Individual / $19 Business</td></tr>
+    <tr><td>4</td><td>OpenAI Codex</td><td><strong>B+</strong></td><td>클라우드 샌드박스 에이전트</td><td>ChatGPT를 통한 샌드박스 코딩</td><td>$20/월 (ChatGPT Plus)</td></tr>
+    <tr><td>5</td><td>Devin Desktop</td><td><strong>B+</strong></td><td>AI 네이티브 IDE</td><td>최고의 무료 AI 코딩 옵션</td><td>무료 / $20 Pro</td></tr>
+    <tr><td>6</td><td>Kiro (AWS)</td><td><strong>B+</strong></td><td>IDE 어시스턴트</td><td>AWS 통합 개발</td><td>무료 / $19 Pro</td></tr>
+    <tr><td>7</td><td>Bolt</td><td><strong>B</strong></td><td>앱 빌더</td><td>비개발자의 풀스택 앱 구축</td><td>무료 / $20 Starter</td></tr>
+    <tr><td>8</td><td>Lovable</td><td><strong>B</strong></td><td>앱 빌더</td><td>MVP 검증하는 창업가</td><td>무료 / $20 Starter</td></tr>
   </tbody>
 </table>
 
-<h2>How We Tested</h2>
-<p>We used each tool on the same real-world coding tasks over four weeks: building a REST API endpoint in Next.js, refactoring a React component across multiple files, fixing a bug from a stack trace, writing unit tests for an existing module, and implementing a feature from a plain-English description. We tested across JavaScript/TypeScript and Python projects.</p>
+<h2>테스트 방법</h2>
+<p>4주간 동일한 실제 코딩 작업에서 각 도구를 사용했습니다: Next.js REST API 엔드포인트 구축, 여러 파일에 걸친 React 컴포넌트 리팩토링, 스택 트레이스에서 버그 수정, 기존 모듈의 단위 테스트 작성, 평문 설명에서 기능 구현. JavaScript/TypeScript와 Python 프로젝트에서 테스트했습니다.</p>
 
-<h2>1. Cursor — Grade: A</h2>
-<div class="score-card"><h3>Cursor Scores</h3>
+<h2>1. Cursor — 등급: A</h2>
+<div class="score-card"><h3>Cursor 점수</h3>
   <div class="score-row"><span class="score-label">사용 편의성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">결과 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">출력 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
   <div class="score-row"><span class="score-label">가성비</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">연동성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">통합성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">지원</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
-<p>Cursor is the strongest daily driver for most developers in 2026. Built as a VS Code fork, it indexes your entire project and uses the full codebase as context for every suggestion. Composer 1.5, Cursor's proprietary agentic model launched in February 2026, handles multi-file edits from plain-English descriptions — describe a feature and it creates, modifies, and connects files across your project.</p>
+<p>Cursor는 2026년 대부분의 개발자에게 가장 강력한 일상 코딩 도구입니다. VS Code 포크로 구축되어, 전체 프로젝트를 인덱싱하고 모든 제안에 전체 코드베이스를 컨텍스트로 사용합니다. 2026년 2월에 출시된 Cursor의 독점 에이전트 모델 Composer 1.5는 평문 설명에서 다중 파일 편집을 처리합니다 — 기능을 설명하면 프로젝트 전체에서 파일을 생성, 수정, 연결합니다.</p>
 
-<h3>Why It Ranks #1</h3>
-<p>Codebase awareness is the key differentiator. Where GitHub Copilot treats each suggestion as relatively independent, Cursor understands your project's architecture, imports, types, and patterns. The agent mode plans multi-step approaches, edits files, runs commands, handles errors, and iterates autonomously. For complex development work across multiple files, nothing else matches it.</p>
+<h3>1위인 이유</h3>
+<p>코드베이스 인식이 핵심 차별점입니다. GitHub Copilot이 각 제안을 비교적 독립적으로 처리하는 반면, Cursor는 프로젝트의 아키텍처, 임포트, 타입, 패턴을 이해합니다. 에이전트 모드가 다단계 접근법을 계획하고, 파일을 편집하고, 명령을 실행하고, 오류를 처리하고, 자율적으로 반복합니다. 여러 파일에 걸친 복잡한 개발 작업에서 이를 따라올 도구가 없습니다.</p>
 
-<h3>가격 (October 2026)</h3>
-<p>Free tier with limited completions. Plus at $8/month. Premium at $30/month. GitHub Copilot moved to usage-based billing in June 2026, making direct price comparisons harder — but Cursor Premium at $30/month with full agent access is the benchmark for serious users.</p>
+<h3>가격 (2026년 10월)</h3>
+<p>제한된 완성 기능의 무료 등급. Plus $8/월. Premium $30/월. GitHub Copilot이 2026년 6월에 사용량 기반 과금으로 전환하여 직접적인 가격 비교가 어려워졌지만 — 풀 에이전트 접근이 가능한 Cursor Premium $30/월이 진지한 사용자의 기준입니다.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Deep codebase awareness — indexes your entire project</li>
-  <li>Composer for multi-file edits from natural language</li>
-  <li>Agent mode for autonomous multi-step coding</li>
-  <li>Built on VS Code — all extensions and keybindings carry over</li>
-  <li>Tab completion predicts multi-line sequences better than Copilot</li>
+  <li>깊은 코드베이스 인식 — 전체 프로젝트 인덱싱</li>
+  <li>자연어에서 다중 파일 편집을 위한 Composer</li>
+  <li>자율적 다단계 코딩을 위한 에이전트 모드</li>
+  <li>VS Code 기반 — 모든 확장 프로그램과 키바인딩 그대로</li>
+  <li>탭 완성이 Copilot보다 더 나은 다중 라인 시퀀스 예측</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>VS Code only — no JetBrains, Neovim, or Xcode support</li>
-  <li>Usage limits on premium requests — heavy users burn through quickly</li>
-  <li>Performance can degrade with very large monorepos</li>
-  <li>Documentation is sparse — most learning happens through community</li>
+  <li>VS Code 전용 — JetBrains, Neovim, Xcode 미지원</li>
+  <li>프리미엄 요청의 사용 제한 — 헤비 유저는 빠르게 소진</li>
+  <li>매우 큰 모노레포에서 성능 저하 가능</li>
+  <li>문서가 부족 — 대부분의 학습이 커뮤니티를 통해</li>
 </ul>
-<p><strong>Verdict:</strong> The best AI code editor for VS Code users who want the deepest AI integration. If you code daily and use VS Code, switching to Cursor is the highest-impact change you can make.</p>
+<p><strong>평가:</strong> 가장 깊은 AI 통합을 원하는 VS Code 사용자를 위한 최고의 AI 코드 에디터. 매일 코딩하고 VS Code를 사용한다면, Cursor로의 전환이 가장 임팩트 있는 변화입니다.</p>
 
-<h2>2. Claude Code — Grade: A</h2>
-<div class="score-card"><h3>Claude Code Scores</h3>
+<h2>2. Claude Code — 등급: A</h2>
+<div class="score-card"><h3>Claude Code 점수</h3>
   <div class="score-row"><span class="score-label">사용 편의성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-  <div class="score-row"><span class="score-label">결과 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">출력 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
   <div class="score-row"><span class="score-label">가성비</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:82%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.2</span></div>
-  <div class="score-row"><span class="score-label">연동성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">통합성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">지원</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
 </div>
 
-<p>Claude Code is Anthropic's terminal-native coding agent. Where Cursor works inside an IDE, Claude Code runs from the command line and takes on entire coding tasks — "build me this feature," "refactor this module," "fix the bug in this stack trace." It understands entire repositories, reads and writes files across your project, runs tests, and iterates until the task is done.</p>
+<p>Claude Code는 Anthropic의 터미널 네이티브 코딩 에이전트입니다. Cursor가 IDE 안에서 작동하는 반면, Claude Code는 커맨드 라인에서 실행되며 전체 코딩 작업을 맡습니다 — "이 기능 만들어줘", "이 모듈 리팩토링해줘", "이 스택 트레이스의 버그 고쳐줘". 전체 레포지토리를 이해하고, 프로젝트 전체의 파일을 읽고 쓰고, 테스트를 실행하고, 작업이 완료될 때까지 반복합니다.</p>
 
-<h3>Why It Ranks #2</h3>
-<p>Claude Code wins on reasoning quality. On SWE-bench and other agentic coding benchmarks, Claude consistently leads. The model's ability to hold complex, multi-file context and reason about architectural decisions is genuinely superior to alternatives. For large refactoring tasks, implementing features across a codebase, or debugging subtle issues, Claude Code is the tool senior developers reach for.</p>
+<h3>2위인 이유</h3>
+<p>Claude Code는 추론 품질에서 승리합니다. SWE-bench 및 기타 에이전트 코딩 벤치마크에서 Claude가 일관되게 선두입니다. 복잡한 다중 파일 컨텍스트를 유지하고 아키텍처 결정을 추론하는 모델의 능력이 대안들보다 진정으로 우수합니다. 대규모 리팩토링, 코드베이스 전체의 기능 구현, 미묘한 이슈 디버깅에서 시니어 개발자가 찾는 도구입니다.</p>
 
 <h3>가격</h3>
-<p>Requires Claude Pro ($20/month) or API usage. Multi-agent workflows with background agents launched in early 2026, adding parallel task execution.</p>
+<p>Claude Pro($20/월) 또는 API 사용 필요. 2026년 초에 출시된 백그라운드 에이전트를 활용한 멀티 에이전트 워크플로우로 병렬 작업 실행이 추가되었습니다.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Highest code quality on benchmarks — leads SWE-bench</li>
-  <li>Repository-wide understanding — reads your entire codebase</li>
-  <li>Git-disciplined workflow — commits, branches, PRs</li>
-  <li>Multi-agent support for parallel tasks</li>
-  <li>Best at complex, multi-file refactoring</li>
+  <li>벤치마크 최고 코드 품질 — SWE-bench 선두</li>
+  <li>레포지토리 전체 이해 — 전체 코드베이스 읽기</li>
+  <li>Git 기반 워크플로우 — 커밋, 브랜치, PR</li>
+  <li>병렬 작업을 위한 멀티 에이전트 지원</li>
+  <li>복잡한 다중 파일 리팩토링에서 최고</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Terminal-only — assumes command-line comfort</li>
-  <li>No GUI — steeper learning curve than Cursor</li>
-  <li>Requires Node.js installation</li>
-  <li>Can burn through API credits quickly on large tasks</li>
+  <li>터미널 전용 — 커맨드 라인 숙련도 필요</li>
+  <li>GUI 없음 — Cursor보다 가파른 학습 곡선</li>
+  <li>Node.js 설치 필요</li>
+  <li>큰 작업에서 API 크레딧 빠르게 소진 가능</li>
 </ul>
-<p><strong>Verdict:</strong> The power tool for senior developers who want to delegate entire features. Pair Cursor (for in-the-flow coding) with Claude Code (for large delegated tasks) and you have the strongest AI coding setup available.</p>
+<p><strong>평가:</strong> 전체 기능을 위임하고 싶은 시니어 개발자를 위한 파워 도구. Cursor(작업 중 코딩용)와 Claude Code(대규모 위임 작업용)를 조합하면 가장 강력한 AI 코딩 셋업이 됩니다.</p>
 
-<h2>3. GitHub Copilot — Grade: A-</h2>
-<div class="score-card"><h3>Copilot Scores</h3>
+<h2>3. GitHub Copilot — 등급: A-</h2>
+<div class="score-card"><h3>Copilot 점수</h3>
   <div class="score-row"><span class="score-label">사용 편의성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">결과 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">출력 품질</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">가성비</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:88%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.8</span></div>
-  <div class="score-row"><span class="score-label">연동성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">통합성</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
   <div class="score-row"><span class="score-label">지원</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
-<p>GitHub Copilot is the most widely deployed AI coding assistant with 68% market share. It works in VS Code, JetBrains, Neovim, Visual Studio, and Xcode. Powered by GPT-5.3-Codex, it now includes a coding agent for multi-file tasks, PR summaries, and native GitHub integration. The free tier with 2,000 completions makes it the most accessible option for students and hobbyists.</p>
+<p>GitHub Copilot은 68% 시장점유율로 가장 널리 배포된 AI 코딩 어시스턴트입니다. VS Code, JetBrains, Neovim, Visual Studio, Xcode에서 작동합니다. GPT-5.3-Codex를 기반으로, 다중 파일 작업을 위한 코딩 에이전트, PR 요약, 네이티브 GitHub 통합을 포함합니다. 2,000회 완성이 가능한 무료 등급으로 학생과 취미 개발자에게 가장 접근하기 쉬운 옵션입니다.</p>
 
-<h3>Why It Ranks #3</h3>
-<p>Breadth and accessibility. Copilot works in more IDEs than any competitor, has the most generous free tier, costs less than Cursor, and integrates natively with GitHub — PR summaries, issue linking, and security analysis. For teams already on GitHub, it is the path of least resistance. The coding agent (launched 2026) brings multi-file editing capabilities closer to Cursor's, though it is not quite as deep.</p>
+<h3>3위인 이유</h3>
+<p>폭과 접근성. Copilot은 어떤 경쟁자보다 많은 IDE에서 작동하고, 가장 넉넉한 무료 등급을 가지며, Cursor보다 저렴하고, GitHub과 네이티브로 통합됩니다 — PR 요약, 이슈 연결, 보안 분석. 이미 GitHub을 사용하는 팀에게 최소 저항의 경로입니다. 코딩 에이전트(2026년 출시)가 Cursor의 다중 파일 편집 기능에 근접했지만, 아직 그 깊이에는 미치지 못합니다.</p>
 
-<h3>가격 (October 2026)</h3>
-<p>Free tier (2,000 completions/month). Individual at $10/month. Business at $19/user/month. Enterprise at custom pricing. GitHub moved to usage-based AI Credits billing in June 2026 — heavy users may pay more than the base subscription.</p>
+<h3>가격 (2026년 10월)</h3>
+<p>무료 등급(2,000회 완성/월). Individual $10/월. Business $19/사용자/월. Enterprise 맞춤 가격. GitHub이 2026년 6월에 사용량 기반 AI Credits 과금으로 전환 — 헤비 유저는 기본 구독보다 더 지불할 수 있습니다.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Works in 40+ IDEs — VS Code, JetBrains, Neovim, Xcode, Visual Studio</li>
-  <li>Most generous free tier — 2,000 completions/month</li>
-  <li>Lowest entry price — $10/month Individual</li>
-  <li>Native GitHub integration — PRs, issues, security</li>
-  <li>Coding agent for multi-file tasks (2026)</li>
-  <li>68% market share — largest community and support ecosystem</li>
+  <li>40개 이상 IDE에서 작동 — VS Code, JetBrains, Neovim, Xcode, Visual Studio</li>
+  <li>가장 넉넉한 무료 등급 — 2,000회 완성/월</li>
+  <li>가장 낮은 진입 가격 — $10/월 Individual</li>
+  <li>네이티브 GitHub 통합 — PR, 이슈, 보안</li>
+  <li>다중 파일 작업을 위한 코딩 에이전트 (2026)</li>
+  <li>68% 시장점유율 — 가장 큰 커뮤니티와 지원 생태계</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Code quality trails Cursor and Claude Code on complex tasks</li>
-  <li>Less deep codebase understanding than Cursor</li>
-  <li>Usage-based billing can get expensive for heavy users</li>
-  <li>Agent mode is newer and less mature than Cursor's</li>
+  <li>복잡한 작업에서 코드 품질이 Cursor와 Claude Code에 뒤처짐</li>
+  <li>Cursor보다 덜 깊은 코드베이스 이해</li>
+  <li>헤비 유저에게 사용량 기반 과금이 비쌀 수 있음</li>
+  <li>에이전트 모드가 Cursor보다 새롭고 덜 성숙</li>
 </ul>
-<p><strong>Verdict:</strong> The safe, universal choice. Best for teams using JetBrains IDEs, developers who want AI without changing their editor, and anyone who values GitHub integration. Not the most powerful, but the most practical for the widest range of developers.</p>
+<p><strong>평가:</strong> 안전하고 보편적인 선택. JetBrains IDE를 사용하는 팀, 에디터를 바꾸지 않고 AI를 원하는 개발자, GitHub 통합을 중시하는 모든 사람에 최적입니다. 가장 강력하지는 않지만, 가장 넓은 범위의 개발자에게 가장 실용적입니다.</p>
 
-<h2>4. OpenAI Codex — Grade: B+</h2>
+<h2>4. OpenAI Codex — 등급: B+</h2>
 
-<p>OpenAI Codex runs coding tasks in a cloud sandbox accessible through ChatGPT. You describe what you want built, and Codex spins up an isolated environment, writes the code, runs tests, and delivers the result. It is fundamentally different from IDE-based tools — you do not see the code being written in real-time. You delegate a task and get back a result.</p>
+<p>OpenAI Codex는 ChatGPT를 통해 접근 가능한 클라우드 샌드박스에서 코딩 작업을 실행합니다. 원하는 것을 설명하면 Codex가 격리된 환경을 돌리고, 코드를 작성하고, 테스트를 실행하고, 결과를 전달합니다. IDE 기반 도구와 근본적으로 다릅니다 — 실시간으로 코드가 작성되는 것을 보지 않습니다. 작업을 위임하고 결과를 돌려받습니다.</p>
 
 <h3>가격</h3>
-<p>Included with ChatGPT Plus ($20/month). Available as a cloud-sandboxed coding environment within the ChatGPT interface.</p>
+<p>ChatGPT Plus($20/월)에 포함. ChatGPT 인터페이스 내 클라우드 샌드박스 코딩 환경으로 이용 가능.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>No local setup required — everything runs in the cloud</li>
-  <li>Included with ChatGPT Plus — no extra cost</li>
-  <li>Good for isolated coding tasks and prototypes</li>
-  <li>Access to OpenAI's latest models</li>
+  <li>로컬 셋업 불필요 — 모든 것이 클라우드에서 실행</li>
+  <li>ChatGPT Plus에 포함 — 추가 비용 없음</li>
+  <li>격리된 코딩 작업과 프로토타입에 적합</li>
+  <li>OpenAI의 최신 모델에 접근</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Cannot work on your local codebase directly</li>
-  <li>Limited visibility into the coding process</li>
-  <li>Less suited for large, existing projects</li>
-  <li>Sandboxed environment has limitations</li>
+  <li>로컬 코드베이스에 직접 작업 불가</li>
+  <li>코딩 과정에 대한 가시성 제한</li>
+  <li>큰 기존 프로젝트에 덜 적합</li>
+  <li>샌드박스 환경의 한계</li>
 </ul>
-<p><strong>Verdict:</strong> Best for ChatGPT users who want coding assistance without a dedicated coding tool. Good for prototypes and isolated tasks, but not a replacement for Cursor or Claude Code for daily development work.</p>
+<p><strong>평가:</strong> 전용 코딩 도구 없이 코딩 지원을 원하는 ChatGPT 사용자에 최적. 프로토타입과 격리된 작업에 좋지만, 일상적인 개발에서 Cursor나 Claude Code를 대체하지는 못합니다.</p>
 
-<h2>5. Devin Desktop (formerly Windsurf) — Grade: B+</h2>
+<h2>5. Devin Desktop (구 Windsurf) — 등급: B+</h2>
 
-<p>Devin Desktop, formerly known as Windsurf and originally built by the Codeium team, positions itself as the value alternative to Cursor. It offers similar features — AI autocomplete, chat, and multi-file editing — at a lower price point with a more generous free tier. The Cascade feature handles multi-step coding tasks autonomously.</p>
+<p>Devin Desktop은 이전에 Windsurf로 알려졌으며 Codeium 팀이 구축했습니다. Cursor의 가성비 대안으로 자리매김하고 있습니다. AI 자동완성, 채팅, 다중 파일 편집과 비슷한 기능을 더 낮은 가격에 더 넉넉한 무료 등급으로 제공합니다. Cascade 기능이 다단계 코딩 작업을 자율적으로 처리합니다.</p>
 
 <h3>가격</h3>
-<p>Free tier available with generous limits. Pro at $20/month.</p>
+<p>넉넉한 한도의 무료 등급. Pro $20/월.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Most generous free tier among AI coding editors</li>
-  <li>Cascade for autonomous multi-step tasks</li>
-  <li>Familiar VS Code-based interface</li>
-  <li>Good value at $20/month</li>
+  <li>AI 코딩 에디터 중 가장 넉넉한 무료 등급</li>
+  <li>자율적 다단계 작업을 위한 Cascade</li>
+  <li>익숙한 VS Code 기반 인터페이스</li>
+  <li>$20/월의 좋은 가성비</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Code quality a step behind Cursor's best output</li>
-  <li>Smaller community and fewer resources</li>
-  <li>Brand confusion from rename (Codeium → Windsurf → Devin Desktop)</li>
+  <li>코드 품질이 Cursor의 최고 출력보다 한 단계 아래</li>
+  <li>작은 커뮤니티와 적은 리소스</li>
+  <li>이름 변경으로 인한 브랜드 혼란(Codeium → Windsurf → Devin Desktop)</li>
 </ul>
-<p><strong>Verdict:</strong> The best free AI coding option and a strong value pick at $20/month. Ideal for developers evaluating AI coding tools for the first time or those who want solid AI assistance without the Cursor Premium price tag.</p>
+<p><strong>평가:</strong> 최고의 무료 AI 코딩 옵션이자 $20/월에 강력한 가성비 선택. AI 코딩 도구를 처음 평가하는 개발자나 Cursor Premium 가격 없이 견고한 AI 지원을 원하는 분에게 이상적입니다.</p>
 
-<h2>6. Kiro (AWS) — Grade: B+</h2>
+<h2>6. Kiro (AWS) — 등급: B+</h2>
 
-<p>Kiro is Amazon Web Services' entry into the AI coding space. Designed for developers working within the AWS ecosystem, it offers AI-assisted coding with deep integration into AWS services — Lambda, DynamoDB, S3, CloudFormation templates. For full-stack AWS development, the contextual suggestions are more relevant than generic tools.</p>
+<p>Kiro는 Amazon Web Services의 AI 코딩 분야 진출입니다. AWS 생태계 내에서 작업하는 개발자를 위해 설계되어, Lambda, DynamoDB, S3, CloudFormation 템플릿과 깊은 통합으로 AI 지원 코딩을 제공합니다. 풀스택 AWS 개발에서 맥락적 제안이 범용 도구보다 더 적절합니다.</p>
 
 <h3>가격</h3>
-<p>Free tier available. Pro at $19/month.</p>
+<p>무료 등급 이용 가능. Pro $19/월.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Deep AWS service integration</li>
-  <li>Relevant suggestions for serverless and cloud development</li>
-  <li>Competitive pricing at $19/month</li>
+  <li>깊은 AWS 서비스 통합</li>
+  <li>서버리스 및 클라우드 개발에 적절한 제안</li>
+  <li>$19/월의 경쟁력 있는 가격</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Value diminishes significantly outside the AWS ecosystem</li>
-  <li>Smaller community than Copilot or Cursor</li>
-  <li>General coding quality trails the top three</li>
+  <li>AWS 생태계 밖에서 가치 크게 감소</li>
+  <li>Copilot이나 Cursor보다 작은 커뮤니티</li>
+  <li>일반 코딩 품질이 상위 3개에 뒤처짐</li>
 </ul>
-<p><strong>Verdict:</strong> The best choice for developers deeply embedded in AWS. If your daily work involves Lambda, DynamoDB, and CloudFormation, the contextual awareness saves real time. For anything else, Cursor or Copilot is the better pick.</p>
+<p><strong>평가:</strong> AWS에 깊이 빠진 개발자에게 최고의 선택. 일상 작업이 Lambda, DynamoDB, CloudFormation을 다루는 경우, 맥락적 인식이 실질적인 시간을 절약합니다. 그 외에는 Cursor나 Copilot이 더 나은 선택입니다.</p>
 
-<h2>7. Bolt — Grade: B</h2>
+<h2>7. Bolt — 등급: B</h2>
 
-<p>Bolt takes a fundamentally different approach — instead of assisting developers, it lets anyone build full-stack web applications from natural language descriptions. Describe what you want, and Bolt generates a working application with frontend, backend, and database. The results are genuinely impressive for prototypes and simple apps.</p>
+<p>Bolt는 근본적으로 다른 접근법을 취합니다 — 개발자를 보조하는 대신, 누구나 자연어 설명으로 풀스택 웹 애플리케이션을 구축할 수 있게 합니다. 원하는 것을 설명하면 Bolt가 프론트엔드, 백엔드, 데이터베이스를 갖춘 작동하는 애플리케이션을 생성합니다. 프로토타입과 간단한 앱에서 결과물은 정말 인상적입니다.</p>
 
 <h3>가격</h3>
-<p>Free tier available. Starter at $20/month. Pro and Team plans for higher usage.</p>
+<p>무료 등급. Starter $20/월. Pro 및 Team 플랜은 더 높은 사용량.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Non-developers can build real applications</li>
-  <li>Impressively fast from description to working app</li>
-  <li>Generates deployable full-stack code</li>
+  <li>비개발자가 실제 애플리케이션 구축 가능</li>
+  <li>설명에서 작동하는 앱까지 인상적으로 빠름</li>
+  <li>배포 가능한 풀스택 코드 생성</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Production-quality code requires developer intervention</li>
-  <li>Complex applications still need professional development</li>
-  <li>Limited control over architecture decisions</li>
+  <li>프로덕션 품질 코드에는 개발자 개입 필요</li>
+  <li>복잡한 애플리케이션은 여전히 전문 개발 필요</li>
+  <li>아키텍처 결정에 대한 제한된 제어</li>
 </ul>
-<p><strong>Verdict:</strong> The best app builder for non-developers. Excellent for MVPs, prototypes, and validating ideas quickly. Not a replacement for professional development on complex projects.</p>
+<p><strong>평가:</strong> 비개발자를 위한 최고의 앱 빌더. MVP, 프로토타입, 아이디어 빠른 검증에 탁월. 복잡한 프로젝트의 전문 개발을 대체하지는 않습니다.</p>
 
-<h2>8. Lovable — Grade: B</h2>
+<h2>8. Lovable — 등급: B</h2>
 
-<p>Lovable competes directly with Bolt in the AI app builder space. It generates working web applications from natural language, with a focus on clean UI and deployable output. The generated code tends to be cleaner and more maintainable than Bolt's, but the generation process is slower.</p>
+<p>Lovable은 AI 앱 빌더 분야에서 Bolt와 직접 경쟁합니다. 자연어에서 작동하는 웹 애플리케이션을 생성하며, 깔끔한 UI와 배포 가능한 출력에 중점을 둡니다. 생성된 코드가 Bolt보다 깔끔하고 유지보수하기 쉬운 경향이 있지만, 생성 과정은 더 느립니다.</p>
 
 <h3>가격</h3>
-<p>Free tier available. Starter at $20/month.</p>
+<p>무료 등급. Starter $20/월.</p>
 
-<h3>Pros</h3>
+<h3>장점</h3>
 <ul>
-  <li>Cleaner generated code than Bolt</li>
-  <li>Better default UI design</li>
-  <li>Good GitHub integration for iterating on generated code</li>
+  <li>Bolt보다 깔끔한 생성 코드</li>
+  <li>더 나은 기본 UI 디자인</li>
+  <li>생성된 코드 반복 작업을 위한 좋은 GitHub 통합</li>
 </ul>
-<h3>Cons</h3>
+<h3>단점</h3>
 <ul>
-  <li>Slower generation than Bolt</li>
-  <li>Same fundamental limitations as all app builders</li>
-  <li>Still requires developers for serious applications</li>
+  <li>Bolt보다 느린 생성</li>
+  <li>모든 앱 빌더와 같은 근본적 한계</li>
+  <li>진지한 애플리케이션에는 여전히 개발자 필요</li>
 </ul>
-<p><strong>Verdict:</strong> The higher-quality alternative to Bolt. Choose Lovable when code quality matters more than speed. For entrepreneurs validating ideas, either tool works — Bolt is faster, Lovable is cleaner.</p>
+<p><strong>평가:</strong> Bolt의 고품질 대안. 코드 품질이 속도보다 중요할 때 Lovable을 선택하세요. 아이디어를 검증하는 창업가에게 두 도구 모두 작동합니다 — Bolt가 더 빠르고, Lovable이 더 깔끔합니다.</p>
 
-<h2>Which AI Coding Tool Should You Choose?</h2>
+<h2>어떤 AI 코딩 도구를 선택해야 할까요?</h2>
 <ul>
-  <li><strong>Daily VS Code developer:</strong> Cursor — the deepest AI integration for daily coding</li>
-  <li><strong>Senior dev delegating tasks:</strong> Claude Code — best quality for complex, multi-file work</li>
-  <li><strong>Teams on GitHub:</strong> GitHub Copilot — broadest IDE support, native GitHub integration</li>
-  <li><strong>ChatGPT user who codes:</strong> OpenAI Codex — already included in Plus</li>
-  <li><strong>Budget-conscious developer:</strong> Devin Desktop — best free tier</li>
-  <li><strong>AWS developer:</strong> Kiro — deep AWS service integration</li>
-  <li><strong>Non-developer building an app:</strong> Bolt or Lovable</li>
+  <li><strong>일상적인 VS Code 개발자:</strong> Cursor — 가장 깊은 AI 통합</li>
+  <li><strong>작업을 위임하는 시니어 개발자:</strong> Claude Code — 복잡한 다중 파일 작업에서 최고 품질</li>
+  <li><strong>GitHub 사용 팀:</strong> GitHub Copilot — 가장 넓은 IDE 지원, 네이티브 GitHub 통합</li>
+  <li><strong>코딩하는 ChatGPT 사용자:</strong> OpenAI Codex — Plus에 이미 포함</li>
+  <li><strong>예산 의식적인 개발자:</strong> Devin Desktop — 최고의 무료 등급</li>
+  <li><strong>AWS 개발자:</strong> Kiro — 깊은 AWS 서비스 통합</li>
+  <li><strong>앱을 만드는 비개발자:</strong> Bolt 또는 Lovable</li>
 </ul>
 
-<h3>The Power Setup ($50/month)</h3>
-<p>The most productive AI coding stack in 2026: <strong>Cursor Premium ($30)</strong> for in-the-flow coding + <strong>Claude Pro ($20)</strong> for Claude Code on large delegated tasks. This combination covers both interactive and autonomous coding and delivers the highest code quality available.</p>
+<h3>파워 셋업 ($50/월)</h3>
+<p>2026년 가장 생산적인 AI 코딩 스택: 작업 중 코딩을 위한 <strong>Cursor Premium ($30)</strong> + 대규모 위임 작업을 위한 <strong>Claude Pro ($20)</strong>. 이 조합이 인터랙티브와 자율 코딩 모두를 커버하며 현존하는 최고의 코드 품질을 제공합니다.</p>
 
-<h2>자주 묻는 질문</h2>
+<h2>FAQ</h2>
 
-<h3>What is the best AI coding tool in 2026?</h3>
-<p><strong>Cursor</strong> for daily IDE coding. <strong>Claude Code</strong> for complex multi-file tasks. <strong>GitHub Copilot</strong> for the broadest accessibility and team use.</p>
+<h3>2026년 최고의 AI 코딩 도구는?</h3>
+<p>일상적인 IDE 코딩에는 <strong>Cursor</strong>. 복잡한 다중 파일 작업에는 <strong>Claude Code</strong>. 가장 넓은 접근성과 팀 사용에는 <strong>GitHub Copilot</strong>.</p>
 
-<h3>Is Cursor better than GitHub Copilot?</h3>
-<p>For VS Code users, yes — deeper codebase awareness and better multi-file editing. Copilot wins on IDE breadth (40+ editors), free tier generosity, and GitHub integration.</p>
+<h3>Cursor가 GitHub Copilot보다 나은가요?</h3>
+<p>VS Code 사용자에게는 그렇습니다 — 더 깊은 코드베이스 인식과 더 나은 다중 파일 편집. Copilot은 IDE 범위(40개 이상 에디터), 무료 등급 넉넉함, GitHub 통합에서 승리합니다.</p>
 
-<h3>Can non-developers use AI coding tools?</h3>
-<p>IDE-based tools (Cursor, Copilot) assume you can read code. Terminal agents (Claude Code) assume command-line comfort. App builders (Bolt, Lovable) are designed for non-developers and can generate working applications from plain English.</p>
+<h3>비개발자도 AI 코딩 도구를 사용할 수 있나요?</h3>
+<p>IDE 기반 도구(Cursor, Copilot)는 코드를 읽을 수 있어야 합니다. 터미널 에이전트(Claude Code)는 커맨드 라인 숙련도를 가정합니다. 앱 빌더(Bolt, Lovable)는 비개발자를 위해 설계되어 평문 영어에서 작동하는 애플리케이션을 생성할 수 있습니다.</p>
 
-<h3>Which AI coding tool is cheapest?</h3>
-<p><strong>GitHub Copilot</strong> at $10/month has the lowest paid entry price. <strong>Devin Desktop</strong> has the most generous free tier. <strong>Codex</strong> is included free with ChatGPT Plus ($20/month) if you already subscribe.</p>
+<h3>가장 저렴한 AI 코딩 도구는?</h3>
+<p><strong>GitHub Copilot</strong> $10/월이 가장 낮은 유료 진입 가격. <strong>Devin Desktop</strong>이 가장 넉넉한 무료 등급. <strong>Codex</strong>는 이미 구독 중이라면 ChatGPT Plus($20/월)에 무료 포함.</p>
 
-<h3>Is Claude Code worth it for coding?</h3>
-<p>For senior developers handling complex projects with multi-file refactoring, feature implementation across codebases, and architectural decisions — absolutely. For simple autocomplete and quick edits, Cursor or Copilot is more practical.</p>
+<h3>코딩에 Claude Code가 그만한 가치가 있나요?</h3>
+<p>다중 파일 리팩토링, 코드베이스 전체의 기능 구현, 아키텍처 결정을 다루는 복잡한 프로젝트의 시니어 개발자에게는 — 절대적으로. 간단한 자동완성과 빠른 편집에는 Cursor나 Copilot이 더 실용적입니다.</p>
 
-<p><em>Every tool in this guide was tested by AIGradeLab on real-world coding projects over four weeks. Grades reflect performance as of November 2026. 가격 verified on each platform's official website on November 14, 2026.</em></p>
+<p><em>이 가이드의 모든 도구는 AIGradeLab이 4주간 실제 코딩 프로젝트에서 테스트했습니다. 등급은 2026년 11월 기준 성능을 반영합니다. 가격은 2026년 11월 14일 각 플랫폼 공식 웹사이트에서 확인했습니다.</em></p>

@@ -1,11 +1,11 @@
 ---
-title: "Avis Synthesia 2026 : AI Video Avatars for Enterprise — Testé et Noté"
-description: "We tested Synthesia for AI avatar videos, training content, and multilingual production. Full review with scores. Worth the price? Updated November 2026."
-category: "Graded Reviews"
+title: "Test Synthesia 2026 : des avatars vidéo IA pour l'entreprise, testés et notés"
+description: "Nous avons testé Synthesia pour les vidéos avec avatars IA, le contenu de formation et la production multilingue. Test complet avec notes. Vaut-il son prix ? Mis à jour en novembre 2026."
+category: "Tests notés"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "12 min de lecture"
 grade: "B+"
 scores_ux: 8.5
 scores_quality: 8.5
@@ -15,136 +15,111 @@ scores_support: 8.5
 toolName: "Synthesia"
 ---
 
-<h2>Synthesia in 2026: The Enterprise AI Video Platform</h2>
-<p>Synthesia turns text scripts into professional talking-head videos using AI avatars — no camera, no studio, no actors. Write your script, choose an avatar, pick a language, and Synthesia generates a polished video in minutes. The platform has become the go-to solution for corporate training, onboarding, product demos, and internal communications at companies like Xerox, Reuters, and Zoom.</p>
-<p>But at $29-89/month with per-minute limits, Synthesia is the most expensive AI video tool we tested. The question is whether the enterprise-grade quality and compliance justify the premium over cheaper alternatives like HeyGen.</p>
-
-<h2>Synthesia Scores</h2>
-<div class="score-card"><h3>Overall Grade: B+</h3>
-  <div class="score-row"><span class="score-label">Facilité d'Utilisation</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Qualité des Résultats</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Rapport Qualité-Prix</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
+<h2>Synthesia en 2026 : la plateforme vidéo IA pour l'entreprise</h2>
+<p>Synthesia transforme des scripts en vidéos professionnelles de présentateurs à l'écran grâce à des avatars IA : pas de caméra, pas de studio, pas d'acteurs. Écrivez votre script, choisissez un avatar, sélectionnez une langue et Synthesia génère en quelques minutes une vidéo soignée. La plateforme est devenue la solution de référence pour la formation en entreprise, l'onboarding, les démos de produits et la communication interne dans des entreprises comme Xerox, Reuters et Zoom.</p>
+<p>Mais à 29-89 $/mois avec des limites par minute, Synthesia est l'outil vidéo IA le plus cher que nous ayons testé. La question est de savoir si la qualité et la conformité de niveau entreprise justifient la prime par rapport à des alternatives moins chères comme HeyGen.</p>
+<h2>Scores de Synthesia</h2>
+<div class="score-card"><h3>Note globale : B+</h3>
+  <div class="score-row"><span class="score-label">Facilité d'utilisation</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Qualité des résultats</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Rapport qualité-prix</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
   <div class="score-row"><span class="score-label">Intégration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
   <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
 </div>
-
-<h2>What Synthesia Does Well</h2>
-
-<h3>Avatar Quality — Professional and Convincing</h3>
-<p>Synthesia's AI avatars are among the most realistic available. Lip sync is natural, facial expressions match the script's tone, and gestures feel organic rather than robotic. The platform offers 230+ stock avatars across diverse ethnicities, ages, and styles. For corporate content, the avatars look professional enough that most viewers won't immediately realize they're AI-generated.</p>
-
-<h3>Custom Avatars — Your Digital Twin</h3>
-<p>Record a few minutes of video of yourself and Synthesia creates a custom avatar that looks and sounds like you. Your digital twin can then deliver any script in your voice and likeness. For executives who need to send regular video updates, trainers who create repetitive content, and companies that want a consistent brand spokesperson, custom avatars eliminate repeated filming sessions.</p>
-
-<h3>140+ Languages — Global Content at Scale</h3>
-<p>Synthesia supports over 140 languages with natural-sounding AI voices. Write your script in English, translate it, and your avatar delivers it in fluent Japanese, German, Portuguese, or Arabic — with accurate lip sync for each language. For multinational companies creating training content across regions, this eliminates the cost of hiring voice actors and translators for each market.</p>
-
-<h3>Enterprise Security and Compliance</h3>
-<p>This is Synthesia's key differentiator over HeyGen and other competitors. SOC 2 Type II certification, GDPR compliance, HIPAA readiness, SSO/SAML authentication, and role-based access controls. For regulated industries (healthcare, finance, government), Synthesia may be the only AI video platform that passes security review.</p>
-
-<h3>Screen Recording Integration</h3>
-<p>Combine AI avatars with screen recordings for software tutorials and product demos. Record your screen, add an avatar presenter in the corner, and create polished how-to videos without being on camera. For SaaS companies creating product documentation and help center videos, this workflow is significantly faster than traditional screen recording + editing.</p>
-
-<h2>Where Synthesia Falls Short</h2>
-
-<h3>Expensive Per-Minute Tarifs</h3>
-<p>Synthesia's biggest weakness is pricing. The Starter plan ($29/month) includes only 10 minutes of video. The Creator plan ($89/month) includes 30 minutes. At scale, costs add up fast — a 20-video training series at 5 minutes each requires 100 minutes, costing $200-300+ per month. HeyGen offers similar features at lower per-minute costs.</p>
-
-<h3>Limited to Talking-Head Format</h3>
-<p>Synthesia creates one type of video: a person talking to camera. No cinematic footage, no B-roll generation, no motion graphics beyond basic templates. If you need AI-generated video clips (flying through landscapes, product visualizations), use Runway or Sora instead. Synthesia is for presentations, not productions.</p>
-
-<h3>Uncanny Valley on Longer Videos</h3>
-<p>While avatar quality is impressive for 1-3 minute clips, longer videos (5+ minutes) can trigger the uncanny valley effect. Repeated gestures become noticeable, eye contact feels slightly off, and the lack of natural imperfection becomes distracting. Breaking longer content into shorter segments helps, but it's a limitation of the technology.</p>
-
-<h3>Template-Based Editing</h3>
-<p>Synthesia's editor is template-based — choose a layout, add your script, and customize colors and logos. It's simple and fast, but it offers limited creative freedom compared to traditional video editors. If you need specific visual layouts, transitions, or effects, you'll need to export and edit in another tool.</p>
-
-<h2>Synthesia Tarifs</h2>
+<h2>Ce que Synthesia fait bien</h2>
+<h3>Qualité des avatars : professionnelle et convaincante</h3>
+<p>Les avatars IA de Synthesia comptent parmi les plus réalistes du marché. La synchronisation labiale est naturelle, les expressions du visage suivent le ton du script et les gestes paraissent organiques plutôt que robotiques. La plateforme propose plus de 230 avatars de banque d'avatars, d'origines, d'âges et de styles variés. Pour le contenu d'entreprise, les avatars sont assez professionnels pour que la plupart des spectateurs ne réalisent pas immédiatement qu'ils sont générés par IA.</p>
+<h3>Avatars personnalisés : votre jumeau numérique</h3>
+<p>Enregistrez quelques minutes de vidéo de vous-même et Synthesia crée un avatar personnalisé qui vous ressemble et a votre voix. Votre jumeau numérique peut alors dire n'importe quel script avec votre voix et votre apparence. Pour les dirigeants qui doivent envoyer régulièrement des messages vidéo, les formateurs qui créent du contenu répétitif et les entreprises qui veulent un porte-parole de marque constant, les avatars personnalisés évitent des séances de tournage à répétition.</p>
+<h3>Plus de 140 langues : du contenu mondial à grande échelle</h3>
+<p>Synthesia prend en charge plus de 140 langues avec des voix IA naturelles. Écrivez votre script en anglais, traduisez-le et votre avatar le délivre en japonais, allemand, portugais ou arabe courants, avec une synchronisation labiale précise pour chaque langue. Pour les multinationales qui créent du contenu de formation dans plusieurs régions, cela supprime le coût d'embaucher des comédiens de doublage et des traducteurs pour chaque marché.</p>
+<h3>Sécurité et conformité de niveau entreprise</h3>
+<p>C'est le principal différenciateur de Synthesia face à HeyGen et aux autres concurrents. Certification SOC 2 Type II, conformité RGPD, préparation à HIPAA, authentification SSO/SAML et contrôles d'accès basés sur les rôles. Pour les secteurs réglementés (santé, finance, administration), Synthesia est peut-être la seule plateforme vidéo IA qui passe la revue de sécurité.</p>
+<h3>Intégration de l'enregistrement d'écran</h3>
+<p>Combinez des avatars IA avec des enregistrements d'écran pour des tutoriels logiciels et des démos de produits. Enregistrez votre écran, ajoutez un avatar présentateur dans un coin et créez des vidéos explicatives soignées sans passer devant la caméra. Pour les entreprises SaaS qui créent de la documentation produit et des vidéos de centre d'aide, ce workflow est nettement plus rapide que l'enregistrement d'écran + montage traditionnel.</p>
+<h2>Là où Synthesia déçoit</h2>
+<h3>Une tarification à la minute coûteuse</h3>
+<p>La plus grande faiblesse de Synthesia est son prix. L'offre Starter (29 $/mois) n'inclut que 10 minutes de vidéo. L'offre Creator (89 $/mois) en inclut 30. À grande échelle, les coûts grimpent vite : une série de formation de 20 vidéos de 5 minutes chacune demande 100 minutes, soit 200 à 300 $ et plus par mois. HeyGen offre des fonctions similaires à un coût par minute inférieur.</p>
+<h3>Limité au format de présentateur face caméra</h3>
+<p>Synthesia crée un seul type de vidéo : une personne qui parle face caméra. Pas d'images cinématographiques, pas de génération de plans de coupe, pas d'animations graphiques au-delà de modèles basiques. Si vous avez besoin de clips vidéo générés par IA (survol de paysages, visualisations de produits), utilisez plutôt Runway ou Sora. Synthesia est fait pour les présentations, pas pour les productions.</p>
+<h3>La vallée de l'étrange sur les vidéos plus longues</h3>
+<p>Si la qualité des avatars est impressionnante sur des clips de 1 à 3 minutes, les vidéos plus longues (5 minutes et plus) peuvent déclencher l'effet de vallée de l'étrange. Les gestes répétés deviennent visibles, le contact visuel paraît légèrement décalé et l'absence d'imperfection naturelle devient gênante. Découper les contenus longs en segments plus courts aide, mais c'est une limite de la technologie.</p>
+<h3>Une édition basée sur des modèles</h3>
+<p>L'éditeur de Synthesia repose sur des modèles : choisissez une mise en page, ajoutez votre script et personnalisez les couleurs et les logos. C'est simple et rapide, mais cela laisse peu de liberté créative comparé aux éditeurs vidéo traditionnels. Si vous avez besoin de mises en page, de transitions ou d'effets spécifiques, il faudra exporter et retoucher dans un autre outil.</p>
+<h2>Tarifs de Synthesia</h2>
 <table>
-  <thead>
-    <tr><th>Plan</th><th>Price</th><th>Video Minutes</th><th>Key Features</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Free</td><td>$0</td><td>3 min (one-time)</td><td>Test with watermark</td></tr>
-    <tr><td>Starter</td><td>$29/mo</td><td>10 min/month</td><td>120+ avatars, 140+ languages</td></tr>
-    <tr><td>Creator</td><td>$89/mo</td><td>30 min/month</td><td>Custom avatar, brand kit, priority</td></tr>
-    <tr><td>Enterprise</td><td>Custom</td><td>Unlimited</td><td>SOC 2, SSO, API access, SLA</td></tr>
-  </tbody>
+<thead>
+<tr><th>Offre</th><th>Prix</th><th>Minutes de vidéo</th><th>Principales fonctionnalités</th></tr>
+</thead>
+<tbody>
+<tr><td>Gratuit</td><td>0 $</td><td>3 min (une seule fois)</td><td>Test avec filigrane</td></tr>
+<tr><td>Starter</td><td>29 $/mois</td><td>10 min/mois</td><td>120+ avatars, 140+ langues</td></tr>
+<tr><td>Creator</td><td>89 $/mois</td><td>30 min/mois</td><td>Avatar personnalisé, kit de marque, priorité</td></tr>
+<tr><td>Enterprise</td><td>Sur devis</td><td>Illimité</td><td>SOC 2, SSO, accès API, SLA</td></tr>
+</tbody>
 </table>
-
 <h2>Synthesia vs HeyGen</h2>
-<p>This is the comparison most buyers make. Both platforms create AI avatar videos with multilingual support. Here's how they differ:</p>
+<p>C'est la comparaison que font la plupart des acheteurs. Les deux plateformes créent des vidéos avec avatars IA et prise en charge multilingue. Voici leurs différences :</p>
 <table>
-  <thead>
-    <tr><th>Feature</th><th>Synthesia</th><th>HeyGen</th></tr>
-  </thead>
-  <tbody>
-    <tr><td>Avatar quality</td><td>Excellent</td><td>Excellent</td></tr>
-    <tr><td>Languages</td><td>140+</td><td>40+</td></tr>
-    <tr><td>Starter price</td><td>$29/mo (10 min)</td><td>$29/mo (more generous)</td></tr>
-    <tr><td>Enterprise security</td><td>SOC 2, HIPAA</td><td>SOC 2</td></tr>
-    <tr><td>Custom avatar</td><td>Creator plan ($89)</td><td>Creator plan ($29)</td></tr>
-    <tr><td>Video translation</td><td>Yes</td><td>Yes (stronger)</td></tr>
-    <tr><td>Best for</td><td>Enterprise, compliance</td><td>Creators, small business</td></tr>
-  </tbody>
+<thead>
+<tr><th>Fonctionnalité</th><th>Synthesia</th><th>HeyGen</th></tr>
+</thead>
+<tbody>
+<tr><td>Qualité des avatars</td><td>Excellente</td><td>Excellente</td></tr>
+<tr><td>Langues</td><td>140+</td><td>40+</td></tr>
+<tr><td>Prix d'entrée</td><td>29 $/mois (10 min)</td><td>29 $/mois (plus généreux)</td></tr>
+<tr><td>Sécurité entreprise</td><td>SOC 2, HIPAA</td><td>SOC 2</td></tr>
+<tr><td>Avatar personnalisé</td><td>Offre Creator (89 $)</td><td>Offre Creator (29 $)</td></tr>
+<tr><td>Traduction vidéo</td><td>Oui</td><td>Oui (plus performante)</td></tr>
+<tr><td>Idéal pour</td><td>Entreprise, conformité</td><td>Créateurs, petites entreprises</td></tr>
+</tbody>
 </table>
-<p><strong>Bottom line:</strong> HeyGen offers better value for most users. Synthesia wins for enterprises that need SOC 2/HIPAA compliance and 140+ language support. Lisez notre <a href="/fr/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> for the full comparison.</p>
-
-<h2>Who Should Use Synthesia?</h2>
-
-<h3>Best For</h3>
+<p><strong>En résumé :</strong> HeyGen offre un meilleur rapport qualité-prix pour la plupart des utilisateurs. Synthesia l'emporte pour les entreprises qui ont besoin de la conformité SOC 2/HIPAA et de plus de 140 langues. Lisez nos <a href="/fr/blog/best-ai-video-tools-2026">Meilleurs outils vidéo IA 2026</a> pour le comparatif complet.</p>
+<h2>Qui devrait utiliser Synthesia ?</h2>
+<h3>Idéal pour</h3>
 <ul>
-  <li><strong>Enterprise L&D teams</strong> — training videos at scale with compliance</li>
-  <li><strong>Multinational companies</strong> — 140+ languages with one platform</li>
-  <li><strong>Regulated industries</strong> — SOC 2, HIPAA, GDPR compliance</li>
-  <li><strong>HR and internal communications</strong> — company updates without filming</li>
-  <li><strong>SaaS companies</strong> — product tutorials with screen recording + avatar</li>
+<li><strong>Les équipes formation et développement en entreprise</strong> : des vidéos de formation à grande échelle avec conformité</li>
+<li><strong>Les multinationales</strong> : plus de 140 langues sur une seule plateforme</li>
+<li><strong>Les secteurs réglementés</strong> : conformité SOC 2, HIPAA, RGPD</li>
+<li><strong>Les RH et la communication interne</strong> : des annonces d'entreprise sans tournage</li>
+<li><strong>Les entreprises SaaS</strong> : tutoriels produit avec enregistrement d'écran + avatar</li>
 </ul>
-
-<h3>Not Ideal For</h3>
+<h3>Moins adapté pour</h3>
 <ul>
-  <li><strong>Individual creators</strong> — HeyGen offers better value</li>
-  <li><strong>Marketing teams on a budget</strong> — per-minute pricing is expensive</li>
-  <li><strong>Creative video production</strong> — limited to talking-head format</li>
-  <li><strong>Long-form content</strong> — uncanny valley on 5+ minute videos</li>
+<li><strong>Les créateurs individuels</strong> : HeyGen offre un meilleur rapport qualité-prix</li>
+<li><strong>Les équipes marketing au budget serré</strong> : la tarification à la minute est chère</li>
+<li><strong>La production vidéo créative</strong> : limité au format de présentateur face caméra</li>
+<li><strong>Les contenus longs</strong> : vallée de l'étrange sur les vidéos de plus de 5 minutes</li>
 </ul>
-
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>Récapitulatif des avantages et des inconvénients</h2>
+<h3>Avantages</h3>
 <ul>
-  <li>Professional avatar quality — convincing for corporate use</li>
-  <li>140+ languages with natural lip sync</li>
-  <li>Enterprise-grade security (SOC 2, HIPAA)</li>
-  <li>Custom avatar from your own likeness</li>
-  <li>Screen recording integration for tutorials</li>
-  <li>Fast production — script to video in minutes</li>
+<li>Qualité d'avatar professionnelle, convaincante pour un usage en entreprise</li>
+<li>Plus de 140 langues avec une synchronisation labiale naturelle</li>
+<li>Sécurité de niveau entreprise (SOC 2, HIPAA)</li>
+<li>Avatar personnalisé à partir de votre propre apparence</li>
+<li>Intégration de l'enregistrement d'écran pour les tutoriels</li>
+<li>Production rapide : du script à la vidéo en quelques minutes</li>
 </ul>
-<h3>Cons</h3>
+<h3>Inconvénients</h3>
 <ul>
-  <li>Expensive — $29/mo for only 10 minutes of video</li>
-  <li>Per-minute pricing makes volume costly</li>
-  <li>Limited to talking-head format</li>
-  <li>Uncanny valley on longer videos</li>
-  <li>Template-based editor limits creative freedom</li>
-  <li>Custom avatar requires $89/month Creator plan</li>
+<li>Cher : 29 $/mois pour seulement 10 minutes de vidéo</li>
+<li>La tarification à la minute rend les gros volumes coûteux</li>
+<li>Limité au format de présentateur face caméra</li>
+<li>Vallée de l'étrange sur les vidéos plus longues</li>
+<li>L'éditeur basé sur des modèles limite la liberté créative</li>
+<li>L'avatar personnalisé exige l'offre Creator à 89 $/mois</li>
 </ul>
-
-<h2>Final Verdict: B+</h2>
-<p>Synthesia is the safest choice for enterprise AI video — compliance certifications, professional quality, and 140+ languages. But it's expensive for what you get per minute, and the talking-head format limits creative possibilities. For enterprise L&D teams and multinational companies, the compliance and language support justify the premium. For everyone else, HeyGen delivers similar quality at better value.</p>
-<p><strong>Our recommendation:</strong> Try the free demo (3 minutes, watermarked) to test avatar quality. If you're in a regulated industry, Synthesia's compliance is worth the premium. If not, test HeyGen first — you may get everything you need at a lower cost.</p>
-
-<h2>Questions Fréquentes</h2>
-
-<h3>Is Synthesia worth the price?</h3>
-<p>For enterprise teams creating 10+ training videos per month with compliance requirements — yes. For individual creators or small businesses — HeyGen offers better value with similar quality.</p>
-
-<h3>Are Synthesia avatars realistic?</h3>
-<p>Yes — among the most realistic AI avatars available. For 1-3 minute corporate videos, most viewers won't immediately identify them as AI. Longer videos can trigger uncanny valley effects.</p>
-
-<h3>Can I create a custom avatar of myself?</h3>
-<p>Yes, on the Creator plan ($89/month) and above. You record a short video and Synthesia creates a digital twin that delivers any script in your voice and likeness.</p>
-
-<h3>Synthesia or HeyGen?</h3>
-<p>HeyGen for creators and small businesses (better value, more features per dollar). Synthesia for enterprise (SOC 2 compliance, 140+ languages, HIPAA readiness).</p>
-
-<p><em>Synthesia was tested by AIGradeLab for corporate training and product demo workflows. Grade reflects practical value as of November 2026. Tarifs verified on synthesia.io.</em></p>
+<h2>Verdict final : B+</h2>
+<p>Synthesia est le choix le plus sûr pour la vidéo IA en entreprise : certifications de conformité, qualité professionnelle et plus de 140 langues. Mais il est cher pour ce qu'on obtient par minute, et le format de présentateur face caméra limite les possibilités créatives. Pour les équipes de formation en entreprise et les multinationales, la conformité et la prise en charge des langues justifient la prime. Pour tous les autres, HeyGen offre une qualité similaire pour un meilleur rapport qualité-prix.</p>
+<p><strong>Notre recommandation :</strong> essayez la démo gratuite (3 minutes, avec filigrane) pour tester la qualité des avatars. Si vous êtes dans un secteur réglementé, la conformité de Synthesia vaut la prime. Sinon, testez d'abord HeyGen : vous pourriez obtenir tout ce dont vous avez besoin pour moins cher.</p>
+<h2>FAQ</h2>
+<h3>Synthesia vaut-il son prix ?</h3>
+<p>Pour les équipes d'entreprise qui créent plus de 10 vidéos de formation par mois avec des exigences de conformité, oui. Pour les créateurs individuels ou les petites entreprises, HeyGen offre un meilleur rapport qualité-prix à qualité similaire.</p>
+<h3>Les avatars de Synthesia sont-ils réalistes ?</h3>
+<p>Oui, parmi les avatars IA les plus réalistes du marché. Pour des vidéos d'entreprise de 1 à 3 minutes, la plupart des spectateurs ne les identifieront pas immédiatement comme de l'IA. Les vidéos plus longues peuvent déclencher des effets de vallée de l'étrange.</p>
+<h3>Puis-je créer un avatar personnalisé de moi-même ?</h3>
+<p>Oui, avec l'offre Creator (89 $/mois) et au-dessus. Vous enregistrez une courte vidéo et Synthesia crée un jumeau numérique qui délivre n'importe quel script avec votre voix et votre apparence.</p>
+<h3>Synthesia ou HeyGen ?</h3>
+<p>HeyGen pour les créateurs et les petites entreprises (meilleur rapport qualité-prix, plus de fonctions par dollar). Synthesia pour l'entreprise (conformité SOC 2, plus de 140 langues, préparation à HIPAA).</p>
+<p><em>Synthesia a été testé par AIGradeLab sur des workflows de formation en entreprise et de démos de produits. La note reflète la valeur pratique en novembre 2026. Tarifs vérifiés sur synthesia.io.</em></p>

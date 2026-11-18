@@ -1,11 +1,11 @@
 ---
-title: "Recensione Jasper AI 2026: Marketing AI Platform — Testato e Valutato"
-description: "We tested Jasper for marketing content, brand voice, campaigns, and team workflows. Full review with scores. Worth $49/month? Updated November 2026."
+title: "Recensione Jasper AI 2026: la piattaforma AI per il marketing — testata e valutata"
+description: "Abbiamo testato Jasper per contenuti di marketing, tono di voce del brand, campagne e flussi di lavoro di team. Recensione completa con punteggi. Vale 49 $/mese? Aggiornato a novembre 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "12 min di lettura"
 grade: "B+"
 scores_ux: 8.5
 scores_quality: 8.0
@@ -15,133 +15,133 @@ scores_support: 8.0
 toolName: "Jasper"
 ---
 
-<h2>Jasper in 2026: The AI Built for Marketing Teams</h2>
-<p>Jasper was one of the first AI writing tools — and it has evolved from a simple GPT wrapper into a full marketing AI platform. The pitch: Jasper maintains your brand voice across all content, provides marketing-specific templates, manages campaign workflows, and helps teams produce consistent content at scale. The question in 2026: is Jasper still worth $49/month when ChatGPT and Claude write better for $20?</p>
+<h2>Jasper nel 2026: l'AI creata per i team di marketing</h2>
+<p>Jasper è stato uno dei primi strumenti di scrittura AI — e si è evoluto da un semplice wrapper di GPT a una vera piattaforma AI per il marketing. La proposta: Jasper mantiene il tono di voce del tuo brand in tutti i contenuti, fornisce template specifici per il marketing, gestisce i flussi di lavoro delle campagne e aiuta i team a produrre contenuti coerenti su larga scala. La domanda per il 2026: Jasper vale ancora 49 $/mese quando ChatGPT e Claude scrivono meglio per 20 $?</p>
 
-<h2>Jasper Scores</h2>
-<div class="score-card"><h3>Overall Grade: B+</h3>
-  <div class="score-row"><span class="score-label">Facilità d'Uso</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Qualità dei Risultati</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">Rapporto Qualità-Prezzo</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
-  <div class="score-row"><span class="score-label">Integrazione</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">Supporto</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+<h2>Punteggi di Jasper</h2>
+<div class="score-card"><h3>Voto complessivo: B+</h3>
+  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
+  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
-<h2>What Jasper Does Well</h2>
+<h2>Cosa fa bene Jasper</h2>
 
-<h3>Brand Voice — The Core Differentiator</h3>
-<p>This is Jasper's strongest feature and the reason marketing teams choose it over ChatGPT. Upload your brand guidelines, tone of voice documentation, product information, and style guide. Every piece of content Jasper produces — blog posts, emails, ads, social posts — follows your brand voice consistently. For teams producing 50+ pieces of content per week across multiple writers, brand voice consistency is genuinely valuable.</p>
-<p>In our testing, Jasper's brand voice adherence was impressive. After training it on a tech company's documentation, the output matched the brand's casual-but-authoritative tone across blog posts, email campaigns, and social media. ChatGPT and Claude can be prompted for voice, but they don't maintain it persistently the way Jasper does.</p>
+<h3>Tono di voce del brand — il fattore distintivo principale</h3>
+<p>È la funzione più forte di Jasper e il motivo per cui i team di marketing lo scelgono al posto di ChatGPT. Carica le linee guida del brand, la documentazione sul tono di voce, le informazioni sui prodotti e la guida di stile. Ogni contenuto prodotto da Jasper — articoli di blog, email, annunci, post social — segue con coerenza il tono di voce del tuo brand. Per i team che producono oltre 50 contenuti a settimana con più autori, la coerenza del tono di voce ha un valore reale.</p>
+<p>Nei nostri test, l'aderenza di Jasper al tono di voce è stata impressionante. Dopo averlo addestrato sulla documentazione di un'azienda tecnologica, l'output rispecchiava il tono informale ma autorevole del brand in articoli di blog, campagne email e social media. ChatGPT e Claude possono essere guidati con i prompt sul tono, ma non lo mantengono in modo persistente come fa Jasper.</p>
 
-<h3>Marketing Templates</h3>
-<p>Jasper includes 50+ marketing-specific templates: AIDA copy, PAS frameworks, email subject lines, Google Ads headlines, Facebook ad copy, product descriptions, SEO meta descriptions, press releases, and more. Each template guides the AI toward marketing-optimized output rather than generic writing. For marketers who produce the same content types repeatedly, templates save significant prompt engineering.</p>
+<h3>Template di marketing</h3>
+<p>Jasper include oltre 50 template specifici per il marketing: testi AIDA, schemi PAS, oggetti per email, titoli per Google Ads, testi per annunci Facebook, descrizioni di prodotto, meta description SEO, comunicati stampa e altro. Ogni template orienta l'AI verso un output ottimizzato per il marketing anziché una scrittura generica. Per i marketer che producono sempre gli stessi tipi di contenuto, i template fanno risparmiare molto lavoro di prompt engineering.</p>
 
-<h3>Campaign Management</h3>
-<p>Jasper's campaign feature lets you create a campaign brief — target audience, goals, key messages, tone — and then generate all content for that campaign from one central brief. Blog posts, emails, social posts, and ad copy all aligned to the same campaign strategy. For marketing teams running multiple campaigns simultaneously, this coordination is valuable.</p>
+<h3>Gestione delle campagne</h3>
+<p>La funzione campagne di Jasper permette di creare un brief di campagna — pubblico target, obiettivi, messaggi chiave, tono — e poi generare tutti i contenuti della campagna da un unico brief centrale. Articoli di blog, email, post social e testi pubblicitari tutti allineati alla stessa strategia di campagna. Per i team di marketing che gestiscono più campagne contemporaneamente, questo coordinamento è prezioso.</p>
 
-<h3>Team Collaboration</h3>
-<p>Jasper supports team workflows: shared brand voice, content approval chains, usage tracking per team member, and centralized template libraries. For marketing agencies and in-house teams with 3+ content creators, these collaboration features prevent the chaos of everyone prompting their own way.</p>
+<h3>Collaborazione di team</h3>
+<p>Jasper supporta i flussi di lavoro di team: tono di voce condiviso, catene di approvazione dei contenuti, monitoraggio dell'utilizzo per ogni membro del team e librerie di template centralizzate. Per le agenzie di marketing e i team interni con 3 o più creatori di contenuti, queste funzioni di collaborazione evitano il caos di ognuno che scrive i prompt a modo suo.</p>
 
-<h3>Chrome Extension</h3>
-<p>Jasper's browser extension brings AI writing assistance to any website — Gmail, Google Docs, WordPress, social media platforms, CMS editors. Write content anywhere with Jasper's brand-trained AI without switching tabs. Less powerful than the full Jasper app but useful for quick content generation.</p>
+<h3>Estensione per Chrome</h3>
+<p>L'estensione del browser di Jasper porta l'assistenza alla scrittura AI su qualsiasi sito web — Gmail, Google Docs, WordPress, piattaforme social, editor CMS. Scrivi contenuti ovunque con l'AI di Jasper addestrata sul tuo brand senza cambiare scheda. Meno potente dell'app completa di Jasper, ma utile per generare rapidamente contenuti.</p>
 
-<h2>Where Jasper Falls Short</h2>
+<h2>Dove Jasper è carente</h2>
 
-<h3>Writing Quality Below ChatGPT and Claude</h3>
-<p>Here's the uncomfortable truth: for raw writing quality, both ChatGPT ($20/month) and Claude ($20/month) produce better output than Jasper ($49/month). More nuanced analysis, more creative angles, better long-form structure. Jasper's advantage is brand consistency and marketing-specific workflows — not superior AI quality. If you're a solo marketer, ChatGPT or Claude with good prompts delivers better results at less than half the cost.</p>
+<h3>Qualità di scrittura inferiore a ChatGPT e Claude</h3>
+<p>Ecco la scomoda verità: per la pura qualità della scrittura, sia ChatGPT (20 $/mese) sia Claude (20 $/mese) producono un output migliore di Jasper (49 $/mese). Analisi più sfumate, angolazioni più creative, migliore struttura nei testi lunghi. Il vantaggio di Jasper è la coerenza del brand e i flussi di lavoro specifici per il marketing — non una qualità AI superiore. Se sei un marketer che lavora da solo, ChatGPT o Claude con buoni prompt offrono risultati migliori a meno della metà del costo.</p>
 
-<h3>$49/Month Is Expensive</h3>
-<p>Jasper Creator starts at $49/month. Pro is $69/month. For individuals, that's a hard sell when ChatGPT Plus ($20/month) includes better writing, image generation, video generation, and voice mode. Jasper's value only becomes clear at the team level, where brand consistency and collaboration features justify the premium.</p>
+<h3>49 $/mese sono costosi</h3>
+<p>Jasper Creator parte da 49 $/mese. Pro costa 69 $/mese. Per i singoli è una vendita difficile quando ChatGPT Plus (20 $/mese) include una scrittura migliore, generazione di immagini, generazione di video e modalità vocale. Il valore di Jasper diventa chiaro solo a livello di team, dove la coerenza del brand e le funzioni di collaborazione giustificano il sovrapprezzo.</p>
 
-<h3>No Image or Video Generation</h3>
-<p>Unlike ChatGPT (GPT Image + Sora), Jasper doesn't generate images or video. It partners with external tools, but the all-in-one creative experience that ChatGPT offers is missing. For content creators who need text + images + video, ChatGPT is more complete at a lower price.</p>
+<h3>Nessuna generazione di immagini o video</h3>
+<p>A differenza di ChatGPT (GPT Image + Sora), Jasper non genera immagini né video. Collabora con strumenti esterni, ma manca l'esperienza creativa tutto-in-uno che offre ChatGPT. Per i creator di contenuti che hanno bisogno di testo + immagini + video, ChatGPT è più completo a un prezzo inferiore.</p>
 
-<h3>Template Dependency</h3>
-<p>Jasper works best within its templates. Step outside them — ask for something unusual, a complex strategy document, or deep analysis — and the output quality drops below what ChatGPT and Claude handle naturally. Jasper is optimized for marketing content production, not general-purpose AI assistance.</p>
+<h3>Dipendenza dai template</h3>
+<p>Jasper funziona al meglio all'interno dei suoi template. Se ne esci — chiedendo qualcosa di insolito, un documento strategico complesso o un'analisi approfondita — la qualità dell'output scende sotto quella che ChatGPT e Claude gestiscono con naturalezza. Jasper è ottimizzato per la produzione di contenuti di marketing, non per l'assistenza AI generica.</p>
 
-<h2>Jasper Prezzi</h2>
+<h2>Prezzi di Jasper</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
+    <tr><th>Piano</th><th>Prezzo</th><th>Funzioni principali</th></tr>
   </thead>
   <tbody>
-    <tr><td>Creator</td><td>$49/month</td><td>1 user, brand voice, templates, Chrome extension</td></tr>
-    <tr><td>Pro</td><td>$69/month</td><td>Up to 5 users, collaboration, campaign management</td></tr>
-    <tr><td>Business</td><td>Custom</td><td>Unlimited users, API, custom AI models, SSO</td></tr>
+    <tr><td>Creator</td><td>49 $/mese</td><td>1 utente, tono di voce del brand, template, estensione Chrome</td></tr>
+    <tr><td>Pro</td><td>69 $/mese</td><td>Fino a 5 utenti, collaborazione, gestione delle campagne</td></tr>
+    <tr><td>Business</td><td>Personalizzato</td><td>Utenti illimitati, API, modelli AI personalizzati, SSO</td></tr>
   </tbody>
 </table>
-<p>No free tier. 7-day free trial available.</p>
+<p>Nessun piano gratuito. Disponibile una prova gratuita di 7 giorni.</p>
 
 <h2>Jasper vs ChatGPT vs Claude</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Jasper ($49/mo)</th><th>ChatGPT ($20/mo)</th><th>Claude ($20/mo)</th></tr>
+    <tr><th>Caratteristica</th><th>Jasper (49 $/mese)</th><th>ChatGPT (20 $/mese)</th><th>Claude (20 $/mese)</th></tr>
   </thead>
   <tbody>
-    <tr><td>Writing quality</td><td>Good</td><td>Very good</td><td>Best</td></tr>
-    <tr><td>Brand voice</td><td>Best (persistent)</td><td>Per-prompt only</td><td>Per-prompt only</td></tr>
-    <tr><td>Marketing templates</td><td>50+</td><td>Custom GPTs</td><td>None</td></tr>
-    <tr><td>Image generation</td><td>No</td><td>GPT Image (best)</td><td>No</td></tr>
-    <tr><td>Video generation</td><td>No</td><td>Sora (included)</td><td>No</td></tr>
-    <tr><td>Team collaboration</td><td>Built-in</td><td>Team plan ($30)</td><td>Team plan ($30)</td></tr>
-    <tr><td>Campaign management</td><td>Yes</td><td>No</td><td>No</td></tr>
-    <tr><td>Best for</td><td>Marketing teams</td><td>Everyone</td><td>Analysis + writing</td></tr>
+    <tr><td>Qualità della scrittura</td><td>Buona</td><td>Molto buona</td><td>La migliore</td></tr>
+    <tr><td>Tono di voce del brand</td><td>Il migliore (persistente)</td><td>Solo per singolo prompt</td><td>Solo per singolo prompt</td></tr>
+    <tr><td>Template di marketing</td><td>50+</td><td>GPT personalizzati</td><td>Nessuno</td></tr>
+    <tr><td>Generazione di immagini</td><td>No</td><td>GPT Image (la migliore)</td><td>No</td></tr>
+    <tr><td>Generazione di video</td><td>No</td><td>Sora (incluso)</td><td>No</td></tr>
+    <tr><td>Collaborazione di team</td><td>Integrata</td><td>Piano Team (30 $)</td><td>Piano Team (30 $)</td></tr>
+    <tr><td>Gestione delle campagne</td><td>Sì</td><td>No</td><td>No</td></tr>
+    <tr><td>Ideale per</td><td>Team di marketing</td><td>Tutti</td><td>Analisi + scrittura</td></tr>
   </tbody>
 </table>
 
-<h2>Who Should Use Jasper?</h2>
+<h2>Chi dovrebbe usare Jasper?</h2>
 
-<h3>Best For</h3>
+<h3>Ideale per</h3>
 <ul>
-  <li><strong>Marketing teams (3+ people)</strong> — brand voice consistency + collaboration justifies the cost</li>
-  <li><strong>Agencies managing multiple clients</strong> — separate brand voices per client</li>
-  <li><strong>Content-heavy businesses</strong> — publishing 20+ pieces per week</li>
-  <li><strong>Enterprise marketing</strong> — compliance, approval workflows, usage tracking</li>
+  <li><strong>Team di marketing (3+ persone)</strong> — coerenza del tono di voce + collaborazione giustificano il costo</li>
+  <li><strong>Agenzie che gestiscono più clienti</strong> — toni di voce separati per ogni cliente</li>
+  <li><strong>Aziende ricche di contenuti</strong> — che pubblicano oltre 20 contenuti a settimana</li>
+  <li><strong>Marketing enterprise</strong> — conformità, flussi di approvazione, monitoraggio dell'utilizzo</li>
 </ul>
 
-<h3>Not Ideal For</h3>
+<h3>Non ideale per</h3>
 <ul>
-  <li><strong>Solo marketers</strong> — ChatGPT or Claude at $20/month offers better value</li>
-  <li><strong>General AI needs</strong> — Jasper is marketing-only, not a general assistant</li>
-  <li><strong>Visual content creators</strong> — no image or video generation</li>
-  <li><strong>Budget-conscious freelancers</strong> — $49/month is steep for individual use</li>
+  <li><strong>Marketer che lavorano da soli</strong> — ChatGPT o Claude a 20 $/mese offrono un valore migliore</li>
+  <li><strong>Esigenze AI generiche</strong> — Jasper è solo per il marketing, non un assistente generale</li>
+  <li><strong>Creator di contenuti visivi</strong> — nessuna generazione di immagini o video</li>
+  <li><strong>Freelance attenti al budget</strong> — 49 $/mese sono tanti per un uso individuale</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>Riepilogo di pro e contro</h2>
+<h3>Pro</h3>
 <ul>
-  <li>Best brand voice consistency of any AI writing tool</li>
-  <li>Marketing-specific templates save prompt engineering</li>
-  <li>Campaign management aligns all content to strategy</li>
-  <li>Team collaboration with approval workflows</li>
-  <li>Chrome extension brings AI to any website</li>
+  <li>La migliore coerenza del tono di voce di qualsiasi strumento di scrittura AI</li>
+  <li>I template specifici per il marketing fanno risparmiare prompt engineering</li>
+  <li>La gestione delle campagne allinea tutti i contenuti alla strategia</li>
+  <li>Collaborazione di team con flussi di approvazione</li>
+  <li>L'estensione per Chrome porta l'AI su qualsiasi sito web</li>
 </ul>
-<h3>Cons</h3>
+<h3>Contro</h3>
 <ul>
-  <li>$49/month — more than double ChatGPT or Claude</li>
-  <li>Writing quality below ChatGPT and Claude</li>
-  <li>No image or video generation</li>
-  <li>No free tier — only 7-day trial</li>
-  <li>Marketing-only — not a general AI assistant</li>
-  <li>Value hard to justify for individual users</li>
+  <li>49 $/mese — più del doppio di ChatGPT o Claude</li>
+  <li>Qualità di scrittura inferiore a ChatGPT e Claude</li>
+  <li>Nessuna generazione di immagini o video</li>
+  <li>Nessun piano gratuito — solo prova di 7 giorni</li>
+  <li>Solo marketing — non è un assistente AI generico</li>
+  <li>Valore difficile da giustificare per gli utenti singoli</li>
 </ul>
 
-<h2>Final Verdict: B+</h2>
-<p>Jasper has carved a defensible niche as the AI platform for marketing teams. Brand voice consistency, campaign management, and team collaboration are genuinely useful for teams producing content at scale. But the value proposition has narrowed: ChatGPT and Claude write better, cost less, and include more features. Jasper's premium is justified only when brand consistency and team collaboration are must-haves.</p>
-<p><strong>Our recommendation:</strong> For marketing teams of 3+ people producing 20+ pieces of content weekly — try the 7-day trial and evaluate brand voice quality against ChatGPT. For solo marketers and freelancers — save $29/month and use ChatGPT Plus or Claude Pro instead. Leggi la nostra <a href="/it/blog/best-ai-tools-marketing-2026">Best AI Tools for Marketing</a> for alternatives.</p>
+<h2>Verdetto finale: B+</h2>
+<p>Jasper si è ritagliato una nicchia difendibile come piattaforma AI per i team di marketing. Coerenza del tono di voce, gestione delle campagne e collaborazione di team sono davvero utili per i team che producono contenuti su larga scala. Ma la proposta di valore si è ridotta: ChatGPT e Claude scrivono meglio, costano meno e includono più funzioni. Il sovrapprezzo di Jasper è giustificato solo quando la coerenza del brand e la collaborazione di team sono indispensabili.</p>
+<p><strong>Il nostro consiglio:</strong> per i team di marketing di 3 o più persone che producono oltre 20 contenuti a settimana — prova i 7 giorni gratuiti e valuta la qualità del tono di voce rispetto a ChatGPT. Per i marketer singoli e i freelance — risparmia 29 $/mese e usa invece ChatGPT Plus o Claude Pro. Leggi i nostri <a href="/it/blog/best-ai-tools-marketing-2026">Migliori strumenti AI per il marketing</a> per le alternative.</p>
 
-<h2>Domande Frequenti</h2>
+<h2>FAQ</h2>
 
-<h3>Is Jasper worth $49/month in 2026?</h3>
-<p>For marketing teams that need brand voice consistency — yes. For individuals — no. ChatGPT ($20/month) and Claude ($20/month) both produce better writing at lower cost. Jasper's value is in the marketing platform features, not the AI quality itself.</p>
+<h3>Jasper vale 49 $/mese nel 2026?</h3>
+<p>Per i team di marketing che hanno bisogno di coerenza nel tono di voce — sì. Per i singoli — no. ChatGPT (20 $/mese) e Claude (20 $/mese) producono entrambi una scrittura migliore a un costo inferiore. Il valore di Jasper sta nelle funzioni della piattaforma di marketing, non nella qualità dell'AI in sé.</p>
 
-<h3>Jasper or ChatGPT for marketing?</h3>
-<p><strong>Jasper</strong> for teams needing persistent brand voice and campaign management. <strong>ChatGPT</strong> for everything else — better writing, images, video, voice, and broader capabilities at lower cost.</p>
+<h3>Jasper o ChatGPT per il marketing?</h3>
+<p><strong>Jasper</strong> per i team che hanno bisogno di un tono di voce persistente e di gestione delle campagne. <strong>ChatGPT</strong> per tutto il resto — scrittura migliore, immagini, video, voce e capacità più ampie a un costo inferiore.</p>
 
-<h3>Does Jasper use GPT-4?</h3>
-<p>Jasper uses multiple AI models including GPT-4o and Anthropic's Claude, selecting the best model for each task. You don't choose the model — Jasper selects automatically.</p>
+<h3>Jasper usa GPT-4?</h3>
+<p>Jasper usa più modelli AI, tra cui GPT-4o e Claude di Anthropic, scegliendo il modello migliore per ogni compito. Non scegli tu il modello — Jasper lo seleziona automaticamente.</p>
 
-<h3>Is there a free version of Jasper?</h3>
-<p>No. Jasper offers a 7-day free trial but no permanent free tier. This is a significant disadvantage compared to ChatGPT, Claude, and Gemini, all of which offer free tiers.</p>
+<h3>Esiste una versione gratuita di Jasper?</h3>
+<p>No. Jasper offre una prova gratuita di 7 giorni ma nessun piano gratuito permanente. È uno svantaggio significativo rispetto a ChatGPT, Claude e Gemini, che offrono tutti piani gratuiti.</p>
 
-<p><em>Jasper was tested by AIGradeLab across blog content, email campaigns, ad copy, and social media workflows. Grade reflects practical marketing value as of November 2026. Prezzi verified on jasper.ai.</em></p>
+<p><em>Jasper è stato testato da AIGradeLab su contenuti per blog, campagne email, testi pubblicitari e flussi di lavoro sui social media. Il voto riflette il valore pratico per il marketing a novembre 2026. Prezzi verificati su jasper.ai.</em></p>

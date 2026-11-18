@@ -1,160 +1,160 @@
 ---
-title: "Personal Agent Protocol (Poppy): The New Standard That Lets AI Agents Act on Your Behalf"
-description: "Sierra released Poppy 1.0 on November 13, 2026 — an open protocol that defines how personal AI agents connect to businesses, authenticate users, and complete tasks. Shopify and Meta are already on board."
+title: "Personal Agent Protocol (Poppy): AI 에이전트가 사용자를 대신해 행동하게 하는 새로운 표준"
+description: "Sierra가 2026년 11월 13일 Poppy 1.0을 출시했습니다. 개인 AI 에이전트가 기업과 연결하고, 사용자를 인증하고, 작업을 완료하는 방식을 정의하는 오픈 프로토콜입니다. Shopify와 Meta가 이미 참여하고 있습니다."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-19"
-readTime: "8 min read"
+readTime: "읽기 시간: 8분"
 ---
 
-<h2>AI Agents Just Got a Front Door to Every Business</h2>
+<h2>AI 에이전트가 모든 기업으로 통하는 정문을 얻었습니다</h2>
 
-<p>On November 13, 2026, Sierra released Personal Agent Protocol 1.0 — an open standard it calls <strong>Poppy</strong> — that defines how a person's AI agent connects to a business through its website, APIs, or business agent. The protocol is already live: Shopify auto-enabled it across its entire merchant platform, and Meta's Muse agent now looks for Poppy when visiting any website.</p>
+<p>2026년 11월 13일, Sierra는 개인의 AI 에이전트가 웹사이트, API, 또는 기업 에이전트를 통해 기업과 연결되는 방식을 정의하는 오픈 표준 Personal Agent Protocol 1.0, 일명 <strong>Poppy</strong>를 출시했습니다. 이 프로토콜은 이미 운영 중입니다. Shopify는 전체 판매자 플랫폼에서 자동으로 활성화했고, Meta의 Muse 에이전트는 이제 모든 웹사이트를 방문할 때 Poppy를 찾습니다.</p>
 
-<p>This is not a theoretical spec. It's deployed infrastructure that's changing how AI agents interact with the commercial internet right now.</p>
+<p>이는 이론적인 사양이 아닙니다. 지금 이 순간 AI 에이전트가 상업 인터넷과 상호작용하는 방식을 바꾸고 있는, 이미 배포된 인프라입니다.</p>
 
-<h2>Why Poppy Exists</h2>
+<h2>Poppy가 존재하는 이유</h2>
 
-<p>The trigger was a real conflict. In September 2026, Amazon blocked Meta's Muse agent from its store, citing scraping concerns. That happened just 12 days after Muse launched. The incident exposed a fundamental problem: there was no standard way for AI agents to identify themselves, authenticate users, and interact with businesses.</p>
+<p>계기는 실제 충돌이었습니다. 2026년 9월 Amazon은 스크래핑 우려를 이유로 Meta의 Muse 에이전트를 자사 스토어에서 차단했습니다. Muse가 출시된 지 불과 12일 만이었습니다. 이 사건은 근본적인 문제를 드러냈습니다. AI 에이전트가 자신을 식별하고, 사용자를 인증하고, 기업과 상호작용하는 표준 방법이 없었던 것입니다.</p>
 
-<p>Without a protocol, every agent-to-business interaction was essentially web scraping — a legal and technical gray area that companies like Amazon weren't willing to tolerate.</p>
+<p>프로토콜이 없으면 모든 에이전트와 기업 간 상호작용은 본질적으로 웹 스크래핑이었고, 이는 Amazon 같은 기업이 용인하려 하지 않는 법적, 기술적 회색 지대였습니다.</p>
 
-<p>Sierra (co-founded by former Salesforce CEO Bret Taylor) and Meta developed Poppy to solve this. The protocol gives businesses a way to recognize when they're dealing with an AI agent, verify who it represents, and control what it can do.</p>
+<p>Sierra(전 Salesforce CEO Bret Taylor가 공동 설립)와 Meta는 이를 해결하기 위해 Poppy를 개발했습니다. 이 프로토콜은 기업이 AI 에이전트를 상대하고 있음을 인식하고, 에이전트가 누구를 대표하는지 확인하며, 에이전트가 할 수 있는 일을 통제할 수 있게 해 줍니다.</p>
 
-<h2>How Poppy Works: Five Building Blocks</h2>
+<h2>Poppy의 작동 방식: 다섯 가지 구성 요소</h2>
 
-<p>Poppy is built on five core components that work together:</p>
+<p>Poppy는 함께 작동하는 다섯 가지 핵심 구성 요소로 이루어져 있습니다.</p>
 
-<h3>1. Discovery</h3>
+<h3>1. 검색(Discovery)</h3>
 
-<p>Businesses publish a <code>/.well-known/poppy.json</code> file on their website — similar to how <code>robots.txt</code> tells search crawlers what to index. This file declares how agents can connect, what login methods are available, and what capabilities are exposed. Any AI agent can read this file to understand how to interact with the business.</p>
+<p>기업은 웹사이트에 <code>/.well-known/poppy.json</code> 파일을 게시합니다. <code>robots.txt</code>가 검색 크롤러에 무엇을 색인할지 알려 주는 것과 비슷합니다. 이 파일은 에이전트가 어떻게 연결할 수 있는지, 어떤 로그인 방법이 있는지, 어떤 기능이 공개되는지를 선언합니다. 모든 AI 에이전트가 이 파일을 읽어 기업과 상호작용하는 방법을 이해할 수 있습니다.</p>
 
-<h3>2. Identity</h3>
+<h3>2. 신원(Identity)</h3>
 
-<p>When an AI agent arrives, the business can clearly identify that it's dealing with "User X's AI agent" rather than an anonymous bot. The agent presents cryptographic credentials (client_id, public key, callback address) that establish its identity. This is critical — businesses need to know they're serving a legitimate agent, not a scraper or attacker.</p>
+<p>AI 에이전트가 도착하면 기업은 익명의 봇이 아니라 "사용자 X의 AI 에이전트"를 상대하고 있음을 명확히 식별할 수 있습니다. 에이전트는 신원을 확립하는 암호화 자격 증명(client_id, 공개 키, 콜백 주소)을 제시합니다. 기업은 스크래퍼나 공격자가 아닌 정당한 에이전트를 상대하고 있음을 알아야 하므로 이는 매우 중요합니다.</p>
 
-<h3>3. Authentication (OAuth-Based)</h3>
+<h3>3. 인증(OAuth 기반)</h3>
 
-<p>Poppy uses OAuth, the same standard that powers "Sign in with Google" and similar flows. The user signs in on the business's own page — the AI agent never sees the password. After authentication, the agent receives a scoped session token with minimal permissions. This means your agent can browse your Amazon account, but only with the permissions you explicitly grant.</p>
+<p>Poppy는 "Google로 로그인"과 유사한 흐름을 구동하는 것과 같은 표준인 OAuth를 사용합니다. 사용자는 기업 자체 페이지에서 로그인하며, AI 에이전트는 비밀번호를 절대 보지 못합니다. 인증 후 에이전트는 최소한의 권한을 가진 범위 제한 세션 토큰을 받습니다. 즉 에이전트는 Amazon 계정을 둘러볼 수 있지만 사용자가 명시적으로 부여한 권한으로만 가능합니다.</p>
 
-<h3>4. Tiered Permissions</h3>
+<h3>4. 계층형 권한</h3>
 
-<p>Permissions are split into five levels, from fully prohibited to full access. Businesses decide which level to offer, and users decide how much to grant. At the basic level (<code>poppy:read</code>), an agent can check balances and view orders. Write operations like making purchases require separate <code>poppy:write</code> authorization.</p>
+<p>권한은 완전 금지에서 전체 접근까지 다섯 단계로 나뉩니다. 기업은 어느 단계를 제공할지 결정하고 사용자는 얼마나 부여할지 결정합니다. 기본 단계(<code>poppy:read</code>)에서 에이전트는 잔액을 확인하고 주문을 볼 수 있습니다. 구매 같은 쓰기 작업에는 별도의 <code>poppy:write</code> 인증이 필요합니다.</p>
 
-<h3>5. Cross-Channel Sessions</h3>
+<h3>5. 크로스 채널 세션</h3>
 
-<p>A single authentication token works across the business's website, API, and even its own AI agent. If you authenticate with a retailer through Poppy, your agent can seamlessly move between browsing products on the website, checking inventory through the API, and negotiating returns with the retailer's AI customer service agent — all in one session.</p>
+<p>하나의 인증 토큰이 기업의 웹사이트, API, 그리고 자체 AI 에이전트에서 모두 작동합니다. Poppy를 통해 소매업체에 인증하면 에이전트가 웹사이트에서 제품을 둘러보고, API로 재고를 확인하고, 소매업체의 AI 고객 서비스 에이전트와 반품을 협상하는 일을 하나의 세션에서 매끄럽게 오갈 수 있습니다.</p>
 
-<h2>Who's Already Using Poppy?</h2>
+<h2>이미 Poppy를 사용하는 곳은?</h2>
 
-<p>The launch partners represent a serious cross-section of commerce:</p>
+<p>출시 파트너는 상거래의 상당한 단면을 대표합니다.</p>
 
 <table>
   <thead>
     <tr>
-      <th>Company</th>
-      <th>Role</th>
-      <th>What They're Doing</th>
+      <th>기업</th>
+      <th>역할</th>
+      <th>하고 있는 일</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Shopify</strong></td>
-      <td>Platform partner</td>
-      <td>Auto-enabled Poppy across all merchants — millions of stores are now agent-accessible</td>
+      <td>플랫폼 파트너</td>
+      <td>모든 판매자에 Poppy를 자동 활성화 — 수백만 개의 스토어가 이제 에이전트 접근 가능</td>
     </tr>
     <tr>
       <td><strong>Meta (Muse)</strong></td>
-      <td>Agent partner</td>
-      <td>Muse now checks for Poppy when visiting any website, using it to authenticate and transact</td>
+      <td>에이전트 파트너</td>
+      <td>Muse는 이제 모든 웹사이트 방문 시 Poppy를 확인하고 이를 인증 및 거래에 사용</td>
     </tr>
     <tr>
       <td><strong>Walmart</strong></td>
-      <td>Founding partner</td>
-      <td>Retail agent access for shopping and order management</td>
+      <td>창립 파트너</td>
+      <td>쇼핑 및 주문 관리를 위한 소매 에이전트 접근</td>
     </tr>
     <tr>
       <td><strong>Stripe</strong></td>
-      <td>Payments partner</td>
-      <td>Contributing payment capabilities so agents can complete purchases</td>
+      <td>결제 파트너</td>
+      <td>에이전트가 구매를 완료할 수 있도록 결제 기능을 제공</td>
     </tr>
     <tr>
       <td><strong>Rocket</strong></td>
-      <td>Finance partner</td>
-      <td>Demonstrated Muse getting pre-approved for a mortgage through Poppy at Sierra Summit</td>
+      <td>금융 파트너</td>
+      <td>Sierra Summit에서 Muse가 Poppy를 통해 모기지 사전 승인을 받는 것을 시연</td>
     </tr>
   </tbody>
 </table>
 
-<p>The full design partner list includes 35+ companies: Adyen, Bank of America, BBVA, Chime, Cigna, Cloudflare, Comcast, DIRECTV, ElevenLabs, FOX, Gap Inc., GEICO, Hertz, and many more. This isn't a startup experiment — it's enterprise infrastructure.</p>
+<p>전체 디자인 파트너 목록에는 Adyen, Bank of America, BBVA, Chime, Cigna, Cloudflare, Comcast, DIRECTV, ElevenLabs, FOX, Gap Inc., GEICO, Hertz 등 35개 이상의 기업이 포함됩니다. 이것은 스타트업의 실험이 아니라 엔터프라이즈 인프라입니다.</p>
 
-<h2>Poppy + ChatGPT Wallet: The Commerce Stack Takes Shape</h2>
+<h2>Poppy + ChatGPT Wallet: 커머스 스택의 윤곽</h2>
 
-<p>Poppy's release comes the same week as OpenAI's ChatGPT Wallet launch (November 13). Together, they reveal the emerging architecture of AI-powered commerce:</p>
+<p>Poppy의 출시는 OpenAI의 ChatGPT Wallet 출시(11월 13일)와 같은 주에 이루어졌습니다. 이 둘은 함께 AI 기반 커머스의 새로운 아키텍처를 보여 줍니다.</p>
 
 <ul>
-  <li><strong>Poppy</strong> handles identity and authorization — how an agent proves who it represents and what it's allowed to do</li>
-  <li><strong>ChatGPT Wallet</strong> handles payment — how an agent pays for things without exposing card numbers</li>
-  <li><strong>Business agents (Sierra, Genesys, etc.)</strong> handle fulfillment — the business-side AI that processes orders and handles customer service</li>
+  <li><strong>Poppy</strong>는 신원과 권한 부여를 처리합니다. 에이전트가 누구를 대표하고 무엇을 허용받는지 증명하는 방법입니다</li>
+  <li><strong>ChatGPT Wallet</strong>은 결제를 처리합니다. 에이전트가 카드 번호를 노출하지 않고 대금을 지불하는 방법입니다</li>
+  <li><strong>비즈니스 에이전트(Sierra, Genesys 등)</strong>는 이행을 처리합니다. 주문을 처리하고 고객 서비스를 담당하는 기업 측 AI입니다</li>
 </ul>
 
-<p>Put them together and you get a world where your AI agent can browse Shopify stores, authenticate with your account, select products, pay with your wallet, and handle returns — all without you opening a browser.</p>
+<p>이들을 합치면 AI 에이전트가 Shopify 스토어를 탐색하고, 계정으로 인증하고, 제품을 선택하고, 지갑으로 결제하고, 반품까지 처리하는 세상이 됩니다. 브라우저를 열 필요가 전혀 없습니다.</p>
 
-<h2>What This Means for Businesses</h2>
+<h2>기업에 의미하는 바</h2>
 
-<p>If you run an online store, Poppy should be on your radar immediately. Here's why:</p>
+<p>온라인 스토어를 운영한다면 Poppy는 즉시 레이더에 올려야 합니다. 이유는 다음과 같습니다.</p>
 
-<h3>The Distribution Shift</h3>
+<h3>유통 구조의 변화</h3>
 
-<p>When Shopify auto-enabled Poppy across its platform, it instantly made millions of stores accessible to AI agents. If your store is on Shopify, you're already in the protocol — agents can already discover and interact with you. If you're not on Shopify, you're invisible to every agent that uses Poppy for discovery.</p>
+<p>Shopify가 플랫폼 전체에서 Poppy를 자동 활성화하면서 수백만 개의 스토어가 즉시 AI 에이전트에 접근 가능해졌습니다. 스토어가 Shopify에 있다면 이미 프로토콜에 포함되어 있습니다. 에이전트가 이미 귀하를 발견하고 상호작용할 수 있습니다. Shopify에 있지 않다면 검색에 Poppy를 사용하는 모든 에이전트에게 보이지 않습니다.</p>
 
-<h3>Implementation</h3>
+<h3>구현</h3>
 
-<p>For non-Shopify businesses, implementing Poppy requires:</p>
+<p>Shopify를 사용하지 않는 기업이 Poppy를 구현하려면 다음이 필요합니다.</p>
 
 <ol>
-  <li>Publishing a <code>/.well-known/poppy.json</code> discovery file</li>
-  <li>Setting up OAuth endpoints for agent authentication</li>
-  <li>Defining permission levels and capabilities</li>
-  <li>Testing with agent partners (Meta Muse is the primary test agent right now)</li>
+  <li><code>/.well-known/poppy.json</code> 검색 파일 게시</li>
+  <li>에이전트 인증을 위한 OAuth 엔드포인트 설정</li>
+  <li>권한 수준과 기능 정의</li>
+  <li>에이전트 파트너와의 테스트 (현재는 Meta Muse가 주요 테스트 에이전트)</li>
 </ol>
 
-<p>Poppy is built on existing standards (OAuth, JWT, HTTPS, OpenAPI, MCP), so most businesses can implement it using tools they already have.</p>
+<p>Poppy는 기존 표준(OAuth, JWT, HTTPS, OpenAPI, MCP)을 기반으로 구축되어 대부분의 기업이 이미 가진 도구로 구현할 수 있습니다.</p>
 
-<h2>What This Means for AI Tool Users</h2>
+<h2>AI 도구 사용자에게 의미하는 바</h2>
 
-<p>If you use AI agents — Claude, ChatGPT, Gemini, or Meta's Muse — Poppy matters because it's the infrastructure that will determine <strong>what your agent can actually do for you</strong>.</p>
+<p>Claude, ChatGPT, Gemini, Meta의 Muse 같은 AI 에이전트를 사용한다면 Poppy는 <strong>에이전트가 실제로 사용자를 위해 무엇을 할 수 있는지</strong>를 결정하는 인프라이기 때문에 중요합니다.</p>
 
-<p>Right now, most AI agents are limited to answering questions and generating content. Poppy opens the door to agents that:</p>
-
-<ul>
-  <li>Shop for you across any Poppy-enabled store</li>
-  <li>Manage your subscriptions and accounts</li>
-  <li>Handle customer service interactions</li>
-  <li>Compare prices and find deals across multiple retailers</li>
-  <li>Get pre-approved for financial products</li>
-</ul>
-
-<p>The key word is "you." Poppy is designed with user control at its center. You authenticate, you grant permissions, you can revoke access at any time. The agent acts on your behalf, not on its own.</p>
-
-<h2>Security Considerations</h2>
-
-<p>Poppy's security model is worth examining closely:</p>
+<p>현재 대부분의 AI 에이전트는 질문에 답하고 콘텐츠를 생성하는 데 그칩니다. Poppy는 다음과 같은 일을 하는 에이전트의 문을 엽니다.</p>
 
 <ul>
-  <li><strong>Users sign in themselves:</strong> The agent never sees your password. Authentication happens on the business's own page</li>
-  <li><strong>Minimal permissions:</strong> Agents get the least access needed for the task. Reading your order history doesn't grant permission to place orders</li>
-  <li><strong>Full audit trail:</strong> Businesses can see the complete history of what an agent did in a session</li>
-  <li><strong>Instant revocation:</strong> Users can disconnect any agent from any account at any time</li>
-  <li><strong>DPoP (Demonstration of Proof-of-Possession):</strong> Signed assertions prevent token theft — a stolen token can't be used by a different agent</li>
+  <li>Poppy를 지원하는 모든 스토어에서 대신 쇼핑</li>
+  <li>구독과 계정 관리</li>
+  <li>고객 서비스 상호작용 처리</li>
+  <li>여러 소매업체의 가격 비교와 할인 탐색</li>
+  <li>금융 상품 사전 승인 받기</li>
 </ul>
 
-<p>The model is sound in theory. The real test will be at scale — when millions of agents are transacting simultaneously across thousands of businesses.</p>
+<p>핵심 단어는 "사용자"입니다. Poppy는 사용자 통제를 중심에 두고 설계되었습니다. 사용자가 인증하고, 권한을 부여하고, 언제든지 접근을 철회할 수 있습니다. 에이전트는 스스로가 아니라 사용자를 대신해 행동합니다.</p>
+
+<h2>보안 고려 사항</h2>
+
+<p>Poppy의 보안 모델은 면밀히 살펴볼 가치가 있습니다.</p>
+
+<ul>
+  <li><strong>사용자가 직접 로그인:</strong> 에이전트는 비밀번호를 절대 보지 못합니다. 인증은 기업 자체 페이지에서 이루어집니다</li>
+  <li><strong>최소 권한:</strong> 에이전트는 작업에 필요한 최소한의 접근만 받습니다. 주문 내역을 읽는 것이 주문할 권한을 부여하지는 않습니다</li>
+  <li><strong>완전한 감사 추적:</strong> 기업은 세션에서 에이전트가 한 모든 일의 전체 이력을 볼 수 있습니다</li>
+  <li><strong>즉시 철회:</strong> 사용자는 언제든지 모든 계정에서 모든 에이전트의 연결을 해제할 수 있습니다</li>
+  <li><strong>DPoP(Demonstration of Proof-of-Possession):</strong> 서명된 어서션이 토큰 탈취를 방지합니다. 탈취된 토큰은 다른 에이전트가 사용할 수 없습니다</li>
+</ul>
+
+<p>이 모델은 이론상으로는 견고합니다. 진짜 시험은 규모에서 이루어질 것입니다. 수백만 개의 에이전트가 수천 개의 기업에서 동시에 거래할 때입니다.</p>
 
 <h2>결론</h2>
 
-<p>Poppy 1.0 is one of those infrastructure releases that doesn't get the headlines of a new model launch but may end up mattering more. It's the plumbing that will enable AI agents to move from "answering questions" to "doing things" — and doing things means interacting with businesses on your behalf.</p>
+<p>Poppy 1.0은 새 모델 출시만큼 헤드라인을 장식하지는 않지만 더 중요해질 수 있는 인프라 릴리스 중 하나입니다. AI 에이전트가 "질문에 답하기"에서 "일을 하기"로 넘어가게 해 주는 배관이며, 일을 한다는 것은 사용자를 대신해 기업과 상호작용한다는 뜻입니다.</p>
 
-<p>The speed of adoption is what makes Poppy notable. Shopify's platform-wide rollout and Meta's Muse integration mean Poppy is already live at massive scale. If other ecommerce platforms follow, the protocol could become the standard way AI agents interact with the commercial internet within months, not years.</p>
+<p>Poppy를 주목할 만하게 만드는 것은 도입 속도입니다. Shopify의 플랫폼 전체 배포와 Meta Muse 통합으로 Poppy는 이미 대규모로 운영되고 있습니다. 다른 이커머스 플랫폼이 뒤따른다면 이 프로토콜은 수년이 아니라 수개월 안에 AI 에이전트가 상업 인터넷과 상호작용하는 표준 방식이 될 수 있습니다.</p>
 
-<p><em>Building AI-powered tools? Explore the free utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a> — QR generators, invoice builders, PDF tools, and more.</em></p>
+<p><em>AI 기반 도구를 만들고 계신가요? <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a>에서 QR 생성기, 청구서 작성기, PDF 도구 등 무료 유틸리티를 살펴보십시오.</em></p>

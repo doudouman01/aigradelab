@@ -1,11 +1,11 @@
 ---
-title: "Grammarly レビュー 2026：Still Worth It? Tested and Graded"
-description: "We tested Grammarly's AI writing assistant for grammar, tone, plagiarism, and AI generation. Full review with scores. Is it still the best writing tool in 2026?"
+title: "Grammarlyレビュー2026：今も使う価値はある？検証と評価"
+description: "文法、トーン、盗用チェック、AIによる文章生成について、GrammarlyのAIライティングアシスタントを検証しました。スコア付きの完全なレビューです。2026年も最高のライティングツールなのでしょうか。"
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "読了時間：12分"
 grade: "B+"
 scores_ux: 9.0
 scores_quality: 8.0
@@ -15,11 +15,11 @@ scores_support: 7.5
 toolName: "Grammarly"
 ---
 
-<h2>Grammarly in 2026: Grammar Checker Turned AI Writing Platform</h2>
-<p>Grammarly started as a grammar and spelling checker. In 2026, it has evolved into a full AI writing platform — grammar correction, tone adjustment, AI text generation, plagiarism detection, brand voice enforcement, and now GrammarlyGO, its generative AI assistant. The question is no longer whether Grammarly catches typos (it does, brilliantly), but whether the full AI writing platform justifies the $12-15/month price tag when ChatGPT and Claude exist.</p>
+<h2>2026年のGrammarly：文法チェッカーからAIライティングプラットフォームへ</h2>
+<p>Grammarlyは、文法とスペルのチェッカーとして始まりました。2026年には、文法の修正、トーンの調整、AIによる文章生成、盗用の検出、ブランドボイスの徹底、そして生成AIアシスタントのGrammarlyGOを備えた、本格的なAIライティングプラットフォームへと進化しています。もはや、Grammarlyがタイプミスを見つけるかどうか（見事に見つけます）が問題なのではありません。ChatGPTやClaudeがある中で、AIライティングプラットフォーム全体に月額12〜15ドルを払う価値があるかどうかが問題です。</p>
 
-<h2>Grammarly Scores</h2>
-<div class="score-card"><h3>Overall Grade: B+</h3>
+<h2>Grammarlyのスコア</h2>
+<div class="score-card"><h3>総合評価：B+</h3>
   <div class="score-row"><span class="score-label">使いやすさ</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
   <div class="score-row"><span class="score-label">出力品質</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">コストパフォーマンス</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
@@ -27,109 +27,109 @@ toolName: "Grammarly"
   <div class="score-row"><span class="score-label">サポート</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
 </div>
 
-<h2>What Grammarly Does Well</h2>
+<h2>Grammarlyが優れている点</h2>
 
-<h3>Grammar and Style Correction — Still the Best</h3>
-<p>Grammarly's core feature remains its strongest. Real-time grammar, spelling, punctuation, and style corrections appear inline wherever you write — Gmail, Google Docs, Word, Slack, social media, and 500,000+ websites via the browser extension. The suggestions are accurate, contextual, and non-intrusive. For non-native English speakers and professionals who write frequently, this alone saves hours of proofreading weekly.</p>
+<h3>文法とスタイルの修正：今も最高</h3>
+<p>Grammarlyの中核機能は、今も最大の強みです。リアルタイムの文法、スペル、句読点、スタイルの修正が、Gmail、Google ドキュメント、Word、Slack、SNS、そしてブラウザ拡張機能による50万以上のウェブサイトなど、書く場所ならどこでもその場に表示されます。提案は正確で、文脈に合っており、邪魔になりません。英語が母語でない方や、頻繁に文章を書くプロにとって、これだけで毎週何時間もの校正作業が節約できます。</p>
 
-<h3>Tone Detection and Adjustment</h3>
-<p>Grammarly analyzes the tone of your writing and lets you adjust it — more formal, more confident, more friendly. Write an email and Grammarly tells you it sounds "direct" and suggests changes to make it "diplomatic." For workplace communication, this feature prevents tone-deaf emails that create unnecessary friction.</p>
+<h3>トーンの検出と調整</h3>
+<p>Grammarlyは、文章のトーンを分析し、より丁寧に、より自信を持って、よりフレンドリーに、といった調整ができるようにします。メールを書くと、Grammarlyは「直接的」に聞こえると伝え、「配慮のある」トーンにするための変更を提案します。職場でのコミュニケーションでは、この機能が、不要な摩擦を生む空気の読めないメールを防いでくれます。</p>
 
-<h3>Integration Everywhere</h3>
-<p>Grammarly works in your browser (Chrome, Firefox, Safari, Edge), desktop apps (Word, Outlook), mobile keyboard (iOS, Android), and dedicated editor. The seamless integration means you don't change your workflow — Grammarly is just there, everywhere you type. This is its biggest competitive advantage over ChatGPT and Claude, which require copy-paste or a separate tab.</p>
+<h3>どこでも使える連携</h3>
+<p>Grammarlyは、ブラウザ（Chrome、Firefox、Safari、Edge）、デスクトップアプリ（Word、Outlook）、モバイルのキーボード（iOS、Android）、専用エディターで動作します。シームレスな連携のおかげで、ワークフローを変える必要はありません。入力する場所ならどこにでも、Grammarlyがそこにあります。これは、コピー＆ペーストや別のタブが必要なChatGPTやClaudeに対する、最大の競争優位です。</p>
 
-<h2>GrammarlyGO — The AI Writing Assistant</h2>
-<p>GrammarlyGO is Grammarly's generative AI feature, competing directly with ChatGPT and Claude for AI writing tasks. It can compose drafts, rewrite paragraphs, shorten or expand text, adjust tone, and generate content from prompts — all inline where you're writing.</p>
-<p>The quality is decent for short-form content — emails, social posts, quick replies. For longer content, blog posts, or anything requiring depth and nuance, ChatGPT and Claude produce significantly better output. GrammarlyGO feels like a convenience feature, not a replacement for dedicated AI assistants.</p>
+<h2>GrammarlyGO：AIライティングアシスタント</h2>
+<p>GrammarlyGOは、Grammarlyの生成AI機能で、AIによる文章作成のタスクでChatGPTやClaudeと直接競合します。下書きの作成、段落の書き直し、文章の短縮や拡張、トーンの調整、プロンプトからのコンテンツ生成が、すべて書いている場所でそのまま行えます。</p>
+<p>メール、SNSの投稿、手短な返信といった短い文章の品質は、まずまずです。より長いコンテンツ、ブログ記事、深さやニュアンスが求められるものでは、ChatGPTやClaudeのほうがはるかに優れた出力を生み出します。GrammarlyGOは便利機能という印象で、専用のAIアシスタントの代わりにはなりません。</p>
 
-<h3>GrammarlyGO Limitations</h3>
+<h3>GrammarlyGOの制限</h3>
 <ul>
-  <li>Limited prompts per month (1,000 on Premium, 2,000 on Business)</li>
-  <li>Output quality below ChatGPT and Claude for longer content</li>
-  <li>No document upload or analysis capability</li>
-  <li>No image generation or code execution</li>
-  <li>Can't maintain complex conversations</li>
+  <li>月あたりのプロンプト数に上限がある（Premiumは1,000回、Businessは2,000回）</li>
+  <li>長いコンテンツでは、出力品質がChatGPTやClaudeに及ばない</li>
+  <li>ドキュメントのアップロードや分析ができない</li>
+  <li>画像生成やコード実行ができない</li>
+  <li>複雑な会話を維持できない</li>
 </ul>
 
 <h2>Grammarly Free vs Premium vs Business</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Free</th><th>Premium ($12/mo)</th><th>Business ($15/user/mo)</th></tr>
+    <tr><th>機能</th><th>Free</th><th>Premium（月額12ドル）</th><th>Business（1ユーザーあたり月額15ドル）</th></tr>
   </thead>
   <tbody>
-    <tr><td>Basic grammar & spelling</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Tone detection</td><td>Yes</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Advanced suggestions</td><td>No</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>Plagiarism detection</td><td>No</td><td>Yes</td><td>Yes</td></tr>
-    <tr><td>GrammarlyGO prompts</td><td>100/month</td><td>1,000/month</td><td>2,000/month</td></tr>
-    <tr><td>Brand voice & style guides</td><td>No</td><td>No</td><td>Yes</td></tr>
-    <tr><td>Analytics dashboard</td><td>No</td><td>No</td><td>Yes</td></tr>
+    <tr><td>基本的な文法とスペル</td><td>あり</td><td>あり</td><td>あり</td></tr>
+    <tr><td>トーンの検出</td><td>あり</td><td>あり</td><td>あり</td></tr>
+    <tr><td>高度な提案</td><td>なし</td><td>あり</td><td>あり</td></tr>
+    <tr><td>盗用の検出</td><td>なし</td><td>あり</td><td>あり</td></tr>
+    <tr><td>GrammarlyGOのプロンプト</td><td>月100回</td><td>月1,000回</td><td>月2,000回</td></tr>
+    <tr><td>ブランドボイスとスタイルガイド</td><td>なし</td><td>なし</td><td>あり</td></tr>
+    <tr><td>分析ダッシュボード</td><td>なし</td><td>なし</td><td>あり</td></tr>
   </tbody>
 </table>
 
-<h2>Who Should Use Grammarly in 2026?</h2>
+<h2>2026年にGrammarlyを使うべき人</h2>
 
-<h3>Best For</h3>
+<h3>特におすすめ</h3>
 <ul>
-  <li><strong>Non-native English speakers</strong> — the grammar and style corrections are invaluable</li>
-  <li><strong>Professionals who write 10+ emails/day</strong> — tone detection prevents communication issues</li>
-  <li><strong>Students</strong> — plagiarism checker + grammar correction in one tool</li>
-  <li><strong>Teams needing consistent brand voice</strong> — Business plan's style guides</li>
+  <li><strong>英語が母語でない方：</strong>文法とスタイルの修正は非常に貴重です</li>
+  <li><strong>1日に10通以上のメールを書くプロ：</strong>トーンの検出が、コミュニケーション上の問題を防ぎます</li>
+  <li><strong>学生：</strong>盗用チェッカーと文法の修正が1つのツールに</li>
+  <li><strong>一貫したブランドボイスが必要なチーム：</strong>Businessプランのスタイルガイド</li>
 </ul>
 
-<h3>Not Ideal For</h3>
+<h3>あまり向いていない人</h3>
 <ul>
-  <li><strong>Content creators who need AI generation</strong> — ChatGPT/Claude are far better</li>
-  <li><strong>Budget-conscious users</strong> — the free tier + ChatGPT free covers most needs</li>
-  <li><strong>Developers/technical writers</strong> — Grammarly flags code and technical terms as errors</li>
-  <li><strong>Non-English writers</strong> — limited support outside English (some languages in beta)</li>
+  <li><strong>AIによる生成が必要なコンテンツクリエイター：</strong>ChatGPTやClaudeのほうがはるかに優れています</li>
+  <li><strong>予算を重視するユーザー：</strong>無料プランとChatGPTの無料プランで、ほとんどのニーズを満たせます</li>
+  <li><strong>開発者やテクニカルライター：</strong>Grammarlyは、コードや専門用語をエラーとして指摘します</li>
+  <li><strong>英語以外で書く方：</strong>英語以外のサポートは限定的です（一部の言語はベータ版）</li>
 </ul>
 
-<h2>Grammarly vs the Competition</h2>
+<h2>Grammarlyと競合の比較</h2>
 
 <h3>Grammarly vs ChatGPT</h3>
-<p>Different tools for different jobs. Grammarly corrects your writing inline as you type — no context switching. ChatGPT generates content, answers questions, and handles complex writing tasks in a separate interface. The ideal setup: use Grammarly for real-time corrections everywhere, use ChatGPT/Claude for content generation and complex tasks.</p>
+<p>用途の異なるツールです。Grammarlyは、入力中にその場で文章を修正してくれるので、画面を切り替える必要がありません。ChatGPTは、別のインターフェースでコンテンツを生成し、質問に答え、複雑な文章作成のタスクを処理します。理想的な組み合わせは、あらゆる場所でのリアルタイムの修正にはGrammarly、コンテンツの生成や複雑なタスクにはChatGPTやClaudeを使うことです。</p>
 
 <h3>Grammarly vs ProWritingAid</h3>
-<p>ProWritingAid is cheaper ($10/month) and offers deeper writing analysis with reports on sentence structure, pacing, and readability. Grammarly has better integrations and a smoother experience. For fiction writers and long-form content, ProWritingAid may be worth considering. For everyday business writing, Grammarly wins.</p>
+<p>ProWritingAidはより安価（月額10ドル）で、文の構造、ペース、読みやすさに関するレポートなど、より深い文章分析を提供します。Grammarlyは、より優れた連携とスムーズな体験を提供します。小説家や長文コンテンツを書く方には、ProWritingAidを検討する価値があるかもしれません。日常的なビジネス文書では、Grammarlyが勝ります。</p>
 
 <h3>Grammarly vs Claude</h3>
-<p>Claude excels at document analysis, nuanced writing, and long-form content creation. Grammarly excels at real-time inline corrections. They complement each other rather than compete. Use Claude to draft, use Grammarly to polish.</p>
+<p>Claudeは、ドキュメントの分析、ニュアンスのある文章、長文コンテンツの作成に優れています。Grammarlyは、リアルタイムのインライン修正に優れています。両者は競合するのではなく、補完し合います。下書きにはClaude、仕上げにはGrammarlyを使いましょう。</p>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>長所と短所のまとめ</h2>
+<h3>長所</h3>
 <ul>
-  <li>Best-in-class grammar and style correction</li>
-  <li>Works everywhere — browser, desktop, mobile</li>
-  <li>Tone detection prevents communication mistakes</li>
-  <li>Seamless, non-intrusive inline experience</li>
-  <li>Plagiarism detection included in Premium</li>
+  <li>最高水準の文法とスタイルの修正</li>
+  <li>ブラウザ、デスクトップ、モバイルのどこでも使える</li>
+  <li>トーンの検出がコミュニケーションのミスを防ぐ</li>
+  <li>シームレスで邪魔にならないインライン体験</li>
+  <li>Premiumに盗用の検出が含まれる</li>
 </ul>
-<h3>Cons</h3>
+<h3>短所</h3>
 <ul>
-  <li>$12/month is steep for what's increasingly available free</li>
-  <li>GrammarlyGO is mediocre compared to ChatGPT/Claude</li>
-  <li>Free tier increasingly limited to push Premium upgrades</li>
-  <li>English-only for most advanced features</li>
-  <li>Can be overzealous with suggestions — not every sentence needs fixing</li>
+  <li>ますます無料で使えるようになっている機能に対して、月額12ドルは割高</li>
+  <li>GrammarlyGOは、ChatGPTやClaudeと比べると平凡</li>
+  <li>Premiumへのアップグレードを促すために、無料プランがますます制限されている</li>
+  <li>高度な機能のほとんどは英語のみ</li>
+  <li>提案が過剰になることがある：すべての文を直す必要はありません</li>
 </ul>
 
-<h2>Final Verdict: B+</h2>
-<p>Grammarly remains the best real-time writing assistant for grammar, style, and tone. The inline integration — everywhere you type, with zero friction — is something no competitor matches. But the value proposition has weakened in 2026: ChatGPT and Claude offer superior AI writing for free or $20/month, and browser-based grammar checking is increasingly commoditized.</p>
-<p><strong>Our recommendation:</strong> Start with Grammarly Free + ChatGPT Free. If you write professionally in English every day and the tone detection + advanced suggestions save you time, upgrade to Premium. Skip GrammarlyGO — use Claude or ChatGPT for AI generation instead.</p>
+<h2>最終評価：B+</h2>
+<p>Grammarlyは、文法、スタイル、トーンについて、今も最高のリアルタイムライティングアシスタントです。入力する場所ならどこでも、摩擦なく使えるインライン連携は、他のどの競合にもありません。しかし、2026年にはその価値提案が弱まっています。ChatGPTやClaudeは、無料または月額20ドルで優れたAIライティングを提供しており、ブラウザベースの文法チェックはますます一般的なものになっています。</p>
+<p><strong>おすすめの使い方：</strong>まずはGrammarly FreeとChatGPT Freeから始めましょう。毎日英語で仕事の文章を書いていて、トーンの検出と高度な提案が時間の節約になるなら、Premiumにアップグレードしてください。GrammarlyGOは使わず、AIによる生成にはClaudeやChatGPTを使いましょう。</p>
 
 <h2>よくある質問</h2>
 
-<h3>Is Grammarly worth paying for in 2026?</h3>
-<p>For professionals who write 10+ emails or documents daily in English — yes, Premium pays for itself in time saved. For casual users — the free tier plus ChatGPT covers most needs.</p>
+<h3>2026年にGrammarlyは有料で使う価値がありますか？</h3>
+<p>毎日10通以上のメールやドキュメントを英語で書くプロなら、はい。節約できる時間で、Premiumの元が取れます。気軽に使う方なら、無料プランとChatGPTでほとんどのニーズを満たせます。</p>
 
-<h3>Is Grammarly better than ChatGPT for writing?</h3>
-<p>For grammar correction and polishing: yes. For content generation, brainstorming, and complex writing: no. They work best together — draft with ChatGPT/Claude, polish with Grammarly.</p>
+<h3>文章作成において、GrammarlyはChatGPTより優れていますか？</h3>
+<p>文法の修正と推敲なら、はい。コンテンツの生成、ブレインストーミング、複雑な文章作成なら、いいえ。両者は一緒に使うのが最適です。ChatGPTやClaudeで下書きを作り、Grammarlyで仕上げましょう。</p>
 
-<h3>Does Grammarly work with Google Docs?</h3>
-<p>Yes. Grammarly has a dedicated Google Docs integration that works seamlessly with both Free and Premium plans.</p>
+<h3>GrammarlyはGoogle ドキュメントで使えますか？</h3>
+<p>はい。GrammarlyにはGoogle ドキュメント専用の連携機能があり、FreeでもPremiumでもシームレスに動作します。</p>
 
-<h3>Is Grammarly safe and private?</h3>
-<p>Grammarly processes your text on its servers for analysis. The company states it does not sell user data. Enterprise and Business plans offer enhanced security controls. For sensitive documents, consider this before installing.</p>
+<h3>Grammarlyは安全で、プライバシーは守られますか？</h3>
+<p>Grammarlyは、分析のためにサーバー上でテキストを処理します。同社は、ユーザーデータを販売していないと述べています。EnterpriseプランとBusinessプランでは、セキュリティ管理が強化されています。機密性の高いドキュメントについては、インストールする前にこの点を検討してください。</p>
 
-<p><em>Grammarly was tested by AIGradeLab across email, documents, and web writing over 30 days. Grade reflects practical value as of November 2026. 料金 verified on grammarly.com.</em></p>
+<p><em>Grammarlyは、AIGradeLabが30日間にわたり、メール、ドキュメント、ウェブ上の文章で検証しました。評価は2026年11月時点の実用的な価値を反映しています。料金はgrammarly.comで確認しています。</em></p>

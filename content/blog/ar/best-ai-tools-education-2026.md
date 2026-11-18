@@ -1,217 +1,217 @@
 ---
-title: "أفضل أدوات الذكاء الاصطناعي للتعليم في 2026"
-description: "دليل شامل لأفضل أدوات الذكاء الاصطناعي للتعليم. كل أداة مُقيَّمة بشفافية. نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل أدوات الذكاء الاصطناعي للتعليم في 2026: 8 أدوات للطلاب والمعلمين"
+description: "اختبرنا أفضل أدوات الذكاء الاصطناعي للتعلّم والمذاكرة والتدريس الخصوصي والتعليم. من ChatGPT إلى Quizlet إلى Gamma — كل أداة مُقيَّمة. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "14 min read"
+readTime: "وقت القراءة: 14 دقيقة"
 ---
 
-<h2>AI in Education: Study Smarter, Teach Faster</h2>
-<p>AI tools have transformed education in 2026. Students use them to understand complex topics, generate study materials, and get instant tutoring. Teachers use them to create lesson plans, grade faster, and differentiate instruction. The tools on this list were selected for their practical impact on real learning and teaching — not just flashy demos.</p>
+<h2>الذكاء الاصطناعي في التعليم: ذاكر بذكاء وعلّم بسرعة</h2>
+<p>غيّرت أدوات الذكاء الاصطناعي التعليم في 2026. يستخدمها الطلاب لفهم المواضيع المعقدة وتوليد مواد المذاكرة والحصول على تدريس خصوصي فوري. ويستخدمها المعلمون لإعداد خطط الدروس وتصحيح الأعمال بسرعة أكبر وتمايز التعليم. اخترنا الأدوات في هذه القائمة لأثرها العملي في التعلّم والتعليم الحقيقيين — لا لمجرد عروضها التوضيحية اللافتة.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Grade</th><th>Best For</th><th>Price</th></tr>
+    <tr><th>#</th><th>الأداة</th><th>التقييم</th><th>الأفضل لـ</th><th>السعر</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>ChatGPT</td><td><strong>A</strong></td><td>General AI tutor</td><td>Free / $20/mo</td></tr>
-    <tr><td>2</td><td>Claude</td><td><strong>A</strong></td><td>Research and essay writing</td><td>Free / $20/mo</td></tr>
-    <tr><td>3</td><td>Quizlet AI</td><td><strong>A</strong></td><td>Flashcards and study sets</td><td>Free / $8/mo</td></tr>
-    <tr><td>4</td><td>Gamma</td><td><strong>B+</strong></td><td>AI presentations for class</td><td>Free / $10/mo</td></tr>
-    <tr><td>5</td><td>Perplexity</td><td><strong>A</strong></td><td>Research with sources</td><td>Free / $20/mo</td></tr>
-    <tr><td>6</td><td>Grammarly</td><td><strong>B+</strong></td><td>Writing improvement</td><td>Free / $12/mo</td></tr>
-    <tr><td>7</td><td>Knowt</td><td><strong>B+</strong></td><td>Notes to flashcards</td><td>Free / $5/mo</td></tr>
-    <tr><td>8</td><td>Canva Education</td><td><strong>A</strong></td><td>Visual projects and posters</td><td>Free for educators</td></tr>
+    <tr><td>1</td><td>ChatGPT</td><td><strong>A</strong></td><td>مدرّس ذكاء اصطناعي عام</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>2</td><td>Claude</td><td><strong>A</strong></td><td>البحث وكتابة المقالات</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>3</td><td>Quizlet AI</td><td><strong>A</strong></td><td>البطاقات التعليمية ومجموعات المذاكرة</td><td>مجاني / $8/شهر</td></tr>
+    <tr><td>4</td><td>Gamma</td><td><strong>B+</strong></td><td>عروض تقديمية بالذكاء الاصطناعي للصف</td><td>مجاني / $10/شهر</td></tr>
+    <tr><td>5</td><td>Perplexity</td><td><strong>A</strong></td><td>البحث مع المصادر</td><td>مجاني / $20/شهر</td></tr>
+    <tr><td>6</td><td>Grammarly</td><td><strong>B+</strong></td><td>تحسين الكتابة</td><td>مجاني / $12/شهر</td></tr>
+    <tr><td>7</td><td>Knowt</td><td><strong>B+</strong></td><td>من الملاحظات إلى البطاقات التعليمية</td><td>مجاني / $5/شهر</td></tr>
+    <tr><td>8</td><td>Canva Education</td><td><strong>A</strong></td><td>المشاريع البصرية والملصقات</td><td>مجاني للمعلمين</td></tr>
   </tbody>
 </table>
 
-<h2>For Students</h2>
+<h2>للطلاب</h2>
 
-<h2>1. ChatGPT — Grade: A — Best AI Tutor</h2>
-<div class="score-card"><h3>ChatGPT Scores</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+<h2>1. ChatGPT — التقييم: A — أفضل مدرّس بالذكاء الاصطناعي</h2>
+<div class="score-card"><h3>تقييمات ChatGPT</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:92%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.2</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
 </div>
-<p>ChatGPT is the most versatile AI tutor available. Explain quantum physics in simple terms. Walk through a calculus problem step by step. Practice Spanish conversation. Debug Python code. Generate practice exam questions. Summarize a 30-page reading assignment. Upload a photo of a textbook page and ask questions about it. The voice mode turns ChatGPT into a conversation partner for language practice.</p>
-<h3>Best Student Uses</h3>
+<p>ChatGPT هو أكثر مدرّسي الذكاء الاصطناعي تنوعًا. اشرح فيزياء الكم بعبارات بسيطة. تابع مسألة تفاضل وتكامل خطوة بخطوة. تدرّب على محادثة بالإسبانية. صحّح أخطاء شيفرة Python. ولّد أسئلة امتحانات تدريبية. لخّص مادة قراءة من 30 صفحة. ارفع صورة لصفحة من كتاب دراسي واطرح أسئلة عنها. ويحوّل الوضع الصوتي ChatGPT إلى شريك محادثة لممارسة اللغات.</p>
+<h3>أفضل استخدامات الطلاب</h3>
 <ul>
-  <li>Step-by-step explanations of difficult concepts</li>
-  <li>Practice problem generation for any subject</li>
-  <li>Essay brainstorming and outline creation</li>
-  <li>Language learning through conversation (voice mode)</li>
-  <li>Photo of textbook → instant explanation</li>
-  <li>Code debugging and programming help</li>
+  <li>شروحات خطوة بخطوة للمفاهيم الصعبة</li>
+  <li>توليد مسائل تدريبية لأي مادة</li>
+  <li>العصف الذهني للمقالات وإنشاء المخططات</li>
+  <li>تعلّم اللغات عبر المحادثة (الوضع الصوتي)</li>
+  <li>صورة من كتاب دراسي ← شرح فوري</li>
+  <li>تصحيح الشيفرة والمساعدة في البرمجة</li>
 </ul>
-<h3>Important Note on Academic Integrity</h3>
-<p>ChatGPT should be used as a learning tool, not a homework machine. Use it to understand concepts, generate practice problems, and check your work — not to generate essays you submit as your own. Most universities have AI use policies — know yours.</p>
-<p><strong>Pricing:</strong> Free (GPT-4o). Plus $20/month. Best value: free tier covers most student needs.</p>
+<h3>ملاحظة مهمة حول النزاهة الأكاديمية</h3>
+<p>ينبغي استخدام ChatGPT كأداة تعلّم، لا كآلة لحل الواجبات. استخدمه لفهم المفاهيم وتوليد المسائل التدريبية والتحقق من عملك — لا لتوليد مقالات تقدّمها على أنها من عملك. لدى معظم الجامعات سياسات لاستخدام الذكاء الاصطناعي — فاعرف سياسة جامعتك.</p>
+<p><strong>التسعير:</strong> مجاني (GPT-4o). Plus بسعر $20/شهر. الأفضل قيمة: الباقة المجانية تغطي معظم احتياجات الطلاب.</p>
 
-<h2>2. Claude — Grade: A — Best for Research and Writing</h2>
-<p>Claude excels where students need depth — analyzing long research papers, working through complex arguments, and producing nuanced writing. The 200K+ token context window means you can upload entire textbooks, research papers, or course materials and ask questions about them. For graduate students and anyone writing research-heavy papers, Claude's analytical depth is unmatched.</p>
-<h3>Best Student Uses</h3>
+<h2>2. Claude — التقييم: A — الأفضل للبحث والكتابة</h2>
+<p>يتفوق Claude حيث يحتاج الطلاب إلى العمق — تحليل الأوراق البحثية الطويلة ومعالجة الحجج المعقدة وإنتاج كتابة دقيقة. وتعني نافذة السياق التي تتجاوز 200 ألف رمز أنه يمكنك رفع كتب دراسية كاملة أو أوراق بحثية أو مواد المقرر وطرح أسئلة عنها. وبالنسبة إلى طلاب الدراسات العليا وكل من يكتب أوراقًا كثيفة البحث، لا يُضاهى العمق التحليلي لـ Claude.</p>
+<h3>أفضل استخدامات الطلاب</h3>
 <ul>
-  <li>Upload and analyze entire research papers or textbooks</li>
-  <li>Help structure complex essays and arguments</li>
-  <li>Summarize academic papers with key findings</li>
-  <li>Explain difficult theoretical concepts with nuance</li>
-  <li>Review and improve draft essays (without writing them for you)</li>
+  <li>رفع وتحليل أوراق بحثية أو كتب دراسية كاملة</li>
+  <li>المساعدة في هيكلة المقالات والحجج المعقدة</li>
+  <li>تلخيص الأوراق الأكاديمية مع النتائج الرئيسية</li>
+  <li>شرح المفاهيم النظرية الصعبة بدقة</li>
+  <li>مراجعة مسودات المقالات وتحسينها (دون كتابتها نيابةً عنك)</li>
 </ul>
-<p><strong>Pricing:</strong> Free tier available. Pro $20/month.</p>
-<p><strong>Verdict:</strong> The best AI for serious academic work. Use Claude for research analysis and deep learning, ChatGPT for quick questions and practice problems. Read our full <a href="/ar/blog/claude-review-2026">Claude Review</a>.</p>
+<p><strong>التسعير:</strong> باقة مجانية متاحة. Pro بسعر $20/شهر.</p>
+<p><strong>الحكم:</strong> أفضل ذكاء اصطناعي للعمل الأكاديمي الجاد. استخدم Claude لتحليل الأبحاث والتعلّم العميق، وChatGPT للأسئلة السريعة والمسائل التدريبية. اقرأ <a href="/ar/blog/claude-review-2026">مراجعة Claude</a> الكاملة.</p>
 
-<h2>3. Quizlet AI — Grade: A — Best Study Tool</h2>
-<p>Quizlet has evolved from simple flashcards to an AI-powered study platform. Drop in your notes, textbook chapters, or lecture slides and Quizlet generates flashcard sets, practice tests, and study plans automatically. The AI tutor (Q-Chat) answers questions about your study material in conversation. The spaced repetition algorithm ensures you review material at optimal intervals for long-term retention.</p>
-<h3>Pros</h3>
+<h2>3. Quizlet AI — التقييم: A — أفضل أداة مذاكرة</h2>
+<p>تطور Quizlet من بطاقات تعليمية بسيطة إلى منصة مذاكرة مدعومة بالذكاء الاصطناعي. ضع ملاحظاتك أو فصول كتابك الدراسي أو شرائح المحاضرة وسيولّد Quizlet مجموعات بطاقات واختبارات تدريبية وخطط مذاكرة تلقائيًا. ويجيب مدرّس الذكاء الاصطناعي (Q-Chat) عن أسئلة حول مادة مذاكرتك في محادثة. وتضمن خوارزمية التكرار المتباعد مراجعتك المادة في فترات مثلى للاحتفاظ بها طويل الأمد.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>AI generates flashcards from notes, textbooks, or slides</li>
-  <li>Spaced repetition optimizes review timing for retention</li>
-  <li>Practice tests with explanations for wrong answers</li>
-  <li>Q-Chat AI tutor for conversational learning</li>
-  <li>400M+ existing study sets from other students</li>
-  <li>Learn mode adapts to your weaknesses</li>
+  <li>يولّد الذكاء الاصطناعي البطاقات التعليمية من الملاحظات أو الكتب الدراسية أو الشرائح</li>
+  <li>يحسّن التكرار المتباعد توقيت المراجعة للاحتفاظ بالمعلومات</li>
+  <li>اختبارات تدريبية مع شروحات للإجابات الخاطئة</li>
+  <li>مدرّس الذكاء الاصطناعي Q-Chat للتعلّم الحواري</li>
+  <li>أكثر من 400 مليون مجموعة مذاكرة جاهزة من طلاب آخرين</li>
+  <li>وضع Learn يتكيف مع نقاط ضعفك</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Best features require Plus ($8/month)</li>
-  <li>AI-generated cards sometimes need editing</li>
-  <li>Less useful for subjects that don't suit flashcard format</li>
+  <li>أفضل الميزات تتطلب Plus ($8/شهر)</li>
+  <li>البطاقات المولَّدة بالذكاء الاصطناعي تحتاج أحيانًا إلى تحرير</li>
+  <li>أقل فائدة للمواد التي لا تناسب صيغة البطاقات</li>
 </ul>
-<p><strong>Pricing:</strong> Free (basic flashcards). Plus $8/month (AI features, no ads). Annual $36/year.</p>
-<p><strong>Verdict:</strong> The essential study tool. If you study with flashcards at all, Quizlet AI makes creation instant and review scientifically optimized. The $8/month is the best education investment available.</p>
+<p><strong>التسعير:</strong> مجاني (بطاقات أساسية). Plus بسعر $8/شهر (ميزات الذكاء الاصطناعي دون إعلانات). سنوي $36/سنة.</p>
+<p><strong>الحكم:</strong> أداة المذاكرة الأساسية. إن كنت تذاكر بالبطاقات التعليمية أصلًا، فإن Quizlet AI يجعل إنشاءها فوريًا ومراجعتها محسّنة علميًا. وبسعر $8/شهر، فهو أفضل استثمار تعليمي متاح.</p>
 
-<h2>4. Gamma — Grade: B+ — Best AI Presentations</h2>
-<p>Gamma creates beautiful presentations from a text prompt. Describe your topic and Gamma generates a complete slide deck with layouts, images, and structured content. For class presentations, group projects, and teaching materials, Gamma produces polished decks in 2 minutes that would take 2 hours in PowerPoint. The free tier is generous enough for most student needs.</p>
-<h3>Pros</h3>
+<h2>4. Gamma — التقييم: B+ — أفضل عروض تقديمية بالذكاء الاصطناعي</h2>
+<p>تنشئ Gamma عروضًا تقديمية جميلة من وصف نصي. صِف موضوعك وستولّد Gamma عرضًا كاملًا بتخطيطات وصور ومحتوى منظم. وللعروض الصفية والمشاريع الجماعية ومواد التدريس، تنتج Gamma عروضًا مصقولة في دقيقتين كانت ستستغرق ساعتين في PowerPoint. والباقة المجانية سخية بما يكفي لمعظم احتياجات الطلاب.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Full presentation from a text prompt in minutes</li>
-  <li>Beautiful templates that look professional</li>
-  <li>Embedded videos, GIFs, and interactive content</li>
-  <li>Collaboration features for group projects</li>
-  <li>Free tier includes 400 AI credits</li>
+  <li>عرض تقديمي كامل من وصف نصي في دقائق</li>
+  <li>قوالب جميلة تبدو احترافية</li>
+  <li>فيديوهات وصور GIF ومحتوى تفاعلي مضمّن</li>
+  <li>ميزات تعاون للمشاريع الجماعية</li>
+  <li>تتضمن الباقة المجانية 400 رصيد ذكاء اصطناعي</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Less control than PowerPoint for custom layouts</li>
-  <li>Content can be surface-level — needs editing for depth</li>
-  <li>Gamma branding on free tier</li>
+  <li>تحكم أقل من PowerPoint في التخطيطات المخصصة</li>
+  <li>قد يكون المحتوى سطحيًا — يحتاج إلى تحرير لإضافة العمق</li>
+  <li>علامة Gamma التجارية في الباقة المجانية</li>
 </ul>
-<p><strong>Pricing:</strong> Free (400 credits, Gamma branding). Plus $10/month. Pro $20/month.</p>
-<p><strong>Verdict:</strong> The fastest way to create class presentations. Not a replacement for deep, manually crafted presentations for thesis defenses or major projects — but perfect for weekly assignments and group work.</p>
+<p><strong>التسعير:</strong> مجاني (400 رصيد، علامة Gamma التجارية). Plus بسعر $10/شهر. Pro بسعر $20/شهر.</p>
+<p><strong>الحكم:</strong> أسرع طريقة لإنشاء العروض الصفية. ليس بديلًا عن العروض العميقة المصنوعة يدويًا لمناقشات الأطروحات أو المشاريع الكبرى — لكنه مثالي للواجبات الأسبوعية والعمل الجماعي.</p>
 
-<h2>5. Perplexity — Grade: A — Best Research Assistant</h2>
-<p>Perplexity is the AI-powered research engine that every student should bookmark. Unlike ChatGPT, every answer comes with numbered source citations — you can verify every claim and include proper references in your papers. The Pro Search mode digs deeper, asking clarifying questions and synthesizing information from multiple sources into comprehensive research briefs.</p>
-<h3>Pros</h3>
+<h2>5. Perplexity — التقييم: A — أفضل مساعد بحث</h2>
+<p>Perplexity هو محرك البحث المدعوم بالذكاء الاصطناعي الذي ينبغي لكل طالب أن يحفظه في المفضلة. وخلافًا لـ ChatGPT، تأتي كل إجابة مع اقتباسات مصادر مرقّمة — يمكنك التحقق من كل ادعاء وتضمين المراجع الصحيحة في أوراقك. ويتعمق وضع Pro Search أكثر، فيطرح أسئلة توضيحية ويجمع المعلومات من مصادر متعددة في ملخصات بحثية شاملة.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Every answer cites sources — essential for academic work</li>
-  <li>Pro Search synthesizes multiple sources into research briefs</li>
-  <li>Academic focus mode filters for scholarly sources</li>
-  <li>Follow-up questions guide deeper research</li>
-  <li>Collections organize research by topic or project</li>
+  <li>كل إجابة تذكر مصادرها — ضروري للعمل الأكاديمي</li>
+  <li>يجمع Pro Search مصادر متعددة في ملخصات بحثية</li>
+  <li>وضع التركيز الأكاديمي يرشّح المصادر العلمية</li>
+  <li>أسئلة المتابعة توجّه بحثًا أعمق</li>
+  <li>تنظّم Collections الأبحاث حسب الموضوع أو المشروع</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Not a writing tool — research only</li>
-  <li>Pro ($20/month) needed for advanced search features</li>
-  <li>Sources aren't always academic quality</li>
+  <li>ليس أداة كتابة — للبحث فقط</li>
+  <li>Pro ($20/شهر) مطلوب لميزات البحث المتقدمة</li>
+  <li>المصادر ليست دائمًا بجودة أكاديمية</li>
 </ul>
-<p><strong>Pricing:</strong> Free (basic search). Pro $20/month (unlimited Pro Search).</p>
-<p><strong>Verdict:</strong> Essential for research papers and fact-checking. Use Perplexity for sourced research, Claude for analysis, and ChatGPT for understanding concepts. Read our full <a href="/ar/blog/perplexity-ai-review-2026">Perplexity Review</a>.</p>
+<p><strong>التسعير:</strong> مجاني (بحث أساسي). Pro بسعر $20/شهر (Pro Search غير محدود).</p>
+<p><strong>الحكم:</strong> ضروري للأوراق البحثية والتحقق من الحقائق. استخدم Perplexity للبحث الموثّق بالمصادر، وClaude للتحليل، وChatGPT لفهم المفاهيم. اقرأ <a href="/ar/blog/perplexity-ai-review-2026">مراجعة Perplexity</a> الكاملة.</p>
 
-<h2>For Teachers</h2>
+<h2>للمعلمين</h2>
 
-<h2>6. Grammarly — Grade: B+ — Best Writing Feedback Tool</h2>
-<p>Grammarly serves two roles in education. For students, it catches grammar and style errors in real-time as they write — across every website and app. For teachers, it provides consistent writing feedback without spending hours marking papers. The tone detector helps students learn to adjust their writing for different audiences — academic vs. casual vs. professional.</p>
-<h3>Best Education Uses</h3>
+<h2>6. Grammarly — التقييم: B+ — أفضل أداة لملاحظات الكتابة</h2>
+<p>يؤدي Grammarly دورين في التعليم. فبالنسبة إلى الطلاب، يلتقط أخطاء القواعد والأسلوب في الوقت الفعلي أثناء الكتابة — عبر كل موقع وتطبيق. وبالنسبة إلى المعلمين، يقدّم ملاحظات كتابية متسقة دون قضاء ساعات في تصحيح الأوراق. ويساعد كاشف النبرة الطلاب على تعلّم تكييف كتابتهم لجماهير مختلفة — أكاديمية مقابل عفوية مقابل مهنية.</p>
+<h3>أفضل الاستخدامات التعليمية</h3>
 <ul>
-  <li>Real-time grammar correction for student writing</li>
-  <li>Tone adjustment — academic, professional, casual</li>
-  <li>Plagiarism detection (Premium)</li>
-  <li>ESL/ELL student support</li>
-  <li>Consistent writing feedback across assignments</li>
+  <li>تصحيح القواعد في الوقت الفعلي لكتابة الطلاب</li>
+  <li>ضبط النبرة — أكاديمية أو مهنية أو عفوية</li>
+  <li>كشف الانتحال (Premium)</li>
+  <li>دعم الطلاب متعلمي اللغة الإنجليزية كلغة ثانية</li>
+  <li>ملاحظات كتابية متسقة عبر الواجبات</li>
 </ul>
-<p><strong>Pricing:</strong> Free (basic grammar). Premium $12/month. Grammarly for Education (institutional pricing).</p>
-<p><strong>Verdict:</strong> The free tier is valuable for every student writer. Premium adds plagiarism detection — useful for students who want to check their own work before submitting. Read our full <a href="/ar/blog/grammarly-review-2026">Grammarly Review</a>.</p>
+<p><strong>التسعير:</strong> مجاني (قواعد أساسية). Premium بسعر $12/شهر. Grammarly for Education (تسعير مؤسسي).</p>
+<p><strong>الحكم:</strong> الباقة المجانية قيّمة لكل طالب يكتب. ويضيف Premium كشف الانتحال — وهو مفيد للطلاب الذين يريدون فحص أعمالهم قبل التسليم. اقرأ <a href="/ar/blog/grammarly-review-2026">مراجعة Grammarly</a> الكاملة.</p>
 
-<h2>7. Knowt — Grade: B+ — Best Notes-to-Study Tool</h2>
-<p>Knowt takes your lecture notes, PDFs, and slides and automatically generates flashcards, practice tests, and study guides. The AI identifies key concepts, definitions, and relationships in your notes and creates study materials tailored to what you wrote. For students who take thorough notes but struggle to review them, Knowt bridges the gap between note-taking and studying.</p>
-<h3>Pros</h3>
+<h2>7. Knowt — التقييم: B+ — أفضل أداة من الملاحظات إلى المذاكرة</h2>
+<p>يأخذ Knowt ملاحظات محاضراتك وملفات PDF والشرائح ويولّد تلقائيًا بطاقات تعليمية واختبارات تدريبية وأدلة مذاكرة. يحدد الذكاء الاصطناعي المفاهيم الرئيسية والتعريفات والعلاقات في ملاحظاتك وينشئ مواد مذاكرة مصمّمة وفق ما كتبته. وللطلاب الذين يدوّنون ملاحظات وافية لكنهم يجدون صعوبة في مراجعتها، يسد Knowt الفجوة بين تدوين الملاحظات والمذاكرة.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Auto-generates flashcards from notes, PDFs, and slides</li>
-  <li>Practice test generation with multiple question types</li>
-  <li>Spaced repetition for optimal review timing</li>
-  <li>Free tier is more generous than Quizlet</li>
-  <li>Works with handwritten notes via photo upload</li>
+  <li>يولّد تلقائيًا بطاقات تعليمية من الملاحظات وملفات PDF والشرائح</li>
+  <li>توليد اختبارات تدريبية بأنواع أسئلة متعددة</li>
+  <li>تكرار متباعد لتوقيت مراجعة مثالي</li>
+  <li>الباقة المجانية أسخى من Quizlet</li>
+  <li>يعمل مع الملاحظات المكتوبة بخط اليد عبر رفع الصور</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Smaller community than Quizlet — fewer shared study sets</li>
-  <li>AI card quality depends on note quality</li>
-  <li>Less polished interface than Quizlet</li>
+  <li>مجتمع أصغر من Quizlet — مجموعات مذاكرة مشتركة أقل</li>
+  <li>تعتمد جودة بطاقات الذكاء الاصطناعي على جودة الملاحظات</li>
+  <li>واجهة أقل صقلًا من Quizlet</li>
 </ul>
-<p><strong>Pricing:</strong> Free (generous features). Plus $5/month.</p>
-<p><strong>Verdict:</strong> The best free alternative to Quizlet. If you take detailed notes and want them converted to study materials automatically, Knowt is excellent. At $5/month for Plus, it's cheaper than Quizlet too.</p>
+<p><strong>التسعير:</strong> مجاني (ميزات سخية). Plus بسعر $5/شهر.</p>
+<p><strong>الحكم:</strong> أفضل بديل مجاني لـ Quizlet. إن كنت تدوّن ملاحظات مفصّلة وتريد تحويلها تلقائيًا إلى مواد مذاكرة، فإن Knowt ممتاز. وبسعر $5/شهر لباقة Plus، فهو أرخص من Quizlet أيضًا.</p>
 
-<h2>8. Canva Education — Grade: A — Best Visual Learning Tool</h2>
-<p>Canva for Education is completely free for K-12 teachers and students — giving full access to Premium features that normally cost $13/month. Create lesson materials, class presentations, infographics, posters, worksheets, and video projects. The classroom management features let teachers create assignments and review student work within Canva.</p>
-<h3>Best Education Uses</h3>
+<h2>8. Canva Education — التقييم: A — أفضل أداة للتعلّم البصري</h2>
+<p>Canva for Education مجاني تمامًا لمعلمي وطلاب المرحلة من الروضة حتى الصف الثاني عشر — ويمنح وصولًا كاملًا إلى ميزات Premium التي تكلّف عادةً $13/شهر. أنشئ مواد دروس وعروضًا صفية ومخططات معلومات (إنفوغرافيك) وملصقات وأوراق عمل ومشاريع فيديو. وتتيح ميزات إدارة الفصل للمعلمين إنشاء الواجبات ومراجعة أعمال الطلاب داخل Canva.</p>
+<h3>أفضل الاستخدامات التعليمية</h3>
 <ul>
-  <li><strong>Teachers:</strong> Lesson plans, worksheets, classroom posters, presentations</li>
-  <li><strong>Students:</strong> Visual projects, infographics, group presentations, video assignments</li>
-  <li>Classroom integration — assign projects and review student work</li>
-  <li>100M+ stock photos and templates — all free for education</li>
-  <li>Video editing for multimedia assignments</li>
+  <li><strong>المعلمون:</strong> خطط الدروس وأوراق العمل وملصقات الفصل والعروض التقديمية</li>
+  <li><strong>الطلاب:</strong> المشاريع البصرية ومخططات المعلومات والعروض الجماعية وواجبات الفيديو</li>
+  <li>التكامل مع الفصل — كلّف بالمشاريع وراجع أعمال الطلاب</li>
+  <li>أكثر من 100 مليون صورة جاهزة وقالب — كلها مجانية للتعليم</li>
+  <li>مونتاج الفيديو للواجبات متعددة الوسائط</li>
 </ul>
-<p><strong>Pricing:</strong> Free for K-12 teachers and students (verified education accounts).</p>
-<p><strong>Verdict:</strong> Every teacher should sign up for Canva Education. Full Premium features at zero cost — there's no reason not to. For students working on visual projects, it's the easiest design tool available.</p>
+<p><strong>التسعير:</strong> مجاني لمعلمي وطلاب المرحلة من الروضة حتى الصف الثاني عشر (حسابات تعليمية موثّقة).</p>
+<p><strong>الحكم:</strong> ينبغي لكل معلم التسجيل في Canva Education. ميزات Premium الكاملة دون أي تكلفة — لا سبب لعدم ذلك. وبالنسبة إلى الطلاب العاملين على مشاريع بصرية، فهو أسهل أداة تصميم متاحة.</p>
 
-<h2>The Student AI Stack ($0-28/month)</h2>
+<h2>حزمة الذكاء الاصطناعي للطالب ($0-28/شهر)</h2>
 
-<h3>Free Stack ($0/month)</h3>
+<h3>الحزمة المجانية ($0/شهر)</h3>
 <ul>
-  <li>ChatGPT Free — AI tutor and concept explainer</li>
-  <li>Perplexity Free — sourced research</li>
-  <li>Quizlet Free — flashcards and study sets</li>
-  <li>Knowt Free — notes to study materials</li>
-  <li>Grammarly Free — writing correction</li>
-  <li>Canva Education Free — presentations and visuals</li>
-</ul>
-
-<h3>Paid Stack ($28/month)</h3>
-<ul>
-  <li>ChatGPT Plus ($20) — advanced tutoring, image analysis</li>
-  <li>Quizlet Plus ($8) — AI study features, no ads</li>
-  <li>Everything else stays free</li>
+  <li>ChatGPT المجاني — مدرّس بالذكاء الاصطناعي وشارح للمفاهيم</li>
+  <li>Perplexity المجاني — بحث موثّق بالمصادر</li>
+  <li>Quizlet المجاني — بطاقات تعليمية ومجموعات مذاكرة</li>
+  <li>Knowt المجاني — من الملاحظات إلى مواد المذاكرة</li>
+  <li>Grammarly المجاني — تصحيح الكتابة</li>
+  <li>Canva Education المجاني — العروض التقديمية والمرئيات</li>
 </ul>
 
-<h2>The Teacher AI Stack ($0-20/month)</h2>
+<h3>الحزمة المدفوعة ($28/شهر)</h3>
 <ul>
-  <li>Canva Education (Free) — all teaching materials</li>
-  <li>ChatGPT Free or Plus ($20) — lesson planning, differentiation</li>
-  <li>Gamma Free — quick presentation creation</li>
-  <li>Grammarly Free — student writing feedback tool</li>
+  <li>ChatGPT Plus ($20) — تدريس متقدم وتحليل الصور</li>
+  <li>Quizlet Plus ($8) — ميزات المذاكرة بالذكاء الاصطناعي دون إعلانات</li>
+  <li>كل ما عدا ذلك يبقى مجانيًا</li>
 </ul>
 
-<h2>FAQ</h2>
+<h2>حزمة الذكاء الاصطناعي للمعلم ($0-20/شهر)</h2>
+<ul>
+  <li>Canva Education (مجاني) — جميع مواد التدريس</li>
+  <li>ChatGPT المجاني أو Plus ($20) — إعداد الدروس وتمايز التعليم</li>
+  <li>Gamma المجاني — إنشاء عروض تقديمية سريعة</li>
+  <li>Grammarly المجاني — أداة ملاحظات على كتابة الطلاب</li>
+</ul>
 
-<h3>Is using AI cheating?</h3>
-<p>Using AI to understand concepts, generate practice problems, and improve your writing is learning. Using AI to generate essays you submit as your own is cheating. The line: did you learn something, or did the AI do the work for you? Most schools have specific AI use policies — know yours before using any tool for assignments.</p>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>What is the best free AI tool for students?</h3>
-<p><strong>ChatGPT Free</strong> for general tutoring and concept explanation. <strong>Perplexity Free</strong> for sourced research. <strong>Quizlet Free</strong> for flashcards. Combined, these three cover most student needs at zero cost.</p>
+<h3>هل استخدام الذكاء الاصطناعي غش؟</h3>
+<p>استخدام الذكاء الاصطناعي لفهم المفاهيم وتوليد المسائل التدريبية وتحسين كتابتك هو تعلّم. أما استخدامه لتوليد مقالات تقدّمها على أنها من عملك فهو غش. الخط الفاصل: هل تعلّمت شيئًا، أم أن الذكاء الاصطناعي أنجز العمل نيابةً عنك؟ لدى معظم المدارس سياسات محددة لاستخدام الذكاء الاصطناعي — فاعرف سياسة مدرستك قبل استخدام أي أداة في الواجبات.</p>
 
-<h3>Can teachers detect AI-generated work?</h3>
-<p>AI detection tools exist (Turnitin, GPTZero) but are not perfectly accurate — they produce false positives and false negatives. The best approach: use AI as a learning tool, write your own work, and be transparent with your instructors about how you used AI in your process.</p>
+<h3>ما أفضل أداة ذكاء اصطناعي مجانية للطلاب؟</h3>
+<p><strong>ChatGPT المجاني</strong> للتدريس العام وشرح المفاهيم. <strong>Perplexity المجاني</strong> للبحث الموثّق بالمصادر. <strong>Quizlet المجاني</strong> للبطاقات التعليمية. وبمجموعها، تغطي هذه الثلاث معظم احتياجات الطلاب دون تكلفة.</p>
 
-<h3>What is the best AI tool for teachers?</h3>
-<p><strong>Canva Education</strong> (free) for all teaching materials. <strong>ChatGPT</strong> for lesson planning, differentiation, and creating assessments. <strong>Gamma</strong> for quick presentations. All three have free tiers that cover most teaching needs.</p>
+<h3>هل يستطيع المعلمون اكتشاف الأعمال المولَّدة بالذكاء الاصطناعي؟</h3>
+<p>توجد أدوات كشف الذكاء الاصطناعي (Turnitin وGPTZero) لكنها ليست دقيقة تمامًا — فهي تنتج نتائج إيجابية كاذبة وسلبية كاذبة. أفضل نهج: استخدم الذكاء الاصطناعي كأداة تعلّم، واكتب عملك بنفسك، وكن شفافًا مع معلميك حول كيفية استخدامك للذكاء الاصطناعي في عمليتك.</p>
 
-<h3>Should students pay for AI tools?</h3>
-<p>The free tiers of ChatGPT, Perplexity, Quizlet, Knowt, Grammarly, and Canva Education cover most student needs. The one upgrade worth considering: Quizlet Plus at $8/month for serious studiers who use flashcards daily. ChatGPT Plus ($20/month) is worth it for graduate students doing heavy research.</p>
+<h3>ما أفضل أداة ذكاء اصطناعي للمعلمين؟</h3>
+<p><strong>Canva Education</strong> (مجاني) لجميع مواد التدريس. <strong>ChatGPT</strong> لإعداد الدروس وتمايز التعليم وإنشاء التقييمات. <strong>Gamma</strong> للعروض التقديمية السريعة. لدى الثلاثة باقات مجانية تغطي معظم احتياجات التدريس.</p>
 
-<p><em>Every tool was tested by AIGradeLab in real educational scenarios — undergraduate coursework, graduate research, and K-12 teaching. Grades reflect practical learning and teaching value as of November 2026. Pricing verified on each platform's website. For more student tools, read our <a href="/ar/blog/best-ai-tools-students-2026">Best AI Tools for Students</a> guide.</em></p>
+<h3>هل ينبغي للطلاب الدفع مقابل أدوات الذكاء الاصطناعي؟</h3>
+<p>تغطي الباقات المجانية من ChatGPT وPerplexity وQuizlet وKnowt وGrammarly وCanva Education معظم احتياجات الطلاب. الترقية الوحيدة التي تستحق النظر: Quizlet Plus بسعر $8/شهر للمذاكرين الجادين الذين يستخدمون البطاقات التعليمية يوميًا. وChatGPT Plus ($20/شهر) يستحق لطلاب الدراسات العليا الذين يجرون أبحاثًا مكثفة.</p>
+
+<p><em>اختبر AIGradeLab كل أداة في سيناريوهات تعليمية حقيقية — أعمال المرحلة الجامعية الأولى وأبحاث الدراسات العليا والتدريس من الروضة حتى الصف الثاني عشر. تعكس التقييمات القيمة العملية للتعلّم والتعليم حتى نوفمبر 2026. الأسعار تم التحقق منها على الموقع الرسمي لكل منصة. لمزيد من أدوات الطلاب، اقرأ دليلنا <a href="/ar/blog/best-ai-tools-students-2026">أفضل أدوات الذكاء الاصطناعي للطلاب</a>.</em></p>

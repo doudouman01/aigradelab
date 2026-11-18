@@ -1,218 +1,218 @@
 ---
-title: "أفضل محررات الصور بالذكاء الاصطناعي في 2026: أدوات مُختبرة ومُقيَّمة"
-description: "اختبرنا أفضل محررات الصور بالذكاء الاصطناعي مع تقييمات شفافة من A+ إلى F. محدّث نوفمبر 2026."
-category: "Best Picks"
+title: "أفضل محررات الصور بالذكاء الاصطناعي في 2026: 7 أدوات مُختبَرة ومُقيَّمة"
+description: "اختبرنا أبرز أدوات تحرير الصور بالذكاء الاصطناعي — لإزالة الخلفية والتحسين والتنقيح والترميم. Photoshop وLuminar وPhotoroom وغيرها. تحديث نوفمبر 2026."
+category: "أفضل الاختيارات"
 categorySlug: "best-picks"
 date: "2026-11-17"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "وقت القراءة: 13 دقيقة"
 ---
 
-<h2>AI Photo Editing in 2026: One Click Does What Took One Hour</h2>
-<p>AI has transformed photo editing from a skilled craft into a series of one-click operations. Remove backgrounds instantly. Enhance low-quality photos to sharp, detailed images. Remove unwanted objects without a trace. Retouch portraits naturally. Restore old damaged photos. Expand images beyond their borders. The tools on this list handle the edits that used to require hours in Photoshop — in seconds.</p>
+<h2>تحرير الصور بالذكاء الاصطناعي في 2026: نقرة واحدة تنجز ما كان يستغرق ساعة</h2>
+<p>حوّل الذكاء الاصطناعي تحرير الصور من حرفة تتطلب مهارة إلى سلسلة عمليات بنقرة واحدة. أزل الخلفيات فورًا. حسّن الصور منخفضة الجودة لتصبح حادة ومفصّلة. أزل الأجسام غير المرغوبة دون أثر. نقّح البورتريهات بطبيعية. رمّم الصور القديمة التالفة. ووسّع الصور خارج حدودها. تتولى الأدوات الواردة في هذه القائمة التعديلات التي كانت تتطلب ساعات في Photoshop — في ثوانٍ.</p>
 
-<h2>Quick Comparison</h2>
+<h2>مقارنة سريعة</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Grade</th><th>Best For</th><th>Price</th></tr>
+    <tr><th>#</th><th>الأداة</th><th>التقييم</th><th>الأفضل لـ</th><th>السعر</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Adobe Photoshop (Firefly)</td><td><strong>A</strong></td><td>Professional AI editing</td><td>$23/mo (Photography plan)</td></tr>
-    <tr><td>2</td><td>Luminar Neo</td><td><strong>A</strong></td><td>AI-powered photo enhancement</td><td>$12/mo or $149 lifetime</td></tr>
-    <tr><td>3</td><td>Photoroom</td><td><strong>A</strong></td><td>E-commerce product photos</td><td>Free / $13/mo</td></tr>
-    <tr><td>4</td><td>Remove.bg</td><td><strong>B+</strong></td><td>Background removal</td><td>Free / $9/mo</td></tr>
-    <tr><td>5</td><td>Topaz Photo AI</td><td><strong>B+</strong></td><td>Upscaling and denoising</td><td>$199 lifetime</td></tr>
-    <tr><td>6</td><td>Canva</td><td><strong>B+</strong></td><td>Quick edits for non-editors</td><td>Free / $13/mo</td></tr>
-    <tr><td>7</td><td>Remini</td><td><strong>B</strong></td><td>Old photo restoration</td><td>Free / $10/mo</td></tr>
+    <tr><td>1</td><td>Adobe Photoshop (Firefly)</td><td><strong>A</strong></td><td>التحرير الاحترافي بالذكاء الاصطناعي</td><td>$23/شهر (باقة Photography)</td></tr>
+    <tr><td>2</td><td>Luminar Neo</td><td><strong>A</strong></td><td>تحسين الصور بالذكاء الاصطناعي</td><td>$12/شهر أو $149 مدى الحياة</td></tr>
+    <tr><td>3</td><td>Photoroom</td><td><strong>A</strong></td><td>صور منتجات التجارة الإلكترونية</td><td>مجاني / $13/شهر</td></tr>
+    <tr><td>4</td><td>Remove.bg</td><td><strong>B+</strong></td><td>إزالة الخلفية</td><td>مجاني / $9/شهر</td></tr>
+    <tr><td>5</td><td>Topaz Photo AI</td><td><strong>B+</strong></td><td>التكبير وإزالة التشويش</td><td>$199 مدى الحياة</td></tr>
+    <tr><td>6</td><td>Canva</td><td><strong>B+</strong></td><td>تعديلات سريعة لغير المحررين</td><td>مجاني / $13/شهر</td></tr>
+    <tr><td>7</td><td>Remini</td><td><strong>B</strong></td><td>ترميم الصور القديمة</td><td>مجاني / $10/شهر</td></tr>
   </tbody>
 </table>
 
-<h2>1. Adobe Photoshop (Firefly AI) — Grade: A — Best Professional Editor</h2>
-<div class="score-card"><h3>Photoshop + Firefly Scores</h3>
-  <div class="score-row"><span class="score-label">Ease of Use</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
-  <div class="score-row"><span class="score-label">Output Quality</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
-  <div class="score-row"><span class="score-label">Value for Money</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
-  <div class="score-row"><span class="score-label">Integration</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
-  <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
+<h2>1. Adobe Photoshop (Firefly AI) — التقييم: A — أفضل محرر احترافي</h2>
+<div class="score-card"><h3>تقييمات Photoshop + Firefly</h3>
+  <div class="score-row"><span class="score-label">سهولة الاستخدام</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
+  <div class="score-row"><span class="score-label">جودة المخرجات</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:95%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.5</span></div>
+  <div class="score-row"><span class="score-label">القيمة مقابل المال</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:78%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.8</span></div>
+  <div class="score-row"><span class="score-label">التكامل</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:90%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">9.0</span></div>
+  <div class="score-row"><span class="score-label">الدعم</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
 </div>
-<p>Photoshop with Adobe Firefly is the most powerful AI photo editor available. Generative Fill lets you select any area and describe what you want — "add a sunset sky," "remove the person on the left," "extend the background 50% wider" — and Firefly fills it photorealistically. The results blend seamlessly because Firefly understands lighting, perspective, and context.</p>
-<h3>Key AI Features</h3>
+<p>Photoshop مع Adobe Firefly هو أقوى محرر صور بالذكاء الاصطناعي متاح. تتيح لك ميزة Generative Fill تحديد أي منطقة ووصف ما تريده — «أضف سماء الغروب»، «أزل الشخص على اليسار»، «وسّع الخلفية بنسبة 50%» — ويملؤها Firefly بواقعية فوتوغرافية. تندمج النتائج بسلاسة لأن Firefly يفهم الإضاءة والمنظور والسياق.</p>
+<h3>أبرز ميزات الذكاء الاصطناعي</h3>
 <ul>
-  <li><strong>Generative Fill:</strong> Select an area, describe what to add or change — the best in-context AI generation</li>
-  <li><strong>Generative Expand:</strong> Extend images beyond their original borders naturally</li>
-  <li><strong>Remove Tool:</strong> Brush over objects and they disappear — AI fills the gap</li>
-  <li><strong>Neural Filters:</strong> AI portrait retouching, style transfer, colorization</li>
-  <li><strong>Select Subject:</strong> One-click precise selection of people, objects, and backgrounds</li>
-  <li><strong>AI Sky Replacement:</strong> Swap skies with realistic lighting adjustment</li>
+  <li><strong>Generative Fill:</strong> حدّد منطقة ثم صِف ما تريد إضافته أو تغييره — أفضل توليد بالذكاء الاصطناعي ضمن السياق</li>
+  <li><strong>Generative Expand:</strong> وسّع الصور خارج حدودها الأصلية بطبيعية</li>
+  <li><strong>أداة الإزالة (Remove Tool):</strong> مرّر الفرشاة على الأجسام فتختفي — ويملأ الذكاء الاصطناعي الفراغ</li>
+  <li><strong>Neural Filters:</strong> تنقيح البورتريه ونقل الأسلوب والتلوين بالذكاء الاصطناعي</li>
+  <li><strong>Select Subject:</strong> تحديد دقيق بنقرة واحدة للأشخاص والأجسام والخلفيات</li>
+  <li><strong>استبدال السماء بالذكاء الاصطناعي:</strong> بدّل السماء مع ضبط واقعي للإضاءة</li>
 </ul>
-<h3>Pros</h3>
+<h3>المزايا</h3>
 <ul>
-  <li>Best AI editing quality — Generative Fill is unmatched</li>
-  <li>Full professional editing suite alongside AI features</li>
-  <li>Commercially safe — Firefly trained on licensed content</li>
-  <li>Seamless integration with Lightroom, Illustrator, and Creative Cloud</li>
-  <li>Non-destructive editing with AI layers</li>
+  <li>أفضل جودة تحرير بالذكاء الاصطناعي — Generative Fill لا يضاهى</li>
+  <li>حزمة تحرير احترافية كاملة إلى جانب ميزات الذكاء الاصطناعي</li>
+  <li>آمن تجاريًا — Firefly مدرَّب على محتوى مرخَّص</li>
+  <li>تكامل سلس مع Lightroom وIllustrator وCreative Cloud</li>
+  <li>تحرير غير مدمِّر مع طبقات الذكاء الاصطناعي</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Steep learning curve for Photoshop beginners</li>
-  <li>$23/month Photography plan (Photoshop + Lightroom)</li>
-  <li>Heavy software — requires a capable computer</li>
-  <li>Firefly credits limited per month</li>
+  <li>منحنى تعلّم حاد لمبتدئي Photoshop</li>
+  <li>باقة Photography بسعر $23/شهر (Photoshop + Lightroom)</li>
+  <li>برنامج ثقيل — يتطلب حاسوبًا قويًا</li>
+  <li>أرصدة Firefly محدودة شهريًا</li>
 </ul>
-<p><strong>Pricing:</strong> Photography plan $23/month (Photoshop + Lightroom + 100 Firefly credits). All Apps $60/month.</p>
-<p><strong>Verdict:</strong> The undisputed best for professional photo editing. If you edit photos seriously — for clients, for print, for brand work — Photoshop with Firefly is the standard. For quick edits and non-professionals, the other tools on this list are easier and cheaper.</p>
+<p><strong>التسعير:</strong> باقة Photography بسعر $23/شهر (Photoshop + Lightroom + 100 رصيد Firefly). All Apps بسعر $60/شهر.</p>
+<p><strong>الحكم:</strong> الأفضل بلا منازع للتحرير الاحترافي للصور. إن كنت تحرّر الصور بجدية — للعملاء أو للطباعة أو لأعمال العلامات التجارية — فإن Photoshop مع Firefly هو المعيار. أما للتعديلات السريعة وغير المحترفين، فالأدوات الأخرى في هذه القائمة أسهل وأرخص.</p>
 
-<h2>2. Luminar Neo — Grade: A — Best AI Enhancement</h2>
-<p>Luminar Neo is the AI photo editor for photographers who want Photoshop-quality results without Photoshop's complexity. Every edit is AI-powered and one-click: enhance sky, relight the scene, remove objects, boost details, reduce noise, replace background, and retouch portraits. The AI understands photography — it adjusts exposure, color, and detail differently for landscapes, portraits, and architecture.</p>
-<h3>Key AI Features</h3>
+<h2>2. Luminar Neo — التقييم: A — أفضل تحسين بالذكاء الاصطناعي</h2>
+<p>Luminar Neo هو محرر الصور بالذكاء الاصطناعي للمصورين الذين يريدون نتائج بمستوى Photoshop دون تعقيده. كل تعديل مدعوم بالذكاء الاصطناعي وبنقرة واحدة: تحسين السماء، وإعادة إضاءة المشهد، وإزالة الأجسام، وتعزيز التفاصيل، وتقليل التشويش، واستبدال الخلفية، وتنقيح البورتريهات. يفهم الذكاء الاصطناعي التصوير — فيعدّل التعريض واللون والتفاصيل بشكل مختلف للمناظر الطبيعية والبورتريهات والعمارة.</p>
+<h3>أبرز ميزات الذكاء الاصطناعي</h3>
 <ul>
-  <li><strong>AI Enhance:</strong> One-click automatic improvement of exposure, color, and detail</li>
-  <li><strong>AI Sky Replacement:</strong> Swap skies with automatic lighting and reflection adjustment</li>
-  <li><strong>AI Relight:</strong> Change lighting direction and intensity after the shot</li>
-  <li><strong>AI Object Removal:</strong> Brush over objects for clean removal</li>
-  <li><strong>AI Portrait Enhancement:</strong> Natural skin smoothing, eye enhancement, face light</li>
-  <li><strong>AI Denoise and Sharpen:</strong> Rescue noisy or soft images</li>
-  <li><strong>GenErase:</strong> AI-powered content-aware object removal</li>
+  <li><strong>AI Enhance:</strong> تحسين تلقائي بنقرة واحدة للتعريض واللون والتفاصيل</li>
+  <li><strong>استبدال السماء بالذكاء الاصطناعي:</strong> بدّل السماء مع ضبط تلقائي للإضاءة والانعكاسات</li>
+  <li><strong>AI Relight:</strong> غيّر اتجاه الإضاءة وشدتها بعد التصوير</li>
+  <li><strong>إزالة الأجسام بالذكاء الاصطناعي:</strong> مرّر الفرشاة على الأجسام لإزالة نظيفة</li>
+  <li><strong>تحسين البورتريه بالذكاء الاصطناعي:</strong> تنعيم طبيعي للبشرة وتحسين للعيون وإضاءة للوجه</li>
+  <li><strong>إزالة التشويش والتحديد بالذكاء الاصطناعي:</strong> أنقذ الصور المشوشة أو الباهتة</li>
+  <li><strong>GenErase:</strong> إزالة أجسام مدركة للمحتوى بالذكاء الاصطناعي</li>
 </ul>
-<h3>Pros</h3>
+<h3>المزايا</h3>
 <ul>
-  <li>Fastest workflow — AI handles 80% of editing automatically</li>
-  <li>Beautiful results for landscapes and portraits</li>
-  <li>Lifetime purchase option ($149) — no subscription required</li>
-  <li>Much easier than Photoshop</li>
-  <li>Extensions add specialized AI tools</li>
+  <li>أسرع مسار عمل — يتولى الذكاء الاصطناعي 80% من التحرير تلقائيًا</li>
+  <li>نتائج جميلة للمناظر الطبيعية والبورتريهات</li>
+  <li>خيار الشراء مدى الحياة ($149) — دون حاجة إلى اشتراك</li>
+  <li>أسهل بكثير من Photoshop</li>
+  <li>الإضافات تضيف أدوات ذكاء اصطناعي متخصصة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Less control than Photoshop for complex compositing</li>
-  <li>AI enhancements can look over-processed if not adjusted</li>
-  <li>Extensions cost extra ($49-99 each)</li>
-  <li>Performance can be slow on older hardware</li>
+  <li>تحكم أقل من Photoshop في التركيب المعقد</li>
+  <li>قد تبدو تحسينات الذكاء الاصطناعي مبالغًا في معالجتها إن لم تُضبط</li>
+  <li>الإضافات بتكلفة إضافية ($49-99 لكل منها)</li>
+  <li>قد يكون الأداء بطيئًا على العتاد القديم</li>
 </ul>
-<p><strong>Pricing:</strong> Subscription $12/month. Lifetime license $149 (one-time). Extensions separate.</p>
-<p><strong>Verdict:</strong> The best choice for photographers who want AI-powered editing without the Photoshop learning curve. The lifetime purchase option makes it the best long-term value for enthusiast and semi-pro photographers.</p>
+<p><strong>التسعير:</strong> اشتراك $12/شهر. ترخيص مدى الحياة $149 (دفعة واحدة). الإضافات منفصلة.</p>
+<p><strong>الحكم:</strong> الخيار الأفضل للمصورين الذين يريدون تحريرًا مدعومًا بالذكاء الاصطناعي دون منحنى تعلّم Photoshop. ويجعله خيار الشراء مدى الحياة الأفضل قيمةً على المدى الطويل للهواة وأشباه المحترفين.</p>
 
-<h2>3. Photoroom — Grade: A — Best for Product Photos</h2>
-<p>Photoroom is the AI photo editor built for e-commerce. Upload a product photo and Photoroom removes the background, places the product on a professional backdrop, adds shadows, adjusts lighting, and creates a studio-quality product image — in seconds. For Shopify sellers, Amazon FBA businesses, and anyone selling products online, Photoroom transforms phone photos into professional listings.</p>
-<h3>Key Features</h3>
+<h2>3. Photoroom — التقييم: A — الأفضل لصور المنتجات</h2>
+<p>Photoroom هو محرر الصور بالذكاء الاصطناعي المبني للتجارة الإلكترونية. ارفع صورة منتج وسيزيل Photoroom الخلفية، ويضع المنتج على خلفية احترافية، ويضيف الظلال، ويضبط الإضاءة، وينشئ صورة منتج بجودة الاستوديو — في ثوانٍ. وبالنسبة إلى بائعي Shopify وأعمال Amazon FBA وكل من يبيع منتجات عبر الإنترنت، يحوّل Photoroom صور الهاتف إلى قوائم منتجات احترافية.</p>
+<h3>الميزات الرئيسية</h3>
 <ul>
-  <li><strong>Instant Background Removal:</strong> Best-in-class for products — handles complex edges, glass, and reflections</li>
-  <li><strong>AI Backgrounds:</strong> Place products on professional studio, lifestyle, or custom backdrops</li>
-  <li><strong>AI Shadow:</strong> Add realistic shadows that match the backdrop lighting</li>
-  <li><strong>Batch Processing:</strong> Edit hundreds of product photos with consistent settings</li>
-  <li><strong>Resize for Platforms:</strong> One photo optimized for Amazon, Shopify, Instagram, eBay</li>
+  <li><strong>إزالة الخلفية الفورية:</strong> الأفضل في فئته للمنتجات — يتعامل مع الحواف المعقدة والزجاج والانعكاسات</li>
+  <li><strong>خلفيات الذكاء الاصطناعي:</strong> ضع المنتجات على خلفيات استوديو احترافية أو أسلوب حياة أو مخصصة</li>
+  <li><strong>ظلال الذكاء الاصطناعي:</strong> أضف ظلالًا واقعية تتوافق مع إضاءة الخلفية</li>
+  <li><strong>المعالجة الدفعية:</strong> حرّر مئات صور المنتجات بإعدادات متسقة</li>
+  <li><strong>تغيير الحجم للمنصات:</strong> صورة واحدة محسّنة لـ Amazon وShopify وInstagram وeBay</li>
 </ul>
-<h3>Pros</h3>
+<h3>المزايا</h3>
 <ul>
-  <li>Best product photo AI available — designed specifically for e-commerce</li>
-  <li>Phone app is surprisingly powerful</li>
-  <li>Batch processing saves hours for large catalogs</li>
-  <li>Free tier with usable features</li>
-  <li>API available for automation</li>
+  <li>أفضل ذكاء اصطناعي لصور المنتجات متاح — مصمم خصيصًا للتجارة الإلكترونية</li>
+  <li>تطبيق الهاتف قوي على نحو مفاجئ</li>
+  <li>المعالجة الدفعية توفر ساعات للكتالوجات الكبيرة</li>
+  <li>باقة مجانية بميزات قابلة للاستخدام</li>
+  <li>واجهة API متاحة للأتمتة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>Focused on product/e-commerce — limited for general photo editing</li>
-  <li>Watermark on some free exports</li>
-  <li>AI backgrounds can look artificial on close inspection</li>
+  <li>يركّز على المنتجات/التجارة الإلكترونية — محدود لتحرير الصور العام</li>
+  <li>علامة مائية على بعض الصادرات المجانية</li>
+  <li>قد تبدو خلفيات الذكاء الاصطناعي اصطناعية عند الفحص عن قرب</li>
 </ul>
-<p><strong>Pricing:</strong> Free (watermark on some features). Pro $13/month. Enterprise custom.</p>
-<p><strong>Verdict:</strong> Essential for anyone selling products online. Photoroom turns phone photos into professional product images for $13/month — replacing product photography sessions that cost $200-500 per shoot.</p>
+<p><strong>التسعير:</strong> مجاني (علامة مائية في بعض الميزات). Pro بسعر $13/شهر. Enterprise بتسعير مخصص.</p>
+<p><strong>الحكم:</strong> ضروري لكل من يبيع منتجات عبر الإنترنت. يحوّل Photoroom صور الهاتف إلى صور منتجات احترافية بسعر $13/شهر — ليحل محل جلسات تصوير المنتجات التي تكلّف $200-500 للجلسة.</p>
 
-<h2>4. Remove.bg — Grade: B+ — Best Background Removal</h2>
-<p>Remove.bg does one thing and does it brilliantly: remove image backgrounds. Upload a photo and the background disappears in 5 seconds — with impressive accuracy even around hair, transparent objects, and complex edges. No editing skills required. The simplicity is the product — when all you need is a background removed, Remove.bg is the fastest option.</p>
-<h3>Pros</h3>
+<h2>4. Remove.bg — التقييم: B+ — الأفضل لإزالة الخلفية</h2>
+<p>يفعل Remove.bg شيئًا واحدًا ويتقنه ببراعة: إزالة خلفيات الصور. ارفع صورة وتختفي الخلفية في 5 ثوانٍ — بدقة مبهرة حتى حول الشعر والأجسام الشفافة والحواف المعقدة. لا حاجة إلى مهارات تحرير. البساطة هي المنتج — فحين لا تحتاج إلا إلى إزالة الخلفية، يكون Remove.bg الخيار الأسرع.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Best standalone background removal quality</li>
-  <li>5 seconds per image — no editing required</li>
-  <li>Handles hair, fur, and semi-transparent objects well</li>
-  <li>API for bulk processing and integration</li>
-  <li>Free for standard resolution</li>
+  <li>أفضل جودة لإزالة الخلفية كأداة مستقلة</li>
+  <li>5 ثوانٍ للصورة — دون حاجة إلى تحرير</li>
+  <li>يتعامل جيدًا مع الشعر والفراء والأجسام شبه الشفافة</li>
+  <li>واجهة API للمعالجة الجماعية والتكامل</li>
+  <li>مجاني بالدقة القياسية</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>One feature only — background removal</li>
-  <li>HD downloads require credits ($9/month for 40 credits)</li>
-  <li>Canva and Photoshop include this feature in broader tools</li>
+  <li>ميزة واحدة فقط — إزالة الخلفية</li>
+  <li>تنزيلات HD تتطلب أرصدة ($9/شهر مقابل 40 رصيدًا)</li>
+  <li>تتضمن Canva وPhotoshop هذه الميزة ضمن أدوات أوسع</li>
 </ul>
-<p><strong>Pricing:</strong> Free (standard resolution). Subscription $9/month (40 HD credits). Pay-as-you-go available.</p>
-<p><strong>Verdict:</strong> The best if background removal is your primary need and you don't use Canva or Photoshop. For most users, Canva Pro's Background Remover ($13/month with all other features) is better value.</p>
+<p><strong>التسعير:</strong> مجاني (دقة قياسية). اشتراك $9/شهر (40 رصيد HD). الدفع حسب الاستخدام متاح.</p>
+<p><strong>الحكم:</strong> الأفضل إن كانت إزالة الخلفية حاجتك الأساسية ولا تستخدم Canva أو Photoshop. أما لمعظم المستخدمين، فأداة إزالة الخلفية في Canva Pro ($13/شهر مع جميع الميزات الأخرى) أفضل قيمة.</p>
 
-<h2>5. Topaz Photo AI — Grade: B+ — Best Upscaling</h2>
-<p>Topaz Photo AI specializes in AI upscaling, denoising, and sharpening — rescuing low-quality, noisy, or blurry photos. Upload a small, noisy image and Topaz enlarges it 4-6x while adding genuine detail (not just blur). For photographers working with old files, low-light shots, or cropped images, Topaz recovers quality that other tools can't.</p>
-<h3>Pros</h3>
+<h2>5. Topaz Photo AI — التقييم: B+ — الأفضل للتكبير</h2>
+<p>يتخصص Topaz Photo AI في تكبير الصور وإزالة التشويش والتحديد بالذكاء الاصطناعي — لإنقاذ الصور منخفضة الجودة أو المشوشة أو الضبابية. ارفع صورة صغيرة مشوشة وسيكبّرها Topaz من 4 إلى 6 أضعاف مع إضافة تفاصيل حقيقية (لا مجرد ضبابية). وللمصورين الذين يعملون مع ملفات قديمة أو لقطات في إضاءة خافتة أو صور مقتطعة، يستعيد Topaz جودة لا تستطيع أدوات أخرى استعادتها.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Best AI upscaling available — adds real detail, not blur</li>
-  <li>Exceptional denoising for high-ISO images</li>
-  <li>Sharpening that recovers genuine detail from soft images</li>
-  <li>One-time purchase — no subscription</li>
-  <li>Batch processing for large photo libraries</li>
+  <li>أفضل تكبير بالذكاء الاصطناعي متاح — يضيف تفاصيل حقيقية لا ضبابية</li>
+  <li>إزالة تشويش استثنائية للصور عالية ISO</li>
+  <li>تحديد يستعيد تفاصيل حقيقية من الصور الباهتة</li>
+  <li>شراء لمرة واحدة — دون اشتراك</li>
+  <li>معالجة دفعية لمكتبات الصور الكبيرة</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>$199 one-time cost is significant</li>
-  <li>Focused on enhancement only — not a general editor</li>
-  <li>Requires a capable GPU for fast processing</li>
-  <li>Annual updates cost extra</li>
+  <li>تكلفة $199 لمرة واحدة مبلغ كبير</li>
+  <li>يركّز على التحسين فقط — ليس محررًا عامًا</li>
+  <li>يتطلب بطاقة رسومات GPU قوية لمعالجة سريعة</li>
+  <li>التحديثات السنوية بتكلفة إضافية</li>
 </ul>
-<p><strong>Pricing:</strong> $199 one-time purchase. Annual upgrade plan available.</p>
-<p><strong>Verdict:</strong> The best tool for rescuing and enhancing image quality. If you regularly work with low-quality source images, Topaz pays for itself. For most users, Luminar Neo's denoise and sharpen features are sufficient.</p>
+<p><strong>التسعير:</strong> شراء لمرة واحدة بسعر $199. خطة ترقية سنوية متاحة.</p>
+<p><strong>الحكم:</strong> أفضل أداة لإنقاذ جودة الصور وتحسينها. إن كنت تعمل بانتظام مع صور مصدر منخفضة الجودة، فإن Topaz يسدّد ثمنه. وبالنسبة إلى معظم المستخدمين، تكفي ميزتا إزالة التشويش والتحديد في Luminar Neo.</p>
 
-<h2>6. Canva — Grade: B+ — Best for Quick Edits</h2>
-<p>Canva's AI photo editing features handle the most common edits non-professionals need: Background Remover (one click), Magic Eraser (remove objects), Magic Expand (extend images), auto-enhance, and filters. The edits are built into Canva's design workflow — edit the photo and immediately use it in a social media post, presentation, or flyer.</p>
-<h3>Best Uses</h3>
+<h2>6. Canva — التقييم: B+ — الأفضل للتعديلات السريعة</h2>
+<p>تتولى ميزات تحرير الصور بالذكاء الاصطناعي في Canva أكثر التعديلات شيوعًا التي يحتاجها غير المحترفين: إزالة الخلفية (نقرة واحدة)، والممحاة السحرية (إزالة الأجسام)، والتوسيع السحري (تمديد الصور)، والتحسين التلقائي، والمرشحات. التعديلات مدمجة في مسار التصميم في Canva — حرّر الصورة واستخدمها فورًا في منشور وسائل التواصل الاجتماعي أو عرض تقديمي أو نشرة.</p>
+<h3>أفضل الاستخدامات</h3>
 <ul>
-  <li>Background removal for social media and marketing</li>
-  <li>Quick object removal from photos</li>
-  <li>Photo enhancement for non-photographers</li>
-  <li>Resize and crop for every social platform</li>
+  <li>إزالة الخلفية لوسائل التواصل الاجتماعي والتسويق</li>
+  <li>إزالة سريعة للأجسام من الصور</li>
+  <li>تحسين الصور لغير المصورين</li>
+  <li>تغيير الحجم والاقتصاص لكل منصة تواصل اجتماعي</li>
 </ul>
-<p><strong>Pricing:</strong> Free (limited editing). Pro $13/month (Background Remover, Magic Eraser, all AI features).</p>
-<p><strong>Verdict:</strong> Not a photo editor — but for quick AI edits within a design workflow, Canva handles the basics better than any standalone app. Background Remover alone justifies Pro for many users. Read our full <a href="/ar/blog/canva-review-2026">Canva Review</a>.</p>
+<p><strong>التسعير:</strong> مجاني (تحرير محدود). Pro بسعر $13/شهر (إزالة الخلفية والممحاة السحرية وجميع ميزات الذكاء الاصطناعي).</p>
+<p><strong>الحكم:</strong> ليس محرر صور — لكن للتعديلات السريعة بالذكاء الاصطناعي ضمن مسار التصميم، يتولى Canva الأساسيات أفضل من أي تطبيق مستقل. وأداة إزالة الخلفية وحدها تبرّر Pro لدى كثير من المستخدمين. اقرأ <a href="/ar/blog/canva-review-2026">مراجعة Canva</a> الكاملة.</p>
 
-<h2>7. Remini — Grade: B — Best for Old Photo Restoration</h2>
-<p>Remini restores old, damaged, and low-quality photos using AI. Upload a faded 1960s family photo and Remini enhances faces, adds detail, improves color, and produces a sharp, clear version. The face enhancement is particularly impressive — turning blurry faces into clear, recognizable portraits. For family photos, historical images, and personal memories, Remini brings the past back to life.</p>
-<h3>Pros</h3>
+<h2>7. Remini — التقييم: B — الأفضل لترميم الصور القديمة</h2>
+<p>يرمم Remini الصور القديمة والتالفة ومنخفضة الجودة بالذكاء الاصطناعي. ارفع صورة عائلية باهتة من الستينيات وسيحسّن Remini الوجوه ويضيف التفاصيل ويحسّن الألوان وينتج نسخة حادة وواضحة. وتحسين الوجوه مبهر خاصةً — إذ يحوّل الوجوه الضبابية إلى بورتريهات واضحة يمكن التعرف عليها. وللصور العائلية والصور التاريخية والذكريات الشخصية، يعيد Remini الماضي إلى الحياة.</p>
+<h3>المزايا</h3>
 <ul>
-  <li>Best old photo restoration — faces, detail, and color</li>
-  <li>Mobile app makes it accessible to everyone</li>
-  <li>Free tier with daily enhancements</li>
-  <li>Video enhancement available</li>
+  <li>أفضل ترميم للصور القديمة — الوجوه والتفاصيل والألوان</li>
+  <li>تطبيق الجوال يجعله متاحًا للجميع</li>
+  <li>باقة مجانية بتحسينات يومية</li>
+  <li>تحسين الفيديو متاح</li>
 </ul>
-<h3>Cons</h3>
+<h3>العيوب</h3>
 <ul>
-  <li>AI face enhancement can alter features</li>
-  <li>Free tier limited to a few enhancements per day</li>
-  <li>Not a general photo editor</li>
-  <li>Heavy advertising in the free app</li>
+  <li>قد يغيّر تحسين الوجوه بالذكاء الاصطناعي الملامح</li>
+  <li>الباقة المجانية محدودة ببضعة تحسينات يوميًا</li>
+  <li>ليس محرر صور عامًا</li>
+  <li>إعلانات كثيفة في التطبيق المجاني</li>
 </ul>
-<p><strong>Pricing:</strong> Free (limited daily). Pro $10/month (unlimited).</p>
-<p><strong>Verdict:</strong> The best tool for restoring old family photos. The emotional value of bringing clarity to faded memories is hard to put a price on. For professional photo restoration, Photoshop with Firefly offers more control.</p>
+<p><strong>التسعير:</strong> مجاني (محدود يوميًا). Pro بسعر $10/شهر (غير محدود).</p>
+<p><strong>الحكم:</strong> أفضل أداة لترميم الصور العائلية القديمة. فالقيمة العاطفية لإعادة الوضوح إلى الذكريات الباهتة يصعب تقديرها بثمن. أما لترميم الصور الاحترافي، فيقدّم Photoshop مع Firefly تحكمًا أكبر.</p>
 
-<h2>Which AI Photo Editor Should You Choose?</h2>
+<h2>أي محرر صور بالذكاء الاصطناعي ينبغي أن تختار؟</h2>
 <ul>
-  <li><strong>Professional photographers:</strong> Photoshop + Firefly ($23/mo) — the complete solution</li>
-  <li><strong>Enthusiast photographers:</strong> Luminar Neo ($12/mo or $149) — AI-powered without complexity</li>
-  <li><strong>E-commerce sellers:</strong> Photoroom ($13/mo) — product photos in seconds</li>
-  <li><strong>Quick background removal:</strong> Canva Pro ($13/mo) — editing + design in one</li>
-  <li><strong>Upscaling and rescue:</strong> Topaz Photo AI ($199) — best quality enhancement</li>
-  <li><strong>Old photo restoration:</strong> Remini (Free / $10/mo) — bring memories back to life</li>
-  <li><strong>Non-editors who need edits:</strong> Canva Pro ($13/mo) — easiest for everyone</li>
+  <li><strong>المصورون المحترفون:</strong> Photoshop + Firefly ($23/شهر) — الحل المتكامل</li>
+  <li><strong>المصورون الهواة:</strong> Luminar Neo ($12/شهر أو $149) — ذكاء اصطناعي دون تعقيد</li>
+  <li><strong>بائعو التجارة الإلكترونية:</strong> Photoroom ($13/شهر) — صور منتجات في ثوانٍ</li>
+  <li><strong>إزالة سريعة للخلفية:</strong> Canva Pro ($13/شهر) — تحرير وتصميم في أداة واحدة</li>
+  <li><strong>التكبير والإنقاذ:</strong> Topaz Photo AI ($199) — أفضل تحسين للجودة</li>
+  <li><strong>ترميم الصور القديمة:</strong> Remini (مجاني / $10/شهر) — أعد الذكريات إلى الحياة</li>
+  <li><strong>غير المحررين الذين يحتاجون إلى تعديلات:</strong> Canva Pro ($13/شهر) — الأسهل للجميع</li>
 </ul>
 
-<h2>FAQ</h2>
+<h2>الأسئلة الشائعة</h2>
 
-<h3>What is the best AI photo editor in 2026?</h3>
-<p><strong>Photoshop with Firefly</strong> for professionals — Generative Fill is unmatched. <strong>Luminar Neo</strong> for photographers who want AI simplicity. <strong>Photoroom</strong> for e-commerce product photos.</p>
+<h3>ما أفضل محرر صور بالذكاء الاصطناعي في 2026؟</h3>
+<p><strong>Photoshop مع Firefly</strong> للمحترفين — Generative Fill لا يضاهى. <strong>Luminar Neo</strong> للمصورين الذين يريدون بساطة الذكاء الاصطناعي. <strong>Photoroom</strong> لصور منتجات التجارة الإلكترونية.</p>
 
-<h3>Can AI photo editing replace Photoshop?</h3>
-<p>For common edits (background removal, enhancement, object removal) — yes, tools like Luminar Neo and Canva handle them faster. For complex compositing, color grading, and professional retouching — Photoshop remains essential.</p>
+<h3>هل يمكن أن يحل تحرير الصور بالذكاء الاصطناعي محل Photoshop؟</h3>
+<p>للتعديلات الشائعة (إزالة الخلفية والتحسين وإزالة الأجسام) — نعم، تتولاها أدوات مثل Luminar Neo وCanva أسرع. أما للتركيب المعقد وتدرج الألوان والتنقيح الاحترافي — فيظل Photoshop ضروريًا.</p>
 
-<h3>Is AI photo editing free?</h3>
-<p>Canva Free, Photoroom Free, Remove.bg Free, and Remini Free all offer usable AI editing at no cost. For professional quality, paid tiers ($10-23/month) are worth the upgrade.</p>
+<h3>هل تحرير الصور بالذكاء الاصطناعي مجاني؟</h3>
+<p>تقدّم Canva المجانية وPhotoroom المجاني وRemove.bg المجاني وRemini المجاني جميعها تحريرًا قابلًا للاستخدام بالذكاء الاصطناعي دون تكلفة. أما للجودة الاحترافية، فالباقات المدفوعة ($10-23/شهر) تستحق الترقية.</p>
 
-<h3>Can AI upscale photos without losing quality?</h3>
-<p>Yes — <strong>Topaz Photo AI</strong> is the best at this. It genuinely adds detail when upscaling, not just blur. Results are impressive for 2-4x enlargements. Beyond 6x, even AI struggles to maintain quality.</p>
+<h3>هل يستطيع الذكاء الاصطناعي تكبير الصور دون فقدان الجودة؟</h3>
+<p>نعم — <strong>Topaz Photo AI</strong> هو الأفضل في ذلك. إنه يضيف تفاصيل حقيقية عند التكبير لا مجرد ضبابية. والنتائج مبهرة عند التكبير من 2 إلى 4 أضعاف. وما بعد 6 أضعاف، يجد حتى الذكاء الاصطناعي صعوبة في الحفاظ على الجودة.</p>
 
-<p><em>Every tool was tested by AIGradeLab across photography, e-commerce, and design editing workflows. Grades reflect practical editing value as of November 2026. Pricing verified on each platform's website.</em></p>
+<p><em>اختبر AIGradeLab كل أداة عبر مسارات تحرير التصوير والتجارة الإلكترونية والتصميم. تعكس التقييمات القيمة العملية للتحرير حتى نوفمبر 2026. الأسعار تم التحقق منها على الموقع الرسمي لكل منصة.</em></p>
