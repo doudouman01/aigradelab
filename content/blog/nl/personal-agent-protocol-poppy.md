@@ -1,160 +1,160 @@
 ---
-title: "Personal Agent Protocol (Poppy): The New Standard That Lets AI Agents Act on Your Behalf"
-description: "Sierra released Poppy 1.0 on November 13, 2026 — an open protocol that defines how personal AI agents connect to businesses, authenticate users, and complete tasks. Shopify and Meta are already on board."
+title: "Personal Agent Protocol (Poppy): de nieuwe standaard waarmee AI-agents namens jou kunnen handelen"
+description: "Sierra bracht op 13 november 2026 Poppy 1.0 uit, een open protocol dat bepaalt hoe persoonlijke AI-agents verbinding maken met bedrijven, gebruikers authenticeren en taken afronden. Shopify en Meta doen al mee."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-19"
-readTime: "8 min read"
+readTime: "8 min leestijd"
 ---
 
-<h2>AI Agents Just Got a Front Door to Every Business</h2>
+<h2>AI-agents hebben zojuist een voordeur naar elk bedrijf gekregen</h2>
 
-<p>On November 13, 2026, Sierra released Personal Agent Protocol 1.0 — an open standard it calls <strong>Poppy</strong> — that defines how a person's AI agent connects to a business through its website, APIs, or business agent. The protocol is already live: Shopify auto-enabled it across its entire merchant platform, and Meta's Muse agent now looks for Poppy when visiting any website.</p>
+<p>Op 13 november 2026 bracht Sierra Personal Agent Protocol 1.0 uit, een open standaard die het <strong>Poppy</strong> noemt en die bepaalt hoe de AI-agent van een persoon via de website, API's of de zakelijke agent van een bedrijf verbinding maakt met dat bedrijf. Het protocol is al live: Shopify heeft het automatisch ingeschakeld voor zijn hele merchantplatform en de Muse-agent van Meta zoekt nu naar Poppy bij elke website die hij bezoekt.</p>
 
-<p>This is not a theoretical spec. It's deployed infrastructure that's changing how AI agents interact with the commercial internet right now.</p>
+<p>Dit is geen theoretische specificatie. Het is werkende infrastructuur die nu al verandert hoe AI-agents met het commerciële internet omgaan.</p>
 
-<h2>Why Poppy Exists</h2>
+<h2>Waarom Poppy bestaat</h2>
 
-<p>The trigger was a real conflict. In September 2026, Amazon blocked Meta's Muse agent from its store, citing scraping concerns. That happened just 12 days after Muse launched. The incident exposed a fundamental problem: there was no standard way for AI agents to identify themselves, authenticate users, and interact with businesses.</p>
+<p>De aanleiding was een echt conflict. In september 2026 blokkeerde Amazon de Muse-agent van Meta in zijn winkel, met verwijzing naar zorgen over scraping. Dat gebeurde slechts 12 dagen nadat Muse was gelanceerd. Het incident legde een fundamenteel probleem bloot: er was geen standaardmanier voor AI-agents om zich te identificeren, gebruikers te authenticeren en met bedrijven te communiceren.</p>
 
-<p>Without a protocol, every agent-to-business interaction was essentially web scraping — a legal and technical gray area that companies like Amazon weren't willing to tolerate.</p>
+<p>Zonder protocol was elke interactie tussen agent en bedrijf in feite webscraping, een juridische en technische grijze zone die bedrijven als Amazon niet wilden tolereren.</p>
 
-<p>Sierra (co-founded by former Salesforce CEO Bret Taylor) and Meta developed Poppy to solve this. The protocol gives businesses a way to recognize when they're dealing with an AI agent, verify who it represents, and control what it can do.</p>
+<p>Sierra (mede-opgericht door Bret Taylor, voormalig CEO van Salesforce) en Meta ontwikkelden Poppy om dit op te lossen. Het protocol geeft bedrijven een manier om te herkennen dat ze met een AI-agent te maken hebben, te verifiëren wie die vertegenwoordigt en te bepalen wat die mag doen.</p>
 
-<h2>How Poppy Works: Five Building Blocks</h2>
+<h2>Hoe Poppy werkt: vijf bouwstenen</h2>
 
-<p>Poppy is built on five core components that work together:</p>
+<p>Poppy is opgebouwd uit vijf kerncomponenten die samenwerken:</p>
 
 <h3>1. Discovery</h3>
 
-<p>Businesses publish a <code>/.well-known/poppy.json</code> file on their website — similar to how <code>robots.txt</code> tells search crawlers what to index. This file declares how agents can connect, what login methods are available, and what capabilities are exposed. Any AI agent can read this file to understand how to interact with the business.</p>
+<p>Bedrijven publiceren een bestand <code>/.well-known/poppy.json</code> op hun website, vergelijkbaar met hoe <code>robots.txt</code> zoekcrawlers vertelt wat ze moeten indexeren. Dit bestand geeft aan hoe agents verbinding kunnen maken, welke inlogmethoden beschikbaar zijn en welke mogelijkheden worden aangeboden. Elke AI-agent kan dit bestand lezen om te begrijpen hoe hij met het bedrijf kan communiceren.</p>
 
-<h3>2. Identity</h3>
+<h3>2. Identiteit</h3>
 
-<p>When an AI agent arrives, the business can clearly identify that it's dealing with "User X's AI agent" rather than an anonymous bot. The agent presents cryptographic credentials (client_id, public key, callback address) that establish its identity. This is critical — businesses need to know they're serving a legitimate agent, not a scraper or attacker.</p>
+<p>Wanneer een AI-agent arriveert, kan het bedrijf duidelijk zien dat het te maken heeft met "de AI-agent van gebruiker X" in plaats van met een anonieme bot. De agent toont cryptografische inloggegevens (client_id, publieke sleutel, callback-adres) waarmee hij zijn identiteit vaststelt. Dit is cruciaal: bedrijven moeten weten dat ze een legitieme agent bedienen, en geen scraper of aanvaller.</p>
 
-<h3>3. Authentication (OAuth-Based)</h3>
+<h3>3. Authenticatie (op basis van OAuth)</h3>
 
-<p>Poppy uses OAuth, the same standard that powers "Sign in with Google" and similar flows. The user signs in on the business's own page — the AI agent never sees the password. After authentication, the agent receives a scoped session token with minimal permissions. This means your agent can browse your Amazon account, but only with the permissions you explicitly grant.</p>
+<p>Poppy gebruikt OAuth, dezelfde standaard als achter "Inloggen met Google" en vergelijkbare flows. De gebruiker logt in op de eigen pagina van het bedrijf; de AI-agent ziet het wachtwoord nooit. Na authenticatie ontvangt de agent een sessietoken met beperkte reikwijdte en minimale rechten. Je agent kan dus je Amazon-account bekijken, maar alleen met de rechten die jij uitdrukkelijk verleent.</p>
 
-<h3>4. Tiered Permissions</h3>
+<h3>4. Gelaagde rechten</h3>
 
-<p>Permissions are split into five levels, from fully prohibited to full access. Businesses decide which level to offer, and users decide how much to grant. At the basic level (<code>poppy:read</code>), an agent can check balances and view orders. Write operations like making purchases require separate <code>poppy:write</code> authorization.</p>
+<p>Rechten zijn verdeeld in vijf niveaus, van volledig verboden tot volledige toegang. Bedrijven bepalen welk niveau ze aanbieden en gebruikers bepalen hoeveel ze verlenen. Op het basisniveau (<code>poppy:read</code>) kan een agent saldo's controleren en bestellingen bekijken. Schrijfhandelingen zoals aankopen vereisen aparte <code>poppy:write</code>-autorisatie.</p>
 
-<h3>5. Cross-Channel Sessions</h3>
+<h3>5. Sessies over kanalen heen</h3>
 
-<p>A single authentication token works across the business's website, API, and even its own AI agent. If you authenticate with a retailer through Poppy, your agent can seamlessly move between browsing products on the website, checking inventory through the API, and negotiating returns with the retailer's AI customer service agent — all in one session.</p>
+<p>Eén authenticatietoken werkt op de website, de API en zelfs de eigen AI-agent van het bedrijf. Authenticeer je via Poppy bij een winkel, dan kan je agent naadloos wisselen tussen producten bekijken op de website, de voorraad controleren via de API en retouren regelen met de AI-klantenservice-agent van de winkel, allemaal in één sessie.</p>
 
-<h2>Who's Already Using Poppy?</h2>
+<h2>Wie gebruikt Poppy al?</h2>
 
-<p>The launch partners represent a serious cross-section of commerce:</p>
+<p>De lanceringspartners vormen een serieuze dwarsdoorsnede van de handel:</p>
 
 <table>
   <thead>
     <tr>
-      <th>Company</th>
-      <th>Role</th>
-      <th>What They're Doing</th>
+      <th>Bedrijf</th>
+      <th>Rol</th>
+      <th>Wat ze doen</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Shopify</strong></td>
-      <td>Platform partner</td>
-      <td>Auto-enabled Poppy across all merchants — millions of stores are now agent-accessible</td>
+      <td>Platformpartner</td>
+      <td>Poppy automatisch ingeschakeld voor alle merchants: miljoenen winkels zijn nu toegankelijk voor agents</td>
     </tr>
     <tr>
       <td><strong>Meta (Muse)</strong></td>
-      <td>Agent partner</td>
-      <td>Muse now checks for Poppy when visiting any website, using it to authenticate and transact</td>
+      <td>Agentpartner</td>
+      <td>Muse controleert nu op Poppy bij elke website die hij bezoekt en gebruikt het om te authenticeren en transacties uit te voeren</td>
     </tr>
     <tr>
       <td><strong>Walmart</strong></td>
-      <td>Founding partner</td>
-      <td>Retail agent access for shopping and order management</td>
+      <td>Oprichtende partner</td>
+      <td>Toegang voor retailagents voor winkelen en orderbeheer</td>
     </tr>
     <tr>
       <td><strong>Stripe</strong></td>
-      <td>Payments partner</td>
-      <td>Contributing payment capabilities so agents can complete purchases</td>
+      <td>Betalingspartner</td>
+      <td>Levert betaalmogelijkheden zodat agents aankopen kunnen afronden</td>
     </tr>
     <tr>
       <td><strong>Rocket</strong></td>
-      <td>Finance partner</td>
-      <td>Demonstrated Muse getting pre-approved for a mortgage through Poppy at Sierra Summit</td>
+      <td>Financiële partner</td>
+      <td>Liet tijdens de Sierra Summit zien hoe Muse via Poppy een hypotheek vooraf goedgekeurd kreeg</td>
     </tr>
   </tbody>
 </table>
 
-<p>The full design partner list includes 35+ companies: Adyen, Bank of America, BBVA, Chime, Cigna, Cloudflare, Comcast, DIRECTV, ElevenLabs, FOX, Gap Inc., GEICO, Hertz, and many more. This isn't a startup experiment — it's enterprise infrastructure.</p>
+<p>De volledige lijst van designpartners omvat 35+ bedrijven: Adyen, Bank of America, BBVA, Chime, Cigna, Cloudflare, Comcast, DIRECTV, ElevenLabs, FOX, Gap Inc., GEICO, Hertz en nog veel meer. Dit is geen startup-experiment, het is enterprise-infrastructuur.</p>
 
-<h2>Poppy + ChatGPT Wallet: The Commerce Stack Takes Shape</h2>
+<h2>Poppy + ChatGPT Wallet: de commercestack krijgt vorm</h2>
 
-<p>Poppy's release comes the same week as OpenAI's ChatGPT Wallet launch (November 13). Together, they reveal the emerging architecture of AI-powered commerce:</p>
+<p>De release van Poppy valt in dezelfde week als de lancering van ChatGPT Wallet van OpenAI (13 november). Samen laten ze de opkomende architectuur van AI-gestuurde handel zien:</p>
 
 <ul>
-  <li><strong>Poppy</strong> handles identity and authorization — how an agent proves who it represents and what it's allowed to do</li>
-  <li><strong>ChatGPT Wallet</strong> handles payment — how an agent pays for things without exposing card numbers</li>
-  <li><strong>Business agents (Sierra, Genesys, etc.)</strong> handle fulfillment — the business-side AI that processes orders and handles customer service</li>
+  <li><strong>Poppy</strong> regelt identiteit en autorisatie: hoe een agent bewijst wie hij vertegenwoordigt en wat hij mag doen</li>
+  <li><strong>ChatGPT Wallet</strong> regelt betaling: hoe een agent ergens voor betaalt zonder kaartnummers bloot te geven</li>
+  <li><strong>Zakelijke agents (Sierra, Genesys, enz.)</strong> regelen de afhandeling: de AI aan de kant van het bedrijf die bestellingen verwerkt en klantenservice levert</li>
 </ul>
 
-<p>Put them together and you get a world where your AI agent can browse Shopify stores, authenticate with your account, select products, pay with your wallet, and handle returns — all without you opening a browser.</p>
+<p>Zet je ze samen, dan krijg je een wereld waarin je AI-agent Shopify-winkels kan doorbladeren, zich kan authenticeren met jouw account, producten kan selecteren, met jouw wallet kan betalen en retouren kan afhandelen, allemaal zonder dat jij een browser opent.</p>
 
-<h2>What This Means for Businesses</h2>
+<h2>Wat dit betekent voor bedrijven</h2>
 
-<p>If you run an online store, Poppy should be on your radar immediately. Here's why:</p>
+<p>Als je een webwinkel runt, moet Poppy meteen op je radar staan. Dit is waarom:</p>
 
-<h3>The Distribution Shift</h3>
+<h3>De verschuiving in distributie</h3>
 
-<p>When Shopify auto-enabled Poppy across its platform, it instantly made millions of stores accessible to AI agents. If your store is on Shopify, you're already in the protocol — agents can already discover and interact with you. If you're not on Shopify, you're invisible to every agent that uses Poppy for discovery.</p>
+<p>Toen Shopify Poppy automatisch inschakelde voor zijn hele platform, werden miljoenen winkels in één klap toegankelijk voor AI-agents. Staat je winkel op Shopify, dan zit je al in het protocol: agents kunnen je al ontdekken en met je communiceren. Zit je niet op Shopify, dan ben je onzichtbaar voor elke agent die Poppy gebruikt om te ontdekken.</p>
 
-<h3>Implementation</h3>
+<h3>Implementatie</h3>
 
-<p>For non-Shopify businesses, implementing Poppy requires:</p>
+<p>Voor bedrijven die niet op Shopify zitten vereist het implementeren van Poppy het volgende:</p>
 
 <ol>
-  <li>Publishing a <code>/.well-known/poppy.json</code> discovery file</li>
-  <li>Setting up OAuth endpoints for agent authentication</li>
-  <li>Defining permission levels and capabilities</li>
-  <li>Testing with agent partners (Meta Muse is the primary test agent right now)</li>
+  <li>Een discoverybestand <code>/.well-known/poppy.json</code> publiceren</li>
+  <li>OAuth-endpoints instellen voor de authenticatie van agents</li>
+  <li>Rechtenniveaus en mogelijkheden definiëren</li>
+  <li>Testen met agentpartners (Meta Muse is momenteel de belangrijkste testagent)</li>
 </ol>
 
-<p>Poppy is built on existing standards (OAuth, JWT, HTTPS, OpenAPI, MCP), so most businesses can implement it using tools they already have.</p>
+<p>Poppy is gebouwd op bestaande standaarden (OAuth, JWT, HTTPS, OpenAPI, MCP), dus de meeste bedrijven kunnen het implementeren met tools die ze al hebben.</p>
 
-<h2>What This Means for AI Tool Users</h2>
+<h2>Wat dit betekent voor gebruikers van AI-tools</h2>
 
-<p>If you use AI agents — Claude, ChatGPT, Gemini, or Meta's Muse — Poppy matters because it's the infrastructure that will determine <strong>what your agent can actually do for you</strong>.</p>
+<p>Gebruik je AI-agents (Claude, ChatGPT, Gemini of Muse van Meta), dan doet Poppy ertoe omdat het de infrastructuur is die bepaalt <strong>wat je agent daadwerkelijk voor je kan doen</strong>.</p>
 
-<p>Right now, most AI agents are limited to answering questions and generating content. Poppy opens the door to agents that:</p>
-
-<ul>
-  <li>Shop for you across any Poppy-enabled store</li>
-  <li>Manage your subscriptions and accounts</li>
-  <li>Handle customer service interactions</li>
-  <li>Compare prices and find deals across multiple retailers</li>
-  <li>Get pre-approved for financial products</li>
-</ul>
-
-<p>The key word is "you." Poppy is designed with user control at its center. You authenticate, you grant permissions, you can revoke access at any time. The agent acts on your behalf, not on its own.</p>
-
-<h2>Security Considerations</h2>
-
-<p>Poppy's security model is worth examining closely:</p>
+<p>Op dit moment beperken de meeste AI-agents zich tot vragen beantwoorden en content genereren. Poppy opent de deur naar agents die:</p>
 
 <ul>
-  <li><strong>Users sign in themselves:</strong> The agent never sees your password. Authentication happens on the business's own page</li>
-  <li><strong>Minimal permissions:</strong> Agents get the least access needed for the task. Reading your order history doesn't grant permission to place orders</li>
-  <li><strong>Full audit trail:</strong> Businesses can see the complete history of what an agent did in a session</li>
-  <li><strong>Instant revocation:</strong> Users can disconnect any agent from any account at any time</li>
-  <li><strong>DPoP (Demonstration of Proof-of-Possession):</strong> Signed assertions prevent token theft — a stolen token can't be used by a different agent</li>
+  <li>voor je winkelen in elke winkel die Poppy ondersteunt</li>
+  <li>je abonnementen en accounts beheren</li>
+  <li>klantenservicegesprekken afhandelen</li>
+  <li>prijzen vergelijken en deals vinden bij meerdere retailers</li>
+  <li>vooraf goedkeuring krijgen voor financiële producten</li>
 </ul>
 
-<p>The model is sound in theory. The real test will be at scale — when millions of agents are transacting simultaneously across thousands of businesses.</p>
+<p>Het sleutelwoord is "jij". Poppy is ontworpen met gebruikerscontrole als middelpunt. Jij authenticeert, jij verleent rechten, jij kunt de toegang op elk moment intrekken. De agent handelt namens jou, niet op eigen houtje.</p>
 
-<h2>Conclusie</h2>
+<h2>Beveiligingsoverwegingen</h2>
 
-<p>Poppy 1.0 is one of those infrastructure releases that doesn't get the headlines of a new model launch but may end up mattering more. It's the plumbing that will enable AI agents to move from "answering questions" to "doing things" — and doing things means interacting with businesses on your behalf.</p>
+<p>Het beveiligingsmodel van Poppy verdient een nadere blik:</p>
 
-<p>The speed of adoption is what makes Poppy notable. Shopify's platform-wide rollout and Meta's Muse integration mean Poppy is already live at massive scale. If other ecommerce platforms follow, the protocol could become the standard way AI agents interact with the commercial internet within months, not years.</p>
+<ul>
+  <li><strong>Gebruikers loggen zelf in:</strong> De agent ziet je wachtwoord nooit. Authenticatie vindt plaats op de eigen pagina van het bedrijf</li>
+  <li><strong>Minimale rechten:</strong> Agents krijgen de minste toegang die voor de taak nodig is. Je bestelgeschiedenis lezen geeft geen toestemming om bestellingen te plaatsen</li>
+  <li><strong>Volledig auditspoor:</strong> Bedrijven kunnen de volledige geschiedenis zien van wat een agent in een sessie deed</li>
+  <li><strong>Directe intrekking:</strong> Gebruikers kunnen elke agent op elk moment van elk account loskoppelen</li>
+  <li><strong>DPoP (Demonstration of Proof-of-Possession):</strong> Ondertekende bevestigingen voorkomen tokendiefstal: een gestolen token kan niet door een andere agent worden gebruikt</li>
+</ul>
 
-<p><em>Building AI-powered tools? Explore the free utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a> — QR generators, invoice builders, PDF tools, and more.</em></p>
+<p>Het model klopt in theorie. De echte test komt op schaal, wanneer miljoenen agents tegelijk transacties uitvoeren bij duizenden bedrijven.</p>
+
+<h2>De kern</h2>
+
+<p>Poppy 1.0 is een van die infrastructuurreleases die niet de krantenkoppen haalt van de lancering van een nieuw model, maar uiteindelijk misschien belangrijker blijkt. Het is de leidingen die AI-agents in staat stellen te veranderen van "vragen beantwoorden" naar "dingen doen", en dingen doen betekent namens jou met bedrijven communiceren.</p>
+
+<p>De snelheid van adoptie maakt Poppy opmerkelijk. Door de uitrol van Shopify over het hele platform en de integratie met Muse van Meta is Poppy al op grote schaal live. Als andere e-commerceplatforms volgen, kan het protocol binnen maanden, niet jaren, de standaardmanier worden waarop AI-agents met het commerciële internet omgaan.</p>
+
+<p><em>Bouw je AI-gestuurde tools? Ontdek de gratis hulpmiddelen op <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a>: QR-generators, factuurbouwers, pdf-tools en meer.</em></p>

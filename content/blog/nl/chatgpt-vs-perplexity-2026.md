@@ -1,124 +1,124 @@
 ---
-title: "ChatGPT vs Perplexity 2026: Which AI Should You Use for Research?"
-description: "We tested ChatGPT and Perplexity head-to-head for research, accuracy, sources, and everyday use. Full comparison with scores. Updated November 2026."
+title: "ChatGPT vs Perplexity 2026: welke AI moet je gebruiken voor onderzoek?"
+description: "We testten ChatGPT en Perplexity rechtstreeks tegen elkaar op onderzoek, nauwkeurigheid, bronnen en dagelijks gebruik. Volledige vergelijking met cijfers. Bijgewerkt in november 2026."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "Nov 2026"
-readTime: "12 min read"
+readTime: "12 min leestijd"
 ---
 
-<h2>Two AIs, Two Philosophies</h2>
-<p>ChatGPT and Perplexity approach the same question — "help me find accurate information" — from opposite directions. ChatGPT is a conversational AI that can also search the web. Perplexity is a search engine that uses AI to synthesize results. The difference matters: ChatGPT writes confidently, sometimes without evidence. Perplexity cites every claim, sometimes at the cost of creativity. We tested both across 50+ real research tasks to find where each excels.</p>
+<h2>Twee AI's, twee filosofieën</h2>
+<p>ChatGPT en Perplexity benaderen dezelfde vraag, "help me nauwkeurige informatie te vinden", vanuit tegengestelde richtingen. ChatGPT is een conversationele AI die ook op het web kan zoeken. Perplexity is een zoekmachine die AI gebruikt om resultaten samen te vatten. Het verschil doet ertoe: ChatGPT schrijft zelfverzekerd, soms zonder bewijs. Perplexity onderbouwt elke bewering met een bron, soms ten koste van creativiteit. We testten beide met meer dan 50 echte onderzoekstaken om te zien waar elk uitblinkt.</p>
 
-<h2>Quick Comparison</h2>
+<h2>Snelle vergelijking</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>ChatGPT</th><th>Perplexity</th></tr>
+    <tr><th>Functie</th><th>ChatGPT</th><th>Perplexity</th></tr>
   </thead>
   <tbody>
-    <tr><td><strong>Grade</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
-    <tr><td>Price</td><td>Free / $20/mo</td><td>Free / $20/mo</td></tr>
-    <tr><td>Source citations</td><td>Sometimes</td><td>Always (numbered)</td></tr>
-    <tr><td>Accuracy</td><td>Good (can hallucinate)</td><td>Very good (source-backed)</td></tr>
-    <tr><td>Writing quality</td><td>Very good</td><td>Good (factual tone)</td></tr>
-    <tr><td>Creative tasks</td><td>Excellent</td><td>Limited</td></tr>
-    <tr><td>Image generation</td><td>GPT Image (best)</td><td>No</td></tr>
-    <tr><td>Video generation</td><td>Sora (included)</td><td>No</td></tr>
-    <tr><td>Voice mode</td><td>Yes (natural)</td><td>No</td></tr>
-    <tr><td>File analysis</td><td>Yes</td><td>Limited</td></tr>
-    <tr><td>Best for</td><td>Everything + research</td><td>Research + fact-checking</td></tr>
+    <tr><td><strong>Cijfer</strong></td><td><strong>A</strong></td><td><strong>A</strong></td></tr>
+    <tr><td>Prijs</td><td>Gratis / $20/mnd</td><td>Gratis / $20/mnd</td></tr>
+    <tr><td>Bronvermelding</td><td>Soms</td><td>Altijd (genummerd)</td></tr>
+    <tr><td>Nauwkeurigheid</td><td>Goed (kan hallucineren)</td><td>Zeer goed (onderbouwd met bronnen)</td></tr>
+    <tr><td>Schrijfkwaliteit</td><td>Zeer goed</td><td>Goed (feitelijke toon)</td></tr>
+    <tr><td>Creatieve taken</td><td>Uitstekend</td><td>Beperkt</td></tr>
+    <tr><td>Beeldgeneratie</td><td>GPT Image (de beste)</td><td>Nee</td></tr>
+    <tr><td>Videogeneratie</td><td>Sora (inbegrepen)</td><td>Nee</td></tr>
+    <tr><td>Spraakmodus</td><td>Ja (natuurlijk)</td><td>Nee</td></tr>
+    <tr><td>Bestandsanalyse</td><td>Ja</td><td>Beperkt</td></tr>
+    <tr><td>Het best voor</td><td>Alles + onderzoek</td><td>Onderzoek + factchecken</td></tr>
   </tbody>
 </table>
 
-<h2>Research Accuracy: Perplexity Wins</h2>
-<p>This is the core differentiator. Every Perplexity answer comes with numbered source citations — [1], [2], [3] — linking directly to the web pages that support each claim. You can verify every fact in 10 seconds. ChatGPT often provides information without citing sources, and when it does cite, the sources aren't always linked or verifiable.</p>
-<p>In our testing across 50 factual questions, Perplexity provided verifiable sources for 95%+ of claims. ChatGPT provided sources for about 60% of claims, and 5-10% of its unsourced claims contained factual errors. For any research where accuracy matters — academic work, journalism, business decisions, medical questions — Perplexity's sourcing is invaluable.</p>
+<h2>Nauwkeurigheid van onderzoek: Perplexity wint</h2>
+<p>Dit is het kernverschil. Elk antwoord van Perplexity komt met genummerde bronvermeldingen ([1], [2], [3]) die rechtstreeks linken naar de webpagina's die elke bewering onderbouwen. Je kunt elk feit in 10 seconden controleren. ChatGPT geeft vaak informatie zonder bronnen, en als het wel bronnen noemt, zijn die niet altijd gelinkt of verifieerbaar.</p>
+<p>In onze tests met 50 feitelijke vragen gaf Perplexity bij meer dan 95% van de beweringen verifieerbare bronnen. ChatGPT gaf bronnen bij ongeveer 60% van de beweringen, en 5-10% van de beweringen zonder bron bevatte feitelijke fouten. Voor elk onderzoek waarbij nauwkeurigheid telt, zoals academisch werk, journalistiek, zakelijke beslissingen en medische vragen, is de bronvermelding van Perplexity van onschatbare waarde.</p>
 
-<h3>Pro Search: Perplexity's Deep Research Mode</h3>
-<p>Perplexity Pro Search (available on the $20/month plan) goes beyond basic search. It asks clarifying questions, searches multiple sources, synthesizes findings, and produces comprehensive research briefs with full citation. A single Pro Search on a complex topic produces a research brief that would take hours to compile manually — with every claim sourced.</p>
+<h3>Pro Search: de Deep Research-modus van Perplexity</h3>
+<p>Perplexity Pro Search (beschikbaar in het abonnement van $20/maand) gaat verder dan basaal zoeken. Het stelt verduidelijkende vragen, doorzoekt meerdere bronnen, voegt bevindingen samen en produceert uitgebreide onderzoeksbriefings met volledige bronvermelding. Eén Pro Search over een complex onderwerp levert een onderzoeksbriefing op waar je handmatig uren aan zou besteden, met elke bewering voorzien van een bron.</p>
 
-<h2>Versatility: ChatGPT Wins Decisively</h2>
-<p>Perplexity is a research tool. ChatGPT is a research tool AND a writing tool AND an image generator AND a video generator AND a voice assistant AND a code executor AND a file analyzer. The gap in versatility is enormous:</p>
+<h2>Veelzijdigheid: ChatGPT wint overtuigend</h2>
+<p>Perplexity is een onderzoekstool. ChatGPT is een onderzoekstool ÉN een schrijftool ÉN een beeldgenerator ÉN een videogenerator ÉN een spraakassistent ÉN een code-uitvoerder ÉN een bestandsanalyseur. Het verschil in veelzijdigheid is enorm:</p>
 <ul>
-  <li><strong>Image generation:</strong> ChatGPT creates images with GPT Image. Perplexity cannot.</li>
-  <li><strong>Video generation:</strong> ChatGPT includes Sora. Perplexity cannot.</li>
-  <li><strong>Voice conversation:</strong> ChatGPT has natural voice mode. Perplexity has basic voice.</li>
-  <li><strong>Code execution:</strong> ChatGPT runs Python, analyzes data, creates charts. Perplexity cannot.</li>
-  <li><strong>File analysis:</strong> ChatGPT analyzes spreadsheets, PDFs, and images. Perplexity has limited file support.</li>
-  <li><strong>Custom GPTs:</strong> ChatGPT has thousands of specialized assistants. Perplexity has none.</li>
-  <li><strong>Creative writing:</strong> ChatGPT writes stories, scripts, and creative content. Perplexity is factual only.</li>
+  <li><strong>Beeldgeneratie:</strong> ChatGPT maakt beelden met GPT Image. Perplexity kan dat niet.</li>
+  <li><strong>Videogeneratie:</strong> ChatGPT bevat Sora. Perplexity kan dat niet.</li>
+  <li><strong>Spraakgesprekken:</strong> ChatGPT heeft een natuurlijke spraakmodus. Perplexity heeft basale spraak.</li>
+  <li><strong>Code uitvoeren:</strong> ChatGPT voert Python uit, analyseert data en maakt grafieken. Perplexity kan dat niet.</li>
+  <li><strong>Bestandsanalyse:</strong> ChatGPT analyseert spreadsheets, pdf's en afbeeldingen. Perplexity heeft beperkte ondersteuning voor bestanden.</li>
+  <li><strong>Aangepaste GPT's:</strong> ChatGPT heeft duizenden gespecialiseerde assistenten. Perplexity heeft er geen.</li>
+  <li><strong>Creatief schrijven:</strong> ChatGPT schrijft verhalen, scripts en creatieve content. Perplexity is alleen feitelijk.</li>
 </ul>
 
-<h2>Writing Quality: ChatGPT Wins</h2>
-<p>ChatGPT produces more engaging, varied, and creative writing. Blog posts, marketing copy, emails, stories, and scripts all benefit from ChatGPT's conversational style. Perplexity's writing is accurate but reads like a research report — factual, structured, and citation-heavy. For content creation, ChatGPT is the better writer. For research reporting, Perplexity's style is appropriate.</p>
+<h2>Schrijfkwaliteit: ChatGPT wint</h2>
+<p>ChatGPT produceert boeiender, gevarieerder en creatiever schrijfwerk. Blogposts, marketingteksten, e-mails, verhalen en scripts profiteren allemaal van de conversationele stijl van ChatGPT. Het schrijfwerk van Perplexity is nauwkeurig, maar leest als een onderzoeksrapport: feitelijk, gestructureerd en vol bronvermeldingen. Voor contentcreatie is ChatGPT de betere schrijver. Voor onderzoeksrapportage past de stijl van Perplexity.</p>
 
-<h2>Speed and Interface: Perplexity Wins</h2>
-<p>Perplexity is faster for research. Type a question and get a sourced answer in seconds — no conversation, no context-setting, no prompt engineering. The interface is clean and focused: question, answer, sources, follow-up questions. ChatGPT's conversational interface is more powerful but slower for quick factual lookups.</p>
-<p>Perplexity's follow-up questions are particularly useful — they guide you deeper into a topic without having to think about what to ask next. For research rabbit holes, this guided exploration surfaces information you didn't know to look for.</p>
+<h2>Snelheid en interface: Perplexity wint</h2>
+<p>Perplexity is sneller voor onderzoek. Typ een vraag en krijg binnen seconden een antwoord met bronnen: geen gesprek, geen context scheppen, geen prompt engineering. De interface is overzichtelijk en gefocust: vraag, antwoord, bronnen, vervolgvragen. De conversationele interface van ChatGPT is krachtiger, maar trager voor snelle feitelijke opzoekingen.</p>
+<p>De vervolgvragen van Perplexity zijn bijzonder nuttig: ze leiden je dieper in een onderwerp zonder dat je hoeft te bedenken wat je daarna moet vragen. Voor onderzoeksdiepgangen brengt deze begeleide verkenning informatie boven waarvan je niet wist dat je ernaar moest zoeken.</p>
 
-<h2>Free Tier Comparison</h2>
+<h2>Vergelijking van de gratis versies</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>ChatGPT Free</th><th>Perplexity Free</th></tr>
+    <tr><th>Functie</th><th>ChatGPT Free</th><th>Perplexity Free</th></tr>
   </thead>
   <tbody>
-    <tr><td>AI model</td><td>GPT-4o (limited)</td><td>Standard (not Pro Search)</td></tr>
-    <tr><td>Source citations</td><td>Sometimes</td><td>Always</td></tr>
-    <tr><td>Image generation</td><td>Limited</td><td>No</td></tr>
-    <tr><td>Web browsing</td><td>Yes</td><td>Yes (always)</td></tr>
-    <tr><td>File uploads</td><td>Yes</td><td>Limited</td></tr>
-    <tr><td>Best free use</td><td>General AI + basic research</td><td>Quick sourced research</td></tr>
+    <tr><td>AI-model</td><td>GPT-4o (beperkt)</td><td>Standaard (geen Pro Search)</td></tr>
+    <tr><td>Bronvermelding</td><td>Soms</td><td>Altijd</td></tr>
+    <tr><td>Beeldgeneratie</td><td>Beperkt</td><td>Nee</td></tr>
+    <tr><td>Surfen op het web</td><td>Ja</td><td>Ja (altijd)</td></tr>
+    <tr><td>Bestanden uploaden</td><td>Ja</td><td>Beperkt</td></tr>
+    <tr><td>Beste gratis gebruik</td><td>Algemene AI + basisonderzoek</td><td>Snel onderzoek met bronnen</td></tr>
   </tbody>
 </table>
 
-<h2>The Power User Setup: Both ($40/month)</h2>
-<p>Most power users use both — and they're not redundant:</p>
+<h2>De opstelling voor power users: beide ($40/maand)</h2>
+<p>De meeste power users gebruiken beide, en ze zijn niet overbodig:</p>
 <ul>
-  <li><strong>Perplexity Pro ($20)</strong> — all research, fact-checking, and sourced information gathering</li>
-  <li><strong>ChatGPT Plus ($20)</strong> — writing, images, video, code, data analysis, and everything else</li>
+  <li><strong>Perplexity Pro ($20)</strong> — al het onderzoek, factchecken en het verzamelen van informatie met bronnen</li>
+  <li><strong>ChatGPT Plus ($20)</strong> — schrijven, beelden, video, code, data-analyse en al het andere</li>
 </ul>
-<p>The workflow: research with Perplexity (get the facts and sources), create with ChatGPT (write the content, make the images). Each tool does what it does best.</p>
-<p>If you can only afford one: <strong>ChatGPT Plus</strong> — it does research adequately and everything else well. <strong>Perplexity Pro</strong> only if research is your primary AI use case.</p>
+<p>De workflow: onderzoek met Perplexity (haal de feiten en bronnen op), creëer met ChatGPT (schrijf de content, maak de beelden). Elke tool doet waar hij het best in is.</p>
+<p>Kun je er maar één betalen: <strong>ChatGPT Plus</strong>: het doet onderzoek naar behoren en al het andere goed. <strong>Perplexity Pro</strong> alleen als onderzoek je belangrijkste AI-toepassing is.</p>
 
-<h2>Het Oordeel</h2>
+<h2>Het oordeel</h2>
 <table>
   <thead>
-    <tr><th>Category</th><th>Winner</th></tr>
+    <tr><th>Categorie</th><th>Winnaar</th></tr>
   </thead>
   <tbody>
-    <tr><td>Research accuracy</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Source citations</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Research speed</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Deep research</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Writing quality</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Versatility</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Image generation</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Video generation</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Code and data</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td>Free tier (research)</td><td><strong>Perplexity</strong></td></tr>
-    <tr><td>Free tier (overall)</td><td><strong>ChatGPT</strong></td></tr>
-    <tr><td><strong>Overall</strong></td><td><strong>Different tools for different jobs</strong></td></tr>
+    <tr><td>Nauwkeurigheid van onderzoek</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>Bronvermelding</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>Snelheid van onderzoek</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>Diepgaand onderzoek</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>Schrijfkwaliteit</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>Veelzijdigheid</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>Beeldgeneratie</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>Videogeneratie</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>Code en data</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td>Gratis versie (onderzoek)</td><td><strong>Perplexity</strong></td></tr>
+    <tr><td>Gratis versie (algemeen)</td><td><strong>ChatGPT</strong></td></tr>
+    <tr><td><strong>Algemeen</strong></td><td><strong>Verschillende tools voor verschillende klussen</strong></td></tr>
   </tbody>
 </table>
 
-<h2>Final Take</h2>
-<p><strong>Perplexity</strong> is the best research AI available — every answer sourced, verifiable, and trustworthy. For students, journalists, researchers, and professionals who need accurate information with citations, Perplexity is essential.</p>
-<p><strong>ChatGPT</strong> is the best all-around AI — research plus writing plus images plus video plus voice plus code in one platform. For anyone who needs a single AI tool, ChatGPT covers the most ground.</p>
-<p>They're not competitors — they're complements. The best setup uses both: Perplexity for truth, ChatGPT for creation. Lees onze full <a href="/nl/blog/chatgpt-review-2026">ChatGPT Review</a> and <a href="/nl/blog/perplexity-ai-review-2026">Perplexity Review</a> for detailed breakdowns.</p>
+<h2>Slotbeschouwing</h2>
+<p><strong>Perplexity</strong> is de beste onderzoeks-AI die er is: elk antwoord heeft bronnen, is verifieerbaar en betrouwbaar. Voor studenten, journalisten, onderzoekers en professionals die nauwkeurige informatie met bronvermeldingen nodig hebben, is Perplexity onmisbaar.</p>
+<p><strong>ChatGPT</strong> is de beste algemene AI: onderzoek plus schrijven plus beelden plus video plus spraak plus code in één platform. Voor wie één enkele AI-tool nodig heeft, bestrijkt ChatGPT het meeste terrein.</p>
+<p>Het zijn geen concurrenten maar aanvullingen. De beste opstelling gebruikt beide: Perplexity voor de waarheid, ChatGPT voor creatie. Lees onze volledige <a href="/nl/blog/chatgpt-review-2026">ChatGPT-review</a> en <a href="/nl/blog/perplexity-ai-review-2026">Perplexity-review</a> voor gedetailleerde analyses.</p>
 
-<h2>Veelgestelde Vragen</h2>
+<h2>Veelgestelde vragen</h2>
 
-<h3>Is Perplexity more accurate than ChatGPT?</h3>
-<p>For factual research — yes. Perplexity cites sources on every claim, making verification instant. ChatGPT can be confidently wrong without sources. For research accuracy, Perplexity is the safer choice.</p>
+<h3>Is Perplexity nauwkeuriger dan ChatGPT?</h3>
+<p>Voor feitelijk onderzoek: ja. Perplexity geeft bij elke bewering bronnen, waardoor controleren direct kan. ChatGPT kan zelfverzekerd ongelijk hebben zonder bronnen. Voor nauwkeurig onderzoek is Perplexity de veiligere keuze.</p>
 
-<h3>Can Perplexity replace Google?</h3>
-<p>For information research — increasingly yes. Perplexity gives you the answer directly with sources, instead of a list of links to click through. For navigation (finding a website), shopping, and local searches — Google is still better.</p>
+<h3>Kan Perplexity Google vervangen?</h3>
+<p>Voor het zoeken naar informatie: steeds vaker wel. Perplexity geeft je het antwoord direct met bronnen, in plaats van een lijst links om doorheen te klikken. Voor navigatie (een website vinden), winkelen en lokale zoekopdrachten is Google nog steeds beter.</p>
 
-<h3>Should I get ChatGPT Plus or Perplexity Pro?</h3>
-<p>If you can only choose one: <strong>ChatGPT Plus</strong> — it does more. If research is your primary need: <strong>Perplexity Pro</strong>. If you can afford both ($40/month): get both — they serve different purposes.</p>
+<h3>Moet ik ChatGPT Plus of Perplexity Pro nemen?</h3>
+<p>Als je er maar één kunt kiezen: <strong>ChatGPT Plus</strong>, want het doet meer. Als onderzoek je belangrijkste behoefte is: <strong>Perplexity Pro</strong>. Als je beide kunt betalen ($40/maand): neem beide, want ze dienen verschillende doelen.</p>
 
-<h3>Is Perplexity good for students?</h3>
-<p>Excellent. Every answer comes with sources you can cite in papers. The academic focus mode filters for scholarly sources. It's the closest thing to an AI research assistant that professors would approve of — because every claim is verifiable.</p>
+<h3>Is Perplexity goed voor studenten?</h3>
+<p>Uitstekend. Elk antwoord komt met bronnen die je in papers kunt citeren. De academische focusmodus filtert op wetenschappelijke bronnen. Het is het dichtst bij een AI-onderzoeksassistent die docenten zouden goedkeuren, omdat elke bewering verifieerbaar is.</p>
 
-<p><em>Both tools were tested by AIGradeLab across research, writing, and fact-checking workflows. Grades reflect practical value as of November 2026. Prijzen verified on each platform's website.</em></p>
+<p><em>Beide tools zijn door AIGradeLab getest in workflows voor onderzoek, schrijven en factchecken. De cijfers weerspiegelen de praktische waarde per november 2026. Prijzen gecontroleerd op de website van elk platform.</em></p>

@@ -1,114 +1,114 @@
 ---
-title: "ChatGPT Stopt met Advanced Voice: Alles Wat Je Moet Weten over GPT-Live"
-description: "OpenAI stopt op 11 december 2026 met Advanced en Standard Voice. Dit is wat GPT-Live vervangt, wat er verandert en hoe je je voorbereidt op de overstap."
+title: "ChatGPT schaft Advanced Voice af: alles wat je moet weten over GPT-Live"
+description: "OpenAI zet Advanced Voice en Standard Voice op 11 december 2026 stop. Dit vervangt GPT-Live, wat er verandert en hoe je je voorbereidt op de overgang."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-21"
 readTime: "7 min leestijd"
 ---
 
-<h2>De Stemoverstap Komt Eraan</h2>
+<h2>De overgang in spraak komt eraan</h2>
 
-<p>OpenAI heeft bevestigd dat ChatGPT zowel Advanced Voice als Standard Voice met pensioen stuurt op 11 december 2026. Het bedrijf consolideert zijn stemmogelijkheden rond GPT-Live, het nieuwere en krachtigere stemmodel. Als je regelmatig de stemfuncties van ChatGPT gebruikt, is dit alles wat je moet weten over de omschakeling.</p>
+<p>OpenAI heeft bevestigd dat ChatGPT op 11 december 2026 zowel Advanced Voice als Standard Voice buiten gebruik stelt. Het bedrijf bundelt zijn spraakmogelijkheden rond GPT-Live, het nieuwere en capabelere spraakmodel. Gebruik je de spraakfuncties van ChatGPT regelmatig? Dan lees je hier alles wat je over de overstap moet weten.</p>
 
-<h2>Wat Wordt Stopgezet</h2>
+<h2>Wat er wordt stopgezet</h2>
 
 <h3>Standard Voice</h3>
 
-<p>Standard Voice was ChatGPT's oorspronkelijke steminteractiemodus — een cascadesysteem dat je spraak omzette naar tekst, door een tekstmodel verwerkte en het antwoord weer omzette naar spraak. Het werkte, maar gesprekken voelden stroef. Er waren merkbare pauzes tussen je vraag en het antwoord, en het systeem kon onderbrekingen niet natuurlijk afhandelen.</p>
+<p>Standard Voice was de oorspronkelijke spraakmodus van ChatGPT: een cascadesysteem dat je spraak omzette in tekst, via een tekstmodel verwerkte en het antwoord weer terugzette naar spraak. Het werkte, maar gesprekken voelden stroef. Er zaten merkbare pauzes tussen je vraag en het antwoord, en het systeem kon niet op een natuurlijke manier met onderbrekingen omgaan.</p>
 
 <h3>Advanced Voice</h3>
 
-<p>Advanced Voice werd eind 2024 gelanceerd als aanzienlijke upgrade. Het introduceerde natuurlijker klinkende stemmen, betere afhandeling van gesprekspatronen en verlaagde latentie. Het was echter nog steeds fundamenteel een cascadesysteem — spraak ging via tekst voordat het verwerkt werd — wat beperkte hoe natuurlijk de AI kon converseren.</p>
+<p>Advanced Voice verscheen eind 2024 als een belangrijke upgrade. Het bracht natuurlijker klinkende stemmen, een betere omgang met gesprekspatronen en minder latentie. Het bleef echter in de kern een cascadesysteem, waarbij spraak eerst via tekst liep voordat het werd verwerkt, wat beperkte hoe natuurlijk de AI kon converseren.</p>
 
-<h2>Wat GPT-Live Brengt</h2>
+<h2>Wat GPT-Live brengt</h2>
 
-<p>GPT-Live vertegenwoordigt een fundamentele architectuurwijziging. In plaats van de spraak-naar-tekst-naar-spraak-cascade verwerkt GPT-Live audio native. Het kan je toon horen, aarzeling detecteren, nadruk begrijpen en reageren op een manier die meer aanvoelt als een echt gesprek.</p>
+<p>GPT-Live is een fundamentele verschuiving in architectuur. In plaats van de cascade van spraak naar tekst naar spraak verwerkt GPT-Live audio native. Het hoort je toon, herkent aarzeling, begrijpt nadruk en antwoordt op een manier die meer aanvoelt als een echt gesprek.</p>
 
-<h3>Belangrijkste Verbeteringen ten Opzichte van Advanced Voice</h3>
+<h3>Belangrijkste verbeteringen ten opzichte van Advanced Voice</h3>
 
 <ul>
-<li><strong>Echte full-duplex</strong> — GPT-Live kan luisteren terwijl het spreekt, waardoor natuurlijke onderbrekingen en gespreksuitwisseling mogelijk zijn zonder ongemakkelijke stiltes</li>
-<li><strong>Emotioneel bewustzijn</strong> — Het model pikt toon en stemhints op en past zijn antwoorden dienovereenkomstig aan</li>
-<li><strong>Lagere latentie</strong> — Antwoorden voelen bijna instantaan, waardoor de "denkpauzes" verdwijnen die stem-AI robotachtig maakten</li>
-<li><strong>Rijkere stemkwaliteit</strong> — Expressiever en natuurlijker klinkende uitgaande stemmen</li>
-<li><strong>Multi-turn context</strong> — Beter in het behouden van gesprekscontext over lange stemsessies</li>
+<li><strong>Echt full-duplex</strong> — GPT-Live kan luisteren terwijl het spreekt, waardoor natuurlijke onderbrekingen en een heen-en-weer gesprek mogelijk zijn zonder ongemakkelijke pauzes</li>
+<li><strong>Emotioneel bewustzijn</strong> — Het model pikt toon en stemsignalen op en past zijn antwoorden daarop aan</li>
+<li><strong>Lagere latentie</strong> — Antwoorden voelen vrijwel direct, waardoor de "denkpauzes" verdwijnen die spraak-AI robotachtig lieten aanvoelen</li>
+<li><strong>Rijkere stemkwaliteit</strong> — Expressievere en natuurlijker klinkende uitvoerstemmen</li>
+<li><strong>Context over meerdere beurten</strong> — Houdt de gesprekscontext beter vast tijdens lange spraaksessies</li>
 </ul>
 
-<h2>Tijdlijn en Beschikbaarheid</h2>
+<h2>Tijdlijn en beschikbaarheid</h2>
 
 <table>
 <thead>
 <tr><th>Datum</th><th>Gebeurtenis</th></tr>
 </thead>
 <tbody>
-<tr><td>10 november 2026</td><td>OpenAI kondigt stopzetting Advanced en Standard Voice aan</td></tr>
-<tr><td>10 november - 10 december</td><td>Overgangsperiode — alle drie stemmodi beschikbaar</td></tr>
-<tr><td>11 december 2026</td><td>Advanced Voice en Standard Voice permanent uitgeschakeld</td></tr>
-<tr><td>11 december+</td><td>GPT-Live wordt de enige steminteractiemodus</td></tr>
+<tr><td>10 november 2026</td><td>OpenAI kondigt het stopzetten van Advanced en Standard Voice aan</td></tr>
+<tr><td>10 november - 10 december</td><td>Overgangsperiode: alle drie de spraakmodi beschikbaar</td></tr>
+<tr><td>11 december 2026</td><td>Advanced Voice en Standard Voice definitief uitgeschakeld</td></tr>
+<tr><td>Vanaf 11 december</td><td>GPT-Live wordt de enige spraakmodus</td></tr>
 </tbody>
 </table>
 
-<h2>Wie Wordt Geraakt?</h2>
+<h2>Wie worden er geraakt?</h2>
 
-<h3>ChatGPT Plus- en Pro-Abonnees</h3>
+<h3>Abonnees van ChatGPT Plus en Pro</h3>
 
-<p>Als je een betaald abonnement hebt, heb je al toegang tot GPT-Live. De overstap zou naadloos moeten verlopen — je gebruikt waarschijnlijk al GPT-Live als je recent stemfuncties hebt gebruikt, aangezien OpenAI er al maanden standaard naar doorverwijst.</p>
+<p>Met een betaald abonnement heb je al toegang tot GPT-Live. De overgang zou naadloos moeten verlopen: als je de spraakfuncties de laatste tijd hebt gebruikt, gebruik je waarschijnlijk al GPT-Live, want OpenAI stelt dat al maanden als standaard in.</p>
 
-<h3>Gratis-Gebruikers</h3>
+<h3>Gebruikers van de gratis versie</h3>
 
-<p>Gratis gebruikers die beperkte toegang hadden tot Standard Voice stappen over naar beperkte GPT-Live-toegang. De specifieke limieten voor het gratis niveau na december zijn nog niet bijgewerkt.</p>
+<p>Gratis gebruikers met beperkte toegang tot Standard Voice stappen over op beperkte toegang tot GPT-Live. De details van de spraaklimieten voor de gratis versie zijn nog niet bijgewerkt voor de situatie na december.</p>
 
-<h3>API-Ontwikkelaars</h3>
+<h3>API-ontwikkelaars</h3>
 
-<p>Ontwikkelaars die de Audio API-eindpunten gebruiken moeten hun integratie controleren. De verouderde stemeindpunten worden afgeschaft samen met de consumentenfuncties. De GPT-Live API van OpenAI biedt andere mogelijkheden en prijzen dan de eerdere stem-API's.</p>
+<p>Ontwikkelaars die de Audio API-endpoints gebruiken, moeten hun integratie controleren. De oude spraakendpoints worden samen met de consumentenfuncties uitgefaseerd. De GPT-Live API van OpenAI biedt andere mogelijkheden en prijzen dan de eerdere spraak-API's.</p>
 
-<h3>Enterprise- en Teamgebruikers</h3>
+<h3>Enterprise- en Team-gebruikers</h3>
 
-<p>Enterprise-accounts met aangepaste stemconfiguraties moeten hun instellingen vóór 11 december controleren. Workflows die gebouwd zijn rond het specifieke gedrag van Advanced Voice hebben mogelijk aanpassing nodig.</p>
+<p>Enterprise-accounts met aangepaste spraakconfiguraties moeten hun instellingen vóór 11 december nalopen. Workflows die zijn gebouwd rond het specifieke gedrag van Advanced Voice moeten mogelijk worden aangepast.</p>
 
-<h2>Wat Nu Te Doen</h2>
+<h2>Wat je nu moet doen</h2>
 
-<h3>1. Test GPT-Live Vóór de Omschakeling</h3>
+<h3>1. Test GPT-Live vóór de overstap</h3>
 
-<p>Als je GPT-Live nog niet hebt gebruikt, begin nu. Open ChatGPT, tik op het stempictogram en bevestig dat je GPT-Live gebruikt (het zou de standaard moeten zijn). Besteed een paar sessies om vertrouwd te raken met de gespreksstijl.</p>
+<p>Heb je GPT-Live nog niet gebruikt, begin dan nu. Open ChatGPT, tik op het spraakpictogram en controleer of je GPT-Live gebruikt (dat hoort de standaard te zijn). Besteed een paar sessies aan het wennen aan de gespreksstijl.</p>
 
-<h3>2. Werk Je Workflows Bij</h3>
+<h3>2. Werk je workflows bij</h3>
 
-<p>Als je processen hebt gebouwd rond de stemfuncties van ChatGPT — dagelijkse briefings, brainstormsessies, hands-free notities — test ze met GPT-Live tijdens de overgangsperiode om eventuele gedragsverschillen op te vangen.</p>
+<p>Heb je processen gebouwd rond de spraakfuncties van ChatGPT, zoals dagelijkse briefings, brainstormsessies of handsfree notities maken? Test ze dan tijdens de overgangsperiode met GPT-Live om verschillen in gedrag op te sporen.</p>
 
-<h3>3. Controleer Je API-Integraties</h3>
+<h3>3. Controleer je API-integraties</h3>
 
-<p>Ontwikkelaars moeten de GPT-Live API-documentatie bekijken en hun integraties ruim vóór de deadline van 11 december testen. Wacht niet tot de laatste dag.</p>
+<p>Ontwikkelaars moeten de documentatie van de GPT-Live API doornemen en hun integraties ruim vóór de deadline van 11 december testen. Wacht niet tot de laatste dag.</p>
 
-<h3>4. Verken Alternatieven</h3>
+<h3>4. Verken alternatieven</h3>
 
-<p>GPT-Live is niet de enige optie voor stem-AI. Als je alternatieven evalueert:</p>
+<p>GPT-Live is niet het enige aanbod voor spraak-AI. Als je opties vergelijkt:</p>
 
 <ul>
-<li><strong>Google Gemini</strong> — Biedt steminteractie via de Gemini-app en Google Assistant</li>
-<li><strong>Claude</strong> — Anthropic biedt een stemmodus met CarPlay-ondersteuning</li>
-<li><strong>ElevenLabs</strong> — Voor aangepaste stemgeneratie en stem-first toepassingen</li>
+<li><strong>Google Gemini</strong> — Biedt spraakinteractie via de Gemini-app en Google Assistent</li>
+<li><strong>Claude</strong> — Anthropic biedt een spraakmodus met CarPlay-ondersteuning</li>
+<li><strong>ElevenLabs</strong> — Voor het genereren van eigen stemmen en spraakgerichte toepassingen</li>
 </ul>
 
-<h2>Het Grotere Plaatje: Stem-AI Consolideert</h2>
+<h2>Het grotere plaatje: spraak-AI consolideert</h2>
 
-<p>OpenAI's beslissing om oudere stemmodi stop te zetten weerspiegelt een bredere trend in AI: consolidatie rond native multimodale modellen. In plaats van stemmogelijkheden aan tekstmodellen te schroeven, bouwt de industrie modellen die audio, tekst, afbeeldingen en video native begrijpen.</p>
+<p>De beslissing van OpenAI om oudere spraakmodi stop te zetten weerspiegelt een bredere trend in AI: consolidatie rond native multimodale modellen. In plaats van spraakfuncties aan tekstmodellen vast te schroeven, bouwt de sector modellen die audio, tekst, beeld en video native begrijpen.</p>
 
 <p>Dezelfde trend is zichtbaar in de hele markt:</p>
 
 <ul>
-<li>Google's Gemini 4-modellen zijn native multimodaal</li>
-<li>Bland AI lanceerde zojuist Tofu-1, een native speech-to-speech model</li>
-<li>Meta's Muse-agent werkt over tekst en stem heen</li>
+<li>De Gemini 4-modellen van Google zijn native multimodaal</li>
+<li>Bland AI lanceerde zojuist Tofu-1, een native speech-to-speech-model</li>
+<li>De Muse-agent van Meta werkt met zowel tekst als spraak</li>
 </ul>
 
-<p>De cascade-aanpak — spraak naar tekst naar model naar spraak — wordt een verouderde architectuur. Als je bedrijf afhankelijk is van stem-AI, is plannen voor native multimodaal de juiste langetermijnkeuze.</p>
+<p>De cascadeaanpak, van spraak naar tekst naar model naar spraak, wordt een verouderde architectuur. Als je bedrijf afhankelijk is van spraak-AI, is plannen voor native multimodaal op lange termijn de juiste gok.</p>
 
-<h2>De Conclusie</h2>
+<h2>Conclusie</h2>
 
-<p>De stopzetting van Advanced en Standard Voice is een opruiming, geen afwaardering. GPT-Live is objectief beter in elke meetbare dimensie. Het voornaamste risico is voor ontwikkelaars en bedrijven met hardgecodeerde integraties tegen de oude API-eindpunten — test nu, migreer vroeg en je zit goed.</p>
+<p>Het stopzetten van Advanced en Standard Voice is een opruiming, geen downgrade. GPT-Live is in elke meetbare dimensie objectief beter. Het grootste risico geldt voor ontwikkelaars en bedrijven met hardgecodeerde integraties op de oude API-endpoints: test nu, migreer vroeg en het komt goed.</p>
 
-<p>Voor de meeste gebruikers merk je op 12 december niets. Stem in ChatGPT werkt gewoon — en beter dan ooit.</p>
+<p>De meeste gebruikers merken op 12 december niets. Spraak in ChatGPT werkt gewoon, en beter dan ooit.</p>
 
-<p><em>Wil je je AI-toolworkflow organiseren? Bekijk de gratis <a href="https://toolcraftkit.com">Pomodoro Timer</a> en productiviteitstools op ToolCraftKit om bovenop je AI-evaluaties te blijven.</em></p>
+<p><em>Wil je de workflow met je AI-tools organiseren? Bekijk de gratis <a href="https://toolcraftkit.com">Pomodoro Timer</a> en andere productiviteitstools van ToolCraftKit om je AI-evaluaties op orde te houden.</em></p>

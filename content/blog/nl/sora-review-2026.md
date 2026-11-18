@@ -1,11 +1,11 @@
 ---
-title: "Sora Review 2026: OpenAI's AI Video Generator — Tested and Graded"
-description: "We tested Sora for AI video generation from text prompts. Quality, speed, pricing, and how it compares to Runway and Kling. Full review with scores. Updated November 2026."
+title: "Sora-review 2026: de AI-videogenerator van OpenAI, getest en beoordeeld"
+description: "We testten Sora voor AI-videogeneratie vanuit tekstprompts. Kwaliteit, snelheid, prijzen en hoe het zich verhoudt tot Runway en Kling. Volledige review met scores. Bijgewerkt in november 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-15"
 lastTested: "Nov 2026"
-readTime: "11 min read"
+readTime: "11 min leestijd"
 grade: "B+"
 scores_ux: 8.0
 scores_quality: 8.5
@@ -15,11 +15,11 @@ scores_support: 7.0
 toolName: "Sora"
 ---
 
-<h2>Sora in 2026: AI Video Included With ChatGPT</h2>
-<p>Sora is OpenAI's text-to-video generator — describe a scene and Sora creates a video clip. The hype was enormous when it launched, and the question remains: does Sora deliver on the promise of AI-generated video? After extensive testing, the answer is yes — with caveats. Sora produces stunning clips at its best, but consistency is the problem. And the biggest selling point isn't quality — it's price. Sora is included with ChatGPT Plus ($20/month), making it the cheapest way to access AI video generation.</p>
+<h2>Sora in 2026: AI-video inbegrepen bij ChatGPT</h2>
+<p>Sora is de tekst-naar-videogenerator van OpenAI: beschrijf een scène en Sora maakt er een videoclip van. De hype was enorm bij de lancering en de vraag blijft: maakt Sora de belofte van AI-gegenereerde video waar? Na uitgebreid testen is het antwoord ja, met kanttekeningen. Op zijn best produceert Sora verbluffende clips, maar consistentie is het probleem. En het grootste verkoopargument is niet de kwaliteit maar de prijs. Sora zit inbegrepen bij ChatGPT Plus ($20/maand), waardoor het de goedkoopste manier is om AI-videogeneratie te gebruiken.</p>
 
-<h2>Sora Scores</h2>
-<div class="score-card"><h3>Overall Grade: B+</h3>
+<h2>Sora-scores</h2>
+<div class="score-card"><h3>Eindcijfer: B+</h3>
   <div class="score-row"><span class="score-label">Gebruiksgemak</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">Kwaliteit Output</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
   <div class="score-row"><span class="score-label">Prijs-Kwaliteit</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:85%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.5</span></div>
@@ -27,124 +27,124 @@ toolName: "Sora"
   <div class="score-row"><span class="score-label">Ondersteuning</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:70%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.0</span></div>
 </div>
 
-<h2>What Sora Does Well</h2>
+<h2>Wat Sora goed doet</h2>
 
-<h3>Cinematic Quality at Its Best</h3>
-<p>When Sora hits, it hits hard. The best outputs are genuinely cinematic — smooth camera movements, coherent lighting, realistic physics, and impressive scene composition. Landscapes, cityscapes, nature scenes, and abstract creative content look stunning. Sora understands perspective, depth of field, and cinematic framing in a way that produces clips you'd believe were shot on a real camera.</p>
+<h3>Filmische kwaliteit op zijn best</h3>
+<p>Als Sora raak schiet, schiet het hard raak. De beste outputs zijn echt filmisch: vloeiende camerabewegingen, samenhangende belichting, realistische fysica en indrukwekkende scènecompositie. Landschappen, stadsgezichten, natuurscènes en abstracte creatieve content zien er verbluffend uit. Sora begrijpt perspectief, scherptediepte en filmische kadrering op een manier die clips oplevert waarvan je zou geloven dat ze met een echte camera zijn opgenomen.</p>
 
-<h3>Physics and Motion Understanding</h3>
-<p>Sora demonstrates strong understanding of how the physical world works. Water flows naturally, objects fall with realistic gravity, reflections behave correctly, and smoke and particles move convincingly. This physics awareness is where Sora's training on real-world video data shows — the generated clips feel grounded in reality rather than dreamlike.</p>
+<h3>Begrip van fysica en beweging</h3>
+<p>Sora toont een sterk begrip van hoe de fysieke wereld werkt. Water stroomt natuurlijk, voorwerpen vallen met realistische zwaartekracht, reflecties gedragen zich correct en rook en deeltjes bewegen overtuigend. Hier zie je dat Sora is getraind op videodata uit de echte wereld: de gegenereerde clips voelen geworteld in de werkelijkheid in plaats van dromerig.</p>
 
-<h3>Included With ChatGPT — Best Value</h3>
-<p>This is Sora's strongest competitive advantage. If you already pay for ChatGPT Plus ($20/month), you get Sora video generation at no additional cost. Runway charges $12-76/month for video generation alone. Kling charges $8+/month. For ChatGPT subscribers, Sora is essentially free — the best entry point to AI video generation.</p>
+<h3>Inbegrepen bij ChatGPT: beste prijs-kwaliteit</h3>
+<p>Dit is het sterkste concurrentievoordeel van Sora. Betaal je al voor ChatGPT Plus ($20/maand), dan krijg je Sora-videogeneratie zonder extra kosten. Runway rekent alleen al voor videogeneratie $12-76/maand. Kling rekent $8+/maand. Voor ChatGPT-abonnees is Sora in feite gratis, het beste instappunt voor AI-videogeneratie.</p>
 
-<h3>Text-to-Video and Image-to-Video</h3>
-<p>Sora supports both text-to-video (describe what you want) and image-to-video (upload a still image and animate it). The image-to-video mode is particularly useful — upload a product photo and bring it to life, or animate a digital art piece. Both modes produce results within minutes.</p>
+<h3>Text-to-Video en Image-to-Video</h3>
+<p>Sora ondersteunt zowel text-to-video (beschrijf wat je wilt) als image-to-video (upload een stilstaand beeld en animeer het). De image-to-videomodus is vooral nuttig: upload een productfoto en breng die tot leven, of animeer een digitaal kunstwerk. Beide modi leveren binnen enkele minuten resultaat op.</p>
 
-<h2>Where Sora Falls Short</h2>
+<h2>Waar Sora tekortschiet</h2>
 
-<h3>Inconsistent Kwaliteit Output</h3>
-<p>This is Sora's biggest weakness. The same prompt can produce a stunning clip on one generation and a mediocre one on the next. Human anatomy is particularly unreliable — hands with wrong finger counts, faces that morph mid-clip, bodies that move unnaturally. Expect to generate 3-5 versions of each prompt to get one usable clip. Runway delivers more consistent results on the first try.</p>
+<h3>Inconsistente outputkwaliteit</h3>
+<p>Dit is de grootste zwakte van Sora. Dezelfde prompt kan de ene keer een verbluffende clip opleveren en de volgende keer een matige. Menselijke anatomie is vooral onbetrouwbaar: handen met het verkeerde aantal vingers, gezichten die midden in de clip vervormen, lichamen die onnatuurlijk bewegen. Reken op 3-5 versies per prompt om één bruikbare clip te krijgen. Runway levert in één keer consistentere resultaten.</p>
 
-<h3>Slow Generation Times</h3>
-<p>Sora takes significantly longer to generate clips than Runway or Kling — sometimes 5-10 minutes for a single clip, compared to 1-2 minutes on competitors. During peak usage, wait times can stretch even longer. For workflows requiring quick iteration, this slows down the creative process.</p>
+<h3>Trage generatietijden</h3>
+<p>Sora doet er aanzienlijk langer over om clips te genereren dan Runway of Kling: soms 5-10 minuten voor één clip, tegenover 1-2 minuten bij concurrenten. Bij piekgebruik kunnen wachttijden nog langer worden. Voor workflows die snelle iteratie vereisen vertraagt dit het creatieve proces.</p>
 
-<h3>Limited Credits on Plus</h3>
-<p>ChatGPT Plus includes Sora access, but the number of video generations per month is limited. Heavy users will exhaust their credits quickly and need to wait for the next billing cycle or upgrade to ChatGPT Pro ($200/month) for higher limits. The credit system isn't transparent — you don't know exactly how many generations you get.</p>
+<h3>Beperkte credits bij Plus</h3>
+<p>ChatGPT Plus geeft toegang tot Sora, maar het aantal videogeneraties per maand is beperkt. Intensieve gebruikers hebben hun credits snel op en moeten wachten op de volgende factuurperiode of upgraden naar ChatGPT Pro ($200/maand) voor hogere limieten. Het creditsysteem is niet transparant: je weet niet precies hoeveel generaties je krijgt.</p>
 
-<h3>No Editing Suite</h3>
-<p>Sora generates video clips. That's it. No editing tools, no background removal, no inpainting, no motion brush. Runway offers a full editing suite alongside generation. If you need to edit AI-generated clips, you'll need a separate tool. Sora is a generator, not a production platform.</p>
+<h3>Geen bewerkingssuite</h3>
+<p>Sora genereert videoclips. Meer niet. Geen bewerkingstools, geen achtergrondverwijdering, geen inpainting, geen motion brush. Runway biedt naast generatie een complete bewerkingssuite. Wil je AI-gegenereerde clips bewerken, dan heb je een aparte tool nodig. Sora is een generator, geen productieplatform.</p>
 
-<h3>Limited Control</h3>
-<p>Compared to Runway, Sora offers less control over specific elements in the generated video. No motion brush to guide movement, no camera path control, no style reference images (yet). You write a prompt and hope for the best. For creative professionals who need predictable, controlled output, Runway provides more precision.</p>
+<h3>Beperkte controle</h3>
+<p>Vergeleken met Runway biedt Sora minder controle over specifieke elementen in de gegenereerde video. Geen motion brush om beweging te sturen, geen controle over camerapaden, (nog) geen stijlreferentiebeelden. Je schrijft een prompt en hoopt op het beste. Voor creatieve professionals die voorspelbare, gecontroleerde output nodig hebben, biedt Runway meer precisie.</p>
 
-<h2>Sora Prijzen</h2>
+<h2>Sora-prijzen</h2>
 <table>
   <thead>
-    <tr><th>Access</th><th>Price</th><th>Video Limits</th></tr>
+    <tr><th>Toegang</th><th>Prijs</th><th>Videolimieten</th></tr>
   </thead>
   <tbody>
-    <tr><td>ChatGPT Plus</td><td>$20/month</td><td>Limited generations/month</td></tr>
-    <tr><td>ChatGPT Pro</td><td>$200/month</td><td>Higher limits, priority</td></tr>
+    <tr><td>ChatGPT Plus</td><td>$20/maand</td><td>Beperkt aantal generaties/maand</td></tr>
+    <tr><td>ChatGPT Pro</td><td>$200/maand</td><td>Hogere limieten, prioriteit</td></tr>
   </tbody>
 </table>
-<p>There is no standalone Sora subscription — you access it through ChatGPT.</p>
+<p>Er is geen los Sora-abonnement: je krijgt toegang via ChatGPT.</p>
 
 <h2>Sora vs Runway vs Kling</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Sora</th><th>Runway Gen-3</th><th>Kling AI</th></tr>
+    <tr><th>Functie</th><th>Sora</th><th>Runway Gen-3</th><th>Kling AI</th></tr>
   </thead>
   <tbody>
-    <tr><td>Grade</td><td><strong>B+</strong></td><td><strong>A</strong></td><td><strong>B+</strong></td></tr>
-    <tr><td>Best output quality</td><td>Excellent</td><td>Excellent</td><td>Very good</td></tr>
-    <tr><td>Consistency</td><td>Inconsistent</td><td>Consistent</td><td>Moderate</td></tr>
-    <tr><td>Clip length</td><td>~10-20 sec</td><td>~10 sec</td><td>~30 sec</td></tr>
-    <tr><td>Generation speed</td><td>Slow</td><td>Fast</td><td>Moderate</td></tr>
-    <tr><td>Editing tools</td><td>None</td><td>Full suite</td><td>Basic</td></tr>
-    <tr><td>Control</td><td>Prompt only</td><td>Motion brush, camera</td><td>Motion control</td></tr>
-    <tr><td>Price</td><td>$20/mo (with ChatGPT)</td><td>$12-76/mo</td><td>Free / $8/mo</td></tr>
-    <tr><td>Free tier</td><td>No</td><td>Limited</td><td>Yes</td></tr>
-    <tr><td>Best for</td><td>ChatGPT users</td><td>Production quality</td><td>Longer clips</td></tr>
+    <tr><td>Cijfer</td><td><strong>B+</strong></td><td><strong>A</strong></td><td><strong>B+</strong></td></tr>
+    <tr><td>Beste outputkwaliteit</td><td>Uitstekend</td><td>Uitstekend</td><td>Zeer goed</td></tr>
+    <tr><td>Consistentie</td><td>Inconsistent</td><td>Consistent</td><td>Gemiddeld</td></tr>
+    <tr><td>Cliplengte</td><td>~10-20 sec</td><td>~10 sec</td><td>~30 sec</td></tr>
+    <tr><td>Generatiesnelheid</td><td>Traag</td><td>Snel</td><td>Gemiddeld</td></tr>
+    <tr><td>Bewerkingstools</td><td>Geen</td><td>Complete suite</td><td>Basis</td></tr>
+    <tr><td>Controle</td><td>Alleen prompt</td><td>Motion brush, camera</td><td>Bewegingscontrole</td></tr>
+    <tr><td>Prijs</td><td>$20/mnd (met ChatGPT)</td><td>$12-76/mnd</td><td>Gratis / $8/mnd</td></tr>
+    <tr><td>Gratis versie</td><td>Nee</td><td>Beperkt</td><td>Ja</td></tr>
+    <tr><td>Het best voor</td><td>ChatGPT-gebruikers</td><td>Productiekwaliteit</td><td>Langere clips</td></tr>
   </tbody>
 </table>
 
-<h2>Who Should Use Sora?</h2>
+<h2>Voor wie is Sora?</h2>
 
-<h3>Best For</h3>
+<h3>Het best voor</h3>
 <ul>
-  <li><strong>ChatGPT Plus subscribers</strong> — Sora is included at no extra cost</li>
-  <li><strong>Creative exploration</strong> — experiment with AI video without a separate subscription</li>
-  <li><strong>Social media creators</strong> — quick concept clips for Instagram and TikTok</li>
-  <li><strong>Occasional video needs</strong> — a few clips per month, not daily production</li>
+  <li><strong>ChatGPT Plus-abonnees</strong> — Sora is zonder extra kosten inbegrepen</li>
+  <li><strong>Creatieve verkenning</strong> — experimenteer met AI-video zonder apart abonnement</li>
+  <li><strong>Makers voor sociale media</strong> — snelle conceptclips voor Instagram en TikTok</li>
+  <li><strong>Incidentele videobehoeften</strong> — een paar clips per maand, geen dagelijkse productie</li>
 </ul>
 
-<h3>Not Ideal For</h3>
+<h3>Minder geschikt voor</h3>
 <ul>
-  <li><strong>Professional video production</strong> — consistency issues make it unreliable for deadlines</li>
-  <li><strong>High-volume creators</strong> — credit limits and slow generation slow down production</li>
-  <li><strong>Precise creative control</strong> — Runway offers better control over output</li>
-  <li><strong>Video editing</strong> — no editing tools, generation only</li>
+  <li><strong>Professionele videoproductie</strong> — door inconsistentie onbetrouwbaar bij deadlines</li>
+  <li><strong>Makers met een groot volume</strong> — creditlimieten en trage generatie vertragen de productie</li>
+  <li><strong>Precieze creatieve controle</strong> — Runway biedt betere controle over de output</li>
+  <li><strong>Videobewerking</strong> — geen bewerkingstools, alleen generatie</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>Samenvatting van voor- en nadelen</h2>
+<h3>Voordelen</h3>
 <ul>
-  <li>Stunning output at its best — cinematic quality</li>
-  <li>Strong physics and motion understanding</li>
-  <li>Included with ChatGPT Plus ($20/month) — best value</li>
-  <li>Text-to-video and image-to-video modes</li>
-  <li>No separate account or subscription needed</li>
+  <li>Verbluffende output op zijn best: filmische kwaliteit</li>
+  <li>Sterk begrip van fysica en beweging</li>
+  <li>Inbegrepen bij ChatGPT Plus ($20/maand): beste prijs-kwaliteit</li>
+  <li>Modi voor text-to-video en image-to-video</li>
+  <li>Geen apart account of abonnement nodig</li>
 </ul>
-<h3>Cons</h3>
+<h3>Nadelen</h3>
 <ul>
-  <li>Inconsistent quality — brilliant or mediocre, unpredictable</li>
-  <li>Slow generation times (5-10 minutes per clip)</li>
-  <li>Limited credits on Plus tier</li>
-  <li>No editing tools — generation only</li>
-  <li>Less control than Runway over specific elements</li>
-  <li>Human anatomy issues — hands, faces, body movement</li>
+  <li>Inconsistente kwaliteit: briljant of matig, onvoorspelbaar</li>
+  <li>Trage generatietijden (5-10 minuten per clip)</li>
+  <li>Beperkte credits bij het Plus-niveau</li>
+  <li>Geen bewerkingstools, alleen generatie</li>
+  <li>Minder controle dan Runway over specifieke elementen</li>
+  <li>Problemen met menselijke anatomie: handen, gezichten, lichaamsbeweging</li>
 </ul>
 
-<h2>Final Verdict: B+</h2>
-<p>Sora's best outputs rival anything in AI video. The problem is getting those best outputs consistently. If you already pay for ChatGPT Plus, Sora is a fantastic bonus — experiment with AI video generation at zero additional cost. If video is a core part of your workflow and you need reliable, consistent, production-quality results, Runway Gen-3 is worth the separate subscription.</p>
-<p><strong>Our recommendation:</strong> If you have ChatGPT Plus, use Sora for creative exploration and social media clips. If you need AI video for professional work, add Runway ($12-28/month) for consistent quality. For a full comparison, read our <a href="/nl/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> guide.</p>
+<h2>Eindoordeel: B+</h2>
+<p>De beste outputs van Sora evenaren alles wat er in AI-video is. Het probleem is om die beste outputs consequent te krijgen. Betaal je al voor ChatGPT Plus, dan is Sora een fantastische bonus: experimenteer met AI-videogeneratie zonder extra kosten. Is video een kernonderdeel van je workflow en heb je betrouwbare, consistente resultaten van productiekwaliteit nodig, dan is Runway Gen-3 het aparte abonnement waard.</p>
+<p><strong>Onze aanbeveling:</strong> Heb je ChatGPT Plus, gebruik Sora dan voor creatieve verkenning en clips voor sociale media. Heb je AI-video nodig voor professioneel werk, voeg dan Runway toe ($12-28/maand) voor consistente kwaliteit. Lees voor een volledige vergelijking onze gids <a href="/nl/blog/best-ai-video-tools-2026">Beste AI-videotools 2026</a>.</p>
 
-<h2>Veelgestelde Vragen</h2>
+<h2>Veelgestelde vragen</h2>
 
-<h3>Is Sora free?</h3>
-<p>No, but it's included with ChatGPT Plus ($20/month). There is no free standalone access. If you already pay for ChatGPT, you get Sora at no additional cost.</p>
+<h3>Is Sora gratis?</h3>
+<p>Nee, maar het is inbegrepen bij ChatGPT Plus ($20/maand). Er is geen gratis losse toegang. Betaal je al voor ChatGPT, dan krijg je Sora zonder extra kosten.</p>
 
-<h3>Is Sora better than Runway?</h3>
-<p>Sora's best clips match Runway's quality, but Runway is more consistent, faster, and includes editing tools. Sora wins on price (included with ChatGPT). Runway wins on reliability and control.</p>
+<h3>Is Sora beter dan Runway?</h3>
+<p>De beste clips van Sora evenaren de kwaliteit van Runway, maar Runway is consistenter, sneller en bevat bewerkingstools. Sora wint op prijs (inbegrepen bij ChatGPT). Runway wint op betrouwbaarheid en controle.</p>
 
-<h3>How long are Sora clips?</h3>
-<p>Sora generates clips of approximately 10-20 seconds. For longer content, you'll need to generate multiple clips and edit them together in a separate tool.</p>
+<h3>Hoe lang zijn Sora-clips?</h3>
+<p>Sora genereert clips van ongeveer 10-20 seconden. Voor langere content moet je meerdere clips genereren en in een aparte tool aan elkaar monteren.</p>
 
-<h3>Can Sora generate realistic people?</h3>
-<p>Sora generates convincing human figures in wide shots and medium shots. Close-ups of faces and hands remain inconsistent — expect anatomical issues. For reliable human subjects, HeyGen or Synthesia (AI avatars) are better choices.</p>
+<h3>Kan Sora realistische mensen genereren?</h3>
+<p>Sora genereert overtuigende menselijke figuren in totaalshots en halfnaaste shots. Close-ups van gezichten en handen blijven inconsistent: reken op anatomische problemen. Voor betrouwbare menselijke onderwerpen zijn HeyGen of Synthesia (AI-avatars) betere keuzes.</p>
 
-<h3>Why is Sora so slow?</h3>
-<p>Sora processes video generation on shared infrastructure with all ChatGPT users. During peak hours, queue times increase. ChatGPT Pro ($200/month) offers priority access with faster generation.</p>
+<h3>Waarom is Sora zo traag?</h3>
+<p>Sora verwerkt videogeneratie op gedeelde infrastructuur met alle ChatGPT-gebruikers. Tijdens piekuren nemen de wachttijden toe. ChatGPT Pro ($200/maand) biedt voorrangstoegang met snellere generatie.</p>
 
-<p><em>Sora was tested by AIGradeLab across creative, commercial, and social media video workflows. Grade reflects practical value as of November 2026. Access verified through ChatGPT Plus and Pro subscriptions.</em></p>
+<p><em>Sora is door AIGradeLab getest in creatieve, commerciële en socialemedia-videoworkflows. Het cijfer weerspiegelt de praktische waarde per november 2026. Toegang gecontroleerd via ChatGPT Plus- en Pro-abonnementen.</em></p>

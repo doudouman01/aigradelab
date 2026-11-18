@@ -1,173 +1,173 @@
 ---
-title: "Gemini 4 Carbon vs Hydrogen: Which Google AI Model Should You Use?"
-description: "Google released two Gemini 4 models in one week — Carbon for complex reasoning and Hydrogen for fast coding and agents. We compare features, speed, pricing, and use cases to help you pick the right one."
+title: "Gemini 4 Carbon vs Hydrogen: welk Google AI-model moet je gebruiken?"
+description: "Google bracht in één week twee Gemini 4-modellen uit: Carbon voor complex redeneren en Hydrogen voor snel coderen en agents. We vergelijken functies, snelheid, prijzen en toepassingen om je te helpen de juiste te kiezen."
 category: "Head-to-Head"
 categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "2026-11-17"
-readTime: "9 min read"
+readTime: "9 min leestijd"
 ---
 
-<h2>Two New Gemini Models, One Big Decision</h2>
+<h2>Twee nieuwe Gemini-modellen, één grote keuze</h2>
 
-<p>Google had a busy week. On November 10, 2026, it released <strong>Gemini 4 Carbon</strong> — described as its most capable model ever, positioned above Gemini 4 Argon. Two days later, on November 12, <strong>Gemini 4 Hydrogen</strong> went generally available as a high-speed model built for daily coding and agent execution.</p>
+<p>Google had een drukke week. Op 10 november 2026 bracht het <strong>Gemini 4 Carbon</strong> uit, omschreven als zijn meest capabele model ooit, gepositioneerd boven Gemini 4 Argon. Twee dagen later, op 12 november, werd <strong>Gemini 4 Hydrogen</strong> algemeen beschikbaar als een supersnel model voor dagelijks coderen en het uitvoeren van agents.</p>
 
-<p>Hydrogen immediately became the default model for Google's AI Mode, and it now powers the hardest AI Overviews questions in Search. Carbon, meanwhile, is aimed at Google AI Ultra subscribers and developers working on complex engineering and scientific reasoning tasks.</p>
+<p>Hydrogen werd meteen het standaardmodel voor AI Mode van Google en beantwoordt nu de moeilijkste vragen van AI Overviews in Zoeken. Carbon richt zich ondertussen op abonnees van Google AI Ultra en op ontwikkelaars die werken aan complexe taken in engineering en wetenschappelijk redeneren.</p>
 
-<p>So which one should you actually use? We tested both extensively. Here's how they stack up.</p>
+<p>Welke moet je dus echt gebruiken? We testten beide uitgebreid. Zo verhouden ze zich tot elkaar.</p>
 
-<h2>Gemini 4 Carbon — The Flagship Powerhouse</h2>
+<h2>Gemini 4 Carbon: de krachtpatser onder de vlaggenschepen</h2>
 
 <div style="margin: 1.5rem 0; padding: 1rem; border-left: 4px solid #2563eb;">
-  <strong>AIGradeLab Grade: A-</strong><br>
-  UX: 8 | Quality: 9 | Value: 7 | Integration: 9 | Support: 8
+  <strong>AIGradeLab-cijfer: A-</strong><br>
+  UX: 8 | Kwaliteit: 9 | Prijs-kwaliteit: 7 | Integratie: 9 | Ondersteuning: 8
 </div>
 
-<h3>What It Does Best</h3>
+<h3>Waar het het best in is</h3>
 
-<p>Carbon is Google's answer to Claude Mythos 5.2 and GPT-6. It's a frontier model designed for tasks where accuracy matters more than speed:</p>
+<p>Carbon is het antwoord van Google op Claude Mythos 5.2 en GPT-6. Het is een frontiermodel, ontworpen voor taken waarbij nauwkeurigheid zwaarder weegt dan snelheid:</p>
 
 <ul>
-  <li><strong>Complex scientific reasoning:</strong> Multi-step math proofs, chemistry simulations, physics problems</li>
-  <li><strong>Engineering tasks:</strong> Architecture design, code review for large codebases, system design</li>
-  <li><strong>Long-context analysis:</strong> Processing and reasoning over massive documents</li>
-  <li><strong>Cybersecurity:</strong> Google specifically highlighted security applications in the Gemini Enterprise Agent Platform release notes</li>
+  <li><strong>Complex wetenschappelijk redeneren:</strong> Wiskundige bewijzen in meerdere stappen, scheikundige simulaties, natuurkundige problemen</li>
+  <li><strong>Engineeringtaken:</strong> Architectuurontwerp, code review voor grote codebases, systeemontwerp</li>
+  <li><strong>Analyse van lange context:</strong> Het verwerken van en redeneren over enorme documenten</li>
+  <li><strong>Cyberbeveiliging:</strong> Google benadrukte beveiligingstoepassingen specifiek in de release notes van het Gemini Enterprise Agent Platform</li>
 </ul>
 
-<h3>Where It Falls Short</h3>
+<h3>Waar het tekortschiet</h3>
 
-<p>Carbon is not fast. If you're using it for quick questions, chat-style interactions, or anything where response time matters more than depth, you'll feel the latency. It's also currently limited to Google AI Ultra subscribers and enterprise API users, which means it's not cheap.</p>
+<p>Carbon is niet snel. Gebruik je het voor snelle vragen, chatachtige interacties of alles waarbij reactietijd zwaarder weegt dan diepgang, dan merk je de vertraging. Het is bovendien momenteel beperkt tot abonnees van Google AI Ultra en gebruikers van de enterprise-API, wat betekent dat het niet goedkoop is.</p>
 
-<p>The value score of 7 reflects this reality: Carbon is excellent at what it does, but most users don't need a frontier model for their daily work. If you're paying for AI Ultra just to access Carbon but mostly use it for email drafts, you're overpaying.</p>
+<p>De score van 7 voor prijs-kwaliteit weerspiegelt die realiteit: Carbon is uitstekend in wat het doet, maar de meeste gebruikers hebben voor hun dagelijks werk geen frontiermodel nodig. Betaal je voor AI Ultra alleen om bij Carbon te kunnen, maar gebruik je het vooral voor conceptmails, dan betaal je te veel.</p>
 
-<h3>Best For</h3>
+<h3>Het best voor</h3>
 
-<p>Researchers, engineers, data scientists, and anyone working on problems where getting the right answer matters more than getting a fast answer. If your prompts regularly exceed 50,000 tokens or involve multi-step technical reasoning, Carbon is worth the premium.</p>
+<p>Onderzoekers, engineers, datawetenschappers en iedereen die werkt aan problemen waarbij het juiste antwoord zwaarder weegt dan een snel antwoord. Als je prompts regelmatig meer dan 50.000 tokens beslaan of redeneren in meerdere technische stappen inhouden, is Carbon de meerprijs waard.</p>
 
-<h2>Gemini 4 Hydrogen — The Speed Demon</h2>
+<h2>Gemini 4 Hydrogen: de snelheidsduivel</h2>
 
 <div style="margin: 1.5rem 0; padding: 1rem; border-left: 4px solid #16a34a;">
-  <strong>AIGradeLab Grade: B+</strong><br>
-  UX: 9 | Quality: 7 | Value: 9 | Integration: 9 | Support: 8
+  <strong>AIGradeLab-cijfer: B+</strong><br>
+  UX: 9 | Kwaliteit: 7 | Prijs-kwaliteit: 9 | Integratie: 9 | Ondersteuning: 8
 </div>
 
-<h3>What It Does Best</h3>
+<h3>Waar het het best in is</h3>
 
-<p>Hydrogen is built for a different job entirely. It's the model Google chose to power AI Mode by default, which tells you everything about its design philosophy: fast, efficient, and good enough for the vast majority of queries.</p>
+<p>Hydrogen is voor een heel andere klus gebouwd. Het is het model dat Google koos om AI Mode standaard aan te drijven, wat alles zegt over de ontwerpfilosofie: snel, efficiënt en goed genoeg voor de overgrote meerderheid van de vragen.</p>
 
 <ul>
-  <li><strong>Daily coding:</strong> Autocomplete, code generation, debugging, refactoring — all with minimal latency</li>
-  <li><strong>Agent execution:</strong> Running multi-step automated workflows where speed per step compounds into major time savings</li>
-  <li><strong>AI Overviews:</strong> Now handling the most complex search queries in Google AI Mode</li>
-  <li><strong>Real-time chat:</strong> Conversational AI where response time affects user experience</li>
+  <li><strong>Dagelijks coderen:</strong> Aanvulling, codegeneratie, debuggen, refactoring, allemaal met minimale latentie</li>
+  <li><strong>Uitvoeren van agents:</strong> Geautomatiseerde workflows in meerdere stappen draaien, waarbij snelheid per stap zich opstapelt tot grote tijdwinst</li>
+  <li><strong>AI Overviews:</strong> Beantwoordt nu de meest complexe zoekopdrachten in AI Mode van Google</li>
+  <li><strong>Chat in realtime:</strong> Conversationele AI waarbij de reactietijd de gebruikerservaring bepaalt</li>
 </ul>
 
-<h3>Where It Falls Short</h3>
+<h3>Waar het tekortschiet</h3>
 
-<p>Hydrogen trades depth for speed. On complex multi-step reasoning tasks — particularly in math and science — it makes more errors than Carbon. It's also more likely to produce shallow answers on nuanced topics. The quality score of 7 reflects the trade-off: Hydrogen is not trying to be the smartest model in the room; it's trying to be the most useful one for everyday work.</p>
+<p>Hydrogen ruilt diepgang in voor snelheid. Bij complexe redeneertaken in meerdere stappen, met name in wiskunde en wetenschap, maakt het meer fouten dan Carbon. Het geeft bij genuanceerde onderwerpen ook sneller oppervlakkige antwoorden. De kwaliteitsscore van 7 weerspiegelt de afweging: Hydrogen probeert niet het slimste model in de kamer te zijn, maar het nuttigste voor het dagelijks werk.</p>
 
-<h3>Best For</h3>
+<h3>Het best voor</h3>
 
-<p>Developers who need a fast coding assistant, teams building AI-powered agents and automations, and anyone who values response time over raw reasoning power. If you're using Google's AI tools in Workspace (Gmail, Docs, Sheets), Hydrogen is the model doing the heavy lifting behind the scenes.</p>
+<p>Ontwikkelaars die een snelle codeerassistent nodig hebben, teams die AI-agents en automatiseringen bouwen en iedereen die reactietijd belangrijker vindt dan ruwe redeneerkracht. Gebruik je de AI-tools van Google in Workspace (Gmail, Docs, Sheets), dan is Hydrogen het model dat achter de schermen het zware werk doet.</p>
 
-<h2>Head-to-Head Comparison</h2>
+<h2>Rechtstreekse vergelijking</h2>
 
 <table>
   <thead>
     <tr>
-      <th>Feature</th>
+      <th>Functie</th>
       <th>Gemini 4 Carbon</th>
       <th>Gemini 4 Hydrogen</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td><strong>Released</strong></td>
-      <td>November 10, 2026</td>
-      <td>November 12, 2026</td>
+      <td><strong>Uitgebracht</strong></td>
+      <td>10 november 2026</td>
+      <td>12 november 2026</td>
     </tr>
     <tr>
-      <td><strong>AIGradeLab Grade</strong></td>
+      <td><strong>AIGradeLab-cijfer</strong></td>
       <td>A-</td>
       <td>B+</td>
     </tr>
     <tr>
-      <td><strong>Primary Strength</strong></td>
-      <td>Complex reasoning & accuracy</td>
-      <td>Speed & daily productivity</td>
+      <td><strong>Belangrijkste sterkte</strong></td>
+      <td>Complex redeneren en nauwkeurigheid</td>
+      <td>Snelheid en dagelijkse productiviteit</td>
     </tr>
     <tr>
-      <td><strong>Response Speed</strong></td>
-      <td>Slower (frontier-class)</td>
-      <td>Fast (optimized for real-time)</td>
+      <td><strong>Reactiesnelheid</strong></td>
+      <td>Langzamer (frontierklasse)</td>
+      <td>Snel (geoptimaliseerd voor realtime)</td>
     </tr>
     <tr>
-      <td><strong>Coding</strong></td>
-      <td>Best for code review & architecture</td>
-      <td>Best for code generation & debugging</td>
+      <td><strong>Coderen</strong></td>
+      <td>Het best voor code review en architectuur</td>
+      <td>Het best voor codegeneratie en debuggen</td>
     </tr>
     <tr>
-      <td><strong>Agent Support</strong></td>
-      <td>Complex multi-step tasks</td>
-      <td>High-throughput agent workflows</td>
+      <td><strong>Ondersteuning voor agents</strong></td>
+      <td>Complexe taken in meerdere stappen</td>
+      <td>Agent-workflows met hoge doorvoer</td>
     </tr>
     <tr>
-      <td><strong>Availability</strong></td>
-      <td>AI Ultra subscribers, Enterprise API</td>
-      <td>Generally available, AI Mode default</td>
+      <td><strong>Beschikbaarheid</strong></td>
+      <td>Abonnees van AI Ultra, enterprise-API</td>
+      <td>Algemeen beschikbaar, standaard in AI Mode</td>
     </tr>
     <tr>
-      <td><strong>Best Use Case</strong></td>
-      <td>Research, science, engineering</td>
-      <td>Daily work, coding, automation</td>
+      <td><strong>Beste toepassing</strong></td>
+      <td>Onderzoek, wetenschap, engineering</td>
+      <td>Dagelijks werk, coderen, automatisering</td>
     </tr>
     <tr>
       <td><strong>AI Overviews</strong></td>
-      <td>No</td>
-      <td>Yes (hardest queries)</td>
+      <td>Nee</td>
+      <td>Ja (moeilijkste vragen)</td>
     </tr>
   </tbody>
 </table>
 
-<h2>How They Compare to the Competition</h2>
+<h2>Hoe ze zich verhouden tot de concurrentie</h2>
 
-<p>Google released both models in a week when Anthropic launched Claude Fable 5.2 and Mythos 5.2, and OpenAI shipped ChatGPT Wallet. The timing isn't subtle — this is an arms race.</p>
+<p>Google bracht beide modellen uit in een week waarin Anthropic Claude Fable 5.2 en Mythos 5.2 lanceerde en OpenAI ChatGPT Wallet uitbracht. De timing is niet subtiel: dit is een wapenwedloop.</p>
 
-<p>Here's where Carbon and Hydrogen sit in the broader landscape:</p>
-
-<ul>
-  <li><strong>Carbon vs. Claude Mythos 5.2:</strong> Both are frontier-class models aimed at the hardest technical tasks. Carbon integrates more deeply with Google's ecosystem (Workspace, Search, Cloud); Mythos has the edge in extended reasoning and safety alignment</li>
-  <li><strong>Carbon vs. GPT-6:</strong> OpenAI's latest flagship remains the benchmark for creative tasks and general knowledge; Carbon is stronger in scientific and engineering domains</li>
-  <li><strong>Hydrogen vs. Claude Fable 5.2:</strong> Both are fast, capable daily drivers. Fable is 30% faster than its predecessors; Hydrogen benefits from deep integration with Google's products</li>
-  <li><strong>Hydrogen vs. GPT-5.5:</strong> Similar speed tier, but Hydrogen's role as AI Mode's default gives it a unique distribution advantage — it's the model answering the hardest Google Search queries</li>
-</ul>
-
-<h2>The SEO Angle: Why Hydrogen Matters for Content Creators</h2>
-
-<p>If you run a website, Hydrogen's role as the AI Mode default model is significant. It's now generating AI Overviews for the most complex search queries, which means it's deciding what content gets cited in Google's AI answers.</p>
-
-<p>What this means for your SEO strategy:</p>
+<p>Zo staan Carbon en Hydrogen in het bredere landschap:</p>
 
 <ul>
-  <li>Content needs to be clear, structured, and factually accurate — Hydrogen prioritizes sources it can quickly parse and verify</li>
-  <li>Technical depth matters more than ever for complex queries — shallow content won't get cited</li>
-  <li>Schema markup and structured data help Hydrogen understand your content faster</li>
+  <li><strong>Carbon vs. Claude Mythos 5.2:</strong> Beide zijn modellen van frontierklasse, gericht op de moeilijkste technische taken. Carbon integreert dieper met het ecosysteem van Google (Workspace, Zoeken, Cloud); Mythos heeft de voorsprong bij langdurig redeneren en veiligheidsafstemming</li>
+  <li><strong>Carbon vs. GPT-6:</strong> Het nieuwste vlaggenschip van OpenAI blijft de maatstaf voor creatieve taken en algemene kennis; Carbon is sterker in wetenschappelijke en technische domeinen</li>
+  <li><strong>Hydrogen vs. Claude Fable 5.2:</strong> Beide zijn snelle, capabele modellen voor dagelijks gebruik. Fable is 30% sneller dan zijn voorgangers; Hydrogen profiteert van diepe integratie met de producten van Google</li>
+  <li><strong>Hydrogen vs. GPT-5.5:</strong> Vergelijkbaar snelheidsniveau, maar de rol van Hydrogen als standaard in AI Mode geeft het een uniek distributievoordeel: het is het model dat de moeilijkste zoekopdrachten in Google beantwoordt</li>
 </ul>
 
-<p>This is happening alongside Google's November 2026 Core Update, which started rolling out on November 10. The combination of a new core update and a new default AI model means search rankings could see significant movement in the coming weeks.</p>
+<h2>De SEO-invalshoek: waarom Hydrogen ertoe doet voor contentmakers</h2>
 
-<h2>Which One Should You Pick?</h2>
+<p>Heb je een website, dan is de rol van Hydrogen als standaardmodel in AI Mode belangrijk. Het genereert nu AI Overviews voor de meest complexe zoekopdrachten, wat betekent dat het bepaalt welke content in de AI-antwoorden van Google wordt aangehaald.</p>
 
-<p><strong>Choose Carbon if:</strong> You're a researcher, scientist, or engineer who regularly tackles complex multi-step problems. You need the highest possible accuracy and are willing to wait a few extra seconds for it. You have access to Google AI Ultra or Enterprise.</p>
+<p>Wat dit betekent voor je SEO-strategie:</p>
 
-<p><strong>Choose Hydrogen if:</strong> You want a fast, reliable AI assistant for daily work. You're a developer who needs a coding copilot. You're building AI agents or automations where speed per step matters. You want the model that's powering Google Search right now.</p>
+<ul>
+  <li>Content moet helder, gestructureerd en feitelijk juist zijn: Hydrogen geeft voorrang aan bronnen die het snel kan doorgronden en verifiëren</li>
+  <li>Technische diepgang telt meer dan ooit bij complexe zoekopdrachten: oppervlakkige content wordt niet aangehaald</li>
+  <li>Schema-opmaak en gestructureerde data helpen Hydrogen je content sneller te begrijpen</li>
+</ul>
 
-<p><strong>Choose both if:</strong> You're on Google AI Ultra, which gives you access to Carbon for heavy tasks and Hydrogen for everything else. This is the ideal setup — use Carbon when you need depth, Hydrogen when you need speed.</p>
+<p>Dit gebeurt naast de Core Update van Google van november 2026, die op 10 november begon uit te rollen. De combinatie van een nieuwe core update en een nieuw standaard AI-model kan de komende weken tot flinke bewegingen in de zoekrankings leiden.</p>
 
-<h2>Het Oordeel</h2>
+<h2>Welke moet je kiezen?</h2>
 
-<p>Google made a smart move releasing two models at different tiers rather than trying to build one model that does everything. Carbon is a genuine frontier model that competes with the best from Anthropic and OpenAI. Hydrogen is a productivity workhorse that most people will interact with daily without even knowing it.</p>
+<p><strong>Kies Carbon als:</strong> je onderzoeker, wetenschapper of engineer bent en regelmatig complexe problemen in meerdere stappen aanpakt. Je hebt de hoogst mogelijke nauwkeurigheid nodig en wacht er graag een paar seconden extra voor. Je hebt toegang tot Google AI Ultra of Enterprise.</p>
 
-<p>For most users, <strong>Hydrogen is the better value</strong>. It's faster, more widely available, and handles 90% of daily AI tasks well. Carbon is the specialist — powerful, but only worth the premium if your work demands frontier-level reasoning.</p>
+<p><strong>Kies Hydrogen als:</strong> je een snelle, betrouwbare AI-assistent voor dagelijks werk wilt. Je bent ontwikkelaar en hebt een codeer-copiloot nodig. Je bouwt AI-agents of automatiseringen waarbij snelheid per stap telt. Je wilt het model dat op dit moment Google Zoeken aandrijft.</p>
 
-<p><em>Need free AI tools for daily productivity? Check out the calculators, converters, and utilities at <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a> — no subscription required.</em></p>
+<p><strong>Kies beide als:</strong> je Google AI Ultra hebt, dat je toegang geeft tot Carbon voor zware taken en Hydrogen voor al het andere. Dit is de ideale opstelling: gebruik Carbon als je diepgang nodig hebt en Hydrogen als je snelheid nodig hebt.</p>
+
+<h2>Het oordeel</h2>
+
+<p>Google deed een slimme zet door twee modellen op verschillende niveaus uit te brengen in plaats van één model te willen bouwen dat alles doet. Carbon is een echt frontiermodel dat concurreert met het beste van Anthropic en OpenAI. Hydrogen is een productiviteitspaard dat de meeste mensen dagelijks gebruiken zonder het te weten.</p>
+
+<p>Voor de meeste gebruikers is <strong>Hydrogen de betere prijs-kwaliteit</strong>. Het is sneller, breder beschikbaar en handelt 90% van de dagelijkse AI-taken goed af. Carbon is de specialist: krachtig, maar alleen de meerprijs waard als je werk redeneren op frontierniveau vereist.</p>
+
+<p><em>Zoek je gratis AI-tools voor dagelijkse productiviteit? Bekijk de rekenmachines, omzetters en hulpmiddelen op <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit.com</a>: geen abonnement nodig.</em></p>

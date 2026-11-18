@@ -1,177 +1,177 @@
 ---
-title: "2026 최고의 AI Tools for Students: 8 Tools That Actually Help You Learn"
-description: "We tested the best AI tools for studying, writing essays, research, and exam prep. Free and student-priced options. Updated November 2026."
+title: "2026 최고의 학생용 AI 도구: 학습에 실제로 도움이 되는 8가지 도구"
+description: "공부, 에세이 작성, 리서치, 시험 준비에 가장 좋은 AI 도구를 테스트했습니다. 무료 및 학생 가격 옵션을 소개합니다. 2026년 11월 업데이트."
 category: "Best Picks"
 categorySlug: "best-picks"
 date: "2026-11-14"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "읽기 시간: 13분"
 ---
 
-<h2>AI Tools That Help You Learn, Not Just Cheat</h2>
-<p>The best AI tools for students in 2026 are not the ones that write your essays for you — professors can detect that. The best tools are the ones that help you understand concepts faster, research more efficiently, organize your work, and study smarter. We tested every major AI tool from a student's perspective: budget, learning value, and academic integrity.</p>
+<h2>속이는 것이 아니라 배우는 데 도움이 되는 AI 도구</h2>
+<p>2026년 학생을 위한 최고의 AI 도구는 에세이를 대신 써 주는 도구가 아닙니다. 교수님들은 그것을 탐지할 수 있습니다. 최고의 도구는 개념을 더 빨리 이해하고, 더 효율적으로 리서치하고, 과제를 정리하고, 더 똑똑하게 공부하도록 돕는 도구입니다. 예산, 학습 가치, 학문적 진실성이라는 학생의 관점에서 모든 주요 AI 도구를 테스트했습니다.</p>
 
-<h2>Quick Comparison</h2>
+<h2>빠른 비교</h2>
 <table>
   <thead>
-    <tr><th>#</th><th>Tool</th><th>Best For</th><th>Student Price</th><th>Free Tier</th></tr>
+    <tr><th>#</th><th>도구</th><th>가장 적합한 용도</th><th>학생 가격</th><th>무료 요금제</th></tr>
   </thead>
   <tbody>
-    <tr><td>1</td><td>Perplexity</td><td>Research with sources</td><td>$10/mo (Education Pro)</td><td>Yes (5 Pro/day)</td></tr>
-    <tr><td>2</td><td>ChatGPT</td><td>All-purpose study assistant</td><td>$20/mo Plus</td><td>Yes</td></tr>
-    <tr><td>3</td><td>Claude</td><td>Essay feedback & deep analysis</td><td>$20/mo Pro</td><td>Yes</td></tr>
-    <tr><td>4</td><td>Google Gemini</td><td>Google Workspace students</td><td>Free</td><td>Yes (generous)</td></tr>
-    <tr><td>5</td><td>Grammarly</td><td>Writing improvement</td><td>$12/mo Premium</td><td>Yes</td></tr>
-    <tr><td>6</td><td>Notion AI</td><td>Notes & organization</td><td>Free (Education plan)</td><td>Yes</td></tr>
-    <tr><td>7</td><td>Otter.ai</td><td>Lecture transcription</td><td>Free (300 min/mo)</td><td>Yes</td></tr>
-    <tr><td>8</td><td>DeepSeek</td><td>Math & coding help</td><td>Free (unlimited)</td><td>Yes (unlimited)</td></tr>
+    <tr><td>1</td><td>Perplexity</td><td>출처가 있는 리서치</td><td>월 $10 (Education Pro)</td><td>있음 (Pro 하루 5회)</td></tr>
+    <tr><td>2</td><td>ChatGPT</td><td>만능 학습 어시스턴트</td><td>Plus 월 $20</td><td>있음</td></tr>
+    <tr><td>3</td><td>Claude</td><td>에세이 피드백 및 심층 분석</td><td>Pro 월 $20</td><td>있음</td></tr>
+    <tr><td>4</td><td>Google Gemini</td><td>Google Workspace를 쓰는 학생</td><td>무료</td><td>있음 (넉넉함)</td></tr>
+    <tr><td>5</td><td>Grammarly</td><td>글쓰기 개선</td><td>Premium 월 $12</td><td>있음</td></tr>
+    <tr><td>6</td><td>Notion AI</td><td>노트 및 정리</td><td>무료 (Education 요금제)</td><td>있음</td></tr>
+    <tr><td>7</td><td>Otter.ai</td><td>강의 녹취</td><td>무료 (월 300분)</td><td>있음</td></tr>
+    <tr><td>8</td><td>DeepSeek</td><td>수학 및 코딩 도움</td><td>무료 (무제한)</td><td>있음 (무제한)</td></tr>
   </tbody>
 </table>
 
-<h2>A Note on Academic Integrity</h2>
-<p>Most universities now have clear AI usage policies. The general rule: using AI to help you understand and learn is encouraged. Using AI to generate work you submit as your own is plagiarism. Every recommendation below focuses on learning and productivity, not on producing assignments. Check your university's specific policy before using any AI tool for coursework.</p>
+<h2>학문적 진실성에 관한 안내</h2>
+<p>이제 대부분의 대학에는 명확한 AI 사용 정책이 있습니다. 일반적인 원칙은 이렇습니다. 이해하고 배우는 데 AI를 활용하는 것은 권장되지만, AI로 만든 결과물을 자기 과제로 제출하는 것은 표절입니다. 아래의 모든 추천은 과제물 생산이 아니라 학습과 생산성에 초점을 맞추고 있습니다. 수업 과제에 AI 도구를 사용하기 전에 반드시 소속 대학의 구체적인 정책을 확인하세요.</p>
 
-<h2>1. Perplexity — Best for Academic Research</h2>
-<p><strong>Student price: $10/month (Education Pro) | Free: 5 Pro searches/day</strong></p>
-<p>Perplexity is the research tool every student should try first. Ask any question and get a synthesized answer with numbered citations linking to the sources. The Academic focus mode restricts results to peer-reviewed papers and scholarly sources — invaluable for literature reviews and research papers.</p>
-<h3>Why Students Love It</h3>
+<h2>1. Perplexity — 학술 리서치에 최고</h2>
+<p><strong>학생 가격: 월 $10 (Education Pro) | 무료: Pro 검색 하루 5회</strong></p>
+<p>Perplexity는 모든 학생이 가장 먼저 써 봐야 할 리서치 도구입니다. 어떤 질문이든 하면 출처로 연결되는 번호 인용이 달린 종합 답변을 받을 수 있습니다. Academic 포커스 모드는 결과를 동료 심사를 거친 논문과 학술 자료로 제한해 문헌 검토와 연구 논문에 매우 유용합니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>Academic focus mode:</strong> Search only peer-reviewed papers and academic sources. For research papers and literature reviews, this is transformative.</li>
-  <li><strong>Cited answers:</strong> Every claim has a numbered citation [1][2][3] — click to verify. Your professor can see exactly where the information came from.</li>
-  <li><strong>$10/month student pricing:</strong> Half the price of ChatGPT Plus, with unlimited Pro searches. The best value for students who do heavy research.</li>
-  <li><strong>Study aid:</strong> Ask "explain [concept] like I am a first-year student" and get a clear, sourced explanation with links to learn more.</li>
+  <li><strong>Academic 포커스 모드:</strong> 동료 심사를 거친 논문과 학술 자료만 검색합니다. 연구 논문과 문헌 검토에는 혁신적입니다.</li>
+  <li><strong>인용이 달린 답변:</strong> 모든 주장에 번호가 매겨진 인용 [1][2][3]이 달려 있어 클릭해서 확인할 수 있습니다. 교수님도 정보의 출처를 정확히 볼 수 있습니다.</li>
+  <li><strong>월 $10 학생 가격:</strong> ChatGPT Plus의 절반 가격이면서 Pro 검색은 무제한입니다. 리서치를 많이 하는 학생에게 최고의 가성비입니다.</li>
+  <li><strong>학습 보조:</strong> "[개념]을 1학년 학생에게 설명하듯이 설명해 줘"라고 요청하면 더 알아볼 수 있는 링크가 포함된, 출처가 있는 명확한 설명을 받을 수 있습니다.</li>
 </ul>
-<h3>Academic Integrity</h3>
-<p>Perplexity is a research tool — like a smarter Google. Using it to find and cite sources for your paper is exactly how research should work. Just cite the original sources Perplexity points you to, not Perplexity itself.</p>
+<h3>학문적 진실성</h3>
+<p>Perplexity는 더 똑똑한 Google 같은 리서치 도구입니다. 이를 이용해 논문에 쓸 출처를 찾고 인용하는 것은 리서치가 원래 이루어져야 하는 방식 그대로입니다. 다만 Perplexity 자체가 아니라 Perplexity가 안내해 준 원본 출처를 인용하세요.</p>
 
-<h2>2. ChatGPT — Best All-Purpose Study Assistant</h2>
-<p><strong>Student price: $20/month Plus | Free: GPT-4o mini</strong></p>
-<p>ChatGPT is the Swiss Army knife for students. Use it as a tutor that explains concepts in different ways until you understand, a study partner that quizzes you, a brainstorming tool for essay outlines, and a coding assistant for CS assignments. The free tier is genuinely useful for most student needs.</p>
-<h3>Why Students Love It</h3>
+<h2>2. ChatGPT — 최고의 만능 학습 어시스턴트</h2>
+<p><strong>학생 가격: Plus 월 $20 | 무료: GPT-4o mini</strong></p>
+<p>ChatGPT는 학생들을 위한 맥가이버 칼입니다. 이해할 때까지 개념을 다양한 방식으로 설명해 주는 튜터, 퀴즈를 내 주는 스터디 파트너, 에세이 개요를 위한 브레인스토밍 도구, 컴퓨터공학 과제를 위한 코딩 어시스턴트로 사용하세요. 무료 요금제도 대부분의 학생 요구에 실제로 유용합니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>Personalized tutoring:</strong> "Explain quantum entanglement using a basketball analogy" — ChatGPT adapts explanations to your level and learning style.</li>
-  <li><strong>Study flashcards and quizzes:</strong> "Create 20 multiple-choice questions about the French Revolution" — instant exam prep.</li>
-  <li><strong>Essay outlining:</strong> Not writing the essay, but structuring your argument. "Help me outline a paper arguing that [thesis]. What are the strongest counterarguments?"</li>
-  <li><strong>Code debugging:</strong> For CS students, paste your code and ask "why does this throw an error?" — faster than office hours.</li>
-  <li><strong>Image analysis:</strong> Upload a diagram, chart, or handwritten notes and ask ChatGPT to explain what it sees.</li>
+  <li><strong>맞춤형 튜터링:</strong> "농구에 비유해서 양자 얽힘을 설명해 줘"라고 하면 ChatGPT가 내 수준과 학습 스타일에 맞춰 설명합니다.</li>
+  <li><strong>학습 플래시카드와 퀴즈:</strong> "프랑스 혁명에 관한 객관식 문제 20개를 만들어 줘"라고 하면 곧바로 시험 대비가 됩니다.</li>
+  <li><strong>에세이 개요 작성:</strong> 에세이를 대신 쓰는 것이 아니라 논거를 구조화합니다. "[주장]을 논증하는 논문의 개요를 짜는 걸 도와줘. 가장 강력한 반론은 뭐야?"</li>
+  <li><strong>코드 디버깅:</strong> 컴퓨터공학 전공 학생이라면 코드를 붙여 넣고 "왜 이게 오류가 나지?"라고 물어보세요. 교수 면담 시간보다 빠릅니다.</li>
+  <li><strong>이미지 분석:</strong> 도표, 차트, 손글씨 노트를 업로드하고 ChatGPT에게 보이는 내용을 설명해 달라고 하세요.</li>
 </ul>
-<h3>Academic Integrity</h3>
-<p>Using ChatGPT to understand concepts, outline arguments, and debug code is legitimate learning. Submitting ChatGPT-generated text as your own work is plagiarism. Use it as a tutor, not a ghostwriter.</p>
+<h3>학문적 진실성</h3>
+<p>개념을 이해하고, 논거의 개요를 짜고, 코드를 디버깅하는 데 ChatGPT를 쓰는 것은 정당한 학습입니다. ChatGPT가 생성한 글을 내가 쓴 과제로 제출하는 것은 표절입니다. 대필자가 아니라 튜터로 활용하세요.</p>
 
-<h2>3. Claude — Best for Essay Feedback & Deep Analysis</h2>
-<p><strong>Student price: $20/month Pro | Free: Sonnet (limited)</strong></p>
-<p>Claude produces the highest-quality writing and analysis of any AI tool. For students who need feedback on their own writing — "is my argument logical?" "what are the weaknesses in this essay?" "how can I strengthen this paragraph?" — Claude provides the most thoughtful, detailed critiques.</p>
-<h3>Why Students Love It</h3>
+<h2>3. Claude — 에세이 피드백 및 심층 분석에 최고</h2>
+<p><strong>학생 가격: Pro 월 $20 | 무료: Sonnet (제한적)</strong></p>
+<p>Claude는 모든 AI 도구 중에서 가장 높은 품질의 글쓰기와 분석을 만들어 냅니다. "내 논증이 논리적인가?", "이 에세이의 약점은 무엇인가?", "이 단락을 어떻게 강화할 수 있을까?" 같은 자기 글에 대한 피드백이 필요한 학생에게 Claude는 가장 사려 깊고 상세한 평가를 제공합니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>Writing feedback:</strong> Paste your essay and ask for honest critique. Claude identifies weak arguments, logical gaps, unclear sentences, and structural issues — like having a teaching assistant review your draft.</li>
-  <li><strong>Long document analysis:</strong> Upload a 50-page reading assignment and ask specific questions. Claude handles large documents better than any other AI.</li>
-  <li><strong>Complex reasoning:</strong> For philosophy, law, and STEM courses that require multi-step logical analysis, Claude's reasoning is the most careful and methodical.</li>
-  <li><strong>Coding projects:</strong> Claude Code is the top-rated AI coding tool — invaluable for CS students working on complex projects.</li>
+  <li><strong>글쓰기 피드백:</strong> 에세이를 붙여 넣고 솔직한 비평을 요청하세요. Claude는 약한 논거, 논리의 허점, 불분명한 문장, 구조적 문제를 짚어 줍니다. 조교가 초안을 검토해 주는 것과 같습니다.</li>
+  <li><strong>긴 문서 분석:</strong> 50페이지 분량의 읽기 과제를 업로드하고 구체적인 질문을 해 보세요. Claude는 어떤 AI보다 큰 문서를 잘 처리합니다.</li>
+  <li><strong>복잡한 추론:</strong> 다단계 논리 분석이 필요한 철학, 법학, STEM 수업에서 Claude의 추론이 가장 신중하고 체계적입니다.</li>
+  <li><strong>코딩 프로젝트:</strong> Claude Code는 최고 평가를 받는 AI 코딩 도구로, 복잡한 프로젝트를 하는 컴퓨터공학 전공 학생에게 매우 유용합니다.</li>
 </ul>
-<h3>Academic Integrity</h3>
-<p>Using Claude for feedback on your own writing is like getting peer review — it helps you improve. Using Claude to write the essay itself is not. The key difference: you write, Claude critiques.</p>
+<h3>학문적 진실성</h3>
+<p>자신의 글에 대한 피드백을 받기 위해 Claude를 쓰는 것은 동료 평가를 받는 것과 같아서 실력 향상에 도움이 됩니다. 에세이 자체를 Claude에게 쓰게 하는 것은 그렇지 않습니다. 핵심 차이는 이렇습니다. 쓰는 것은 나이고, Claude는 비평합니다.</p>
 
-<h2>4. Google Gemini — Best Free Option for Google Users</h2>
-<p><strong>Student price: Free | Upgrade: $20/month Advanced</strong></p>
-<p>Gemini's free tier is the most generous of any AI assistant. For students already using Google Docs, Gmail, and Google Drive (which is most students), Gemini integrates directly — summarize your Google Docs notes, search your Drive for that file you cannot find, and draft emails to professors.</p>
-<h3>Why Students Love It</h3>
+<h2>4. Google Gemini — Google 사용자를 위한 최고의 무료 옵션</h2>
+<p><strong>학생 가격: 무료 | 업그레이드: Advanced 월 $20</strong></p>
+<p>Gemini의 무료 요금제는 모든 AI 어시스턴트 중 가장 넉넉합니다. 이미 Google Docs, Gmail, Google Drive를 쓰는 학생(대부분의 학생)에게는 Gemini가 직접 통합되어 Google Docs 노트를 요약하고, 찾지 못한 파일을 Drive에서 검색하고, 교수님께 보낼 이메일을 작성할 수 있습니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>Free and generous:</strong> The best AI model available for $0. No daily limits that make it unusable.</li>
-  <li><strong>Google Workspace integration:</strong> "Find the notes I wrote about mitochondria in my Drive" — Gemini searches your files.</li>
-  <li><strong>YouTube analysis:</strong> Upload a lecture video link and ask questions about the content.</li>
-  <li><strong>Image generation:</strong> Create diagrams and visual study aids with Nano Banana Pro — free.</li>
-</ul>
-
-<h2>5. Grammarly — Best for Writing Improvement</h2>
-<p><strong>Student price: $12/month Premium | Free: Grammar and spelling</strong></p>
-<p>Grammarly catches errors in everything you write — essays, emails to professors, lab reports, applications. The free tier handles grammar and spelling. Premium adds tone detection, clarity suggestions, and full-sentence rewrites. For non-native English speakers, Grammarly is arguably the most valuable tool on this list.</p>
-<h3>Why Students Love It</h3>
-<ul>
-  <li><strong>Works everywhere:</strong> Google Docs, Word, Gmail, browser — no copy-pasting needed.</li>
-  <li><strong>Catches what you miss:</strong> Subject-verb agreement, comma splices, unclear antecedents — errors that cost marks.</li>
-  <li><strong>Plagiarism detection:</strong> Premium includes a plagiarism checker — run your paper before submitting.</li>
-  <li><strong>Tone for emails:</strong> "Does this email to my professor sound too casual?" Grammarly tells you.</li>
+  <li><strong>무료이면서 넉넉함:</strong> $0으로 쓸 수 있는 최고의 AI 모델입니다. 쓸 수 없을 정도로 낮은 일일 한도가 없습니다.</li>
+  <li><strong>Google Workspace 통합:</strong> "Drive에 있는 미토콘드리아에 관해 쓴 내 노트를 찾아 줘"라고 하면 Gemini가 파일을 검색합니다.</li>
+  <li><strong>YouTube 분석:</strong> 강의 영상 링크를 올리고 내용에 대해 질문할 수 있습니다.</li>
+  <li><strong>이미지 생성:</strong> Nano Banana Pro로 도표와 시각적 학습 자료를 무료로 만들 수 있습니다.</li>
 </ul>
 
-<h2>6. Notion AI — Best for Notes & Organization</h2>
-<p><strong>Student price: Free (Notion Education plan) | AI add-on: $10/mo</strong></p>
-<p>Notion is free for students with an .edu email, and it is the best tool for organizing coursework — notes, assignments, deadlines, readings, and projects all in one workspace. The AI add-on summarizes lecture notes, extracts action items, answers questions about your notes, and helps brainstorm.</p>
-<h3>Why Students Love It</h3>
+<h2>5. Grammarly — 글쓰기 개선에 최고</h2>
+<p><strong>학생 가격: Premium 월 $12 | 무료: 문법 및 맞춤법</strong></p>
+<p>Grammarly는 에세이, 교수님께 보내는 이메일, 실험 보고서, 지원서 등 쓰는 모든 글의 오류를 잡아 줍니다. 무료 요금제에서는 문법과 맞춤법을 처리합니다. Premium은 어조 감지, 명확성 제안, 문장 전체 재작성을 추가합니다. 영어가 모국어가 아닌 사용자에게 Grammarly는 이 목록에서 가장 가치 있는 도구라고 할 수 있습니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>Free for students:</strong> Full Notion workspace at no cost with a .edu email.</li>
-  <li><strong>Everything in one place:</strong> Notes, assignments, calendar, readings, group projects.</li>
-  <li><strong>AI summarization:</strong> Paste lecture notes and get key takeaways and study questions.</li>
-  <li><strong>Workspace Q&A:</strong> "What did my biology notes say about cell division?" — AI searches your notes.</li>
+  <li><strong>어디서나 작동:</strong> Google Docs, Word, Gmail, 브라우저에서 복사해 붙여 넣을 필요가 없습니다.</li>
+  <li><strong>놓친 부분을 잡아 줌:</strong> 주어와 동사의 일치, 쉼표 오용, 불분명한 선행사 등 점수를 깎는 오류를 찾아 줍니다.</li>
+  <li><strong>표절 검사:</strong> Premium에는 표절 검사기가 포함되어 있어 제출 전에 논문을 점검할 수 있습니다.</li>
+  <li><strong>이메일 어조:</strong> "교수님께 보내는 이 이메일이 너무 캐주얼하게 들릴까?"를 Grammarly가 알려 줍니다.</li>
 </ul>
 
-<h2>7. Otter.ai — Best for Lecture Transcription</h2>
-<p><strong>Student price: Free (300 min/month) | Pro: $17/mo</strong></p>
-<p>Otter transcribes lectures in real-time — live or recorded. It generates searchable transcripts, highlights key points, and creates summaries with action items. For students who struggle to take notes while listening, or who want to revisit specific moments from a lecture, Otter is a game-changer.</p>
-<h3>Why Students Love It</h3>
+<h2>6. Notion AI — 노트 및 정리에 최고</h2>
+<p><strong>학생 가격: 무료 (Notion Education 요금제) | AI 애드온: 월 $10</strong></p>
+<p>Notion은 .edu 이메일이 있는 학생에게 무료이며, 노트, 과제, 마감일, 읽기 자료, 프로젝트를 하나의 워크스페이스에서 관리하는 수업 정리에 최고의 도구입니다. AI 애드온은 강의 노트를 요약하고, 해야 할 일을 추출하고, 노트에 관한 질문에 답하며, 브레인스토밍을 돕습니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>300 free minutes/month:</strong> Enough for about 10 lectures — covers most students' needs.</li>
-  <li><strong>Searchable transcripts:</strong> "What did the professor say about regression analysis?" — search and find the exact moment.</li>
-  <li><strong>Auto-generated summaries:</strong> Get key points and action items from each lecture without reviewing the whole recording.</li>
-  <li><strong>Focus on learning:</strong> Stop frantically typing notes and actually listen to the lecture.</li>
+  <li><strong>학생에게 무료:</strong> .edu 이메일이 있으면 Notion 워크스페이스 전체를 무료로 쓸 수 있습니다.</li>
+  <li><strong>모든 것을 한곳에서:</strong> 노트, 과제, 캘린더, 읽기 자료, 조별 프로젝트.</li>
+  <li><strong>AI 요약:</strong> 강의 노트를 붙여 넣으면 핵심 요점과 학습용 질문을 받을 수 있습니다.</li>
+  <li><strong>워크스페이스 Q&A:</strong> "내 생물학 노트에서 세포 분열에 대해 뭐라고 적었지?"라고 물으면 AI가 노트를 검색합니다.</li>
 </ul>
 
-<h2>8. DeepSeek — Best Free Math & Coding Help</h2>
-<p><strong>Student price: Free (unlimited) | No paid plan needed</strong></p>
-<p>DeepSeek is completely free with no limits — and it is genuinely strong at math, coding, and logical reasoning. The R1 reasoning model shows step-by-step work on mathematical problems, making it an excellent study tool for STEM students. For students who cannot afford $20/month subscriptions, DeepSeek provides 80-90% of the capability at zero cost.</p>
-<h3>Why Students Love It</h3>
+<h2>7. Otter.ai — 강의 녹취에 최고</h2>
+<p><strong>학생 가격: 무료 (월 300분) | Pro: 월 $17</strong></p>
+<p>Otter는 라이브든 녹음된 강의든 실시간으로 녹취합니다. 검색 가능한 전사본을 생성하고 핵심 포인트를 강조하며, 해야 할 일이 포함된 요약을 만들어 줍니다. 듣는 동시에 노트 필기가 어려운 학생이나 강의의 특정 순간을 다시 보고 싶은 학생에게 Otter는 판도를 바꾸는 도구입니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li><strong>Completely free:</strong> No limits, no account required, no daily caps. Period.</li>
-  <li><strong>Step-by-step math:</strong> R1 shows its reasoning process — not just the answer but how to reach it.</li>
-  <li><strong>Strong coding assistance:</strong> Debug code, explain algorithms, help with CS assignments.</li>
-  <li><strong>Open-weight models:</strong> CS students can download and study the models themselves.</li>
+  <li><strong>월 300분 무료:</strong> 강의 약 10개 분량으로 대부분의 학생에게 충분합니다.</li>
+  <li><strong>검색 가능한 전사본:</strong> "교수님이 회귀 분석에 대해 뭐라고 하셨지?"라고 검색해 정확한 순간을 찾을 수 있습니다.</li>
+  <li><strong>자동 생성 요약:</strong> 전체 녹음을 다시 듣지 않고도 각 강의의 핵심 요점과 해야 할 일을 받아볼 수 있습니다.</li>
+  <li><strong>학습에 집중:</strong> 정신없이 노트를 타이핑하는 대신 강의를 실제로 들을 수 있습니다.</li>
 </ul>
-<h3>Limitation</h3>
-<p>Writing quality is behind ChatGPT and Claude. For essay writing and humanities work, use one of the other tools. For STEM, DeepSeek is excellent and free.</p>
 
-<h2>The Student AI Stack by Budget</h2>
-
-<h3>$0/month (All Free)</h3>
+<h2>8. DeepSeek — 최고의 무료 수학 및 코딩 도움</h2>
+<p><strong>학생 가격: 무료 (무제한) | 유료 요금제 필요 없음</strong></p>
+<p>DeepSeek은 제한 없이 완전히 무료이며 수학, 코딩, 논리적 추론에 실제로 강합니다. R1 추론 모델은 수학 문제를 풀 때 단계별 풀이를 보여 주어 STEM 전공 학생에게 훌륭한 학습 도구가 됩니다. 월 $20 구독을 감당하기 어려운 학생에게 DeepSeek은 비용 없이 80-90%의 기능을 제공합니다.</p>
+<h3>학생들이 좋아하는 이유</h3>
 <ul>
-  <li>Google Gemini Free — general AI assistant</li>
-  <li>DeepSeek Free — math and coding</li>
-  <li>Perplexity Free — research (5 Pro searches/day)</li>
-  <li>Grammarly Free — grammar checking</li>
-  <li>Otter.ai Free — lecture transcription (300 min/mo)</li>
-  <li>Notion Free — notes and organization (with .edu email)</li>
+  <li><strong>완전 무료:</strong> 제한도, 계정 필요도, 일일 한도도 없습니다. 끝.</li>
+  <li><strong>단계별 수학 풀이:</strong> R1은 답뿐 아니라 그 답에 이르는 추론 과정을 보여 줍니다.</li>
+  <li><strong>강력한 코딩 지원:</strong> 코드 디버깅, 알고리즘 설명, 컴퓨터공학 과제 도움.</li>
+  <li><strong>오픈 웨이트 모델:</strong> 컴퓨터공학 전공 학생은 모델을 직접 내려받아 연구할 수 있습니다.</li>
 </ul>
-<p>This $0 stack covers 80% of what students need. Start here.</p>
+<h3>한계</h3>
+<p>글쓰기 품질은 ChatGPT와 Claude에 못 미칩니다. 에세이 작성과 인문학 과제에는 다른 도구를 쓰세요. STEM에서는 DeepSeek이 훌륭하고 무료입니다.</p>
 
-<h3>$10/month (Best Value)</h3>
-<ul>
-  <li>Perplexity Education Pro ($10) — unlimited academic research</li>
-  <li>Everything else free (Gemini, DeepSeek, Grammarly, Otter, Notion)</li>
-</ul>
-<p>The single best $10 a student can spend on AI. Academic focus mode with unlimited Pro searches transforms research workflows.</p>
+<h2>예산별 학생용 AI 스택</h2>
 
-<h3>$32/month (Power Student)</h3>
+<h3>월 $0 (전부 무료)</h3>
 <ul>
-  <li>Perplexity Education Pro ($10) — research</li>
-  <li>ChatGPT Plus ($20) — tutoring, coding, image analysis</li>
-  <li>Grammarly Free — writing</li>
-  <li>Notion Free — organization</li>
+  <li>Google Gemini Free — 범용 AI 어시스턴트</li>
+  <li>DeepSeek Free — 수학 및 코딩</li>
+  <li>Perplexity Free — 리서치 (Pro 검색 하루 5회)</li>
+  <li>Grammarly Free — 문법 검사</li>
+  <li>Otter.ai Free — 강의 녹취 (월 300분)</li>
+  <li>Notion Free — 노트 및 정리 (.edu 이메일 필요)</li>
 </ul>
-<p>For students who use AI heavily across multiple courses. The combination of Perplexity for sourced research and ChatGPT for everything else covers every academic need.</p>
+<p>이 $0 스택으로 학생이 필요로 하는 것의 80%를 충족합니다. 여기서 시작하세요.</p>
+
+<h3>월 $10 (최고의 가성비)</h3>
+<ul>
+  <li>Perplexity Education Pro ($10) — 무제한 학술 리서치</li>
+  <li>나머지는 모두 무료 (Gemini, DeepSeek, Grammarly, Otter, Notion)</li>
+</ul>
+<p>학생이 AI에 쓸 수 있는 가장 좋은 $10입니다. 무제한 Pro 검색이 가능한 Academic 포커스 모드가 리서치 워크플로를 바꿔 줍니다.</p>
+
+<h3>월 $32 (파워 스튜던트)</h3>
+<ul>
+  <li>Perplexity Education Pro ($10) — 리서치</li>
+  <li>ChatGPT Plus ($20) — 튜터링, 코딩, 이미지 분석</li>
+  <li>Grammarly Free — 글쓰기</li>
+  <li>Notion Free — 정리</li>
+</ul>
+<p>여러 수업에서 AI를 집중적으로 쓰는 학생에게 적합합니다. 출처가 있는 리서치는 Perplexity로, 나머지는 ChatGPT로 처리하면 모든 학업 요구를 충족합니다.</p>
 
 <h2>자주 묻는 질문</h2>
 
-<h3>Is using AI cheating?</h3>
-<p>It depends on how you use it and your university's policy. Using AI to understand concepts, get feedback on your work, and research more efficiently is generally accepted. Submitting AI-generated work as your own is plagiarism at every university. When in doubt, ask your professor.</p>
+<h3>AI를 쓰는 것은 부정행위인가요?</h3>
+<p>어떻게 사용하는지와 대학의 정책에 따라 다릅니다. 개념을 이해하고, 내 과제에 대한 피드백을 받고, 더 효율적으로 리서치하는 데 AI를 쓰는 것은 대체로 인정됩니다. AI가 생성한 결과물을 내 과제로 제출하는 것은 모든 대학에서 표절입니다. 확신이 서지 않으면 교수님께 문의하세요.</p>
 
-<h3>What is the best free AI tool for students?</h3>
-<p><strong>Google Gemini Free</strong> — most generous free tier. <strong>DeepSeek</strong> — completely free with no limits, best for math and coding. <strong>Perplexity Free</strong> — best for research with 5 free Pro searches per day.</p>
+<h3>학생에게 가장 좋은 무료 AI 도구는 무엇인가요?</h3>
+<p><strong>Google Gemini Free</strong>는 가장 넉넉한 무료 요금제입니다. <strong>DeepSeek</strong>은 제한 없이 완전 무료이며 수학과 코딩에 가장 좋습니다. <strong>Perplexity Free</strong>는 하루 5회의 무료 Pro 검색으로 리서치에 가장 좋습니다.</p>
 
-<h3>Can professors detect AI-generated text?</h3>
-<p>Yes, increasingly well. AI detection tools exist, but more importantly, professors who read your previous work know your writing style. A sudden shift in quality, vocabulary, or style is the biggest red flag. Use AI to improve your writing, not replace it.</p>
+<h3>교수님이 AI가 생성한 글을 알아낼 수 있나요?</h3>
+<p>네, 점점 더 잘 알아냅니다. AI 탐지 도구도 있지만 더 중요한 것은 이전 과제를 읽어 본 교수님은 내 글쓰기 스타일을 안다는 점입니다. 품질, 어휘, 문체가 갑자기 달라지는 것이 가장 큰 적신호입니다. AI는 글쓰기를 대체하지 말고 개선하는 데 쓰세요.</p>
 
-<h3>Does Perplexity have a student discount?</h3>
-<p>Yes. Perplexity Education Pro costs $10/month for verified students — half the regular $20/month Pro price. All Pro features included.</p>
+<h3>Perplexity에 학생 할인이 있나요?</h3>
+<p>네. Perplexity Education Pro는 인증된 학생에게 월 $10로, 일반 Pro 요금 월 $20의 절반입니다. 모든 Pro 기능이 포함됩니다.</p>
 
-<h3>Should I pay for ChatGPT Plus as a student?</h3>
-<p>The free tier handles most student needs. Upgrade to Plus ($20/month) if you use AI daily for tutoring, coding, or research and find the free limits restrictive. Try the free tier for a month first.</p>
+<h3>학생이 ChatGPT Plus 비용을 내야 할까요?</h3>
+<p>무료 요금제로 대부분의 학생 요구를 충족할 수 있습니다. 튜터링, 코딩, 리서치에 AI를 매일 쓰고 무료 한도가 답답하다면 Plus(월 $20)로 업그레이드하세요. 먼저 한 달 동안 무료 요금제를 써 보세요.</p>
 
-<p><em>Every tool was tested by AIGradeLab from a student's perspective — focusing on learning value, budget, and academic integrity. November 2026.</em></p>
+<p><em>모든 도구는 AIGradeLab에서 학습 가치, 예산, 학문적 진실성에 초점을 맞춰 학생의 관점에서 테스트했습니다. 2026년 11월.</em></p>

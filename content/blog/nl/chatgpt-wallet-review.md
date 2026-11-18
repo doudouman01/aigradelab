@@ -1,11 +1,11 @@
 ---
-title: "ChatGPT Wallet Review: OpenAI Lets AI Agents Pay for You"
-description: "ChatGPT Wallet lets AI agents make purchases without exposing your card info. We tested it and graded it. Here's our full review."
+title: "ChatGPT Wallet-review: OpenAI laat AI-agents voor je betalen"
+description: "ChatGPT Wallet laat AI-agents aankopen doen zonder je kaartgegevens bloot te geven. We testten het en beoordeelden het. Dit is onze volledige review."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-17"
 lastTested: "2026-11-15"
-readTime: "9 min read"
+readTime: "9 min leestijd"
 grade: "B+"
 scores_ux: 7
 scores_quality: 8
@@ -15,115 +15,115 @@ scores_support: 7
 toolName: "ChatGPT Wallet"
 ---
 
-<h2>What Is ChatGPT Wallet?</h2>
+<h2>Wat is ChatGPT Wallet?</h2>
 
-<p>ChatGPT Wallet is OpenAI's new payment feature that lets AI agents — specifically ChatGPT's "dot" agent — complete purchases on your behalf without ever seeing your actual credit card number. Think of it as a secure intermediary layer between your payment method and the merchants your AI agent interacts with.</p>
+<p>ChatGPT Wallet is de nieuwe betaalfunctie van OpenAI waarmee AI-agents, in het bijzonder de "dot"-agent van ChatGPT, namens jou aankopen kunnen afronden zonder ooit je echte creditcardnummer te zien. Zie het als een veilige tussenlaag tussen je betaalmiddel en de verkopers waarmee je AI-agent werkt.</p>
 
-<p>Launched on November 13, 2026, ChatGPT Wallet was developed in partnership with American Express, Mastercard, and Visa. It's currently available exclusively to ChatGPT Pro subscribers in the United States, with a gradual rollout underway.</p>
+<p>ChatGPT Wallet werd op 13 november 2026 gelanceerd en is ontwikkeld in samenwerking met American Express, Mastercard en Visa. Het is momenteel uitsluitend beschikbaar voor ChatGPT Pro-abonnees in de Verenigde Staten, met een geleidelijke uitrol.</p>
 
-<p>This is a significant step in what the industry calls "agentic commerce" — the idea that AI agents will increasingly handle routine purchases, bookings, and transactions on behalf of humans.</p>
+<p>Dit is een belangrijke stap in wat de sector "agentic commerce" noemt: het idee dat AI-agents steeds vaker routineaankopen, boekingen en transacties namens mensen afhandelen.</p>
 
-<h2>How ChatGPT Wallet Works</h2>
+<h2>Hoe ChatGPT Wallet werkt</h2>
 
-<p>The workflow is straightforward, at least in concept:</p>
+<p>De workflow is eenvoudig, althans in theorie:</p>
 
 <ol>
-<li><strong>You set up the wallet:</strong> Link a supported credit or debit card (Visa, Mastercard, or American Express) to your ChatGPT account through the wallet settings.</li>
-<li><strong>You task the agent:</strong> Ask ChatGPT's dot agent to handle a purchase — book a flight, order supplies, buy a gift.</li>
-<li><strong>The agent shops:</strong> The AI agent browses, compares, and selects items based on your instructions.</li>
-<li><strong>You review and approve:</strong> Before any money moves, the wallet prompts you to review the merchant, items, total amount, and which card will be charged.</li>
-<li><strong>Biometric confirmation:</strong> You approve the purchase using biometrics (Face ID, fingerprint) — no typing in card numbers or CVVs.</li>
+<li><strong>Je stelt de wallet in:</strong> Koppel via de walletinstellingen een ondersteunde credit- of debitcard (Visa, Mastercard of American Express) aan je ChatGPT-account.</li>
+<li><strong>Je geeft de agent een taak:</strong> Vraag de dot-agent van ChatGPT een aankoop te regelen: een vlucht boeken, benodigdheden bestellen, een cadeau kopen.</li>
+<li><strong>De agent winkelt:</strong> De AI-agent surft, vergelijkt en selecteert artikelen op basis van je instructies.</li>
+<li><strong>Jij controleert en keurt goed:</strong> Voordat er geld verschuift, vraagt de wallet je de verkoper, de artikelen, het totaalbedrag en de te belasten kaart te controleren.</li>
+<li><strong>Biometrische bevestiging:</strong> Je keurt de aankoop goed met biometrie (Face ID, vingerafdruk), zonder kaartnummers of CVV's te typen.</li>
 </ol>
 
-<p>The critical security design: at no point does the AI agent itself have access to your actual card information. The payment credentials are tokenized, meaning the agent works with a secure proxy rather than your real card number. The merchant receives a transaction-specific token, not your card details.</p>
+<p>Het cruciale beveiligingsontwerp: de AI-agent zelf heeft op geen enkel moment toegang tot je echte kaartgegevens. De betaalgegevens zijn getokeniseerd, wat betekent dat de agent met een veilige proxy werkt in plaats van met je echte kaartnummer. De verkoper ontvangt een transactiespecifiek token, niet je kaartgegevens.</p>
 
-<h2>What We Liked</h2>
+<h2>Wat we goed vonden</h2>
 
-<h3>Security Architecture Is Thoughtful</h3>
+<h3>De beveiligingsarchitectuur is doordacht</h3>
 
-<p>The tokenized approach addresses the single biggest concern about letting AI agents handle payments: what happens if the agent is compromised or makes a mistake? Because ChatGPT Wallet never exposes your real card number to the AI model, a hypothetical security breach at the agent level wouldn't leak your payment credentials.</p>
+<p>De getokeniseerde aanpak pakt de grootste zorg aan bij het laten afhandelen van betalingen door AI-agents: wat gebeurt er als de agent wordt gehackt of een fout maakt? Omdat ChatGPT Wallet je echte kaartnummer nooit aan het AI-model blootgeeft, zou een hypothetische beveiligingsinbreuk op agentniveau je betaalgegevens niet lekken.</p>
 
-<p>The biometric confirmation step adds a critical human-in-the-loop check. You always see exactly what you're buying and how much you're paying before anything is charged. This isn't just a "confirm" button — it's a full transaction summary with biometric verification.</p>
+<p>De biometrische bevestiging voegt een cruciale controle met een mens in de lus toe. Je ziet altijd precies wat je koopt en hoeveel je betaalt voordat er iets wordt afgeschreven. Het is niet zomaar een "bevestig"-knop: het is een volledig transactieoverzicht met biometrische verificatie.</p>
 
-<h3>Major Card Network Support from Day One</h3>
+<h3>Ondersteuning voor de grote kaartnetwerken vanaf dag één</h3>
 
-<p>Launching with Visa, Mastercard, and American Express covers the vast majority of credit and debit cards in the US market. This isn't a startup trying to get merchants to adopt a new payment rail — it's built on existing payment infrastructure that merchants already accept.</p>
+<p>Door te lanceren met Visa, Mastercard en American Express worden de meeste credit- en debitcards op de Amerikaanse markt gedekt. Dit is geen startup die verkopers probeert te laten overstappen op een nieuw betaalkanaal: het is gebouwd op bestaande betaalinfrastructuur die verkopers al accepteren.</p>
 
-<h3>The Agent Shopping Experience</h3>
+<h3>De ervaring van winkelen met een agent</h3>
 
-<p>When it works, it's genuinely useful. The dot agent can compare prices across multiple merchants, check availability, apply known preferences (like preferred airlines or retailers), and handle the entire checkout flow. For routine purchases — office supplies, travel bookings, recurring orders — this can save meaningful time.</p>
+<p>Als het werkt, is het echt nuttig. De dot-agent kan prijzen bij meerdere verkopers vergelijken, beschikbaarheid controleren, bekende voorkeuren toepassen (zoals favoriete luchtvaartmaatschappijen of winkels) en de hele afrekenstroom afhandelen. Voor routineaankopen, zoals kantoorbenodigdheden, reisboekingen en terugkerende bestellingen, kan dit betekenisvolle tijdwinst opleveren.</p>
 
-<h2>What Needs Work</h2>
+<h2>Wat beter kan</h2>
 
-<h3>Pro-Only, US-Only: The Biggest Limitation</h3>
+<h3>Alleen Pro, alleen VS: de grootste beperking</h3>
 
-<p>At $200/month, ChatGPT Pro is OpenAI's premium tier. Restricting Wallet to Pro users means the feature is only available to a small fraction of ChatGPT's 900+ million weekly active users. The average consumer who could most benefit from automated shopping isn't paying $200/month for an AI subscription.</p>
+<p>Voor $200 per maand is ChatGPT Pro het premiumabonnement van OpenAI. Door Wallet te beperken tot Pro-gebruikers is de functie slechts beschikbaar voor een klein deel van de 900+ miljoen wekelijks actieve gebruikers van ChatGPT. De gemiddelde consument die het meest zou profiteren van geautomatiseerd winkelen betaalt geen $200 per maand voor een AI-abonnement.</p>
 
-<p>The US-only restriction further narrows the addressable market. OpenAI hasn't announced a timeline for international expansion, though the involvement of global card networks suggests it's planned.</p>
+<p>De beperking tot de VS verkleint de bereikbare markt verder. OpenAI heeft geen tijdlijn voor internationale uitbreiding aangekondigd, al suggereert de betrokkenheid van wereldwijde kaartnetwerken dat die gepland is.</p>
 
-<h3>Merchant Coverage Is Still Limited</h3>
+<h3>De dekking van verkopers is nog beperkt</h3>
 
-<p>During our testing, the agent successfully completed purchases on major e-commerce platforms but hit walls on smaller merchants and niche retailers. The wallet works best with merchants that have modern checkout systems — older or custom checkout flows sometimes confused the agent.</p>
+<p>Tijdens onze tests rondde de agent aankopen met succes af bij grote e-commerceplatforms, maar liep hij vast bij kleinere verkopers en nichewinkels. De wallet werkt het best bij verkopers met moderne afrekensystemen: oudere of eigen afrekenstromen brachten de agent soms in de war.</p>
 
-<h3>No Recurring Payment Management Yet</h3>
+<h3>Nog geen beheer van terugkerende betalingen</h3>
 
-<p>You can use the wallet for one-time purchases, but there's no built-in system for managing subscriptions, recurring orders, or automatic reorders. This feels like an obvious next step, but it's not here yet.</p>
+<p>Je kunt de wallet gebruiken voor eenmalige aankopen, maar er is geen ingebouwd systeem voor het beheren van abonnementen, terugkerende bestellingen of automatisch opnieuw bestellen. Dit voelt als een logische volgende stap, maar is er nog niet.</p>
 
-<h3>Error Handling Could Be More Transparent</h3>
+<h3>Foutafhandeling kan transparanter</h3>
 
-<p>When a transaction fails — and in our testing, about 15% did — the error messages are vague. "Unable to complete this purchase" doesn't help you understand whether the issue was with your card, the merchant, or the agent's understanding of what you wanted.</p>
+<p>Wanneer een transactie mislukt, en dat gebeurde bij ongeveer 15% in onze tests, zijn de foutmeldingen vaag. "Kan deze aankoop niet voltooien" helpt je niet te begrijpen of het probleem bij je kaart, de verkoper of het begrip van de agent van wat je wilde lag.</p>
 
-<h2>How It Compares</h2>
+<h2>Hoe het zich verhoudt</h2>
 
-<p>ChatGPT Wallet enters a space where, frankly, there isn't much direct competition yet:</p>
+<p>ChatGPT Wallet betreedt een terrein waar, eerlijk gezegd, nog niet veel directe concurrentie is:</p>
 
 <ul>
-<li><strong>Google Gemini:</strong> No equivalent payment feature as of November 2026. Google Pay integration has been rumored but not shipped.</li>
-<li><strong>Claude (Anthropic):</strong> No payment capability. Anthropic has been focused on its IPO roadshow rather than commerce features.</li>
-<li><strong>Sierra's Poppy Protocol:</strong> The Personal Agent Protocol (Poppy 1.0, released November 13) defines how agents connect to businesses, with payments as a future extension — but it's a protocol, not a consumer product. Shopify and Meta's Muse are early adopters.</li>
-<li><strong>Apple Intelligence:</strong> Apple Pay integration with Siri has been available, but it's limited to Apple's ecosystem and doesn't offer the same agent-driven shopping experience.</li>
+<li><strong>Google Gemini:</strong> Geen equivalente betaalfunctie per november 2026. Integratie met Google Pay is wel geruchtmatig, maar niet uitgebracht.</li>
+<li><strong>Claude (Anthropic):</strong> Geen betaalmogelijkheid. Anthropic richt zich op de roadshow voor de beursgang in plaats van op commerciële functies.</li>
+<li><strong>Sierra's Poppy Protocol:</strong> Het Personal Agent Protocol (Poppy 1.0, uitgebracht op 13 november) bepaalt hoe agents verbinding maken met bedrijven, met betalingen als toekomstige uitbreiding, maar het is een protocol, geen consumentenproduct. Shopify en Meta's Muse zijn vroege gebruikers.</li>
+<li><strong>Apple Intelligence:</strong> Integratie van Apple Pay met Siri is beschikbaar, maar beperkt zich tot het ecosysteem van Apple en biedt niet dezelfde door agents gestuurde winkelervaring.</li>
 </ul>
 
-<p>OpenAI's first-mover advantage here is real. By partnering with all three major card networks simultaneously, they've set a standard that competitors will need to match or exceed.</p>
+<p>Het first-mover-voordeel van OpenAI is hier reëel. Door tegelijk samen te werken met alle drie de grote kaartnetwerken heeft het een standaard gezet die concurrenten moeten evenaren of overtreffen.</p>
 
 <h2>Prijzen</h2>
 
-<p>ChatGPT Wallet itself has no additional fee beyond your ChatGPT Pro subscription ($200/month). Standard card transaction fees apply as they would with any purchase. There are no wallet-specific surcharges or per-transaction fees from OpenAI.</p>
+<p>ChatGPT Wallet zelf kent geen extra kosten bovenop je ChatGPT Pro-abonnement ($200/maand). Gebruikelijke transactiekosten voor kaarten gelden zoals bij elke aankoop. OpenAI rekent geen walletspecifieke toeslagen of kosten per transactie.</p>
 
-<p>The real cost question is whether the wallet feature alone justifies the Pro subscription if you're currently on the Plus plan ($20/month). For most users, the answer is no — Wallet is a nice perk within the Pro package, not a reason to upgrade on its own.</p>
+<p>De echte kostenvraag is of de walletfunctie alleen het Pro-abonnement rechtvaardigt als je nu het Plus-abonnement ($20/maand) hebt. Voor de meeste gebruikers is het antwoord nee: Wallet is een mooie extra in het Pro-pakket, geen reden om er alleen voor te upgraden.</p>
 
-<h2>Privacy and Data Considerations</h2>
+<h2>Privacy en gegevens</h2>
 
-<p>OpenAI states that purchase data is used to improve the shopping experience but can be managed through your privacy settings. Key considerations:</p>
+<p>OpenAI stelt dat aankoopgegevens worden gebruikt om de winkelervaring te verbeteren, maar via je privacyinstellingen kunnen worden beheerd. Belangrijke overwegingen:</p>
 
 <ul>
-<li>Transaction history is stored in your account and can be viewed or deleted</li>
-<li>The AI agent can reference past purchases to make better recommendations (you can disable this)</li>
-<li>Card information is managed by the payment networks, not stored by OpenAI directly</li>
-<li>Purchase data is not used for model training (per OpenAI's Pro subscriber data policy)</li>
+<li>De transactiegeschiedenis wordt in je account opgeslagen en kan worden bekeken of verwijderd</li>
+<li>De AI-agent kan eerdere aankopen raadplegen om betere aanbevelingen te doen (dit kun je uitschakelen)</li>
+<li>Kaartgegevens worden beheerd door de betaalnetwerken en niet rechtstreeks door OpenAI opgeslagen</li>
+<li>Aankoopgegevens worden niet gebruikt voor modeltraining (volgens het gegevensbeleid van OpenAI voor Pro-abonnees)</li>
 </ul>
 
-<h2>Who Should Use ChatGPT Wallet</h2>
+<h2>Voor wie is ChatGPT Wallet</h2>
 
-<p><strong>Good fit:</strong> ChatGPT Pro subscribers who already use the dot agent regularly, frequent online shoppers who value time savings, professionals who expense routine purchases, and early adopters who want to experience the future of agentic commerce.</p>
+<p><strong>Goede match:</strong> ChatGPT Pro-abonnees die de dot-agent al regelmatig gebruiken, frequente online shoppers die tijdwinst waarderen, professionals die routineaankopen declareren en early adopters die de toekomst van agentic commerce willen ervaren.</p>
 
-<p><strong>Not yet:</strong> Anyone outside the US, users on the free or Plus plans, people who primarily shop at small or niche retailers, and anyone uncomfortable with AI agents having a path to their payment methods — even a tokenized one.</p>
+<p><strong>Nog niet:</strong> Iedereen buiten de VS, gebruikers van de gratis versie of Plus, mensen die vooral bij kleine of niche-winkels kopen en iedereen die zich niet prettig voelt bij AI-agents met een pad naar hun betaalmiddelen, zelfs een getokeniseerd pad.</p>
 
-<h2>Ons Cijfer: B+</h2>
+<h2>Ons cijfer: B+</h2>
 
 <table>
-<thead><tr><th>Category</th><th>Score</th><th>Notes</th></tr></thead>
+<thead><tr><th>Categorie</th><th>Score</th><th>Opmerkingen</th></tr></thead>
 <tbody>
-<tr><td>UX</td><td>7/10</td><td>Clean setup, but error handling needs polish</td></tr>
-<tr><td>Quality</td><td>8/10</td><td>Tokenized security is best-in-class for a v1</td></tr>
-<tr><td>Value</td><td>6/10</td><td>Pro-only pricing limits accessibility</td></tr>
-<tr><td>Integratie</td><td>8/10</td><td>Visa/Mastercard/Amex from day one is strong</td></tr>
-<tr><td>Ondersteuning</td><td>7/10</td><td>Standard OpenAI Pro support; wallet-specific docs are thin</td></tr>
+<tr><td>UX</td><td>7/10</td><td>Nette installatie, maar de foutafhandeling kan beter</td></tr>
+<tr><td>Kwaliteit</td><td>8/10</td><td>Getokeniseerde beveiliging is de beste in zijn klasse voor een v1</td></tr>
+<tr><td>Prijs-kwaliteit</td><td>6/10</td><td>Prijs alleen voor Pro beperkt de toegankelijkheid</td></tr>
+<tr><td>Integratie</td><td>8/10</td><td>Visa/Mastercard/Amex vanaf dag één is sterk</td></tr>
+<tr><td>Ondersteuning</td><td>7/10</td><td>Standaard OpenAI Pro-support; walletspecifieke documentatie is dun</td></tr>
 </tbody>
 </table>
 
-<p>ChatGPT Wallet is the most polished implementation of AI-powered payments we've seen. The security model is sound, the card network partnerships are impressive, and the user experience — when it works — feels like a genuine preview of how we'll all shop in a few years. The B+ reflects the strong foundation dinged by real limitations: Pro-only access, US-only availability, and a merchant coverage gap that will take time to close.</p>
+<p>ChatGPT Wallet is de meest verzorgde implementatie van AI-betalingen die we tot nu toe zagen. Het beveiligingsmodel is degelijk, de samenwerkingen met kaartnetwerken zijn indrukwekkend en de gebruikerservaring voelt, als het werkt, als een echte voorproef van hoe we over een paar jaar allemaal gaan winkelen. De B+ weerspiegelt een sterke basis met een knauw door echte beperkingen: toegang alleen voor Pro, alleen beschikbaar in de VS en een kloof in de dekking van verkopers die tijd kost om te dichten.</p>
 
-<p>This grade will likely move up as OpenAI expands access and improves reliability. We'll retest when Plus tier access and international support arrive.</p>
+<p>Dit cijfer gaat waarschijnlijk omhoog naarmate OpenAI de toegang uitbreidt en de betrouwbaarheid verbetert. We testen opnieuw zodra toegang voor het Plus-abonnement en internationale ondersteuning er zijn.</p>
 
-<p><em>Looking for free AI-powered tools you can use right now without a Pro subscription? Browse our collection at <a href="https://toolcraftkit.com">ToolCraftKit.com</a> — over 100 free tools in 25 languages.</em></p>
+<p><em>Zoek je gratis AI-tools die je nu kunt gebruiken zonder Pro-abonnement? Bekijk onze collectie op <a href="https://toolcraftkit.com">ToolCraftKit.com</a>: meer dan 100 gratis tools in 25 talen.</em></p>

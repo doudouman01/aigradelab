@@ -1,11 +1,11 @@
 ---
-title: "Microsoft Copilot Bewertung 2026: AI for Office 365 — Getestet und Bewertet"
-description: "We tested Microsoft Copilot across Word, Excel, PowerPoint, Outlook, and Teams. Full review with scores. Worth $30/user/month? Updated November 2026."
+title: "Microsoft Copilot Test 2026: KI für Office 365 — getestet und bewertet"
+description: "Wir haben Microsoft Copilot in Word, Excel, PowerPoint, Outlook und Teams getestet. Vollständiger Test mit Bewertungen. Lohnen sich 30 $/Nutzer/Monat? Aktualisiert im November 2026."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
 date: "2026-11-19"
 lastTested: "Nov 2026"
-readTime: "13 min read"
+readTime: "13 Min. Lesezeit"
 grade: "B+"
 scores_ux: 8.0
 scores_quality: 7.5
@@ -15,11 +15,11 @@ scores_support: 8.0
 toolName: "Microsoft Copilot"
 ---
 
-<h2>Microsoft Copilot in 2026: AI Inside the Apps You Already Use</h2>
-<p>Microsoft Copilot for M365 embeds AI directly into the Office apps billions of people use daily — Word, Excel, PowerPoint, Outlook, and Teams. The promise: draft documents from bullet points, generate formulas from natural language, create presentations from a brief, summarize long email threads, and get instant meeting recaps. At $30/user/month on top of your M365 subscription, the question is whether the AI is good enough to justify the premium. After extensive testing, the answer is nuanced.</p>
+<h2>Microsoft Copilot 2026: KI direkt in den Apps, die du schon nutzt</h2>
+<p>Microsoft Copilot für M365 bettet KI direkt in die Office-Apps ein, die Milliarden Menschen täglich verwenden — Word, Excel, PowerPoint, Outlook und Teams. Das Versprechen: Dokumente aus Stichpunkten entwerfen, Formeln aus natürlicher Sprache erzeugen, Präsentationen aus einem Briefing erstellen, lange E-Mail-Verläufe zusammenfassen und sofort Besprechungszusammenfassungen erhalten. Bei 30 $/Nutzer/Monat zusätzlich zu deinem M365-Abonnement stellt sich die Frage, ob die KI gut genug ist, um den Aufpreis zu rechtfertigen. Nach ausgiebigen Tests fällt die Antwort differenziert aus.</p>
 
-<h2>Copilot Scores</h2>
-<div class="score-card"><h3>Overall Grade: B+</h3>
+<h2>Copilot Bewertungen</h2>
+<div class="score-card"><h3>Gesamtnote: B+</h3>
   <div class="score-row"><span class="score-label">Benutzerfreundlichkeit</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
   <div class="score-row"><span class="score-label">Ergebnisqualität</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:75%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">7.5</span></div>
   <div class="score-row"><span class="score-label">Preis-Leistung</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:65%;background:#FBBF24"></div></div><span class="score-value" style="color:#FBBF24">6.5</span></div>
@@ -27,123 +27,123 @@ toolName: "Microsoft Copilot"
   <div class="score-row"><span class="score-label">Support</span><div class="score-bar-bg"><div class="score-bar-fill" style="width:80%;background:#34D399"></div></div><span class="score-value" style="color:#34D399">8.0</span></div>
 </div>
 
-<h2>Copilot by App: What Works and What Doesn't</h2>
+<h2>Copilot nach App: Was funktioniert und was nicht</h2>
 
-<h3>Copilot in Teams — Grade: A — The Standout Feature</h3>
-<p>Teams meeting recap is Copilot's best feature by far. After any Teams meeting, Copilot generates a structured summary: key discussion points, decisions made, action items with owners, and follow-up questions. For anyone attending 3+ meetings per day, this saves 15-30 minutes per meeting in note-taking and post-meeting summaries.</p>
-<p>The quality is impressive — Copilot accurately identifies who said what, distinguishes decisions from discussion, and assigns action items to the right people. It's not perfect (it can miss context-dependent statements), but it's better than most human note-takers.</p>
-<p><strong>Verdict:</strong> If you're buying Copilot for one feature, this is it. Teams meeting summaries alone can justify the $30/month for meeting-heavy professionals.</p>
+<h3>Copilot in Teams — Note: A — Die herausragende Funktion</h3>
+<p>Die Besprechungszusammenfassung in Teams ist mit Abstand Copilots beste Funktion. Nach jeder Teams-Besprechung erstellt Copilot eine strukturierte Zusammenfassung: wichtige Diskussionspunkte, getroffene Entscheidungen, Aufgaben mit Verantwortlichen und offene Folgefragen. Für alle, die 3 oder mehr Besprechungen pro Tag haben, spart das pro Besprechung 15–30 Minuten für Notizen und Nachbereitung.</p>
+<p>Die Qualität ist beeindruckend — Copilot erkennt zuverlässig, wer was gesagt hat, unterscheidet Entscheidungen von Diskussion und weist Aufgaben den richtigen Personen zu. Perfekt ist es nicht (kontextabhängige Aussagen kann es verpassen), aber es ist besser als die meisten menschlichen Protokollanten.</p>
+<p><strong>Fazit:</strong> Wenn du Copilot wegen einer einzigen Funktion kaufst, dann wegen dieser. Allein die Teams-Zusammenfassungen können die 30 $/Monat für Vielbesprecher rechtfertigen.</p>
 
-<h3>Copilot in Excel — Grade: B+ — Genuinely Useful</h3>
-<p>Copilot in Excel handles the two things most people struggle with: formulas and data analysis. Describe what you want in natural language — "calculate the percentage change month over month," "highlight rows where sales dropped more than 10%," "create a pivot table showing revenue by region" — and Copilot generates the formula, formatting, or analysis.</p>
-<p>For data analysis, Copilot can identify trends, create charts, and answer questions about your data: "What was our best-performing product in Q3?" produces an answer with a supporting chart. The quality is good for standard analyses — it struggles with complex multi-step data transformations.</p>
-<p><strong>Verdict:</strong> The second-best Copilot feature. For anyone who spends time Googling Excel formulas, Copilot eliminates that friction.</p>
+<h3>Copilot in Excel — Note: B+ — Wirklich nützlich</h3>
+<p>Copilot in Excel übernimmt die zwei Dinge, mit denen die meisten Menschen kämpfen: Formeln und Datenanalyse. Beschreibe in natürlicher Sprache, was du willst — „berechne die prozentuale Veränderung gegenüber dem Vormonat", „hebe Zeilen hervor, in denen der Umsatz um mehr als 10 % gesunken ist", „erstelle eine Pivot-Tabelle mit dem Umsatz nach Region" — und Copilot erzeugt die Formel, die Formatierung oder die Analyse.</p>
+<p>Bei der Datenanalyse kann Copilot Trends erkennen, Diagramme erstellen und Fragen zu deinen Daten beantworten: „Welches Produkt war im dritten Quartal am erfolgreichsten?" liefert eine Antwort mit passendem Diagramm. Für Standardanalysen ist die Qualität gut — bei komplexen, mehrstufigen Datentransformationen tut es sich schwer.</p>
+<p><strong>Fazit:</strong> Die zweitbeste Copilot-Funktion. Wer Zeit damit verbringt, Excel-Formeln zu googeln, spart sich mit Copilot diese Reibung.</p>
 
-<h3>Copilot in Word — Grade: B — Decent First Drafts</h3>
-<p>Copilot in Word drafts documents from prompts or bullet points — memos, reports, proposals, briefs. The output is a competent first draft that needs editing. It's faster than starting from scratch but the writing quality is below ChatGPT and significantly below Claude. The drafts tend to be generic, formulaic, and padded with filler.</p>
-<p>The better use: rewriting and transforming existing text. Ask Copilot to make a section more concise, change the tone, restructure a document, or summarize a long report. These editing tasks work better than generation from scratch.</p>
-<p><strong>Verdict:</strong> Useful as a starting point and for text transformation. Don't expect polished output — you'll edit every draft. For better writing quality, use Claude or ChatGPT and paste into Word.</p>
+<h3>Copilot in Word — Note: B — Ordentliche erste Entwürfe</h3>
+<p>Copilot in Word entwirft Dokumente aus Prompts oder Stichpunkten — Memos, Berichte, Angebote, Briefings. Das Ergebnis ist ein kompetenter erster Entwurf, der überarbeitet werden muss. Es geht schneller, als bei null anzufangen, doch die Schreibqualität liegt unter ChatGPT und deutlich unter Claude. Die Entwürfe wirken tendenziell generisch, schablonenhaft und mit Füllmaterial aufgebläht.</p>
+<p>Der bessere Einsatz: bestehenden Text umschreiben und umformen. Bitte Copilot, einen Abschnitt knapper zu fassen, den Ton zu ändern, ein Dokument neu zu gliedern oder einen langen Bericht zusammenzufassen. Diese Bearbeitungsaufgaben funktionieren besser als das Generieren von Grund auf.</p>
+<p><strong>Fazit:</strong> Nützlich als Ausgangspunkt und zur Textumformung. Erwarte keine ausgefeilten Ergebnisse — du wirst jeden Entwurf überarbeiten. Für bessere Schreibqualität nutze Claude oder ChatGPT und füge den Text in Word ein.</p>
 
-<h3>Copilot in PowerPoint — Grade: C+ — Needs Work</h3>
-<p>Copilot in PowerPoint is the weakest link. Describe a presentation and Copilot generates slides — but the results are disappointing. Generic layouts, stock images that rarely match the topic, inconsistent formatting, and content that reads like bullet-pointed Wikipedia summaries. You'll spend more time fixing the presentation than you would have spent creating it manually.</p>
-<p>The better use: ask Copilot to add specific slides to an existing deck, summarize a slide, or suggest speaker notes. These incremental tasks work better than full presentation generation.</p>
-<p><strong>Verdict:</strong> The most overpromised Copilot feature. For quality presentations, use Canva or Gamma for AI generation, or build manually in PowerPoint. Copilot's PowerPoint output needs too much rework.</p>
+<h3>Copilot in PowerPoint — Note: C+ — Hier ist Nachbesserung nötig</h3>
+<p>Copilot in PowerPoint ist das schwächste Glied. Beschreibe eine Präsentation, und Copilot generiert Folien — doch die Ergebnisse enttäuschen. Generische Layouts, Stockbilder, die selten zum Thema passen, uneinheitliche Formatierung und Inhalte, die wie stichpunktartige Wikipedia-Zusammenfassungen klingen. Du verbringst mehr Zeit damit, die Präsentation zu korrigieren, als du für die manuelle Erstellung gebraucht hättest.</p>
+<p>Der bessere Einsatz: Copilot bitten, einer bestehenden Präsentation bestimmte Folien hinzuzufügen, eine Folie zusammenzufassen oder Sprechernotizen vorzuschlagen. Diese schrittweisen Aufgaben funktionieren besser als die komplette Präsentationserstellung.</p>
+<p><strong>Fazit:</strong> Die am stärksten überbewertete Copilot-Funktion. Für hochwertige Präsentationen nutze Canva oder Gamma für die KI-Generierung oder baue sie manuell in PowerPoint. Copilots PowerPoint-Ergebnisse erfordern zu viel Nacharbeit.</p>
 
-<h3>Copilot in Outlook — Grade: B — Time-Saver</h3>
-<p>Copilot in Outlook summarizes long email threads, drafts replies, and highlights action items from your inbox. The thread summary is particularly useful — open a 30-email chain and get a 3-sentence summary of decisions and open items. Reply drafting is decent but generic — you'll customize every response.</p>
-<p><strong>Verdict:</strong> Useful for email-heavy professionals. Thread summaries save real time. Reply drafting is a starting point, not a finished product.</p>
+<h3>Copilot in Outlook — Note: B — Zeitsparer</h3>
+<p>Copilot in Outlook fasst lange E-Mail-Verläufe zusammen, entwirft Antworten und hebt Aufgaben aus deinem Posteingang hervor. Besonders nützlich ist die Verlaufszusammenfassung — öffne eine Kette mit 30 E-Mails und erhalte eine Zusammenfassung von Entscheidungen und offenen Punkten in drei Sätzen. Die Antwortentwürfe sind ordentlich, aber generisch — du wirst jede Antwort anpassen.</p>
+<p><strong>Fazit:</strong> Nützlich für Berufe mit viel E-Mail-Verkehr. Verlaufszusammenfassungen sparen echte Zeit. Antwortentwürfe sind ein Ausgangspunkt, kein fertiges Produkt.</p>
 
 <h3>Copilot Chat (Microsoft 365 Chat)</h3>
-<p>Copilot Chat searches across your entire M365 environment — emails, documents, chats, meetings — and answers questions using your organizational data. "What decisions were made about the rebrand?" searches across Teams chats, emails, and documents to find the answer. This cross-platform knowledge search is similar to Notion AI's workspace Q&A.</p>
-<p><strong>Verdict:</strong> Powerful for organizations with extensive M365 data. The value scales with how much your organization uses M365.</p>
+<p>Copilot Chat durchsucht deine gesamte M365-Umgebung — E-Mails, Dokumente, Chats, Besprechungen — und beantwortet Fragen anhand der Daten deiner Organisation. „Welche Entscheidungen wurden zum Rebranding getroffen?" durchsucht Teams-Chats, E-Mails und Dokumente, um die Antwort zu finden. Diese plattformübergreifende Wissenssuche ähnelt dem Workspace-Q&A von Notion AI.</p>
+<p><strong>Fazit:</strong> Leistungsstark für Organisationen mit umfangreichen M365-Daten. Der Nutzen wächst mit dem Grad, in dem deine Organisation M365 einsetzt.</p>
 
 <h2>Copilot Preise</h2>
 <table>
   <thead>
-    <tr><th>Plan</th><th>Price</th><th>Requirements</th></tr>
+    <tr><th>Tarif</th><th>Preis</th><th>Voraussetzungen</th></tr>
   </thead>
   <tbody>
-    <tr><td>Copilot Free</td><td>$0</td><td>Basic chatbot at copilot.microsoft.com</td></tr>
-    <tr><td>Copilot Pro</td><td>$20/month</td><td>Priority access to GPT-4o in Copilot apps</td></tr>
-    <tr><td>Copilot for M365</td><td>$30/user/month</td><td>Requires M365 Business Standard+ or E3/E5</td></tr>
+    <tr><td>Copilot Free</td><td>0 $</td><td>Einfacher Chatbot unter copilot.microsoft.com</td></tr>
+    <tr><td>Copilot Pro</td><td>20 $/Monat</td><td>Vorrangiger Zugriff auf GPT-4o in Copilot-Apps</td></tr>
+    <tr><td>Copilot für M365</td><td>30 $/Nutzer/Monat</td><td>Erfordert M365 Business Standard+ oder E3/E5</td></tr>
   </tbody>
 </table>
-<p><strong>Important:</strong> Copilot for M365 ($30/user/month) requires a qualifying M365 subscription ($12.50-57/user/month). Total cost: $42.50-87/user/month. This adds up fast for teams.</p>
+<p><strong>Wichtig:</strong> Copilot für M365 (30 $/Nutzer/Monat) setzt ein passendes M365-Abonnement voraus (12,50–57 $/Nutzer/Monat). Gesamtkosten: 42,50–87 $/Nutzer/Monat. Das summiert sich für Teams schnell.</p>
 
 <h2>Copilot vs ChatGPT vs Claude</h2>
 <table>
   <thead>
-    <tr><th>Feature</th><th>Copilot M365 ($30)</th><th>ChatGPT Plus ($20)</th><th>Claude Pro ($20)</th></tr>
+    <tr><th>Merkmal</th><th>Copilot M365 (30 $)</th><th>ChatGPT Plus (20 $)</th><th>Claude Pro (20 $)</th></tr>
   </thead>
   <tbody>
-    <tr><td>Writing quality</td><td>Decent</td><td>Very good</td><td>Best</td></tr>
-    <tr><td>Office integration</td><td>Best (native)</td><td>None</td><td>None</td></tr>
-    <tr><td>Meeting summaries</td><td>Best (Teams)</td><td>No</td><td>No</td></tr>
-    <tr><td>Excel formulas</td><td>Native</td><td>Via code interpreter</td><td>Via analysis</td></tr>
-    <tr><td>Image generation</td><td>Basic</td><td>GPT Image (best)</td><td>No</td></tr>
-    <tr><td>Video generation</td><td>No</td><td>Sora</td><td>No</td></tr>
-    <tr><td>Document analysis</td><td>Within M365</td><td>File uploads</td><td>200K+ context (best)</td></tr>
-    <tr><td>Price</td><td>$30/user/mo</td><td>$20/mo</td><td>$20/mo</td></tr>
-    <tr><td>Best for</td><td>Office 365 teams</td><td>Everything</td><td>Analysis + writing</td></tr>
+    <tr><td>Schreibqualität</td><td>Ordentlich</td><td>Sehr gut</td><td>Am besten</td></tr>
+    <tr><td>Office-Integration</td><td>Am besten (nativ)</td><td>Keine</td><td>Keine</td></tr>
+    <tr><td>Besprechungszusammenfassungen</td><td>Am besten (Teams)</td><td>Nein</td><td>Nein</td></tr>
+    <tr><td>Excel-Formeln</td><td>Nativ</td><td>Über Code Interpreter</td><td>Über Analyse</td></tr>
+    <tr><td>Bildgenerierung</td><td>Einfach</td><td>GPT Image (am besten)</td><td>Nein</td></tr>
+    <tr><td>Videogenerierung</td><td>Nein</td><td>Sora</td><td>Nein</td></tr>
+    <tr><td>Dokumentenanalyse</td><td>Innerhalb von M365</td><td>Datei-Uploads</td><td>200K+ Kontext (am besten)</td></tr>
+    <tr><td>Preis</td><td>30 $/Nutzer/Monat</td><td>20 $/Monat</td><td>20 $/Monat</td></tr>
+    <tr><td>Am besten für</td><td>Office-365-Teams</td><td>Alles</td><td>Analyse + Schreiben</td></tr>
   </tbody>
 </table>
 
-<h2>Who Should Use Copilot?</h2>
+<h2>Wer sollte Copilot nutzen?</h2>
 
-<h3>Best For</h3>
+<h3>Am besten geeignet für</h3>
 <ul>
-  <li><strong>Meeting-heavy professionals</strong> — Teams summaries are the killer feature</li>
-  <li><strong>Excel power users</strong> — natural language formulas save real time</li>
-  <li><strong>Enterprise teams on M365</strong> — cross-platform knowledge search</li>
-  <li><strong>Email-heavy roles</strong> — thread summaries cut inbox time</li>
-  <li><strong>Organizations already paying for E3/E5</strong> — incremental cost is lower</li>
+  <li><strong>Berufstätige mit vielen Besprechungen</strong> — Teams-Zusammenfassungen sind die Killer-Funktion</li>
+  <li><strong>Excel-Poweruser</strong> — Formeln in natürlicher Sprache sparen echte Zeit</li>
+  <li><strong>Unternehmensteams auf M365</strong> — plattformübergreifende Wissenssuche</li>
+  <li><strong>Rollen mit viel E-Mail</strong> — Verlaufszusammenfassungen verkürzen die Zeit im Posteingang</li>
+  <li><strong>Organisationen, die bereits E3/E5 bezahlen</strong> — die Zusatzkosten fallen geringer aus</li>
 </ul>
 
-<h3>Not Ideal For</h3>
+<h3>Weniger geeignet für</h3>
 <ul>
-  <li><strong>Individuals</strong> — $30/month for inconsistent quality when ChatGPT is $20</li>
-  <li><strong>Small businesses</strong> — total cost ($42.50+/user/month) is hard to justify</li>
-  <li><strong>Content creators</strong> — ChatGPT and Claude write better</li>
-  <li><strong>Presentation-focused users</strong> — PowerPoint output needs too much rework</li>
-  <li><strong>Google Workspace users</strong> — no integration, use Gemini instead</li>
+  <li><strong>Einzelpersonen</strong> — 30 $/Monat für schwankende Qualität, während ChatGPT 20 $ kostet</li>
+  <li><strong>Kleine Unternehmen</strong> — die Gesamtkosten (ab 42,50 $/Nutzer/Monat) sind schwer zu rechtfertigen</li>
+  <li><strong>Content Creator</strong> — ChatGPT und Claude schreiben besser</li>
+  <li><strong>Nutzer mit Fokus auf Präsentationen</strong> — die PowerPoint-Ergebnisse erfordern zu viel Nacharbeit</li>
+  <li><strong>Google-Workspace-Nutzer</strong> — keine Integration, nutze stattdessen Gemini</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
-<h3>Pros</h3>
+<h2>Zusammenfassung: Vor- und Nachteile</h2>
+<h3>Vorteile</h3>
 <ul>
-  <li>Teams meeting summaries are genuinely transformative</li>
-  <li>Excel formula generation from natural language</li>
-  <li>Native integration — AI inside apps you already use</li>
-  <li>Cross-platform M365 knowledge search</li>
-  <li>No context switching — AI appears where you work</li>
-  <li>Enterprise security and compliance</li>
+  <li>Teams-Besprechungszusammenfassungen sind wirklich bahnbrechend</li>
+  <li>Excel-Formeln aus natürlicher Sprache</li>
+  <li>Native Integration — KI in den Apps, die du ohnehin nutzt</li>
+  <li>Plattformübergreifende M365-Wissenssuche</li>
+  <li>Kein Kontextwechsel — die KI erscheint dort, wo du arbeitest</li>
+  <li>Sicherheit und Compliance auf Unternehmensniveau</li>
 </ul>
-<h3>Cons</h3>
+<h3>Nachteile</h3>
 <ul>
-  <li>$30/user/month is expensive — adds up fast for teams</li>
-  <li>Writing quality below ChatGPT and Claude</li>
-  <li>PowerPoint generation is the weakest feature</li>
-  <li>Requires qualifying M365 subscription</li>
-  <li>Output inconsistency across apps</li>
-  <li>Word drafts are generic and need heavy editing</li>
+  <li>30 $/Nutzer/Monat sind teuer — summiert sich für Teams schnell</li>
+  <li>Schreibqualität unter ChatGPT und Claude</li>
+  <li>Die PowerPoint-Generierung ist die schwächste Funktion</li>
+  <li>Erfordert ein passendes M365-Abonnement</li>
+  <li>Uneinheitliche Ergebnisse je nach App</li>
+  <li>Word-Entwürfe sind generisch und müssen stark überarbeitet werden</li>
 </ul>
 
-<h2>Final Verdict: B+</h2>
-<p>Microsoft Copilot for M365 is a good AI add-on for organizations deeply invested in the Microsoft ecosystem. Teams meeting summaries and Excel formula generation are genuinely useful features that save real time. But at $30/user/month, the overall value is hard to justify for most teams — especially when ChatGPT ($20/month) and Claude ($20/month) produce better writing at lower cost.</p>
-<p><strong>Our recommendation:</strong> For meeting-heavy M365 teams — try the pilot program and measure time saved per user. If Teams summaries alone save 5+ hours/month per person, the ROI is clear. For individuals and small businesses — skip Copilot and use ChatGPT Plus or Claude Pro at $20/month for better quality at lower cost.</p>
+<h2>Fazit: B+</h2>
+<p>Microsoft Copilot für M365 ist ein gutes KI-Add-on für Organisationen, die tief im Microsoft-Ökosystem verankert sind. Teams-Besprechungszusammenfassungen und die Excel-Formelgenerierung sind wirklich nützliche Funktionen, die echte Zeit sparen. Aber bei 30 $/Nutzer/Monat ist der Gesamtnutzen für die meisten Teams schwer zu rechtfertigen — besonders, wenn ChatGPT (20 $/Monat) und Claude (20 $/Monat) zu geringeren Kosten bessere Texte liefern.</p>
+<p><strong>Unsere Empfehlung:</strong> Für besprechungsintensive M365-Teams — starte ein Pilotprogramm und miss die eingesparte Zeit pro Nutzer. Wenn allein die Teams-Zusammenfassungen mehr als 5 Stunden pro Person und Monat sparen, ist der ROI klar. Für Einzelpersonen und kleine Unternehmen — verzichte auf Copilot und nutze ChatGPT Plus oder Claude Pro für 20 $/Monat: bessere Qualität bei geringeren Kosten.</p>
 
-<h2>Häufig Gestellte Fragen</h2>
+<h2>FAQ</h2>
 
-<h3>Is Microsoft Copilot worth $30/month?</h3>
-<p>For meeting-heavy Teams users — yes, the summaries alone save 5-10 hours/month. For general writing and productivity — no, ChatGPT and Claude offer better quality at $20/month.</p>
+<h3>Lohnt sich Microsoft Copilot für 30 $/Monat?</h3>
+<p>Für Teams-Nutzer mit vielen Besprechungen — ja, allein die Zusammenfassungen sparen 5–10 Stunden pro Monat. Für allgemeines Schreiben und Produktivität — nein, ChatGPT und Claude bieten für 20 $/Monat bessere Qualität.</p>
 
-<h3>Copilot Free vs Pro vs M365 — which do I need?</h3>
-<p><strong>Free:</strong> Basic chatbot — test before paying. <strong>Pro ($20/month):</strong> Priority GPT-4o access — but ChatGPT Plus at the same price does more. <strong>M365 ($30/user/month):</strong> The full integration with Word, Excel, PowerPoint, Outlook, Teams — this is the real product.</p>
+<h3>Copilot Free vs Pro vs M365 — was brauche ich?</h3>
+<p><strong>Free:</strong> Einfacher Chatbot — zum Testen vor dem Bezahlen. <strong>Pro (20 $/Monat):</strong> Vorrangiger GPT-4o-Zugriff — doch ChatGPT Plus leistet zum selben Preis mehr. <strong>M365 (30 $/Nutzer/Monat):</strong> Die vollständige Integration in Word, Excel, PowerPoint, Outlook und Teams — das ist das eigentliche Produkt.</p>
 
-<h3>Can Copilot replace ChatGPT?</h3>
-<p>No. Copilot's writing quality is below ChatGPT, and it lacks image generation (GPT Image), video generation (Sora), voice mode, and Custom GPTs. Copilot's value is the M365 integration, not the AI quality itself.</p>
+<h3>Kann Copilot ChatGPT ersetzen?</h3>
+<p>Nein. Die Schreibqualität von Copilot liegt unter ChatGPT, und es fehlen Bildgenerierung (GPT Image), Videogenerierung (Sora), Sprachmodus und Custom GPTs. Copilots Wert liegt in der M365-Integration, nicht in der KI-Qualität selbst.</p>
 
-<h3>Does Copilot work with Google Workspace?</h3>
-<p>No. Copilot is exclusively for Microsoft 365. Google Workspace users should use Gemini, which provides similar AI integration for Google apps.</p>
+<h3>Funktioniert Copilot mit Google Workspace?</h3>
+<p>Nein. Copilot ist ausschließlich für Microsoft 365 gedacht. Google-Workspace-Nutzer sollten Gemini verwenden, das eine ähnliche KI-Integration für Google-Apps bietet.</p>
 
-<p><em>Microsoft Copilot was tested by AIGradeLab across Word, Excel, PowerPoint, Outlook, and Teams over 30 days. Grade reflects practical value for M365 users as of November 2026. Preise verified on microsoft.com.</em></p>
+<p><em>Microsoft Copilot wurde von AIGradeLab über 30 Tage in Word, Excel, PowerPoint, Outlook und Teams getestet. Die Note spiegelt den praktischen Nutzen für M365-Anwender mit Stand November 2026 wider. Preise auf microsoft.com überprüft.</em></p>

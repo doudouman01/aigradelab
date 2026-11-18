@@ -1,90 +1,90 @@
 ---
-title: "Nvidia's CEO Resignation: What Jensen Huang's Exit Means for AI Hardware"
-description: "Jensen Huang resigned as Nvidia CEO on November 11, 2026. Here's what it means for AI GPU pricing, the competitive landscape, and the tools you use every day."
+title: "Het ontslag van Nvidia's CEO: wat het vertrek van Jensen Huang betekent voor AI-hardware"
+description: "Jensen Huang trad op 11 november 2026 af als CEO van Nvidia. Dit betekent het voor de prijzen van AI-GPU's, het concurrentielandschap en de tools die je dagelijks gebruikt."
 category: "Lab Notes"
 categorySlug: "lab-notes"
 date: "2026-11-17"
-readTime: "8 min read"
+readTime: "8 min leestijd"
 ---
 
-<h2>The End of an Era at Nvidia</h2>
+<h2>Het einde van een tijdperk bij Nvidia</h2>
 
-<p>On November 11, 2026, Jensen Huang — the co-founder who built Nvidia from a graphics card company into the most consequential AI hardware maker on the planet — resigned as president, CEO, and board member. The resignation was effective immediately.</p>
+<p>Op 11 november 2026 trad Jensen Huang, de medeoprichter die Nvidia van een bedrijf in videokaarten opbouwde tot de meest bepalende maker van AI-hardware ter wereld, af als president, CEO en bestuurslid. Het vertrek ging onmiddellijk in.</p>
 
-<p>Nvidia's board appointed CFO Colette Kress as interim CEO while it conducts a search for a permanent successor. Harvey C. Jones, formerly CEO of Synopsys, was named the company's first-ever independent board chair.</p>
+<p>De raad van bestuur van Nvidia benoemde CFO Colette Kress tot interim-CEO, terwijl het zoekt naar een permanente opvolger. Harvey C. Jones, voorheen CEO van Synopsys, werd benoemd tot de eerste onafhankelijke bestuursvoorzitter in de geschiedenis van het bedrijf.</p>
 
-<p>After 33 years at the helm, Huang's departure marks the biggest leadership shake-up in the AI industry since OpenAI's boardroom drama in late 2023. But unlike that crisis, Nvidia's transition has immediate implications for every company and individual using AI tools today.</p>
+<p>Na 33 jaar aan het roer is het vertrek van Huang de grootste leiderschapsverschuiving in de AI-sector sinds het drama in de bestuurskamer van OpenAI eind 2023. Maar anders dan die crisis heeft de overgang bij Nvidia directe gevolgen voor elk bedrijf en elk individu dat vandaag AI-tools gebruikt.</p>
 
-<h2>What Happened: The Timeline</h2>
+<h2>Wat er gebeurde: de tijdlijn</h2>
 
-<p>The crisis unfolded in less than a week:</p>
-
-<ul>
-<li><strong>November 8:</strong> Nvidia's board announced an independent investigation into reports that Huang had been the target of a foreign intelligence effort. The board said it had "confidence in Jensen and his leadership team."</li>
-<li><strong>November 8 (same day):</strong> Huang publicly admitted to an extramarital affair with Alice Huang (no relation), an executive at chip reseller Megaspeed, whom U.S. intelligence officials suspected was recruited as part of a Chinese espionage campaign.</li>
-<li><strong>November 11-12:</strong> Reports surfaced of a second relationship involving an executive who reports directly to Huang.</li>
-<li><strong>November 12:</strong> Huang resigned. No reason was given in the official announcement.</li>
-</ul>
-
-<p>The board stated it expects operations, customer commitments, and the product roadmap to continue without interruption. Nvidia's Q3 fiscal 2027 earnings report remains scheduled for November 17 — today.</p>
-
-<h2>Who Is Colette Kress?</h2>
-
-<p>Colette Kress has served as Nvidia's Executive Vice President and CFO since 2013. She's the person who has explained Nvidia's financial story to Wall Street through the entire AI boom. She'll continue in the CFO role alongside her interim CEO duties.</p>
-
-<p>In her first statement, Kress said she is "committed to building on the extraordinary foundation Jensen created over the last 33 years" and that the focus remains on execution and customer commitments.</p>
-
-<p>Nvidia has said it will consider both internal and external candidates for the permanent CEO position. No timeline has been given for the search.</p>
-
-<h2>What This Means for AI Hardware</h2>
-
-<p>Nvidia currently commands roughly 80-90% of the AI training chip market. Its GPUs power the data centers behind ChatGPT, Claude, Gemini, and virtually every major AI tool you use. The question everyone is asking: does this change anything?</p>
-
-<h3>Short Term: Business as Usual</h3>
-
-<p>The honest answer for the next 6-12 months is: probably not much. Nvidia's product roadmap — including the Blackwell Ultra architecture and the upcoming Rubin platform — was set well before this crisis. Hardware development cycles run years ahead, and the engineering teams driving those roadmaps are still in place.</p>
-
-<p>Cloud providers (AWS, Azure, Google Cloud) have long-term purchase agreements with Nvidia that won't change because of a CEO transition. If you're using AI tools today, the infrastructure behind them isn't going anywhere.</p>
-
-<h3>Medium Term: The Competition Gets Interesting</h3>
-
-<p>Where things get genuinely interesting is in the competitive landscape. Nvidia under Jensen Huang was famously aggressive about maintaining its moat — through CUDA lock-in, strategic partnerships, and sheer execution speed. A leadership vacuum, even a temporary one, creates openings.</p>
-
-<p><strong>AMD is already moving.</strong> Just weeks ago, AMD finalized its $8.2 billion acquisition of World Labs, bringing AI pioneer Fei-Fei Li on board as chief scientist. AMD also acquired Hugging Face for $13 billion earlier this year. With Nvidia's leadership in transition, AMD has its best window yet to win enterprise AI customers who've been looking for a credible alternative.</p>
-
-<p><strong>Custom silicon is accelerating.</strong> Google's TPUs, Amazon's Trainium chips, and Microsoft's Maia accelerators are all gaining ground. A Nvidia without Jensen's personal relationships with CEOs like Satya Nadella and Sundar Pichai may find it harder to defend its premium pricing.</p>
-
-<h3>Long Term: GPU Prijzen Could Shift</h3>
-
-<p>For end users of AI tools, the most meaningful impact could be on pricing. Nvidia's dominant market position has allowed it to maintain extremely high margins on its data center GPUs. If competition intensifies during this transition period, cloud providers could eventually pass savings through to AI tool pricing.</p>
-
-<p>This won't happen overnight. But it's the kind of structural shift worth watching over the next 12-24 months.</p>
-
-<h2>The Espionage Angle: What We Know</h2>
-
-<p>The national security dimension of this story is still developing. U.S. intelligence officials have expressed concern that Alice Huang may have been part of a broader effort to access sensitive information about Nvidia's AI chip technology — technology that is subject to strict U.S. export controls to China.</p>
-
-<p>Nvidia's board said it has "no reason to believe that NVIDIA secrets or national security had been compromised." However, the investigation is ongoing, and the full picture may take months to emerge.</p>
-
-<p>For the AI industry at large, this episode underscores just how high the geopolitical stakes around AI hardware have become. The U.S.-China chip war isn't just a policy debate — it's playing out in the personal lives of tech executives.</p>
-
-<h2>What to Watch Next</h2>
-
-<p>Several things to monitor in the coming weeks and months:</p>
+<p>De crisis ontvouwde zich in minder dan een week:</p>
 
 <ul>
-<li><strong>Today's earnings call (November 17):</strong> This will be Kress's first public appearance as interim CEO. Watch for any changes in guidance, customer tone, or product timeline signals.</li>
-<li><strong>The CEO search:</strong> Who Nvidia picks as its next leader will signal whether the company doubles down on AI-first strategy or pivots toward a more diversified approach.</li>
-<li><strong>AMD's moves:</strong> Expect AMD to be aggressive in courting Nvidia enterprise customers during this transition period.</li>
-<li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
+<li><strong>8 november:</strong> De raad van bestuur van Nvidia kondigde een onafhankelijk onderzoek aan naar berichten dat Huang het doelwit was geweest van een buitenlandse inlichtingenoperatie. Het bestuur zei "vertrouwen te hebben in Jensen en zijn leiderschapsteam".</li>
+<li><strong>8 november (dezelfde dag):</strong> Huang gaf publiekelijk een buitenechtelijke affaire toe met Alice Huang (geen familie), een manager bij chipdoorverkoper Megaspeed, van wie Amerikaanse inlichtingenfunctionarissen vermoedden dat ze was geronseld als onderdeel van een Chinese spionagecampagne.</li>
+<li><strong>11-12 november:</strong> Er verschenen berichten over een tweede relatie met een manager die rechtstreeks aan Huang rapporteert.</li>
+<li><strong>12 november:</strong> Huang nam ontslag. In de officiële aankondiging werd geen reden genoemd.</li>
 </ul>
 
-<h2>Conclusie</h2>
+<p>Het bestuur liet weten te verwachten dat de bedrijfsvoering, de verplichtingen aan klanten en de productroadmap ononderbroken doorgaan. Het kwartaalrapport voor Q3 van boekjaar 2027 van Nvidia staat nog steeds gepland voor 17 november, vandaag.</p>
 
-<p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
+<h2>Wie is Colette Kress?</h2>
 
-<p>For now, the AI tools you rely on will keep working exactly as they do today. The infrastructure is too deeply embedded and the contracts too long-term for anything to change quickly. But the competitive dynamics that determine how much you pay for AI, how fast models improve, and which platforms lead the market are all suddenly more fluid than they've been in years.</p>
+<p>Colette Kress is sinds 2013 Executive Vice President en CFO van Nvidia. Zij is degene die het financiële verhaal van Nvidia tijdens de hele AI-boom aan Wall Street heeft uitgelegd. Ze blijft CFO naast haar taken als interim-CEO.</p>
 
-<p>We'll be updating this analysis as the earnings call and CEO search develop. Bookmark this page and check back.</p>
+<p>In haar eerste verklaring zei Kress "vastbesloten te zijn voort te bouwen op het buitengewone fundament dat Jensen de afgelopen 33 jaar heeft gelegd" en dat de focus blijft liggen op uitvoering en verplichtingen aan klanten.</p>
 
-<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at ToolCraftKit</a> — no GPU drama required.</em></p>
+<p>Nvidia heeft gezegd zowel interne als externe kandidaten te overwegen voor de permanente CEO-positie. Er is geen tijdlijn voor de zoektocht gegeven.</p>
+
+<h2>Wat dit betekent voor AI-hardware</h2>
+
+<p>Nvidia heeft momenteel zo'n 80-90% van de markt voor AI-trainingschips in handen. De GPU's van het bedrijf drijven de datacenters achter ChatGPT, Claude, Gemini en vrijwel elke grote AI-tool die je gebruikt. De vraag die iedereen stelt: verandert dit iets?</p>
+
+<h3>Korte termijn: business as usual</h3>
+
+<p>Het eerlijke antwoord voor de komende 6-12 maanden is: waarschijnlijk niet veel. De productroadmap van Nvidia, met onder meer de Blackwell Ultra-architectuur en het aankomende Rubin-platform, lag ruim voor deze crisis al vast. Hardwareontwikkelingscycli lopen jaren vooruit en de engineeringteams achter die roadmaps zijn nog op hun plek.</p>
+
+<p>Cloudproviders (AWS, Azure, Google Cloud) hebben langetermijninkoopovereenkomsten met Nvidia die niet veranderen door een CEO-wissel. Gebruik je vandaag AI-tools, dan verdwijnt de infrastructuur erachter niet.</p>
+
+<h3>Middellange termijn: de concurrentie wordt interessant</h3>
+
+<p>Echt interessant wordt het in het concurrentielandschap. Nvidia onder Jensen Huang stond erom bekend zijn gracht agressief te verdedigen, via CUDA-lock-in, strategische partnerschappen en pure uitvoeringssnelheid. Een leiderschapsvacuüm, hoe tijdelijk ook, schept kansen.</p>
+
+<p><strong>AMD is al in beweging.</strong> Enkele weken geleden rondde AMD de overname van World Labs af voor $8,2 miljard en haalde het AI-pionier Fei-Fei Li binnen als chief scientist. Eerder dit jaar nam AMD ook Hugging Face over voor $13 miljard. Nu het leiderschap van Nvidia in transitie is, heeft AMD zijn beste kans tot nu toe om zakelijke AI-klanten te winnen die op zoek waren naar een geloofwaardig alternatief.</p>
+
+<p><strong>Eigen chips versnellen.</strong> De TPU's van Google, de Trainium-chips van Amazon en de Maia-versnellers van Microsoft winnen allemaal terrein. Een Nvidia zonder de persoonlijke relaties van Jensen met CEO's als Satya Nadella en Sundar Pichai kan het moeilijker krijgen om zijn premiumprijzen te verdedigen.</p>
+
+<h3>Lange termijn: GPU-prijzen kunnen verschuiven</h3>
+
+<p>Voor eindgebruikers van AI-tools kan de meest betekenisvolle impact op de prijzen zitten. Dankzij zijn dominante marktpositie kon Nvidia extreem hoge marges op zijn datacenter-GPU's behouden. Als de concurrentie tijdens deze overgangsperiode toeneemt, kunnen cloudproviders de besparingen uiteindelijk doorberekenen in de prijzen van AI-tools.</p>
+
+<p>Dit gebeurt niet van de ene op de andere dag. Maar het is het soort structurele verschuiving dat de komende 12-24 maanden de moeite waard is om in de gaten te houden.</p>
+
+<h2>De spionagehoek: wat we weten</h2>
+
+<p>De nationale-veiligheidsdimensie van dit verhaal ontwikkelt zich nog. Amerikaanse inlichtingenfunctionarissen hebben hun zorg uitgesproken dat Alice Huang mogelijk deel uitmaakte van een bredere poging om toegang te krijgen tot gevoelige informatie over de AI-chiptechnologie van Nvidia, technologie die onder strikte Amerikaanse exportcontroles naar China valt.</p>
+
+<p>Het bestuur van Nvidia zei "geen reden te hebben om aan te nemen dat geheimen van NVIDIA of de nationale veiligheid in gevaar zijn gebracht". Het onderzoek loopt echter nog en het volledige beeld kan maanden op zich laten wachten.</p>
+
+<p>Voor de AI-sector als geheel onderstreept deze episode hoe hoog de geopolitieke inzet rond AI-hardware is geworden. De chipoorlog tussen de VS en China is niet alleen een beleidsdebat: ze speelt zich af in het persoonlijke leven van techbestuurders.</p>
+
+<h2>Wat je hierna in de gaten moet houden</h2>
+
+<p>Een paar dingen om de komende weken en maanden te volgen:</p>
+
+<ul>
+<li><strong>De earningscall van vandaag (17 november):</strong> Dit wordt het eerste publieke optreden van Kress als interim-CEO. Let op veranderingen in de guidance, de toon richting klanten of signalen over de productplanning.</li>
+<li><strong>De CEO-zoektocht:</strong> Wie Nvidia als volgende leider kiest, laat zien of het bedrijf zijn AI-eerst-strategie verdubbelt of koerst naar een meer gediversifieerde aanpak.</li>
+<li><strong>De zetten van AMD:</strong> Verwacht dat AMD tijdens deze overgangsperiode agressief klanten van Nvidia zal benaderen.</li>
+<li><strong>Gevolgen voor exportcontroles:</strong> Als het onderzoek beveiligingslekken aan het licht brengt, kan dat leiden tot strengere exportbeperkingen die de hele AI-toeleveringsketen raken.</li>
+</ul>
+
+<h2>De kern</h2>
+
+<p>Jensen Huang leidde Nvidia niet alleen: in veel opzichten <em>was</em> hij Nvidia. Zijn visie veranderde een gaming-GPU-bedrijf in de ruggengraat van de AI-revolutie. Zijn vertrek is een waterscheiding voor de sector.</p>
+
+<p>Voorlopig blijven de AI-tools waarop je vertrouwt precies werken zoals nu. De infrastructuur zit te diep verankerd en de contracten lopen te lang om snel iets te veranderen. Maar de concurrentieverhoudingen die bepalen hoeveel je voor AI betaalt, hoe snel modellen verbeteren en welke platforms de markt leiden, zijn plotseling flexibeler dan ze in jaren zijn geweest.</p>
+
+<p>We werken deze analyse bij naarmate de earningscall en de CEO-zoektocht zich ontwikkelen. Voeg deze pagina toe aan je bladwijzers en kom later terug.</p>
+
+<p><em>Wil je productief blijven terwijl het AI-landschap verschuift? Bekijk onze gratis <a href="https://toolcraftkit.com">productiviteitstools bij ToolCraftKit</a>, zonder GPU-drama.</em></p>
