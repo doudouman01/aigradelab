@@ -151,7 +151,7 @@ readTime: "8 min read"
 
 <p>The model is sound in theory. The real test will be at scale — when millions of agents are transacting simultaneously across thousands of businesses.</p>
 
-<h2>The Bottom Line</h2>
+<h2>الخلاصة</h2>
 
 <p>Poppy 1.0 is one of those infrastructure releases that doesn't get the headlines of a new model launch but may end up mattering more. It's the plumbing that will enable AI agents to move from "answering questions" to "doing things" — and doing things means interacting with businesses on your behalf.</p>
 

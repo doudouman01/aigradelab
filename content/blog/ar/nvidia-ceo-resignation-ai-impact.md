@@ -79,7 +79,7 @@ readTime: "8 min read"
 <li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
 </ul>
 
-<h2>The Bottom Line</h2>
+<h2>الخلاصة</h2>
 
 <p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
 

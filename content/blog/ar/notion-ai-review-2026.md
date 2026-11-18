@@ -69,7 +69,7 @@ toolName: "Notion AI"
 </table>
 <p>AI is included for all members on a workspace — you cannot enable it for some members only.</p>
 
-<h2>Who Should Use Notion AI?</h2>
+<h2>من يجب أن يستخدم Notion AI?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -98,7 +98,7 @@ toolName: "Notion AI"
 <h3>Notion AI vs Confluence AI</h3>
 <p>Atlassian has added AI to Confluence with similar features — Q&A across pages, content generation, summarization. If your team uses the Atlassian stack (Jira + Confluence), Confluence AI is the natural choice. If you use Notion, stick with Notion AI. Don't switch platforms for AI features.</p>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Workspace Q&A is genuinely transformative for teams</li>

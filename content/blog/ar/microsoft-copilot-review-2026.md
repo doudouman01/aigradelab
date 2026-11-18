@@ -88,7 +88,7 @@ toolName: "Microsoft Copilot"
   </tbody>
 </table>
 
-<h2>Who Should Use Copilot?</h2>
+<h2>من يجب أن يستخدم Copilot?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -108,7 +108,7 @@ toolName: "Microsoft Copilot"
   <li><strong>Google Workspace users</strong> — no integration, use Gemini instead</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Teams meeting summaries are genuinely transformative</li>

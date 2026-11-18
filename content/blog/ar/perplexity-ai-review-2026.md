@@ -68,7 +68,7 @@ toolName: "Perplexity"
   </tbody>
 </table>
 
-<h2>Pricing: November 2026</h2>
+<h2>التسعير: November 2026</h2>
 <table>
   <thead>
     <tr><th>Plan</th><th>Price</th><th>Key Features</th></tr>
@@ -82,7 +82,7 @@ toolName: "Perplexity"
   </tbody>
 </table>
 
-<h2>Who Should Use Perplexity</h2>
+<h2>من يجب أن يستخدم Perplexity</h2>
 <ul>
   <li><strong>Researchers and academics:</strong> The Academic focus mode + citation system is purpose-built for scholarly work. At $10/month for students, it is unbeatable.</li>
   <li><strong>Journalists and fact-checkers:</strong> Every claim cited, every source linked. Verification is built into the workflow.</li>
@@ -91,7 +91,7 @@ toolName: "Perplexity"
   <li><strong>Anyone who wants a cleaner search experience:</strong> No ads, no SEO spam, just answers with sources.</li>
 </ul>
 
-<h2>Who Should Not Use Perplexity</h2>
+<h2>من يناسبه Not Use Perplexity</h2>
 <ul>
   <li><strong>Users who need an all-in-one AI:</strong> Perplexity researches but does not create. If you need writing, images, code, and research in one tool, ChatGPT is more practical.</li>
   <li><strong>Local search users:</strong> Google Maps integration, local business listings, and directions are still Google's domain. Perplexity is not a Google replacement for "restaurants near me."</li>

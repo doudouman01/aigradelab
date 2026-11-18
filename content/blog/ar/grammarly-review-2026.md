@@ -67,7 +67,7 @@ toolName: "Grammarly"
   </tbody>
 </table>
 
-<h2>Who Should Use Grammarly in 2026?</h2>
+<h2>من يجب أن يستخدم Grammarly in 2026?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -96,7 +96,7 @@ toolName: "Grammarly"
 <h3>Grammarly vs Claude</h3>
 <p>Claude excels at document analysis, nuanced writing, and long-form content creation. Grammarly excels at real-time inline corrections. They complement each other rather than compete. Use Claude to draft, use Grammarly to polish.</p>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Best-in-class grammar and style correction</li>

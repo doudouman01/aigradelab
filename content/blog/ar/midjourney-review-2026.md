@@ -66,7 +66,7 @@ toolName: "Midjourney"
   </tbody>
 </table>
 
-<h2>Pricing: November 2026</h2>
+<h2>التسعير: November 2026</h2>
 <table>
   <thead>
     <tr><th>Plan</th><th>Monthly</th><th>Annual (20% off)</th><th>Fast GPU Hours</th><th>Relax Mode</th></tr>
@@ -80,7 +80,7 @@ toolName: "Midjourney"
 </table>
 <p><strong>Best value:</strong> Standard at $30/month. Unlimited Relax mode means your per-image cost approaches zero if you are patient. Basic at $10/month is too limited for regular use — the 3.3 GPU hours run out fast.</p>
 
-<h2>Who Should Use Midjourney</h2>
+<h2>من يجب أن يستخدم Midjourney</h2>
 <ul>
   <li><strong>Marketing teams and agencies:</strong> When the visual needs to look beautiful — campaigns, brand imagery, social media hero images — Midjourney's aesthetic quality justifies the premium.</li>
   <li><strong>Content creators:</strong> YouTubers, bloggers, and social media creators who need eye-catching thumbnails and visuals that stop the scroll.</li>
@@ -88,7 +88,7 @@ toolName: "Midjourney"
   <li><strong>Anyone who generates images regularly:</strong> The Standard plan with unlimited Relax mode is the best value for high-volume generation.</li>
 </ul>
 
-<h2>Who Should Not Use Midjourney</h2>
+<h2>من يناسبه Not Use Midjourney</h2>
 <ul>
   <li><strong>Occasional users:</strong> If you need 5 images per month, the $10/month minimum is poor value. Use ChatGPT Free or Gemini Free instead.</li>
   <li><strong>Developers:</strong> No API means no programmatic access. Use FLUX.2 or ChatGPT Images API for product integration.</li>

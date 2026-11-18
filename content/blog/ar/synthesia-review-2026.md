@@ -88,9 +88,9 @@ toolName: "Synthesia"
     <tr><td>Best for</td><td>Enterprise, compliance</td><td>Creators, small business</td></tr>
   </tbody>
 </table>
-<p><strong>Bottom line:</strong> HeyGen offers better value for most users. Synthesia wins for enterprises that need SOC 2/HIPAA compliance and 140+ language support. Read our <a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> for the full comparison.</p>
+<p><strong>Bottom line:</strong> HeyGen offers better value for most users. Synthesia wins for enterprises that need SOC 2/HIPAA compliance and 140+ language support. اقرأ مراجعتنا لـ<a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> for the full comparison.</p>
 
-<h2>Who Should Use Synthesia?</h2>
+<h2>من يجب أن يستخدم Synthesia?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -109,7 +109,7 @@ toolName: "Synthesia"
   <li><strong>Long-form content</strong> — uncanny valley on 5+ minute videos</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Professional avatar quality — convincing for corporate use</li>

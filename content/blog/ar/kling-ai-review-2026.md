@@ -98,7 +98,7 @@ toolName: "Kling AI"
   </tbody>
 </table>
 
-<h2>Who Should Use Kling?</h2>
+<h2>من يجب أن يستخدم Kling?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -117,7 +117,7 @@ toolName: "Kling AI"
   <li><strong>English support needs</strong> — smaller English community and documentation</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Longest AI clips available — up to 30 seconds</li>

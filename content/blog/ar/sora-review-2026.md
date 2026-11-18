@@ -89,7 +89,7 @@ toolName: "Sora"
   </tbody>
 </table>
 
-<h2>Who Should Use Sora?</h2>
+<h2>من يجب أن يستخدم Sora?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -107,7 +107,7 @@ toolName: "Sora"
   <li><strong>Video editing</strong> — no editing tools, generation only</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Stunning output at its best — cinematic quality</li>

@@ -99,7 +99,7 @@ toolName: "Runway"
 </table>
 <p>For the full comparison, read our <a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools 2026</a> guide.</p>
 
-<h2>Who Should Use Runway?</h2>
+<h2>من يجب أن يستخدم Runway?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -117,7 +117,7 @@ toolName: "Runway"
   <li><strong>Beginners</strong> — learning curve is steeper than Sora's prompt-and-wait</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Best and most consistent AI video quality available</li>

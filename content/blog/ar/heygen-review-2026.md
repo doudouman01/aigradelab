@@ -93,9 +93,9 @@ toolName: "HeyGen"
     <tr><td>Best for</td><td>Creators, small business</td><td>Enterprise, compliance</td></tr>
   </tbody>
 </table>
-<p><strong>Bottom line:</strong> HeyGen offers better value for most users — more minutes per dollar, custom avatars at a lower price tier, and superior video translation. Synthesia wins only for enterprises requiring HIPAA compliance or 140+ languages. Read our <a href="/ar/blog/synthesia-review-2026">Synthesia Review</a> for the enterprise perspective.</p>
+<p><strong>Bottom line:</strong> HeyGen offers better value for most users — more minutes per dollar, custom avatars at a lower price tier, and superior video translation. Synthesia wins only for enterprises requiring HIPAA compliance or 140+ languages. اقرأ مراجعتنا لـ<a href="/ar/blog/synthesia-review-2026">Synthesia Review</a> for the enterprise perspective.</p>
 
-<h2>Who Should Use HeyGen?</h2>
+<h2>من يجب أن يستخدم HeyGen?</h2>
 
 <h3>Best For</h3>
 <ul>
@@ -114,7 +114,7 @@ toolName: "HeyGen"
   <li><strong>Niche languages</strong> — Synthesia covers more languages</li>
 </ul>
 
-<h2>Pros and Cons Summary</h2>
+<h2>المزايا والعيوب Summary</h2>
 <h3>Pros</h3>
 <ul>
   <li>Excellent avatar quality — convincing for business use</li>

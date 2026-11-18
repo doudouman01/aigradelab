@@ -41,7 +41,7 @@ readTime: "12 min read"
     <tr><td>Leonardo AI</td><td>150 tokens/day</td><td>$12-48/mo</td><td>⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> GPT Image with ChatGPT Plus — you're already paying for the chatbot, images are included. <strong>Best quality:</strong> Midjourney ($10/mo) for fine art and photography. <strong>Best free:</strong> Stable Diffusion (if you have a GPU). Read our <a href="/ar/blog/best-ai-image-generators-2026">Best AI Image Generators</a> for details.</p>
+<p><strong>Best value:</strong> GPT Image with ChatGPT Plus — you're already paying for the chatbot, images are included. <strong>Best quality:</strong> Midjourney ($10/mo) for fine art and photography. <strong>Best free:</strong> Stable Diffusion (if you have a GPU). اقرأ مراجعتنا لـ<a href="/ar/blog/best-ai-image-generators-2026">Best AI Image Generators</a> for details.</p>
 
 <h2>AI Video</h2>
 <table>
@@ -58,7 +58,7 @@ readTime: "12 min read"
     <tr><td>CapCut</td><td>Yes (most features)</td><td>$8/mo</td><td>⭐⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> Sora with ChatGPT Plus — AI video at no extra cost. <strong>Best quality:</strong> Runway Pro ($28/mo). <strong>Best free:</strong> CapCut for editing, Kling for generation. Read our <a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools</a> for details.</p>
+<p><strong>Best value:</strong> Sora with ChatGPT Plus — AI video at no extra cost. <strong>Best quality:</strong> Runway Pro ($28/mo). <strong>Best free:</strong> CapCut for editing, Kling for generation. اقرأ مراجعتنا لـ<a href="/ar/blog/best-ai-video-tools-2026">Best AI Video Tools</a> for details.</p>
 
 <h2>AI Coding</h2>
 <table>
@@ -73,7 +73,7 @@ readTime: "12 min read"
     <tr><td>Replit AI</td><td>Limited</td><td>$25/mo</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> GitHub Copilot ($10/mo) — excellent quality at the lowest price. <strong>Best tool:</strong> Cursor ($20/mo) for multi-file editing and codebase awareness. Read our <a href="/ar/blog/github-copilot-vs-cursor-2026">Copilot vs Cursor</a> comparison and <a href="/ar/blog/best-ai-coding-tools-2026">Best AI Coding Tools</a>.</p>
+<p><strong>Best value:</strong> GitHub Copilot ($10/mo) — excellent quality at the lowest price. <strong>Best tool:</strong> Cursor ($20/mo) for multi-file editing and codebase awareness. اقرأ مراجعتنا لـ<a href="/ar/blog/github-copilot-vs-cursor-2026">Copilot vs Cursor</a> comparison and <a href="/ar/blog/best-ai-coding-tools-2026">Best AI Coding Tools</a>.</p>
 
 <h2>AI Writing</h2>
 <table>
@@ -88,7 +88,7 @@ readTime: "12 min read"
     <tr><td>Writesonic</td><td>Limited</td><td>$16-33/mo</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> ChatGPT or Claude ($20/mo each) outperform most dedicated writing tools. <strong>Best specialized:</strong> Grammarly ($12/mo) for grammar + Surfer SEO ($89/mo) for SEO content. Read our <a href="/ar/blog/best-ai-writing-tools-2026">Best AI Writing Tools</a>.</p>
+<p><strong>Best value:</strong> ChatGPT or Claude ($20/mo each) outperform most dedicated writing tools. <strong>Best specialized:</strong> Grammarly ($12/mo) for grammar + Surfer SEO ($89/mo) for SEO content. اقرأ مراجعتنا لـ<a href="/ar/blog/best-ai-writing-tools-2026">Best AI Writing Tools</a>.</p>
 
 <h2>AI Music</h2>
 <table>
@@ -102,7 +102,7 @@ readTime: "12 min read"
     <tr><td>Soundraw</td><td>Trial only</td><td>$17/mo</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> Suno Pro ($10/mo) — 500 songs with commercial license. Read our <a href="/ar/blog/best-ai-music-tools-2026">Best AI Music Tools</a>.</p>
+<p><strong>Best value:</strong> Suno Pro ($10/mo) — 500 songs with commercial license. اقرأ مراجعتنا لـ<a href="/ar/blog/best-ai-music-tools-2026">Best AI Music Tools</a>.</p>
 
 <h2>AI Voice</h2>
 <table>
@@ -115,7 +115,7 @@ readTime: "12 min read"
     <tr><td>Play.ht</td><td>Limited</td><td>$31/mo</td><td>⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> ElevenLabs Starter ($5/mo) — best quality voice AI at the lowest price. Read our <a href="/ar/blog/elevenlabs-review-2026">ElevenLabs Review</a>.</p>
+<p><strong>Best value:</strong> ElevenLabs Starter ($5/mo) — best quality voice AI at the lowest price. اقرأ مراجعتنا لـ<a href="/ar/blog/elevenlabs-review-2026">ElevenLabs Review</a>.</p>
 
 <h2>AI Design & Productivity</h2>
 <table>
@@ -129,7 +129,7 @@ readTime: "12 min read"
     <tr><td>Otter.ai</td><td>300 min/mo</td><td>$17-30/mo</td><td>⭐⭐⭐⭐</td></tr>
   </tbody>
 </table>
-<p><strong>Best value:</strong> Canva Pro ($13/mo) — replaces a designer for most business needs. Read our <a href="/ar/blog/canva-review-2026">Canva Review</a>.</p>
+<p><strong>Best value:</strong> Canva Pro ($13/mo) — replaces a designer for most business needs. اقرأ مراجعتنا لـ<a href="/ar/blog/canva-review-2026">Canva Review</a>.</p>
 
 <h2>The Ultimate AI Budget Guide</h2>
 
