@@ -1,5 +1,5 @@
 ---
-title: "AI Tools Pricing Comparison 2026: Every Major Tool's Cost Explained"
+title: "AI-tools Prijsvergelijking 2026: Alle Kosten van Grote Tools Uitgelegd"
 description: "Complete pricing guide for 30+ AI tools — chatbots, image, video, coding, writing, and productivity. Free tiers, paid plans, and which are worth the money. Updated November 2026."
 category: "Lab Notes"
 categorySlug: "lab-notes"

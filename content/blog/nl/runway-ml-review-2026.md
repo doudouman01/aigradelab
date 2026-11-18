@@ -1,5 +1,5 @@
 ---
-title: "Runway ML Review 2026: The Best AI Video Generator? Our Grade"
+title: "Runway ML Review 2026: De Beste AI-videogenerator? Ons Cijfer"
 description: "We tested Runway Gen-3 for video generation, editing, and creative workflows. Here is our grade and whether the Pro plan is worth $28/month."
 category: "Graded Reviews"
 categorySlug: "graded-reviews"
