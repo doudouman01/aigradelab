@@ -4,6 +4,9 @@ import Script from 'next/script';
 import { Analytics } from '@vercel/analytics/next';
 import GoogleAnalytics from '../../components/GoogleAnalytics';
 import LanguageSwitcher from '../../components/LanguageSwitcher';
+import SearchBar from '../../components/SearchBar';
+import RichFooter from '../../components/RichFooter';
+import { getPosts } from '../../content/posts';
 import { locales, defaultLocale, rtlLocales, getTranslations, isValidLocale } from '../../lib/i18n';
 import type { Locale } from '../../lib/i18n';
 
@@ -40,6 +43,8 @@ export default async function LocaleLayout({ children, params }: Props) {
   const lang = isValidLocale(locale) ? locale : defaultLocale;
   const isRtl = rtlLocales.includes(lang as Locale);
   const t = getTranslations(lang);
+  const allPosts = getPosts(lang);
+  const searchItems = allPosts.map(p => ({ slug: p.slug, title: p.title, category: p.category, grade: p.grade }));
 
   return (
     <html lang={lang} dir={isRtl ? 'rtl' : 'ltr'}>
@@ -68,8 +73,10 @@ export default async function LocaleLayout({ children, params }: Props) {
               <nav className="nav-links">
                 <Link href={`/${lang}/blog`}>{t.nav.reviews}</Link>
                 <Link href={`/${lang}/methodology`}>{t.nav.methodology}</Link>
+                <Link href={`/${lang}/submit`}>{t.nav.submit}</Link>
                 <Link href={`/${lang}/about`}>{t.nav.about}</Link>
               </nav>
+              <SearchBar items={searchItems} locale={lang} placeholder={t.nav.search} />
               <LanguageSwitcher currentLocale={lang} />
             </div>
           </div>
@@ -78,19 +85,7 @@ export default async function LocaleLayout({ children, params }: Props) {
         <main>{children}</main>
         <Analytics />
 
-        <footer className="site-footer">
-          <div className="container">
-            <div className="footer-inner">
-              <p>&copy; {new Date().getFullYear()} AIGradeLab. {t.footer.copy}</p>
-              <div className="footer-links">
-                <Link href={`/${lang}/privacy`}>{t.footer.privacy}</Link>
-                <Link href={`/${lang}/terms`}>{t.footer.terms}</Link>
-                <Link href={`/${lang}/methodology`}>{t.footer.methodology}</Link>
-                <a href="https://toolcraftkit.com" target="_blank" rel="noopener">ToolCraftKit</a>
-              </div>
-            </div>
-          </div>
-        </footer>
+        <RichFooter locale={lang} footer={t.footer} nav={t.nav} />
       </body>
     </html>
   );

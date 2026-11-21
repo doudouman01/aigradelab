@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { getPosts } from '../../content/posts';
 import ArticleCard from '../../components/ArticleCard';
+import NewsletterForm from '../../components/NewsletterForm';
 import { getTranslations, isValidLocale, defaultLocale } from '../../lib/i18n';
 
 const gradeShowcase = [
@@ -123,7 +124,7 @@ export default async function Home({ params }: Props) {
           <div className="newsletter-badge">{t.newsletter.badge}</div>
           <h3>{t.newsletter.title}</h3>
           <p>{t.newsletter.desc}</p>
-          <a href="#" className="cta-btn">{t.newsletter.cta} &rarr;</a>
+          <NewsletterForm ctaText={t.newsletter.cta} placeholder={t.newsletter.placeholder} successText={t.newsletter.success} />
         </div>
       </section>
 

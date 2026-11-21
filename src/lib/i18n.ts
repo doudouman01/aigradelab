@@ -17,17 +17,27 @@ export const localeNames: Record<Locale, string> = {
 };
 
 export type Translations = {
-  nav: { reviews: string; methodology: string; about: string };
+  nav: { reviews: string; methodology: string; about: string; submit: string; search: string };
   hero: { pill: string; title: string; titleHighlight: string; subtitle: string; cta1: string; cta2: string };
   how: { label: string; title: string; steps: { num: string; title: string; desc: string }[] };
   criteria: { label: string; title: string; items: { icon: string; name: string; desc: string }[] };
   grades: { label: string; title: string; sub: string };
   reviews: { label: string; title: string };
-  newsletter: { badge: string; title: string; desc: string; cta: string };
+  newsletter: { badge: string; title: string; desc: string; cta: string; placeholder: string; success: string };
   tck: { title: string; desc: string; cta: string };
   blog: { title: string; subtitle: string; empty: string; metaTitle: string; metaDesc: string };
   article: { gradeLabel: string; gradeSub: string; testScores: string; tryCta: string; tested: string; needFree: string; freeDesc: string; freeCta: string };
   scoreLabels: { ux: string; quality: string; value: string; integration: string; support: string };
+  submit: {
+    metaTitle: string; metaDesc: string; title: string; intro: string;
+    formTitle: string; formDesc: string;
+    fields: { toolName: string; toolUrl: string; category: string; email: string; description: string };
+    submit: string;
+    premiumTitle: string; premiumDesc: string;
+    premiumFeatures: string[];
+    premiumCta: string;
+    successTitle: string; successDesc: string;
+  };
   methodology: {
     metaTitle: string; metaDesc: string; title: string;
     intro1: string; intro2: string;
@@ -59,7 +69,7 @@ export type Translations = {
 
 export const translations: Record<Locale, Translations> = {
   en: {
-    nav: { reviews: 'Reviews', methodology: 'Our Grades', about: 'About' },
+    nav: { reviews: 'Reviews', methodology: 'Our Grades', about: 'About', submit: 'Submit Tool', search: 'Search tools...' },
     hero: {
       pill: 'Independent AI tool reviews',
       title: 'Every AI Tool,', titleHighlight: 'Tested and Graded',
@@ -86,7 +96,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'The scale', title: 'From A+ to F — no gray areas', sub: 'Every tool earns its grade.' },
     reviews: { label: 'Reviews', title: 'Latest graded reviews' },
-    newsletter: { badge: 'Free', title: 'Get graded reviews in your inbox', desc: 'New AI tool grades every week. No spam, no fluff — just honest scores.', cta: 'Subscribe Free' },
+    newsletter: { badge: 'Free', title: 'Get graded reviews in your inbox', desc: 'New AI tool grades every week. No spam, no fluff — just honest scores.', cta: 'Subscribe Free', placeholder: 'your@email.com', success: 'Check your email client! 📬' },
     tck: { title: 'Need free tools right now?', desc: 'ToolCraftKit has 49+ free web tools for productivity, text, images, and more.', cta: 'Try Free Tools' },
     blog: { title: 'All Graded Reviews', subtitle: 'Every tool tested, scored, and graded. No sponsored rankings.', empty: 'Reviews are being prepared in the lab.', metaTitle: 'All Graded AI Tool Reviews', metaDesc: 'Browse all AI tool reviews with transparent grades from A+ to F.' },
     article: { gradeLabel: 'Our Grade', gradeSub: 'Based on hands-on testing across 5 criteria', testScores: 'Test Scores', tryCta: 'Try', tested: 'Tested', needFree: 'Need free tools?', freeDesc: 'ToolCraftKit has 49+ free web tools for productivity, text processing, and more.', freeCta: 'Try Free Tools' },
@@ -157,9 +167,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Every AI tool, tested and graded.', privacy: 'Privacy', terms: 'Terms', methodology: 'Methodology' },
     notFound: { title: '404', desc: 'This page doesn\'t exist.', cta: 'Back to Home' },
+    submit: {
+      metaTitle: 'Submit Your AI Tool', metaDesc: 'Get your AI tool reviewed and graded by AIGradeLab.',
+      title: 'Submit Your AI Tool',
+      intro: 'Get your AI tool reviewed and graded by AIGradeLab. We test with real accounts, score across 5 criteria, and publish a transparent grade from A+ to F.',
+      formTitle: 'Free Submission', formDesc: 'Submit your tool for review consideration. Free submissions are reviewed on a first-come, first-served basis.',
+      fields: { toolName: 'Tool Name', toolUrl: 'Tool URL', category: 'Category', email: 'Contact Email', description: 'Brief Description' },
+      submit: 'Submit for Review',
+      premiumTitle: 'Priority Review', premiumDesc: 'Skip the queue and get your tool reviewed within 7 days. Includes a detailed review article, grade card, and newsletter feature.',
+      premiumFeatures: ['Review published within 7 days', 'Detailed article with grade card', 'Featured in our newsletter', 'Social media mention'],
+      premiumCta: 'Contact for Priority Review',
+      successTitle: 'Tool Submitted!', successDesc: 'We\'ll review your submission and get back to you.',
+    },
   },
   de: {
-    nav: { reviews: 'Bewertungen', methodology: 'Unsere Noten', about: 'Über uns' },
+    nav: { reviews: 'Bewertungen', methodology: 'Unsere Noten', about: 'Über uns', submit: 'Tool einreichen', search: 'Tools suchen...' },
     hero: {
       pill: 'Unabhängige KI-Tool-Bewertungen',
       title: 'Jedes KI-Tool,', titleHighlight: 'Getestet und Benotet',
@@ -186,7 +208,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'Die Skala', title: 'Von A+ bis F — keine Grauzonen', sub: 'Jedes Tool verdient sich seine Note.' },
     reviews: { label: 'Bewertungen', title: 'Neueste Bewertungen' },
-    newsletter: { badge: 'Kostenlos', title: 'Bewertungen direkt ins Postfach', desc: 'Jede Woche neue KI-Tool-Noten. Kein Spam — nur ehrliche Bewertungen.', cta: 'Kostenlos abonnieren' },
+    newsletter: { badge: 'Kostenlos', title: 'Bewertungen direkt ins Postfach', desc: 'Jede Woche neue KI-Tool-Noten. Kein Spam — nur ehrliche Bewertungen.', cta: 'Kostenlos abonnieren', placeholder: 'ihre@email.de', success: 'Prüfen Sie Ihren E-Mail-Client! 📬' },
     tck: { title: 'Kostenlose Tools gesucht?', desc: 'ToolCraftKit bietet über 49 kostenlose Web-Tools für Produktivität, Text, Bilder und mehr.', cta: 'Kostenlose Tools testen' },
     blog: { title: 'Alle Bewertungen', subtitle: 'Jedes Tool getestet, bewertet und benotet. Keine gesponserten Rankings.', empty: 'Bewertungen werden im Labor vorbereitet.', metaTitle: 'Alle KI-Tool-Bewertungen', metaDesc: 'Alle KI-Tool-Bewertungen mit transparenten Noten von A+ bis F.' },
     article: { gradeLabel: 'Unsere Note', gradeSub: 'Basierend auf Praxistests in 5 Kategorien', testScores: 'Testergebnisse', tryCta: 'Testen', tested: 'Getestet', needFree: 'Kostenlose Tools gesucht?', freeDesc: 'ToolCraftKit bietet über 49 kostenlose Web-Tools.', freeCta: 'Kostenlose Tools' },
@@ -253,9 +275,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Jedes KI-Tool, getestet und benotet.', privacy: 'Datenschutz', terms: 'Nutzungsbedingungen', methodology: 'Methodik' },
     notFound: { title: '404', desc: 'Diese Seite existiert nicht.', cta: 'Zur Startseite' },
+    submit: {
+      metaTitle: 'KI-Tool einreichen', metaDesc: 'Lassen Sie Ihr KI-Tool von AIGradeLab bewerten.',
+      title: 'Ihr KI-Tool einreichen',
+      intro: 'Lassen Sie Ihr KI-Tool von AIGradeLab bewerten und benoten. Wir testen mit echten Konten, bewerten nach 5 Kriterien und vergeben transparente Noten von A+ bis F.',
+      formTitle: 'Kostenlose Einreichung', formDesc: 'Reichen Sie Ihr Tool zur Prüfung ein. Kostenlose Einreichungen werden in der Reihenfolge ihres Eingangs bearbeitet.',
+      fields: { toolName: 'Tool-Name', toolUrl: 'Tool-URL', category: 'Kategorie', email: 'Kontakt-E-Mail', description: 'Kurzbeschreibung' },
+      submit: 'Zur Bewertung einreichen',
+      premiumTitle: 'Prioritäts-Bewertung', premiumDesc: 'Überspringen Sie die Warteschlange und erhalten Sie innerhalb von 7 Tagen eine Bewertung. Inklusive detailliertem Artikel, Notenkarte und Newsletter-Feature.',
+      premiumFeatures: ['Bewertung innerhalb von 7 Tagen', 'Detaillierter Artikel mit Notenkarte', 'Feature in unserem Newsletter', 'Erwähnung in Social Media'],
+      premiumCta: 'Kontakt für Prioritäts-Bewertung',
+      successTitle: 'Tool eingereicht!', successDesc: 'Wir prüfen Ihre Einreichung und melden uns bei Ihnen.',
+    },
   },
   fr: {
-    nav: { reviews: 'Évaluations', methodology: 'Nos Notes', about: 'À propos' },
+    nav: { reviews: 'Évaluations', methodology: 'Nos Notes', about: 'À propos', submit: 'Soumettre un outil', search: 'Rechercher...' },
     hero: {
       pill: 'Évaluations indépendantes d\'outils IA',
       title: 'Chaque Outil IA,', titleHighlight: 'Testé et Noté',
@@ -282,7 +316,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'L\'échelle', title: 'De A+ à F — sans zone grise', sub: 'Chaque outil mérite sa note.' },
     reviews: { label: 'Évaluations', title: 'Dernières évaluations' },
-    newsletter: { badge: 'Gratuit', title: 'Recevez les notes dans votre boîte mail', desc: 'Nouvelles notes chaque semaine. Pas de spam — juste des scores honnêtes.', cta: 'S\'abonner gratuitement' },
+    newsletter: { badge: 'Gratuit', title: 'Recevez les notes dans votre boîte mail', desc: 'Nouvelles notes chaque semaine. Pas de spam — juste des scores honnêtes.', cta: 'S\'abonner gratuitement', placeholder: 'votre@email.fr', success: 'Vérifiez votre messagerie ! 📬' },
     tck: { title: 'Besoin d\'outils gratuits ?', desc: 'ToolCraftKit propose plus de 49 outils web gratuits pour la productivité, le texte, les images et plus.', cta: 'Essayer les outils gratuits' },
     blog: { title: 'Toutes les Évaluations', subtitle: 'Chaque outil testé, évalué et noté. Aucun classement sponsorisé.', empty: 'Les évaluations sont en préparation au labo.', metaTitle: 'Toutes les Évaluations d\'Outils IA', metaDesc: 'Parcourez toutes les évaluations d\'outils IA avec des notes transparentes.' },
     article: { gradeLabel: 'Notre Note', gradeSub: 'Basée sur des tests pratiques sur 5 critères', testScores: 'Scores des Tests', tryCta: 'Essayer', tested: 'Testé le', needFree: 'Besoin d\'outils gratuits ?', freeDesc: 'ToolCraftKit propose plus de 49 outils web gratuits.', freeCta: 'Outils Gratuits' },
@@ -349,9 +383,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Chaque outil IA, testé et noté.', privacy: 'Confidentialité', terms: 'Conditions', methodology: 'Méthodologie' },
     notFound: { title: '404', desc: 'Cette page n\'existe pas.', cta: 'Retour à l\'accueil' },
+    submit: {
+      metaTitle: 'Soumettre votre outil IA', metaDesc: 'Faites évaluer et noter votre outil IA par AIGradeLab.',
+      title: 'Soumettre votre outil IA',
+      intro: 'Faites évaluer et noter votre outil IA par AIGradeLab. Nous testons avec de vrais comptes, évaluons sur 5 critères et publions une note transparente de A+ à F.',
+      formTitle: 'Soumission gratuite', formDesc: 'Soumettez votre outil pour examen. Les soumissions gratuites sont traitées par ordre d\'arrivée.',
+      fields: { toolName: 'Nom de l\'outil', toolUrl: 'URL de l\'outil', category: 'Catégorie', email: 'Email de contact', description: 'Description brève' },
+      submit: 'Soumettre pour évaluation',
+      premiumTitle: 'Évaluation prioritaire', premiumDesc: 'Passez devant la file et obtenez une évaluation sous 7 jours. Inclut un article détaillé, une carte de note et une mention dans la newsletter.',
+      premiumFeatures: ['Évaluation publiée sous 7 jours', 'Article détaillé avec carte de note', 'Mention dans notre newsletter', 'Mention sur les réseaux sociaux'],
+      premiumCta: 'Contacter pour évaluation prioritaire',
+      successTitle: 'Outil soumis !', successDesc: 'Nous examinerons votre soumission et vous recontacterons.',
+    },
   },
   es: {
-    nav: { reviews: 'Reseñas', methodology: 'Nuestras Notas', about: 'Acerca de' },
+    nav: { reviews: 'Reseñas', methodology: 'Nuestras Notas', about: 'Acerca de', submit: 'Enviar herramienta', search: 'Buscar herramientas...' },
     hero: {
       pill: 'Reseñas independientes de herramientas IA',
       title: 'Cada Herramienta IA,', titleHighlight: 'Probada y Calificada',
@@ -378,7 +424,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'La escala', title: 'De A+ a F — sin zonas grises', sub: 'Cada herramienta se gana su nota.' },
     reviews: { label: 'Reseñas', title: 'Últimas reseñas calificadas' },
-    newsletter: { badge: 'Gratis', title: 'Recibe reseñas calificadas en tu correo', desc: 'Nuevas calificaciones cada semana. Sin spam — solo puntuaciones honestas.', cta: 'Suscribirse gratis' },
+    newsletter: { badge: 'Gratis', title: 'Recibe reseñas calificadas en tu correo', desc: 'Nuevas calificaciones cada semana. Sin spam — solo puntuaciones honestas.', cta: 'Suscribirse gratis', placeholder: 'tu@email.es', success: '¡Revisa tu cliente de correo! 📬' },
     tck: { title: '¿Necesitas herramientas gratuitas?', desc: 'ToolCraftKit tiene más de 49 herramientas web gratuitas para productividad, texto, imágenes y más.', cta: 'Probar herramientas gratuitas' },
     blog: { title: 'Todas las Reseñas', subtitle: 'Cada herramienta probada, evaluada y calificada. Sin rankings patrocinados.', empty: 'Las reseñas se están preparando en el laboratorio.', metaTitle: 'Todas las Reseñas de Herramientas IA', metaDesc: 'Explora todas las reseñas de herramientas IA con notas transparentes.' },
     article: { gradeLabel: 'Nuestra Nota', gradeSub: 'Basada en pruebas prácticas en 5 criterios', testScores: 'Puntuaciones del Test', tryCta: 'Probar', tested: 'Probado', needFree: '¿Necesitas herramientas gratuitas?', freeDesc: 'ToolCraftKit tiene más de 49 herramientas web gratuitas.', freeCta: 'Herramientas Gratuitas' },
@@ -436,9 +482,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Cada herramienta IA, probada y calificada.', privacy: 'Privacidad', terms: 'Términos', methodology: 'Metodología' },
     notFound: { title: '404', desc: 'Esta página no existe.', cta: 'Volver al inicio' },
+    submit: {
+      metaTitle: 'Enviar tu herramienta IA', metaDesc: 'Haz que AIGradeLab evalúe y califique tu herramienta IA.',
+      title: 'Enviar tu herramienta IA',
+      intro: 'Haz que AIGradeLab evalúe y califique tu herramienta IA. Probamos con cuentas reales, evaluamos en 5 criterios y publicamos una calificación transparente de A+ a F.',
+      formTitle: 'Envío gratuito', formDesc: 'Envía tu herramienta para evaluación. Los envíos gratuitos se revisan por orden de llegada.',
+      fields: { toolName: 'Nombre de la herramienta', toolUrl: 'URL de la herramienta', category: 'Categoría', email: 'Email de contacto', description: 'Descripción breve' },
+      submit: 'Enviar para evaluación',
+      premiumTitle: 'Evaluación prioritaria', premiumDesc: 'Salta la cola y obtén una evaluación en 7 días. Incluye artículo detallado, tarjeta de calificación y mención en newsletter.',
+      premiumFeatures: ['Evaluación publicada en 7 días', 'Artículo detallado con tarjeta de calificación', 'Destacado en nuestro newsletter', 'Mención en redes sociales'],
+      premiumCta: 'Contactar para evaluación prioritaria',
+      successTitle: '¡Herramienta enviada!', successDesc: 'Revisaremos tu envío y te contactaremos.',
+    },
   },
   ja: {
-    nav: { reviews: 'レビュー', methodology: '評価基準', about: '概要' },
+    nav: { reviews: 'レビュー', methodology: '評価基準', about: '概要', submit: 'ツール申請', search: 'ツールを検索...' },
     hero: {
       pill: '独立したAIツールレビュー',
       title: 'すべてのAIツールを', titleHighlight: 'テストして評価',
@@ -465,7 +523,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: '評価スケール', title: 'A+からF — グレーゾーンなし', sub: 'すべてのツールが評価を獲得します。' },
     reviews: { label: 'レビュー', title: '最新のレビュー' },
-    newsletter: { badge: '無料', title: '評価レビューをメールで受信', desc: '毎週新しいAIツール評価。スパムなし — 正直なスコアだけ。', cta: '無料で登録' },
+    newsletter: { badge: '無料', title: '評価レビューをメールで受信', desc: '毎週新しいAIツール評価。スパムなし — 正直なスコアだけ。', cta: '無料で登録', placeholder: 'your@email.com', success: 'メールクライアントを確認してください！📬' },
     tck: { title: '無料ツールが必要ですか？', desc: 'ToolCraftKitには49以上の無料ウェブツールがあります。', cta: '無料ツールを試す' },
     blog: { title: '全レビュー', subtitle: 'すべてのツールをテスト、評価、採点。スポンサー付きランキングなし。', empty: 'レビューはラボで準備中です。', metaTitle: 'すべてのAIツールレビュー', metaDesc: 'A+からFまでの透明な評価ですべてのAIツールレビューを閲覧。' },
     article: { gradeLabel: '評価', gradeSub: '5つの基準での実践テストに基づく', testScores: 'テストスコア', tryCta: '試す', tested: 'テスト日', needFree: '無料ツールが必要？', freeDesc: 'ToolCraftKitには49以上の無料ウェブツール。', freeCta: '無料ツール' },
@@ -523,9 +581,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'すべてのAIツール、テスト済み、評価済み。', privacy: 'プライバシー', terms: '利用規約', methodology: '評価方法' },
     notFound: { title: '404', desc: 'このページは存在しません。', cta: 'ホームに戻る' },
+    submit: {
+      metaTitle: 'AIツールを申請', metaDesc: 'AIGradeLabにAIツールの評価を依頼しましょう。',
+      title: 'AIツールを申請',
+      intro: 'AIGradeLabにAIツールの評価・採点を依頼しましょう。実際のアカウントでテストし、5つの基準で評価し、A+からFまでの透明な成績を公開します。',
+      formTitle: '無料申請', formDesc: 'ツールの審査をリクエストしてください。無料申請は先着順で審査されます。',
+      fields: { toolName: 'ツール名', toolUrl: 'ツールURL', category: 'カテゴリー', email: '連絡先メール', description: '簡単な説明' },
+      submit: '審査に申請',
+      premiumTitle: '優先審査', premiumDesc: '行列をスキップして7日以内に審査を受けましょう。詳細なレビュー記事、成績カード、ニュースレター掲載が含まれます。',
+      premiumFeatures: ['7日以内にレビュー公開', '成績カード付き詳細記事', 'ニュースレターで紹介', 'ソーシャルメディアで言及'],
+      premiumCta: '優先審査のお問い合わせ',
+      successTitle: 'ツール申請完了！', successDesc: '申請内容を審査し、ご連絡いたします。',
+    },
   },
   ko: {
-    nav: { reviews: '리뷰', methodology: '평가 기준', about: '소개' },
+    nav: { reviews: '리뷰', methodology: '평가 기준', about: '소개', submit: '도구 제출', search: '도구 검색...' },
     hero: {
       pill: '독립적인 AI 도구 리뷰',
       title: '모든 AI 도구를', titleHighlight: '테스트하고 평가합니다',
@@ -552,7 +622,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: '평가 척도', title: 'A+에서 F까지 — 회색 지대 없음', sub: '모든 도구는 평가를 받습니다.' },
     reviews: { label: '리뷰', title: '최신 리뷰' },
-    newsletter: { badge: '무료', title: '평가 리뷰를 이메일로 받기', desc: '매주 새로운 AI 도구 평가. 스팸 없이 — 정직한 점수만.', cta: '무료 구독' },
+    newsletter: { badge: '무료', title: '평가 리뷰를 이메일로 받기', desc: '매주 새로운 AI 도구 평가. 스팸 없이 — 정직한 점수만.', cta: '무료 구독', placeholder: 'your@email.com', success: '이메일 클라이언트를 확인하세요! 📬' },
     tck: { title: '무료 도구가 필요하세요?', desc: 'ToolCraftKit에는 49개 이상의 무료 웹 도구가 있습니다.', cta: '무료 도구 사용하기' },
     blog: { title: '전체 리뷰', subtitle: '모든 도구 테스트, 평가, 등급 부여. 스폰서 랭킹 없음.', empty: '리뷰가 연구실에서 준비 중입니다.', metaTitle: '모든 AI 도구 리뷰', metaDesc: 'A+에서 F까지 투명한 등급으로 모든 AI 도구 리뷰를 탐색하세요.' },
     article: { gradeLabel: '평가', gradeSub: '5가지 기준 실습 테스트 기반', testScores: '테스트 점수', tryCta: '사용해보기', tested: '테스트일', needFree: '무료 도구 필요?', freeDesc: 'ToolCraftKit에 49개 이상의 무료 도구.', freeCta: '무료 도구' },
@@ -610,9 +680,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: '모든 AI 도구, 테스트 및 평가 완료.', privacy: '개인정보', terms: '이용약관', methodology: '방법론' },
     notFound: { title: '404', desc: '이 페이지는 존재하지 않습니다.', cta: '홈으로 돌아가기' },
+    submit: {
+      metaTitle: 'AI 도구 제출', metaDesc: 'AIGradeLab에서 AI 도구를 평가받으세요.',
+      title: 'AI 도구 제출',
+      intro: 'AIGradeLab에서 AI 도구를 평가하고 등급을 받으세요. 실제 계정으로 테스트하고, 5가지 기준으로 평가하며, A+에서 F까지 투명한 등급을 발행합니다.',
+      formTitle: '무료 제출', formDesc: '도구를 심사를 위해 제출하세요. 무료 제출은 선착순으로 검토됩니다.',
+      fields: { toolName: '도구 이름', toolUrl: '도구 URL', category: '카테고리', email: '연락처 이메일', description: '간단한 설명' },
+      submit: '심사 제출',
+      premiumTitle: '우선 심사', premiumDesc: '대기열을 건너뛰고 7일 이내에 심사를 받으세요. 상세 리뷰 기사, 등급 카드, 뉴스레터 소개가 포함됩니다.',
+      premiumFeatures: ['7일 이내 리뷰 발행', '등급 카드 포함 상세 기사', '뉴스레터 소개', '소셜 미디어 언급'],
+      premiumCta: '우선 심사 문의',
+      successTitle: '도구 제출 완료!', successDesc: '제출 내용을 검토하고 연락드리겠습니다.',
+    },
   },
   pt: {
-    nav: { reviews: 'Avaliações', methodology: 'Nossas Notas', about: 'Sobre' },
+    nav: { reviews: 'Avaliações', methodology: 'Nossas Notas', about: 'Sobre', submit: 'Enviar ferramenta', search: 'Buscar ferramentas...' },
     hero: {
       pill: 'Avaliações independentes de ferramentas IA',
       title: 'Cada Ferramenta IA,', titleHighlight: 'Testada e Avaliada',
@@ -639,7 +721,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'A escala', title: 'De A+ a F — sem zonas cinzentas', sub: 'Cada ferramenta conquista sua nota.' },
     reviews: { label: 'Avaliações', title: 'Últimas avaliações' },
-    newsletter: { badge: 'Grátis', title: 'Receba avaliações no seu e-mail', desc: 'Novas notas toda semana. Sem spam — apenas pontuações honestas.', cta: 'Assinar grátis' },
+    newsletter: { badge: 'Grátis', title: 'Receba avaliações no seu e-mail', desc: 'Novas notas toda semana. Sem spam — apenas pontuações honestas.', cta: 'Assinar grátis', placeholder: 'seu@email.com', success: 'Verifique seu cliente de email! 📬' },
     tck: { title: 'Precisa de ferramentas gratuitas?', desc: 'ToolCraftKit tem mais de 49 ferramentas web gratuitas.', cta: 'Experimentar ferramentas gratuitas' },
     blog: { title: 'Todas as Avaliações', subtitle: 'Cada ferramenta testada, avaliada e classificada. Sem rankings patrocinados.', empty: 'Avaliações estão sendo preparadas no laboratório.', metaTitle: 'Todas as Avaliações de Ferramentas IA', metaDesc: 'Veja todas as avaliações de ferramentas IA com notas transparentes.' },
     article: { gradeLabel: 'Nossa Nota', gradeSub: 'Baseada em testes práticos em 5 critérios', testScores: 'Pontuações do Teste', tryCta: 'Experimentar', tested: 'Testado em', needFree: 'Precisa de ferramentas gratuitas?', freeDesc: 'ToolCraftKit tem mais de 49 ferramentas web gratuitas.', freeCta: 'Ferramentas Gratuitas' },
@@ -697,9 +779,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Cada ferramenta IA, testada e avaliada.', privacy: 'Privacidade', terms: 'Termos', methodology: 'Metodologia' },
     notFound: { title: '404', desc: 'Esta página não existe.', cta: 'Voltar ao início' },
+    submit: {
+      metaTitle: 'Enviar sua ferramenta IA', metaDesc: 'Tenha sua ferramenta IA avaliada pelo AIGradeLab.',
+      title: 'Enviar sua ferramenta IA',
+      intro: 'Tenha sua ferramenta IA avaliada e classificada pelo AIGradeLab. Testamos com contas reais, avaliamos em 5 critérios e publicamos uma nota transparente de A+ a F.',
+      formTitle: 'Envio gratuito', formDesc: 'Envie sua ferramenta para análise. Envios gratuitos são analisados por ordem de chegada.',
+      fields: { toolName: 'Nome da ferramenta', toolUrl: 'URL da ferramenta', category: 'Categoria', email: 'Email de contato', description: 'Descrição breve' },
+      submit: 'Enviar para avaliação',
+      premiumTitle: 'Avaliação prioritária', premiumDesc: 'Pule a fila e tenha sua ferramenta avaliada em 7 dias. Inclui artigo detalhado, cartão de nota e destaque na newsletter.',
+      premiumFeatures: ['Avaliação publicada em 7 dias', 'Artigo detalhado com cartão de nota', 'Destaque na newsletter', 'Menção nas redes sociais'],
+      premiumCta: 'Contato para avaliação prioritária',
+      successTitle: 'Ferramenta enviada!', successDesc: 'Analisaremos seu envio e entraremos em contato.',
+    },
   },
   nl: {
-    nav: { reviews: 'Beoordelingen', methodology: 'Onze Cijfers', about: 'Over ons' },
+    nav: { reviews: 'Beoordelingen', methodology: 'Onze Cijfers', about: 'Over ons', submit: 'Tool indienen', search: 'Tools zoeken...' },
     hero: {
       pill: 'Onafhankelijke AI-tool beoordelingen',
       title: 'Elke AI-Tool,', titleHighlight: 'Getest en Beoordeeld',
@@ -726,7 +820,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'De schaal', title: 'Van A+ tot F — geen grijze gebieden', sub: 'Elke tool verdient zijn cijfer.' },
     reviews: { label: 'Beoordelingen', title: 'Laatste beoordelingen' },
-    newsletter: { badge: 'Gratis', title: 'Ontvang beoordelingen in je inbox', desc: 'Elke week nieuwe AI-tool cijfers. Geen spam — alleen eerlijke scores.', cta: 'Gratis abonneren' },
+    newsletter: { badge: 'Gratis', title: 'Ontvang beoordelingen in je inbox', desc: 'Elke week nieuwe AI-tool cijfers. Geen spam — alleen eerlijke scores.', cta: 'Gratis abonneren', placeholder: 'uw@email.nl', success: 'Controleer uw e-mailclient! 📬' },
     tck: { title: 'Gratis tools nodig?', desc: 'ToolCraftKit heeft 49+ gratis webtools voor productiviteit, tekst, afbeeldingen en meer.', cta: 'Probeer gratis tools' },
     blog: { title: 'Alle Beoordelingen', subtitle: 'Elke tool getest, beoordeeld en becijferd. Geen gesponsorde rankings.', empty: 'Beoordelingen worden voorbereid in het lab.', metaTitle: 'Alle AI-Tool Beoordelingen', metaDesc: 'Bekijk alle AI-tool beoordelingen met transparante cijfers.' },
     article: { gradeLabel: 'Ons Cijfer', gradeSub: 'Gebaseerd op praktijktests op 5 criteria', testScores: 'Testscores', tryCta: 'Probeer', tested: 'Getest op', needFree: 'Gratis tools nodig?', freeDesc: 'ToolCraftKit heeft 49+ gratis webtools.', freeCta: 'Gratis Tools' },
@@ -784,9 +878,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Elke AI-tool, getest en beoordeeld.', privacy: 'Privacy', terms: 'Voorwaarden', methodology: 'Methodologie' },
     notFound: { title: '404', desc: 'Deze pagina bestaat niet.', cta: 'Terug naar home' },
+    submit: {
+      metaTitle: 'AI-tool indienen', metaDesc: 'Laat uw AI-tool beoordelen door AIGradeLab.',
+      title: 'Uw AI-tool indienen',
+      intro: 'Laat uw AI-tool beoordelen en becijferen door AIGradeLab. We testen met echte accounts, beoordelen op 5 criteria en publiceren een transparant cijfer van A+ tot F.',
+      formTitle: 'Gratis indiening', formDesc: 'Dien uw tool in voor beoordeling. Gratis indieningen worden op volgorde van binnenkomst behandeld.',
+      fields: { toolName: 'Toolnaam', toolUrl: 'Tool-URL', category: 'Categorie', email: 'Contact-email', description: 'Korte beschrijving' },
+      submit: 'Indienen voor beoordeling',
+      premiumTitle: 'Prioriteitsbeoordeling', premiumDesc: 'Sla de wachtrij over en ontvang binnen 7 dagen een beoordeling. Inclusief gedetailleerd artikel, cijferkaart en nieuwsbrief-feature.',
+      premiumFeatures: ['Beoordeling gepubliceerd binnen 7 dagen', 'Gedetailleerd artikel met cijferkaart', 'Uitgelicht in onze nieuwsbrief', 'Vermelding op social media'],
+      premiumCta: 'Contact voor prioriteitsbeoordeling',
+      successTitle: 'Tool ingediend!', successDesc: 'We beoordelen uw indiening en nemen contact met u op.',
+    },
   },
   it: {
-    nav: { reviews: 'Recensioni', methodology: 'I Nostri Voti', about: 'Chi siamo' },
+    nav: { reviews: 'Recensioni', methodology: 'I Nostri Voti', about: 'Chi siamo', submit: 'Invia strumento', search: 'Cerca strumenti...' },
     hero: {
       pill: 'Recensioni indipendenti di strumenti IA',
       title: 'Ogni Strumento IA,', titleHighlight: 'Testato e Valutato',
@@ -813,7 +919,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'La scala', title: 'Da A+ a F — nessuna zona grigia', sub: 'Ogni strumento si guadagna il suo voto.' },
     reviews: { label: 'Recensioni', title: 'Ultime recensioni' },
-    newsletter: { badge: 'Gratis', title: 'Ricevi le recensioni nella tua email', desc: 'Nuovi voti ogni settimana. Niente spam — solo punteggi onesti.', cta: 'Iscriviti gratis' },
+    newsletter: { badge: 'Gratis', title: 'Ricevi le recensioni nella tua email', desc: 'Nuovi voti ogni settimana. Niente spam — solo punteggi onesti.', cta: 'Iscriviti gratis', placeholder: 'tua@email.it', success: 'Controlla il tuo client email! 📬' },
     tck: { title: 'Hai bisogno di strumenti gratuiti?', desc: 'ToolCraftKit ha oltre 49 strumenti web gratuiti.', cta: 'Prova strumenti gratuiti' },
     blog: { title: 'Tutte le Recensioni', subtitle: 'Ogni strumento testato, valutato e votato. Nessuna classifica sponsorizzata.', empty: 'Le recensioni sono in preparazione in laboratorio.', metaTitle: 'Tutte le Recensioni di Strumenti IA', metaDesc: 'Sfoglia tutte le recensioni con voti trasparenti da A+ a F.' },
     article: { gradeLabel: 'Il Nostro Voto', gradeSub: 'Basato su test pratici su 5 criteri', testScores: 'Punteggi del Test', tryCta: 'Prova', tested: 'Testato il', needFree: 'Strumenti gratuiti?', freeDesc: 'ToolCraftKit ha oltre 49 strumenti web gratuiti.', freeCta: 'Strumenti Gratuiti' },
@@ -871,9 +977,21 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'Ogni strumento IA, testato e valutato.', privacy: 'Privacy', terms: 'Termini', methodology: 'Metodologia' },
     notFound: { title: '404', desc: 'Questa pagina non esiste.', cta: 'Torna alla home' },
+    submit: {
+      metaTitle: 'Invia il tuo strumento IA', metaDesc: 'Fai valutare il tuo strumento IA da AIGradeLab.',
+      title: 'Invia il tuo strumento IA',
+      intro: 'Fai valutare e votare il tuo strumento IA da AIGradeLab. Testiamo con account reali, valutiamo su 5 criteri e pubblichiamo un voto trasparente da A+ a F.',
+      formTitle: 'Invio gratuito', formDesc: 'Invia il tuo strumento per la valutazione. Gli invii gratuiti vengono esaminati in ordine di arrivo.',
+      fields: { toolName: 'Nome strumento', toolUrl: 'URL strumento', category: 'Categoria', email: 'Email di contatto', description: 'Breve descrizione' },
+      submit: 'Invia per valutazione',
+      premiumTitle: 'Valutazione prioritaria', premiumDesc: 'Salta la coda e ottieni una valutazione entro 7 giorni. Include articolo dettagliato, scheda voto e menzione nella newsletter.',
+      premiumFeatures: ['Valutazione pubblicata entro 7 giorni', 'Articolo dettagliato con scheda voto', 'In evidenza nella newsletter', 'Menzione sui social media'],
+      premiumCta: 'Contatta per valutazione prioritaria',
+      successTitle: 'Strumento inviato!', successDesc: 'Esamineremo il tuo invio e ti contatteremo.',
+    },
   },
   ar: {
-    nav: { reviews: 'المراجعات', methodology: 'تقييماتنا', about: 'عن الموقع' },
+    nav: { reviews: 'المراجعات', methodology: 'تقييماتنا', about: 'عن الموقع', submit: 'إرسال أداة', search: 'البحث...' },
     hero: {
       pill: 'مراجعات مستقلة لأدوات الذكاء الاصطناعي',
       title: 'كل أداة ذكاء اصطناعي،', titleHighlight: 'مُختبرة ومُقيَّمة',
@@ -900,7 +1018,7 @@ export const translations: Record<Locale, Translations> = {
     },
     grades: { label: 'المقياس', title: 'من A+ إلى F — بدون مناطق رمادية', sub: 'كل أداة تكسب درجتها.' },
     reviews: { label: 'المراجعات', title: 'أحدث المراجعات' },
-    newsletter: { badge: 'مجاني', title: 'احصل على المراجعات في بريدك', desc: 'درجات جديدة كل أسبوع. بدون إزعاج — فقط تقييمات صادقة.', cta: 'اشترك مجاناً' },
+    newsletter: { badge: 'مجاني', title: 'احصل على المراجعات في بريدك', desc: 'درجات جديدة كل أسبوع. بدون إزعاج — فقط تقييمات صادقة.', cta: 'اشترك مجاناً', placeholder: 'your@email.com', success: 'تحقق من بريدك الإلكتروني! 📬' },
     tck: { title: 'تحتاج أدوات مجانية؟', desc: 'ToolCraftKit يوفر أكثر من 49 أداة ويب مجانية.', cta: 'جرب الأدوات المجانية' },
     blog: { title: 'جميع المراجعات', subtitle: 'كل أداة مُختبرة ومُقيَّمة. بدون تصنيفات مدفوعة.', empty: 'المراجعات قيد التحضير في المختبر.', metaTitle: 'جميع مراجعات أدوات الذكاء الاصطناعي', metaDesc: 'تصفح جميع مراجعات أدوات الذكاء الاصطناعي مع درجات شفافة.' },
     article: { gradeLabel: 'تقييمنا', gradeSub: 'بناءً على اختبارات عملية على 5 معايير', testScores: 'نتائج الاختبار', tryCta: 'جرّب', tested: 'تاريخ الاختبار', needFree: 'تحتاج أدوات مجانية؟', freeDesc: 'ToolCraftKit يوفر أكثر من 49 أداة مجانية.', freeCta: 'أدوات مجانية' },
@@ -958,6 +1076,18 @@ export const translations: Record<Locale, Translations> = {
     },
     footer: { copy: 'كل أداة ذكاء اصطناعي، مُختبرة ومُقيَّمة.', privacy: 'الخصوصية', terms: 'الشروط', methodology: 'المنهجية' },
     notFound: { title: '404', desc: 'هذه الصفحة غير موجودة.', cta: 'العودة للرئيسية' },
+    submit: {
+      metaTitle: 'إرسال أداة الذكاء الاصطناعي', metaDesc: 'احصل على تقييم أداتك من AIGradeLab.',
+      title: 'إرسال أداة الذكاء الاصطناعي',
+      intro: 'احصل على تقييم وتصنيف أداتك من AIGradeLab. نختبر بحسابات حقيقية، ونقيّم وفق 5 معايير، وننشر درجة شفافة من A+ إلى F.',
+      formTitle: 'إرسال مجاني', formDesc: 'أرسل أداتك للمراجعة. يتم مراجعة الطلبات المجانية بحسب ترتيب الوصول.',
+      fields: { toolName: 'اسم الأداة', toolUrl: 'رابط الأداة', category: 'الفئة', email: 'البريد الإلكتروني', description: 'وصف مختصر' },
+      submit: 'إرسال للمراجعة',
+      premiumTitle: 'مراجعة ذات أولوية', premiumDesc: 'تخطَّ قائمة الانتظار واحصل على مراجعة خلال 7 أيام. يشمل مقالاً مفصلاً وبطاقة تقييم وذكر في النشرة الإخبارية.',
+      premiumFeatures: ['مراجعة منشورة خلال 7 أيام', 'مقال مفصل مع بطاقة تقييم', 'ذكر في النشرة الإخبارية', 'ذكر على وسائل التواصل الاجتماعي'],
+      premiumCta: 'تواصل للمراجعة ذات الأولوية',
+      successTitle: 'تم إرسال الأداة!', successDesc: 'سنراجع طلبك ونتواصل معك.',
+    },
   },
 };
 
