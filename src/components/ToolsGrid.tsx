@@ -33,6 +33,9 @@ export default function ToolsGrid({ locale }: { locale: string }) {
       <div className="tools-hero">
         <h1>{t.tools.title}</h1>
         <p>{t.tools.subtitle}</p>
+        <Link href={`/${locale}/tools/finder`} className="finder-cta-link">
+          🎯 {t.finder.title} →
+        </Link>
       </div>
 
       <div className="tools-filters">
