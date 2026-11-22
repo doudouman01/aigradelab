@@ -98,6 +98,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'Outil d\'automatisation IA qui connecte les apps et automatise les workflows navigateur.', h: 'Meilleure automatisation navigateur IA' },
     'liner': { d: 'Outil de recherche IA qui surligne les informations clés.', h: 'Meilleur surlignage de recherche IA' },
     'claude-fable': { d: 'Le modèle le plus avancé d\'Anthropic avec des capacités de niveau Mythos.', h: 'Modèle de raisonnement le plus puissant' },
+    'rytr': { d: 'Assistant de rédaction IA abordable avec plus de 40 cas d\'utilisation et 30+ langues.', h: 'Rédacteur IA le plus abordable' },
   },
   de: {
     'chatgpt': { d: 'Der beliebteste KI-Assistent für Text, Code, Bilder, Sprache und mehr.', h: 'Vielseitigste All-in-One-KI' },
@@ -192,6 +193,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'KI-Automatisierungstool, das Apps verbindet und Browser-Workflows automatisiert.', h: 'Beste Browser-Automatisierungs-KI' },
     'liner': { d: 'KI-Such- und Recherchetool, das wichtige Informationen hervorhebt.', h: 'Bester KI-Recherche-Highlighter' },
     'claude-fable': { d: 'Anthropics fortschrittlichstes Modell mit Mythos-Niveau-Fähigkeiten.', h: 'Leistungsstärkstes Denkmodell' },
+    'rytr': { d: 'Erschwinglicher KI-Schreibassistent mit über 40 Anwendungsfällen und 30+ Sprachen.', h: 'Günstigster KI-Texter' },
   },
   es: {
     'chatgpt': { d: 'El asistente de IA más popular para texto, código, imágenes, voz y más.', h: 'IA todo-en-uno más versátil' },
@@ -286,6 +288,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'Herramienta de automatización con IA que conecta apps y automatiza workflows del navegador.', h: 'Mejor automatización de navegador con IA' },
     'liner': { d: 'Herramienta de búsqueda e investigación con IA que resalta información clave.', h: 'Mejor resaltador de investigación con IA' },
     'claude-fable': { d: 'El modelo más avanzado de Anthropic con capacidades de nivel Mythos.', h: 'Modelo de razonamiento más potente' },
+    'rytr': { d: 'Asistente de escritura IA asequible con más de 40 casos de uso y 30+ idiomas.', h: 'Escritor IA más asequible' },
   },
   ja: {
     'chatgpt': { d: 'テキスト、コード、画像、音声など幅広く対応する最も人気のAIアシスタント。', h: '最も万能なオールインワンAI' },
@@ -380,6 +383,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'アプリ接続とブラウザワークフロー自動化のAIツール。', h: '最高のブラウザ自動化AI' },
     'liner': { d: '重要情報をハイライトするAI検索・リサーチツール。', h: '最高のAIリサーチハイライター' },
     'claude-fable': { d: 'Mythosティア機能を備えたAnthropicの最先端モデル。', h: '最強の推論モデル' },
+    'rytr': { d: '40以上のユースケースと30以上の言語に対応した手頃なAIライティングアシスタント。', h: '最も手頃なAIライター' },
   },
   ko: {
     'chatgpt': { d: '텍스트, 코드, 이미지, 음성 등을 지원하는 가장 인기 있는 AI 어시스턴트.', h: '가장 다재다능한 올인원 AI' },
@@ -474,6 +478,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: '앱 연결 및 브라우저 워크플로우 자동화 AI 도구.', h: '최고의 브라우저 자동화 AI' },
     'liner': { d: '핵심 정보를 하이라이트하는 AI 검색·연구 도구.', h: '최고의 AI 리서치 하이라이터' },
     'claude-fable': { d: 'Mythos 티어 기능을 갖춘 Anthropic의 최첨단 모델.', h: '가장 강력한 추론 모델' },
+    'rytr': { d: '40개 이상의 사용 사례와 30개 이상의 언어를 지원하는 저렴한 AI 글쓰기 도우미.', h: '가장 저렴한 AI 작성 도구' },
   },
   pt: {
     'chatgpt': { d: 'O assistente de IA mais popular para texto, código, imagens, voz e mais.', h: 'IA tudo-em-um mais versátil' },
@@ -568,6 +573,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'Ferramenta de automação IA que conecta apps e automatiza workflows no navegador.', h: 'Melhor automação de navegador IA' },
     'liner': { d: 'Ferramenta de busca e pesquisa IA que destaca informações importantes.', h: 'Melhor highlighter de pesquisa IA' },
     'claude-fable': { d: 'O modelo mais avançado da Anthropic com capacidades de nível Mythos.', h: 'Modelo de raciocínio mais poderoso' },
+    'rytr': { d: 'Assistente de escrita IA acessível com mais de 40 casos de uso e 30+ idiomas.', h: 'Escritor IA mais acessível' },
   },
   nl: {
     'chatgpt': { d: 'De populairste AI-assistent voor tekst, code, afbeeldingen, spraak en meer.', h: 'Meest veelzijdige alles-in-één AI' },
@@ -662,6 +668,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'AI-automatiseringstool die apps verbindt en browserworkflows automatiseert.', h: 'Beste browserautomatisering met AI' },
     'liner': { d: 'AI-zoek- en onderzoekstool die belangrijke informatie markeert.', h: 'Beste AI-onderzoeksmarkeertool' },
     'claude-fable': { d: 'Het meest geavanceerde model van Anthropic met Mythos-capaciteiten.', h: 'Krachtigste redeneermodel' },
+    'rytr': { d: 'Betaalbare AI-schrijfassistent met meer dan 40 toepassingen en 30+ talen.', h: 'Meest betaalbare AI-schrijver' },
   },
   it: {
     'chatgpt': { d: 'L\'assistente AI più popolare per testo, codice, immagini, voce e altro.', h: 'AI tutto-in-uno più versatile' },
@@ -756,6 +763,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'Strumento di automazione AI che collega app e automatizza workflow del browser.', h: 'Miglior automazione browser con AI' },
     'liner': { d: 'Strumento di ricerca AI che evidenzia le informazioni chiave.', h: 'Miglior evidenziatore di ricerca AI' },
     'claude-fable': { d: 'Il modello più avanzato di Anthropic con capacità di livello Mythos.', h: 'Modello di ragionamento più potente' },
+    'rytr': { d: 'Assistente di scrittura IA conveniente con oltre 40 casi d\'uso e 30+ lingue.', h: 'Scrittore IA più conveniente' },
   },
   ar: {
     'chatgpt': { d: 'أشهر مساعد ذكاء اصطناعي للنصوص والبرمجة والصور والصوت والمزيد.', h: 'أكثر أداة ذكاء اصطناعي تنوعاً' },
@@ -850,6 +858,7 @@ const toolI18n: Record<string, ToolI18nMap> = {
     'bardeen': { d: 'أداة أتمتة بالذكاء الاصطناعي تربط التطبيقات وتؤتمت سير عمل المتصفح.', h: 'أفضل أتمتة متصفح بالذكاء الاصطناعي' },
     'liner': { d: 'أداة بحث بالذكاء الاصطناعي تبرز المعلومات الرئيسية.', h: 'أفضل أداة تمييز بحث بالذكاء الاصطناعي' },
     'claude-fable': { d: 'أكثر نماذج Anthropic تقدماً مع قدرات من فئة Mythos.', h: 'أقوى نموذج استدلال' },
+    'rytr': { d: 'مساعد كتابة ذكاء اصطناعي بأسعار معقولة مع أكثر من 40 حالة استخدام و30+ لغة.', h: 'أرخص كاتب ذكاء اصطناعي' },
   },
 };
 

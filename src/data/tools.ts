@@ -107,6 +107,10 @@ export const tools: Tool[] = [
   tool('quillbot', 'QuillBot', 'writing', 'https://quillbot.com',
     'Paraphrasing tool with grammar checker and citation generator.',
     null, null, null, 'Freemium', 'Best paraphrasing tool'),
+  tool('rytr', 'Rytr', 'writing', 'https://rytr.me',
+    'Affordable AI writing assistant with 40+ use cases and 30+ languages.',
+    { ux: 8.5, quality: 7.5, value: 9.5, integration: 7.0, support: 7.5 },
+    'https://rytr.me/?via=xavier-nelsom', 'rytr-review-2026', 'From $9/mo', 'Most affordable AI writer'),
 
   // ── IMAGE GENERATION ──
   tool('midjourney', 'Midjourney', 'image', 'https://midjourney.com',
