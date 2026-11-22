@@ -13,6 +13,7 @@ scores_value: 7.0
 scores_integration: 8.0
 scores_support: 7.5
 toolName: "ElevenLabs"
+affiliateUrl: "https://try.elevenlabs.io/hxkztstnql2g"
 ---
 
 <h2>Wat ElevenLabs doet</h2>
