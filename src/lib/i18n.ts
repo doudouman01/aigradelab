@@ -318,7 +318,7 @@ export const translations: Record<Locale, Translations> = {
     finder: {
       metaTitle: 'AI Tool Finder — Finden Sie das perfekte KI-Tool',
       metaDesc: 'Beantworten Sie 4 kurze Fragen und erhalten Sie personalisierte KI-Tool-Empfehlungen mit Noten von A+ bis F.',
-      title: 'AI Tool Finder', subtitle: '4 Fragen beantworten. Ihr perfektes KI-Tool finden.',
+      title: 'KI-Tool Finder', subtitle: '4 Fragen beantworten. Ihr perfektes KI-Tool finden.',
       q1: 'Was möchten Sie tun?',
       q1opts: ['Schreiben & Inhalte erstellen', 'Bilder generieren & Design', 'Videos erstellen & bearbeiten', 'Code schreiben & Apps bauen', 'Recherchieren & analysieren', 'Produktivität steigern', 'Chatten & Antworten erhalten', 'Audio & Stimme', 'Marketing & SEO'],
       q2: 'Was ist Ihr Budget?',
@@ -453,7 +453,7 @@ export const translations: Record<Locale, Translations> = {
     finder: {
       metaTitle: 'AI Tool Finder — Trouvez l\'outil IA parfait pour vous',
       metaDesc: 'Répondez à 4 questions rapides et obtenez des recommandations d\'outils IA personnalisées avec des notes de A+ à F.',
-      title: 'AI Tool Finder', subtitle: 'Répondez à 4 questions. Trouvez votre outil IA idéal.',
+      title: 'Trouver mon outil IA', subtitle: 'Répondez à 4 questions. Trouvez votre outil IA idéal.',
       q1: 'Que voulez-vous faire ?',
       q1opts: ['Écrire et créer du contenu', 'Générer des images et du design', 'Créer et éditer des vidéos', 'Coder et créer des apps', 'Rechercher et analyser', 'Booster ma productivité', 'Discuter et obtenir des réponses', 'Audio et voix', 'Marketing et SEO'],
       q2: 'Quel est votre budget ?',
@@ -579,7 +579,7 @@ export const translations: Record<Locale, Translations> = {
     finder: {
       metaTitle: 'AI Tool Finder — Encuentra la herramienta IA perfecta',
       metaDesc: 'Responde 4 preguntas rápidas y obtén recomendaciones personalizadas de herramientas IA con calificaciones de A+ a F.',
-      title: 'AI Tool Finder', subtitle: 'Responde 4 preguntas. Encuentra tu herramienta IA ideal.',
+      title: 'Encuentra tu herramienta IA', subtitle: 'Responde 4 preguntas. Encuentra tu herramienta IA ideal.',
       q1: '¿Qué quieres hacer?',
       q1opts: ['Escribir y crear contenido', 'Generar imágenes y diseño', 'Crear y editar vídeos', 'Programar y crear apps', 'Investigar y analizar', 'Aumentar productividad', 'Chatear y obtener respuestas', 'Audio y voz', 'Marketing y SEO'],
       q2: '¿Cuál es tu presupuesto?',
@@ -957,7 +957,7 @@ export const translations: Record<Locale, Translations> = {
     finder: {
       metaTitle: 'AI Tool Finder — Encontre a ferramenta IA perfeita',
       metaDesc: 'Responda 4 perguntas rápidas e receba recomendações personalizadas de ferramentas IA com notas de A+ a F.',
-      title: 'AI Tool Finder', subtitle: 'Responda 4 perguntas. Encontre sua ferramenta IA ideal.',
+      title: 'Encontre sua ferramenta IA', subtitle: 'Responda 4 perguntas. Encontre sua ferramenta IA ideal.',
       q1: 'O que você quer fazer?',
       q1opts: ['Escrever e criar conteúdo', 'Gerar imagens e design', 'Criar e editar vídeos', 'Programar e criar apps', 'Pesquisar e analisar', 'Aumentar produtividade', 'Conversar e obter respostas', 'Áudio e voz', 'Marketing e SEO'],
       q2: 'Qual é o seu orçamento?',
@@ -1083,7 +1083,7 @@ export const translations: Record<Locale, Translations> = {
     finder: {
       metaTitle: 'AI Tool Finder — Vind de perfecte AI-tool',
       metaDesc: 'Beantwoord 4 snelle vragen en ontvang gepersonaliseerde AI-tool aanbevelingen met cijfers van A+ tot F.',
-      title: 'AI Tool Finder', subtitle: 'Beantwoord 4 vragen. Vind jouw perfecte AI-tool.',
+      title: 'Vind jouw AI-tool', subtitle: 'Beantwoord 4 vragen. Vind jouw perfecte AI-tool.',
       q1: 'Wat wil je doen?',
       q1opts: ['Schrijven & content maken', 'Afbeeldingen genereren & design', 'Video\'s maken & bewerken', 'Code schrijven & apps bouwen', 'Onderzoeken & analyseren', 'Productiviteit verhogen', 'Chatten & antwoorden krijgen', 'Audio & stem', 'Marketing & SEO'],
       q2: 'Wat is je budget?',
@@ -1209,7 +1209,7 @@ export const translations: Record<Locale, Translations> = {
     finder: {
       metaTitle: 'AI Tool Finder — Trova lo strumento IA perfetto',
       metaDesc: 'Rispondi a 4 domande rapide e ricevi raccomandazioni personalizzate di strumenti IA con voti da A+ a F.',
-      title: 'AI Tool Finder', subtitle: 'Rispondi a 4 domande. Trova il tuo strumento IA ideale.',
+      title: 'Trova il tuo strumento IA', subtitle: 'Rispondi a 4 domande. Trova il tuo strumento IA ideale.',
       q1: 'Cosa vuoi fare?',
       q1opts: ['Scrivere e creare contenuti', 'Generare immagini e design', 'Creare e modificare video', 'Scrivere codice e creare app', 'Ricercare e analizzare', 'Aumentare la produttività', 'Chattare e ottenere risposte', 'Audio e voce', 'Marketing e SEO'],
       q2: 'Qual è il tuo budget?',
