@@ -6,6 +6,18 @@ categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "Nov 2026"
 readTime: "12 min de leitura"
+toolA_name: "ChatGPT"
+toolA_ux: 9.0
+toolA_quality: 8.2
+toolA_value: 8.0
+toolA_integration: 9.5
+toolA_support: 8.0
+toolB_name: "Perplexity"
+toolB_ux: 8.5
+toolB_quality: 8.5
+toolB_value: 8.5
+toolB_integration: 7.5
+toolB_support: 7.5
 ---
 
 <h2>Duas IAs, Duas Filosofias</h2>

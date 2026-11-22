@@ -6,6 +6,18 @@ categorySlug: "head-to-head"
 date: "2026-09-11"
 lastTested: "Sep 2026"
 readTime: "12 min leestijd"
+toolA_name: "ChatGPT"
+toolA_ux: 9.0
+toolA_quality: 8.2
+toolA_value: 8.0
+toolA_integration: 9.5
+toolA_support: 8.0
+toolB_name: "Claude"
+toolB_ux: 8.5
+toolB_quality: 9.2
+toolB_value: 8.2
+toolB_integration: 7.8
+toolB_support: 8.2
 ---
 
 <h2>De twee zwaargewichten van AI, naast elkaar beoordeeld</h2>

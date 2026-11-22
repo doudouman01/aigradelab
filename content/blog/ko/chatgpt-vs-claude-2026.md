@@ -6,6 +6,18 @@ categorySlug: "head-to-head"
 date: "2026-09-11"
 lastTested: "Sep 2026"
 readTime: "읽기 시간: 12분"
+toolA_name: "ChatGPT"
+toolA_ux: 9.0
+toolA_quality: 8.2
+toolA_value: 8.0
+toolA_integration: 9.5
+toolA_support: 8.0
+toolB_name: "Claude"
+toolB_ux: 8.5
+toolB_quality: 9.2
+toolB_value: 8.2
+toolB_integration: 7.8
+toolB_support: 8.2
 ---
 
 <h2>AI의 두 거물을 나란히 놓고 평가하다</h2>

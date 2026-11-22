@@ -2,6 +2,7 @@ import { notFound } from 'next/navigation';
 import { getPosts, getPostBySlug } from '../../../../content/posts';
 import GradeBadge from '../../../../components/GradeBadge';
 import ScoreCard from '../../../../components/ScoreCard';
+import ComparisonTable from '../../../../components/ComparisonTable';
 import { getTranslations, isValidLocale, defaultLocale, locales } from '../../../../lib/i18n';
 import type { Metadata } from 'next';
 
@@ -98,6 +99,10 @@ export default async function ArticlePage({ params }: Props) {
           )}
 
           <ScoreCard scores={post.scores} locale={lang} />
+
+          {post.comparison && (
+            <ComparisonTable toolA={post.comparison.toolA} toolB={post.comparison.toolB} locale={lang} />
+          )}
         </div>
 
         <div className="article-body" dangerouslySetInnerHTML={{ __html: post.content }} />

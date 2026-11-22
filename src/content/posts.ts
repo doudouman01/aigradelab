@@ -11,6 +11,13 @@ export type Scores = {
   support: number;
 };
 
+export type ComparisonTool = {
+  name: string;
+  grade: Grade;
+  scores: Scores;
+  affiliateUrl: string | null;
+};
+
 export type Post = {
   slug: string;
   title: string;
@@ -24,6 +31,7 @@ export type Post = {
   scores: Scores | null;
   toolName: string | null;
   affiliateUrl: string | null;
+  comparison: { toolA: ComparisonTool; toolB: ComparisonTool } | null;
   content: string;
 };
 
@@ -112,6 +120,27 @@ function loadPostFromFile(filePath: string): Post {
       support: parseFloat(data.scores_support),
     };
   }
+  // Parse comparison data for head-to-head articles
+  let comparison: { toolA: ComparisonTool; toolB: ComparisonTool } | null = null;
+  if (data.toolA_name && data.toolB_name &&
+      data.toolA_ux && data.toolA_quality && data.toolA_value && data.toolA_integration && data.toolA_support &&
+      data.toolB_ux && data.toolB_quality && data.toolB_value && data.toolB_integration && data.toolB_support) {
+    const toolAScores: Scores = {
+      ux: parseFloat(data.toolA_ux), quality: parseFloat(data.toolA_quality),
+      value: parseFloat(data.toolA_value), integration: parseFloat(data.toolA_integration),
+      support: parseFloat(data.toolA_support),
+    };
+    const toolBScores: Scores = {
+      ux: parseFloat(data.toolB_ux), quality: parseFloat(data.toolB_quality),
+      value: parseFloat(data.toolB_value), integration: parseFloat(data.toolB_integration),
+      support: parseFloat(data.toolB_support),
+    };
+    comparison = {
+      toolA: { name: data.toolA_name, grade: computeGrade(toolAScores), scores: toolAScores, affiliateUrl: data.toolA_affiliateUrl || null },
+      toolB: { name: data.toolB_name, grade: computeGrade(toolBScores), scores: toolBScores, affiliateUrl: data.toolB_affiliateUrl || null },
+    };
+  }
+
   return {
     slug,
     title: data.title || '',
@@ -125,6 +154,7 @@ function loadPostFromFile(filePath: string): Post {
     scores,
     toolName: data.toolName || null,
     affiliateUrl: data.affiliateUrl || null,
+    comparison,
     content,
   };
 }

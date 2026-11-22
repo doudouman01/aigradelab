@@ -6,6 +6,18 @@ categorySlug: "head-to-head"
 date: "2026-11-15"
 lastTested: "Nov 2026"
 readTime: "읽기 시간: 14분"
+toolA_name: "GitHub Copilot"
+toolA_ux: 8.5
+toolA_quality: 8.0
+toolA_value: 7.5
+toolA_integration: 9.0
+toolA_support: 8.0
+toolB_name: "Cursor"
+toolB_ux: 8.0
+toolB_quality: 9.0
+toolB_value: 7.0
+toolB_integration: 8.5
+toolB_support: 7.5
 ---
 
 <h2>두 AI 코딩 거인의 정면 대결</h2>

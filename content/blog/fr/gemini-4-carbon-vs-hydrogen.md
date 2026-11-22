@@ -6,6 +6,18 @@ categorySlug: "head-to-head"
 date: "2026-11-18"
 lastTested: "2026-11-17"
 readTime: "9 min de lecture"
+toolA_name: "Gemini 4 Carbon"
+toolA_ux: 7.5
+toolA_quality: 9.0
+toolA_value: 7.5
+toolA_integration: 8.0
+toolA_support: 7.5
+toolB_name: "Gemini 4 Hydrogen"
+toolB_ux: 8.5
+toolB_quality: 7.5
+toolB_value: 8.0
+toolB_integration: 8.5
+toolB_support: 7.0
 ---
 
 <h2>Deux nouveaux modèles Gemini, un grand choix à faire</h2>

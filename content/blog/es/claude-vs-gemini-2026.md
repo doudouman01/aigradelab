@@ -6,6 +6,18 @@ categorySlug: "head-to-head"
 date: "2026-09-13"
 lastTested: "Sep 2026"
 readTime: "11 min de lectura"
+toolA_name: "Claude"
+toolA_ux: 8.5
+toolA_quality: 9.2
+toolA_value: 8.2
+toolA_integration: 7.8
+toolA_support: 8.2
+toolB_name: "Gemini"
+toolB_ux: 8.5
+toolB_quality: 7.5
+toolB_value: 8.0
+toolB_integration: 9.2
+toolB_support: 7.2
 ---
 
 <h2>El pensador frente al conector</h2>
