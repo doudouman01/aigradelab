@@ -34,11 +34,12 @@ export type Tool = {
 function tool(
   slug: string, name: string, category: ToolCategory, website: string,
   description: string, scores: Scores | null, affiliateUrl: string | null,
-  reviewSlug: string | null, pricing: string, highlight: string
+  reviewSlug: string | null, pricing: string, highlight: string,
+  gradeOverride?: Grade
 ): Tool {
   return {
     slug, name, category, website, description,
-    grade: scores ? computeGrade(scores) : null,
+    grade: gradeOverride ?? (scores ? computeGrade(scores) : null),
     scores, affiliateUrl, reviewSlug, pricing, highlight,
   };
 }
@@ -56,7 +57,7 @@ export const tools: Tool[] = [
   tool('gemini', 'Google Gemini', 'chatbot', 'https://gemini.google.com',
     'Google\'s multimodal AI with deep Google ecosystem integration.',
     { ux: 8.5, quality: 8.0, value: 8.5, integration: 9.0, support: 7.5 },
-    null, 'gemini-review-2026', 'Freemium', 'Best Google integration'),
+    null, 'gemini-review-2026', 'Freemium', 'Best Google integration', 'B+'),
   tool('copilot', 'Microsoft Copilot', 'chatbot', 'https://copilot.microsoft.com',
     'Microsoft\'s AI assistant integrated into Windows, Office and Edge.',
     { ux: 8.0, quality: 7.5, value: 6.5, integration: 9.5, support: 8.0 },
@@ -86,7 +87,7 @@ export const tools: Tool[] = [
   tool('grammarly', 'Grammarly', 'writing', 'https://grammarly.com',
     'AI writing assistant for grammar, tone, clarity and plagiarism detection.',
     { ux: 9.0, quality: 8.0, value: 7.0, integration: 9.2, support: 7.5 },
-    null, 'grammarly-review-2026', 'Freemium', 'Most widely used writing assistant'),
+    null, 'grammarly-review-2026', 'Freemium', 'Most widely used writing assistant', 'B+'),
   tool('jasper', 'Jasper', 'writing', 'https://jasper.ai',
     'AI content platform for marketing teams with brand voice and templates.',
     { ux: 8.5, quality: 8.0, value: 6.5, integration: 8.0, support: 8.0 },
@@ -111,7 +112,7 @@ export const tools: Tool[] = [
   tool('midjourney', 'Midjourney', 'image', 'https://midjourney.com',
     'Premium AI image generator known for stunning artistic quality.',
     { ux: 7.5, quality: 9.8, value: 7.5, integration: 6.5, support: 7.0 },
-    null, 'midjourney-review-2026', 'From $10/mo', 'Highest quality AI art'),
+    null, 'midjourney-review-2026', 'From $10/mo', 'Highest quality AI art', 'A'),
   tool('dall-e', 'DALL-E 3', 'image', 'https://openai.com/dall-e-3',
     'OpenAI\'s image generator integrated into ChatGPT with text rendering.',
     null, null, null, 'Via ChatGPT Plus', 'Best text-in-image rendering'),
@@ -136,7 +137,7 @@ export const tools: Tool[] = [
   tool('runway', 'Runway', 'video', 'https://runwayml.com',
     'Leading AI video generation and editing platform for creators.',
     { ux: 8.2, quality: 9.2, value: 7.0, integration: 7.8, support: 7.5 },
-    null, 'runway-review-2026', 'Freemium', 'Best AI video generation quality'),
+    null, 'runway-review-2026', 'Freemium', 'Best AI video generation quality', 'A'),
   tool('sora', 'Sora', 'video', 'https://openai.com/sora',
     'OpenAI\'s text-to-video model generating realistic scenes.',
     { ux: 8.0, quality: 8.5, value: 8.5, integration: 7.0, support: 7.0 },
