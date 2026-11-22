@@ -5,6 +5,7 @@ import { getPosts } from '../../../../content/posts';
 import GradeBadge from '../../../../components/GradeBadge';
 import ScoreCard from '../../../../components/ScoreCard';
 import { getTranslations, isValidLocale, defaultLocale, locales } from '../../../../lib/i18n';
+import { getToolI18n } from '../../../../data/tool-i18n';
 import type { Metadata } from 'next';
 
 type Props = { params: Promise<{ locale: string; slug: string }> };
@@ -25,10 +26,12 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const t = getTranslations(lang);
   const tool = getToolBySlug(slug);
   if (!tool) return {};
+  const i18nMeta = getToolI18n(slug, lang);
+  const desc = i18nMeta?.d || tool.description;
   const gradeText = tool.grade ? ` [${t.tools.grade}: ${tool.grade}]` : '';
   return {
     title: `${tool.name}${gradeText} — AIGradeLab`,
-    description: tool.description,
+    description: desc,
     openGraph: {
       title: `${tool.name}${gradeText}`,
       description: tool.description,
@@ -45,6 +48,9 @@ export default async function ToolPage({ params }: Props) {
   if (!tool) notFound();
 
   const catLabel = t.tools.categories[tool.category] || tool.category;
+  const i18n = getToolI18n(tool.slug, lang);
+  const description = i18n?.d || tool.description;
+  const highlight = i18n?.h || tool.highlight;
   const allPosts = getPosts(lang);
   const related = allPosts.filter(p =>
     (p.toolName && tool.name.toLowerCase().includes(p.toolName.toLowerCase())) ||
@@ -87,8 +93,8 @@ export default async function ToolPage({ params }: Props) {
           <div className="tool-header-info">
             <span className="tool-category-badge">{catLabel}</span>
             <h1>{tool.name}</h1>
-            <p className="tool-description">{tool.description}</p>
-            <p className="tool-highlight"><strong>{t.tools.highlight}:</strong> {tool.highlight}</p>
+            <p className="tool-description">{description}</p>
+            <p className="tool-highlight"><strong>{t.tools.highlight}:</strong> {highlight}</p>
           </div>
 
           <div className="tool-header-grade">

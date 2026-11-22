@@ -6,6 +6,7 @@ import { tools, toolCategories } from '../data/tools';
 import type { ToolCategory } from '../data/tools';
 import { getTranslations } from '../lib/i18n';
 import { getGradeColor } from '../lib/grades';
+import { getToolI18n } from '../data/tool-i18n';
 
 export default function ToolsGrid({ locale }: { locale: string }) {
   const t = getTranslations(locale as any);
@@ -89,7 +90,7 @@ export default function ToolsGrid({ locale }: { locale: string }) {
                 <span className="tool-card-grade tool-card-grade-pending">?</span>
               )}
             </div>
-            <p className="tool-card-desc">{tool.highlight}</p>
+            <p className="tool-card-desc">{getToolI18n(tool.slug, locale)?.h || tool.highlight}</p>
             <div className="tool-card-footer">
               <span className="tool-card-pricing">{tool.pricing}</span>
               <span className="tool-card-view">{t.tools.viewTool} →</span>
