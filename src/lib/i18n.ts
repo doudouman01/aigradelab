@@ -84,7 +84,7 @@ export type Translations = {
 
 export const translations: Record<Locale, Translations> = {
   en: {
-    nav: { reviews: 'Reviews', methodology: 'Our Grades', about: 'About', submit: 'Submit Tool', search: 'Search tools...', tools: 'Tools', finder: 'Finder' },
+    nav: { reviews: 'Reviews', methodology: 'Our Grades', about: 'About', submit: 'Submit Tool', search: 'Search tools...', tools: 'Tools', finder: 'Tool Finder' },
     hero: {
       pill: 'Independent AI tool reviews',
       title: 'Every AI Tool,', titleHighlight: 'Tested and Graded',
@@ -223,7 +223,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   de: {
-    nav: { reviews: 'Bewertungen', methodology: 'Unsere Noten', about: 'Über uns', submit: 'Tool einreichen', search: 'Tools suchen...', tools: 'Tools', finder: 'Finder' },
+    nav: { reviews: 'Bewertungen', methodology: 'Unsere Noten', about: 'Über uns', submit: 'Tool einreichen', search: 'Tools suchen...', tools: 'Tools', finder: 'KI-Tool Finder' },
     hero: {
       pill: 'Unabhängige KI-Tool-Bewertungen',
       title: 'Jedes KI-Tool,', titleHighlight: 'Getestet und Benotet',
@@ -358,7 +358,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   fr: {
-    nav: { reviews: 'Évaluations', methodology: 'Nos Notes', about: 'À propos', submit: 'Soumettre un outil', search: 'Rechercher...', tools: 'Outils', finder: 'Finder' },
+    nav: { reviews: 'Évaluations', methodology: 'Nos Notes', about: 'À propos', submit: 'Soumettre un outil', search: 'Rechercher...', tools: 'Outils', finder: 'Trouver mon outil IA' },
     hero: {
       pill: 'Évaluations indépendantes d\'outils IA',
       title: 'Chaque Outil IA,', titleHighlight: 'Testé et Noté',
@@ -493,7 +493,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   es: {
-    nav: { reviews: 'Reseñas', methodology: 'Nuestras Notas', about: 'Acerca de', submit: 'Enviar herramienta', search: 'Buscar herramientas...', tools: 'Herramientas', finder: 'Finder' },
+    nav: { reviews: 'Reseñas', methodology: 'Nuestras Notas', about: 'Acerca de', submit: 'Enviar herramienta', search: 'Buscar herramientas...', tools: 'Herramientas', finder: 'Encontrar mi herramienta' },
     hero: {
       pill: 'Reseñas independientes de herramientas IA',
       title: 'Cada Herramienta IA,', titleHighlight: 'Probada y Calificada',
@@ -619,7 +619,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   ja: {
-    nav: { reviews: 'レビュー', methodology: '評価基準', about: '概要', submit: 'ツール申請', search: 'ツールを検索...', tools: 'ツール', finder: 'Finder' },
+    nav: { reviews: 'レビュー', methodology: '評価基準', about: '概要', submit: 'ツール申請', search: 'ツールを検索...', tools: 'ツール', finder: 'ツール検索' },
     hero: {
       pill: '独立したAIツールレビュー',
       title: 'すべてのAIツールを', titleHighlight: 'テストして評価',
@@ -745,7 +745,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   ko: {
-    nav: { reviews: '리뷰', methodology: '평가 기준', about: '소개', submit: '도구 제출', search: '도구 검색...', tools: '도구', finder: 'Finder' },
+    nav: { reviews: '리뷰', methodology: '평가 기준', about: '소개', submit: '도구 제출', search: '도구 검색...', tools: '도구', finder: '도구 찾기' },
     hero: {
       pill: '독립적인 AI 도구 리뷰',
       title: '모든 AI 도구를', titleHighlight: '테스트하고 평가합니다',
@@ -871,7 +871,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   pt: {
-    nav: { reviews: 'Avaliações', methodology: 'Nossas Notas', about: 'Sobre', submit: 'Enviar ferramenta', search: 'Buscar ferramentas...', tools: 'Ferramentas', finder: 'Finder' },
+    nav: { reviews: 'Avaliações', methodology: 'Nossas Notas', about: 'Sobre', submit: 'Enviar ferramenta', search: 'Buscar ferramentas...', tools: 'Ferramentas', finder: 'Encontrar ferramenta' },
     hero: {
       pill: 'Avaliações independentes de ferramentas IA',
       title: 'Cada Ferramenta IA,', titleHighlight: 'Testada e Avaliada',
@@ -997,7 +997,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   nl: {
-    nav: { reviews: 'Beoordelingen', methodology: 'Onze Cijfers', about: 'Over ons', submit: 'Tool indienen', search: 'Tools zoeken...', tools: 'Tools', finder: 'Finder' },
+    nav: { reviews: 'Beoordelingen', methodology: 'Onze Cijfers', about: 'Over ons', submit: 'Tool indienen', search: 'Tools zoeken...', tools: 'Tools', finder: 'Vind jouw tool' },
     hero: {
       pill: 'Onafhankelijke AI-tool beoordelingen',
       title: 'Elke AI-Tool,', titleHighlight: 'Getest en Beoordeeld',
@@ -1123,7 +1123,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   it: {
-    nav: { reviews: 'Recensioni', methodology: 'I Nostri Voti', about: 'Chi siamo', submit: 'Invia strumento', search: 'Cerca strumenti...', tools: 'Strumenti', finder: 'Finder' },
+    nav: { reviews: 'Recensioni', methodology: 'I Nostri Voti', about: 'Chi siamo', submit: 'Invia strumento', search: 'Cerca strumenti...', tools: 'Strumenti', finder: 'Trova strumento' },
     hero: {
       pill: 'Recensioni indipendenti di strumenti IA',
       title: 'Ogni Strumento IA,', titleHighlight: 'Testato e Valutato',
@@ -1249,7 +1249,7 @@ export const translations: Record<Locale, Translations> = {
     },
   },
   ar: {
-    nav: { reviews: 'المراجعات', methodology: 'تقييماتنا', about: 'عن الموقع', submit: 'إرسال أداة', search: 'البحث...', tools: 'الأدوات', finder: 'Finder' },
+    nav: { reviews: 'المراجعات', methodology: 'تقييماتنا', about: 'عن الموقع', submit: 'إرسال أداة', search: 'البحث...', tools: 'الأدوات', finder: 'ابحث عن أداتك' },
     hero: {
       pill: 'مراجعات مستقلة لأدوات الذكاء الاصطناعي',
       title: 'كل أداة ذكاء اصطناعي،', titleHighlight: 'مُختبرة ومُقيَّمة',
