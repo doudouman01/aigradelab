@@ -63,6 +63,15 @@ export type Translations = {
     metaTitle: string; title: string; updated: string; intro: string;
     sections: { title: string; content: string }[];
   };
+  tools: {
+    metaTitle: string; metaDesc: string; title: string; subtitle: string;
+    allTools: string; graded: string; notYetGraded: string;
+    visitSite: string; readReview: string; viewTool: string;
+    grade: string; pricing: string; category: string; highlight: string;
+    scores: string; notGradedYet: string; notGradedDesc: string;
+    relatedArticles: string; backToTools: string;
+    categories: Record<string, string>;
+  };
   footer: { copy: string; privacy: string; terms: string; methodology: string };
   notFound: { title: string; desc: string; cta: string };
 };
@@ -164,6 +173,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Limitation of Liability', content: 'AIGradeLab provides information for general guidance. We are not liable for any decisions made based on our reviews.' },
         { title: 'Contact', content: 'Questions about these terms: hello@aigradelab.com' },
       ],
+    },
+    tools: {
+      metaTitle: 'AI Tools Directory — Every Tool Tested and Graded',
+      metaDesc: 'Browse 90+ AI tools with independent grades from A+ to F. Find the best AI tool for your needs.',
+      title: 'AI Tools Directory', subtitle: 'Every AI tool, tested and graded with transparent scores.',
+      allTools: 'All Tools', graded: 'Graded', notYetGraded: 'Not Yet Graded',
+      visitSite: 'Visit Website', readReview: 'Read Full Review', viewTool: 'View Tool',
+      grade: 'Grade', pricing: 'Pricing', category: 'Category', highlight: 'Key Strength',
+      scores: 'Test Scores', notGradedYet: 'Not Yet Graded', notGradedDesc: 'This tool is in our testing queue. Check back soon for a full independent review.',
+      relatedArticles: 'Related Articles', backToTools: '← Back to All Tools',
+      categories: { chatbot: 'AI Chatbots', writing: 'Writing', image: 'Image Generation', video: 'Video', audio: 'Audio & Voice', coding: 'Coding', productivity: 'Productivity', seo: 'SEO', design: 'Design', research: 'Research', marketing: 'Marketing', data: 'Data & Analytics', education: 'Education', healthcare: 'Healthcare', business: 'Business' },
     },
     footer: { copy: 'Every AI tool, tested and graded.', privacy: 'Privacy', terms: 'Terms', methodology: 'Methodology' },
     notFound: { title: '404', desc: 'This page doesn\'t exist.', cta: 'Back to Home' },
@@ -273,6 +293,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Kontakt', content: 'Fragen zu den Nutzungsbedingungen: hello@aigradelab.com' },
       ],
     },
+    tools: {
+      metaTitle: 'KI-Tools Verzeichnis — Jedes Tool getestet und benotet',
+      metaDesc: 'Über 90 KI-Tools mit unabhängigen Noten von A+ bis F. Finden Sie das beste KI-Tool.',
+      title: 'KI-Tools Verzeichnis', subtitle: 'Jedes KI-Tool, getestet und mit transparenten Bewertungen benotet.',
+      allTools: 'Alle Tools', graded: 'Benotet', notYetGraded: 'Noch nicht benotet',
+      visitSite: 'Website besuchen', readReview: 'Vollständige Bewertung lesen', viewTool: 'Tool ansehen',
+      grade: 'Note', pricing: 'Preis', category: 'Kategorie', highlight: 'Hauptstärke',
+      scores: 'Testergebnisse', notGradedYet: 'Noch nicht benotet', notGradedDesc: 'Dieses Tool befindet sich in unserer Testwarteschlange. Schauen Sie bald wieder vorbei.',
+      relatedArticles: 'Verwandte Artikel', backToTools: '← Zurück zu allen Tools',
+      categories: { chatbot: 'KI-Chatbots', writing: 'Schreiben', image: 'Bildgenerierung', video: 'Video', audio: 'Audio & Stimme', coding: 'Programmierung', productivity: 'Produktivität', seo: 'SEO', design: 'Design', research: 'Forschung', marketing: 'Marketing', data: 'Daten & Analytik', education: 'Bildung', healthcare: 'Gesundheit', business: 'Business' },
+    },
     footer: { copy: 'Jedes KI-Tool, getestet und benotet.', privacy: 'Datenschutz', terms: 'Nutzungsbedingungen', methodology: 'Methodik' },
     notFound: { title: '404', desc: 'Diese Seite existiert nicht.', cta: 'Zur Startseite' },
     submit: {
@@ -381,6 +412,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Contact', content: 'Questions sur les conditions : hello@aigradelab.com' },
       ],
     },
+    tools: {
+      metaTitle: 'Répertoire d\'outils IA — Chaque outil testé et noté',
+      metaDesc: 'Parcourez plus de 90 outils IA avec des notes indépendantes de A+ à F. Trouvez le meilleur outil IA.',
+      title: 'Répertoire d\'outils IA', subtitle: 'Chaque outil IA, testé et noté avec des scores transparents.',
+      allTools: 'Tous les outils', graded: 'Notés', notYetGraded: 'Pas encore notés',
+      visitSite: 'Visiter le site', readReview: 'Lire le test complet', viewTool: 'Voir l\'outil',
+      grade: 'Note', pricing: 'Tarif', category: 'Catégorie', highlight: 'Point fort',
+      scores: 'Scores du test', notGradedYet: 'Pas encore noté', notGradedDesc: 'Cet outil est dans notre file d\'attente de tests. Revenez bientôt pour un test complet.',
+      relatedArticles: 'Articles liés', backToTools: '← Retour aux outils',
+      categories: { chatbot: 'Chatbots IA', writing: 'Rédaction', image: 'Génération d\'images', video: 'Vidéo', audio: 'Audio & Voix', coding: 'Programmation', productivity: 'Productivité', seo: 'SEO', design: 'Design', research: 'Recherche', marketing: 'Marketing', data: 'Données & Analytique', education: 'Éducation', healthcare: 'Santé', business: 'Business' },
+    },
     footer: { copy: 'Chaque outil IA, testé et noté.', privacy: 'Confidentialité', terms: 'Conditions', methodology: 'Méthodologie' },
     notFound: { title: '404', desc: 'Cette page n\'existe pas.', cta: 'Retour à l\'accueil' },
     submit: {
@@ -479,6 +521,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Limitación de responsabilidad', content: 'Proporcionamos información orientativa.' },
         { title: 'Contacto', content: 'hello@aigradelab.com' },
       ],
+    },
+    tools: {
+      metaTitle: 'Directorio de herramientas IA — Cada herramienta probada y calificada',
+      metaDesc: 'Explora más de 90 herramientas IA con calificaciones independientes de A+ a F.',
+      title: 'Directorio de herramientas IA', subtitle: 'Cada herramienta IA, probada y calificada con puntuaciones transparentes.',
+      allTools: 'Todas las herramientas', graded: 'Calificadas', notYetGraded: 'Aún no calificadas',
+      visitSite: 'Visitar sitio web', readReview: 'Leer reseña completa', viewTool: 'Ver herramienta',
+      grade: 'Calificación', pricing: 'Precio', category: 'Categoría', highlight: 'Punto fuerte',
+      scores: 'Puntuaciones del test', notGradedYet: 'Aún no calificada', notGradedDesc: 'Esta herramienta está en nuestra cola de pruebas. Vuelve pronto para una reseña completa.',
+      relatedArticles: 'Artículos relacionados', backToTools: '← Volver a herramientas',
+      categories: { chatbot: 'Chatbots IA', writing: 'Escritura', image: 'Generación de imágenes', video: 'Vídeo', audio: 'Audio y voz', coding: 'Programación', productivity: 'Productividad', seo: 'SEO', design: 'Diseño', research: 'Investigación', marketing: 'Marketing', data: 'Datos y analítica', education: 'Educación', healthcare: 'Salud', business: 'Negocios' },
     },
     footer: { copy: 'Cada herramienta IA, probada y calificada.', privacy: 'Privacidad', terms: 'Términos', methodology: 'Metodología' },
     notFound: { title: '404', desc: 'Esta página no existe.', cta: 'Volver al inicio' },
@@ -579,6 +632,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'お問い合わせ', content: 'hello@aigradelab.com' },
       ],
     },
+    tools: {
+      metaTitle: 'AIツールディレクトリ — すべてのツールをテスト・評価',
+      metaDesc: '90以上のAIツールをA+からFまでの独立評価で比較。最適なAIツールを見つけましょう。',
+      title: 'AIツールディレクトリ', subtitle: 'すべてのAIツール、透明なスコアでテスト・評価済み。',
+      allTools: 'すべてのツール', graded: '評価済み', notYetGraded: '未評価',
+      visitSite: 'サイトを訪問', readReview: '詳細レビューを読む', viewTool: 'ツールを見る',
+      grade: '評価', pricing: '料金', category: 'カテゴリー', highlight: '主な強み',
+      scores: 'テストスコア', notGradedYet: '未評価', notGradedDesc: 'このツールはテスト待ちです。完全な独立レビューをお待ちください。',
+      relatedArticles: '関連記事', backToTools: '← ツール一覧に戻る',
+      categories: { chatbot: 'AIチャットボット', writing: 'ライティング', image: '画像生成', video: '動画', audio: 'オーディオ・音声', coding: 'コーディング', productivity: '生産性', seo: 'SEO', design: 'デザイン', research: 'リサーチ', marketing: 'マーケティング', data: 'データ分析', education: '教育', healthcare: 'ヘルスケア', business: 'ビジネス' },
+    },
     footer: { copy: 'すべてのAIツール、テスト済み、評価済み。', privacy: 'プライバシー', terms: '利用規約', methodology: '評価方法' },
     notFound: { title: '404', desc: 'このページは存在しません。', cta: 'ホームに戻る' },
     submit: {
@@ -677,6 +741,17 @@ export const translations: Record<Locale, Translations> = {
         { title: '책임 제한', content: 'AIGradeLab은 일반적인 안내 목적으로 정보를 제공합니다.' },
         { title: '문의', content: 'hello@aigradelab.com' },
       ],
+    },
+    tools: {
+      metaTitle: 'AI 도구 디렉토리 — 모든 도구 테스트 및 평가',
+      metaDesc: '90개 이상의 AI 도구를 A+에서 F까지 독립 평가로 비교하세요.',
+      title: 'AI 도구 디렉토리', subtitle: '모든 AI 도구, 투명한 점수로 테스트 및 평가 완료.',
+      allTools: '모든 도구', graded: '평가 완료', notYetGraded: '미평가',
+      visitSite: '웹사이트 방문', readReview: '전체 리뷰 읽기', viewTool: '도구 보기',
+      grade: '등급', pricing: '가격', category: '카테고리', highlight: '주요 강점',
+      scores: '테스트 점수', notGradedYet: '미평가', notGradedDesc: '이 도구는 테스트 대기 중입니다. 곧 완전한 독립 리뷰를 확인하세요.',
+      relatedArticles: '관련 기사', backToTools: '← 도구 목록으로',
+      categories: { chatbot: 'AI 챗봇', writing: '글쓰기', image: '이미지 생성', video: '비디오', audio: '오디오 및 음성', coding: '코딩', productivity: '생산성', seo: 'SEO', design: '디자인', research: '연구', marketing: '마케팅', data: '데이터 분석', education: '교육', healthcare: '의료', business: '비즈니스' },
     },
     footer: { copy: '모든 AI 도구, 테스트 및 평가 완료.', privacy: '개인정보', terms: '이용약관', methodology: '방법론' },
     notFound: { title: '404', desc: '이 페이지는 존재하지 않습니다.', cta: '홈으로 돌아가기' },
@@ -777,6 +852,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Contato', content: 'hello@aigradelab.com' },
       ],
     },
+    tools: {
+      metaTitle: 'Diretório de ferramentas IA — Cada ferramenta testada e avaliada',
+      metaDesc: 'Explore mais de 90 ferramentas IA com notas independentes de A+ a F.',
+      title: 'Diretório de ferramentas IA', subtitle: 'Cada ferramenta IA, testada e avaliada com pontuações transparentes.',
+      allTools: 'Todas as ferramentas', graded: 'Avaliadas', notYetGraded: 'Ainda não avaliadas',
+      visitSite: 'Visitar site', readReview: 'Ler avaliação completa', viewTool: 'Ver ferramenta',
+      grade: 'Nota', pricing: 'Preço', category: 'Categoria', highlight: 'Ponto forte',
+      scores: 'Pontuações do teste', notGradedYet: 'Ainda não avaliada', notGradedDesc: 'Esta ferramenta está na nossa fila de testes. Volte em breve para uma avaliação completa.',
+      relatedArticles: 'Artigos relacionados', backToTools: '← Voltar às ferramentas',
+      categories: { chatbot: 'Chatbots IA', writing: 'Escrita', image: 'Geração de imagens', video: 'Vídeo', audio: 'Áudio e voz', coding: 'Programação', productivity: 'Produtividade', seo: 'SEO', design: 'Design', research: 'Pesquisa', marketing: 'Marketing', data: 'Dados e análise', education: 'Educação', healthcare: 'Saúde', business: 'Negócios' },
+    },
     footer: { copy: 'Cada ferramenta IA, testada e avaliada.', privacy: 'Privacidade', terms: 'Termos', methodology: 'Metodologia' },
     notFound: { title: '404', desc: 'Esta página não existe.', cta: 'Voltar ao início' },
     submit: {
@@ -875,6 +961,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Beperking van aansprakelijkheid', content: 'Informatie ter algemene oriëntatie.' },
         { title: 'Contact', content: 'hello@aigradelab.com' },
       ],
+    },
+    tools: {
+      metaTitle: 'AI Tools Gids — Elke tool getest en beoordeeld',
+      metaDesc: 'Bekijk 90+ AI-tools met onafhankelijke cijfers van A+ tot F.',
+      title: 'AI Tools Gids', subtitle: 'Elke AI-tool, getest en beoordeeld met transparante scores.',
+      allTools: 'Alle tools', graded: 'Beoordeeld', notYetGraded: 'Nog niet beoordeeld',
+      visitSite: 'Website bezoeken', readReview: 'Volledige beoordeling lezen', viewTool: 'Tool bekijken',
+      grade: 'Cijfer', pricing: 'Prijs', category: 'Categorie', highlight: 'Sterk punt',
+      scores: 'Testscores', notGradedYet: 'Nog niet beoordeeld', notGradedDesc: 'Deze tool staat in onze testwachtrij. Kom snel terug voor een volledige beoordeling.',
+      relatedArticles: 'Gerelateerde artikelen', backToTools: '← Terug naar alle tools',
+      categories: { chatbot: 'AI-chatbots', writing: 'Schrijven', image: 'Beeldgeneratie', video: 'Video', audio: 'Audio & stem', coding: 'Programmeren', productivity: 'Productiviteit', seo: 'SEO', design: 'Design', research: 'Onderzoek', marketing: 'Marketing', data: 'Data & analyse', education: 'Onderwijs', healthcare: 'Gezondheidszorg', business: 'Business' },
     },
     footer: { copy: 'Elke AI-tool, getest en beoordeeld.', privacy: 'Privacy', terms: 'Voorwaarden', methodology: 'Methodologie' },
     notFound: { title: '404', desc: 'Deze pagina bestaat niet.', cta: 'Terug naar home' },
@@ -975,6 +1072,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'Contatto', content: 'hello@aigradelab.com' },
       ],
     },
+    tools: {
+      metaTitle: 'Directory strumenti IA — Ogni strumento testato e valutato',
+      metaDesc: 'Esplora oltre 90 strumenti IA con voti indipendenti da A+ a F.',
+      title: 'Directory strumenti IA', subtitle: 'Ogni strumento IA, testato e valutato con punteggi trasparenti.',
+      allTools: 'Tutti gli strumenti', graded: 'Valutati', notYetGraded: 'Non ancora valutati',
+      visitSite: 'Visita il sito', readReview: 'Leggi la recensione completa', viewTool: 'Vedi strumento',
+      grade: 'Voto', pricing: 'Prezzo', category: 'Categoria', highlight: 'Punto di forza',
+      scores: 'Punteggi del test', notGradedYet: 'Non ancora valutato', notGradedDesc: 'Questo strumento è nella nostra coda di test. Torna presto per una recensione completa.',
+      relatedArticles: 'Articoli correlati', backToTools: '← Torna a tutti gli strumenti',
+      categories: { chatbot: 'Chatbot IA', writing: 'Scrittura', image: 'Generazione immagini', video: 'Video', audio: 'Audio e voce', coding: 'Programmazione', productivity: 'Produttività', seo: 'SEO', design: 'Design', research: 'Ricerca', marketing: 'Marketing', data: 'Dati e analisi', education: 'Istruzione', healthcare: 'Sanità', business: 'Business' },
+    },
     footer: { copy: 'Ogni strumento IA, testato e valutato.', privacy: 'Privacy', terms: 'Termini', methodology: 'Metodologia' },
     notFound: { title: '404', desc: 'Questa pagina non esiste.', cta: 'Torna alla home' },
     submit: {
@@ -1073,6 +1181,17 @@ export const translations: Record<Locale, Translations> = {
         { title: 'تحديد المسؤولية', content: 'معلومات للتوجيه العام فقط.' },
         { title: 'التواصل', content: 'hello@aigradelab.com' },
       ],
+    },
+    tools: {
+      metaTitle: 'دليل أدوات الذكاء الاصطناعي — كل أداة مُختبرة ومُقيَّمة',
+      metaDesc: 'استعرض أكثر من 90 أداة ذكاء اصطناعي مع تقييمات مستقلة من A+ إلى F.',
+      title: 'دليل أدوات الذكاء الاصطناعي', subtitle: 'كل أداة ذكاء اصطناعي، مُختبرة ومُقيَّمة بشفافية.',
+      allTools: 'جميع الأدوات', graded: 'مُقيَّمة', notYetGraded: 'لم تُقيَّم بعد',
+      visitSite: 'زيارة الموقع', readReview: 'اقرأ المراجعة الكاملة', viewTool: 'عرض الأداة',
+      grade: 'التقييم', pricing: 'السعر', category: 'الفئة', highlight: 'نقطة القوة',
+      scores: 'درجات الاختبار', notGradedYet: 'لم تُقيَّم بعد', notGradedDesc: 'هذه الأداة في قائمة الانتظار للاختبار. عد قريبًا للاطلاع على مراجعة كاملة.',
+      relatedArticles: 'مقالات ذات صلة', backToTools: '← العودة إلى جميع الأدوات',
+      categories: { chatbot: 'روبوتات الدردشة', writing: 'الكتابة', image: 'توليد الصور', video: 'الفيديو', audio: 'الصوت', coding: 'البرمجة', productivity: 'الإنتاجية', seo: 'تحسين محركات البحث', design: 'التصميم', research: 'البحث', marketing: 'التسويق', data: 'البيانات والتحليلات', education: 'التعليم', healthcare: 'الرعاية الصحية', business: 'الأعمال' },
     },
     footer: { copy: 'كل أداة ذكاء اصطناعي، مُختبرة ومُقيَّمة.', privacy: 'الخصوصية', terms: 'الشروط', methodology: 'المنهجية' },
     notFound: { title: '404', desc: 'هذه الصفحة غير موجودة.', cta: 'العودة للرئيسية' },

@@ -1172,3 +1172,145 @@ img { max-width: 100%; display: block; }
   .comparison-cta-row { flex-direction: column; align-items: center; }
   .comparison-avg { font-size: 1rem; }
 }
+
+/* ── TOOLS DIRECTORY ── */
+.tools-page { padding: 40px 0; }
+.tools-hero { text-align: center; margin-bottom: 32px; }
+.tools-hero h1 { font-size: 2.2rem; margin-bottom: 8px; }
+.tools-hero p { color: var(--text-muted); font-size: 1.1rem; }
+
+.tools-filters { margin-bottom: 24px; }
+.tools-search {
+  width: 100%; padding: 12px 16px; border-radius: 8px;
+  border: 1px solid var(--border); background: var(--bg-card);
+  color: var(--text); font-size: 1rem; margin-bottom: 16px;
+}
+.tools-filter-row {
+  display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;
+}
+.tools-grade-filter { display: flex; gap: 8px; }
+.tools-filter-btn {
+  padding: 6px 14px; border-radius: 20px; border: 1px solid var(--border);
+  background: var(--bg-card); color: var(--text-muted); cursor: pointer;
+  font-size: 0.85rem; transition: all 0.2s;
+}
+.tools-filter-btn:hover { border-color: var(--accent); color: var(--accent); }
+.tools-filter-btn.active {
+  background: var(--accent); color: #fff; border-color: var(--accent);
+}
+.tools-count { color: var(--text-muted); font-size: 0.9rem; margin-bottom: 16px; }
+
+.tools-grid {
+  display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
+.tool-card {
+  display: flex; flex-direction: column; padding: 20px;
+  border-radius: 12px; border: 1px solid var(--border);
+  background: var(--bg-card); text-decoration: none; color: var(--text);
+  transition: border-color 0.2s, transform 0.15s;
+}
+.tool-card:hover { border-color: var(--accent); transform: translateY(-2px); }
+.tool-card-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; }
+.tool-card-name { font-size: 1.1rem; font-weight: 600; margin: 0; }
+.tool-card-category { font-size: 0.75rem; color: var(--accent); text-transform: uppercase; letter-spacing: 0.5px; }
+.tool-card-grade {
+  display: flex; align-items: center; justify-content: center;
+  width: 40px; height: 40px; border-radius: 8px; color: #fff;
+  font-weight: 700; font-size: 0.95rem; flex-shrink: 0;
+}
+.tool-card-grade-pending { background: #555; font-size: 1.2rem; }
+.tool-card-desc { font-size: 0.88rem; color: var(--text-muted); flex: 1; margin-bottom: 12px; }
+.tool-card-footer {
+  display: flex; justify-content: space-between; align-items: center;
+  font-size: 0.82rem; color: var(--text-muted);
+}
+.tool-card-view { color: var(--accent); font-weight: 500; }
+
+/* ── TOOL INDIVIDUAL PAGE ── */
+.tool-page { padding: 40px 0; max-width: 860px; margin: 0 auto; }
+.tool-back-link { color: var(--accent); text-decoration: none; font-size: 0.9rem; }
+.tool-back-link:hover { text-decoration: underline; }
+
+.tool-header {
+  display: flex; justify-content: space-between; align-items: flex-start;
+  gap: 24px; margin-bottom: 32px; padding-bottom: 24px;
+  border-bottom: 1px solid var(--border);
+}
+.tool-header-info { flex: 1; }
+.tool-header-info h1 { font-size: 2rem; margin: 8px 0; }
+.tool-category-badge {
+  display: inline-block; font-size: 0.75rem; color: var(--accent);
+  text-transform: uppercase; letter-spacing: 0.5px;
+  padding: 4px 10px; border-radius: 12px; border: 1px solid var(--accent);
+}
+.tool-description { color: var(--text-muted); font-size: 1.05rem; margin: 8px 0; }
+.tool-highlight { font-size: 0.95rem; margin-top: 8px; }
+.tool-header-grade { flex-shrink: 0; }
+.tool-not-graded-badge {
+  display: flex; align-items: center; justify-content: center;
+  width: 80px; height: 80px; border-radius: 12px;
+  background: #555; color: #fff; font-weight: 700; font-size: 0.8rem;
+  text-align: center; padding: 8px;
+}
+
+.tool-details-grid {
+  display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px;
+  margin-bottom: 32px;
+}
+.tool-detail-card {
+  padding: 16px; border-radius: 10px; border: 1px solid var(--border);
+  background: var(--bg-card); text-align: center;
+}
+.tool-detail-label {
+  display: block; font-size: 0.75rem; color: var(--text-muted);
+  text-transform: uppercase; letter-spacing: 0.5px; margin-bottom: 6px;
+}
+.tool-detail-value { font-size: 1.1rem; font-weight: 600; }
+
+.tool-scores-section { margin-bottom: 32px; }
+.tool-scores-section h2 { font-size: 1.3rem; margin-bottom: 16px; }
+.tool-not-graded-section {
+  padding: 32px; border-radius: 12px; border: 1px solid var(--border);
+  background: var(--bg-card); text-align: center; margin-bottom: 32px;
+}
+.tool-not-graded-section h2 { margin-bottom: 8px; }
+.tool-not-graded-section p { color: var(--text-muted); }
+
+.tool-cta-row { display: flex; gap: 16px; margin-bottom: 40px; flex-wrap: wrap; }
+.tool-cta-primary {
+  display: inline-block; background: var(--accent); color: #fff;
+  padding: 14px 32px; border-radius: 8px; font-weight: 600;
+  text-decoration: none; font-size: 1rem;
+}
+.tool-cta-primary:hover { opacity: 0.9; }
+.tool-cta-secondary {
+  display: inline-block; border: 1px solid var(--accent); color: var(--accent);
+  padding: 14px 32px; border-radius: 8px; font-weight: 600;
+  text-decoration: none; font-size: 1rem;
+}
+.tool-cta-secondary:hover { background: var(--accent); color: #fff; }
+
+.tool-related { margin-bottom: 40px; }
+.tool-related h2 { font-size: 1.3rem; margin-bottom: 16px; }
+.tool-related-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 12px; }
+.tool-related-card {
+  padding: 16px; border-radius: 10px; border: 1px solid var(--border);
+  background: var(--bg-card); text-decoration: none; color: var(--text);
+  transition: border-color 0.2s;
+}
+.tool-related-card:hover { border-color: var(--accent); }
+.tool-related-category { font-size: 0.72rem; color: var(--accent); text-transform: uppercase; }
+.tool-related-card h3 { font-size: 0.95rem; margin: 6px 0; }
+.tool-related-grade {
+  display: inline-block; padding: 2px 8px; border-radius: 4px;
+  background: var(--accent); color: #fff; font-size: 0.75rem; font-weight: 600;
+}
+
+@media (max-width: 768px) {
+  .tools-grid { grid-template-columns: 1fr; }
+  .tool-header { flex-direction: column; }
+  .tool-details-grid { grid-template-columns: 1fr; }
+  .tool-cta-row { flex-direction: column; }
+  .tool-cta-primary, .tool-cta-secondary { text-align: center; }
+}
