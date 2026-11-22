@@ -71,8 +71,8 @@ export default async function LocaleLayout({ children, params }: Props) {
             </Link>
             <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
               <nav className="nav-links">
-                <Link href={`/${lang}/tools`}>Tools</Link>
-                <Link href={`/${lang}/tools/finder`}>🎯 Finder</Link>
+                <Link href={`/${lang}/tools`}>{t.nav.tools}</Link>
+                <Link href={`/${lang}/tools/finder`}>🎯 {t.nav.finder}</Link>
                 <Link href={`/${lang}/blog`}>{t.nav.reviews}</Link>
                 <Link href={`/${lang}/methodology`}>{t.nav.methodology}</Link>
                 <Link href={`/${lang}/submit`}>{t.nav.submit}</Link>
