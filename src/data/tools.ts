@@ -218,7 +218,7 @@ export const tools: Tool[] = [
   tool('glm-5-4', 'GLM-5.4', 'coding', 'https://z.ai',
     'Z.ai\'s Loop Transformer model that runs 28 layers twice to match models 3x its size.',
     { ux: 7, quality: 8, value: 7, integration: 6, support: 6 },
-    null, 'glm-5-4-review-loop-transformer', 'GLM Coding Plan', 'First Loop Transformer architecture'),
+    null, 'glm-5-4-review-loop-transformer', 'GLM Coding Plan', 'First Loop Transformer architecture', 'B+'),
 
   // ── PRODUCTIVITY ──
   tool('notion-ai', 'Notion AI', 'productivity', 'https://notion.so',
