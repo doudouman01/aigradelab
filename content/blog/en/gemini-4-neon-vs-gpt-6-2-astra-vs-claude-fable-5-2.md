@@ -183,4 +183,7 @@ toolB_support: 8.0
   <li><a href="/blog/claude-fable-5-2-review">Claude Fable 5.2 Review</a></li>
   <li><a href="/blog/glm-5-4-review-loop-transformer">GLM-5.4 Review: Z.ai's Loop Transformer</a></li>
   <li><a href="/blog/best-ai-coding-tools-2026">Best AI Coding Tools in 2026</a></li>
+
+  <li><a href="/blog/chatgpt-review-2026">ChatGPT Review 2026</a></li>
+  <li><a href="/blog/gemini-review-2026">Google Gemini Review 2026</a></li>
 </ul>

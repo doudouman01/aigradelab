@@ -183,4 +183,7 @@ toolB_support: 8.0
   <li><a href="/ko/blog/claude-fable-5-2-review">Claude Fable 5.2 리뷰</a></li>
   <li><a href="/ko/blog/glm-5-4-review-loop-transformer">GLM-5.4 리뷰: Z.ai의 Loop Transformer</a></li>
   <li><a href="/ko/blog/best-ai-coding-tools-2026">2026년 최고의 AI 코딩 도구</a></li>
+
+  <li><a href="/ko/blog/chatgpt-review-2026">ChatGPT 리뷰 2026</a></li>
+  <li><a href="/ko/blog/gemini-review-2026">Google Gemini 리뷰 2026</a></li>
 </ul>
