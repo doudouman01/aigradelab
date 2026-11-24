@@ -22,7 +22,7 @@ toolB_support: 8.0
 
 <h2>Tres modelos estrella, una semana</h2>
 
-<p>Noviembre 2026 nos trajo algo poco frecuente: tres modelos de IA de vanguardia lanzados con pocos días de diferencia. Claude Fable 5.2 salió el 9 de noviembre. GPT-6.2 Astra y Sol llegaron el 17 de noviembre. Gemini 4 Neon les siguió el 18 de noviembre. Cada uno asegura ser el modelo más inteligente del momento.</p>
+<p>Noviembre 2026 nos trajo algo poco frecuente: tres modelos de IA de vanguardia lanzados con pocos días de diferencia. <a href="/es/blog/claude-fable-5-2-review">Claude Fable 5.2</a> salió el 9 de noviembre. GPT-6.2 Astra y Sol llegaron el 17 de noviembre. Gemini 4 Neon les siguió el 18 de noviembre. Cada uno asegura ser el modelo más inteligente del momento.</p>
 
 <p>Si eres desarrollador decidiendo sobre qué API construir, o un usuario avanzado eligiendo tu modelo del día a día, esta es la comparativa que necesitas. Probamos los tres y desglosamos las cifras para que no tengas que hacerlo tú.</p>
 
@@ -177,3 +177,10 @@ toolB_support: 8.0
 <p>Noviembre 2026 nos dio algo extraordinario: tres modelos de vanguardia genuinamente competitivos con fortalezas diferentes. Claude Fable 5.2 gana en inteligencia pura. Gemini 4 Neon gana en valor. GPT-6.2 Astra gana en ecosistema. No hay elección equivocada — solo prioridades diferentes.</p>
 
 <p>¿El verdadero ganador? Los desarrolladores y usuarios. Cuando tres empresas lanzan modelos competitivos la misma semana, los precios bajan y las capacidades suben. Los precios de las herramientas de IA nunca han sido tan competitivos, y la brecha entre los mejores modelos nunca ha sido tan pequeña.</p>
+
+<h2>Lee también</h2>
+<ul>
+  <li><a href="/es/blog/claude-fable-5-2-review">Análisis de Claude Fable 5.2</a></li>
+  <li><a href="/es/blog/glm-5-4-review-loop-transformer">Análisis GLM-5.4: el Loop Transformer de Z.ai</a></li>
+  <li><a href="/es/blog/best-ai-coding-tools-2026">Mejores herramientas IA para código en 2026</a></li>
+</ul>

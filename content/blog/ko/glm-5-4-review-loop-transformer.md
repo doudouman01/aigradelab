@@ -59,7 +59,7 @@ toolName: "GLM-5.4"
   <li><strong>도구 호출 실패율: 1.56%</strong>, 하지만 실패한 호출의 66%가 재시도로 복구 — 테스트의 어떤 Claude나 Codex 모델보다 높은 복구율</li>
 </ul>
 
-<p>참고로, Claude Fable 5.2는 KingBench 4에서 42/60점으로 종합 1위를 차지했습니다. Gemini 4 Neon은 37.9/60으로 2위. GLM-5.4는 강력한 오픈 웨이트 모델에 기대되는 위치에 착지했습니다.</p>
+<p>참고로, <a href="/ko/blog/claude-fable-5-2-review">Claude Fable 5.2</a>는 KingBench 4에서 42/60점으로 종합 1위를 차지했습니다. Gemini 4 Neon은 37.9/60으로 2위. GLM-5.4는 강력한 오픈 웨이트 모델에 기대되는 위치에 착지했습니다.</p>
 
 <h3>Z.ai의 내부 검증</h3>
 
@@ -112,9 +112,16 @@ toolName: "GLM-5.4"
 <ul>
   <li><strong>AI 연구자와 아키텍처 애호가:</strong> 지금 연구하기에 가장 흥미로운 모델입니다.</li>
   <li><strong>세컨드 오피니언을 원하는 코드 리뷰어:</strong> GLM-5.4는 다른 모델이 놓치는 문제를 감지합니다. 주요 코더가 아닌 리뷰어로 사용하세요.</li>
-  <li><strong>관망하는 개발자:</strong> 오늘 일상적인 코딩 모델이 필요하다면 Claude Fable 5.2, Gemini 4 Neon, GPT-6.2 Sol이 더 안전한 선택입니다. Z.ai가 API 가격과 벤치마크를 공개하면 다시 확인하세요.</li>
+  <li><strong>관망하는 개발자:</strong> 오늘 일상적인 코딩 모델이 필요하다면 Claude Fable 5.2, Gemini 4 Neon, GPT-6.2 Sol이 더 안전한 선택입니다. 자세한 내용은 <a href="/ko/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2 비교</a>를 참조하세요. Z.ai가 API 가격과 벤치마크를 공개하면 다시 확인하세요. <a href="/ko/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2 비교</a>도 확인해 보세요.</li>
 </ul>
 
 <h2>종합 평가</h2>
 
 <p>GLM-5.4는 B+를 획득했습니다 — 오늘 사용 가능한 최고의 코딩 모델이기 때문이 아니라, 차세대 AI 모델을 재형성할 수 있는 아키텍처를 도입했기 때문입니다. Loop Transformer는 실재하고, 작동하며, 이미 다른 팀에 영감을 주고 있습니다. Z.ai에 필요한 것은 문을 더 활짝 여는 것: 벤치마크 공개, API 출시, 웨이트 릴리스입니다. 그때까지는 AI가 향하는 곳을 보여주는 훌륭한 프리뷰이며, 더 높은 등급을 주기에는 사용할 수 있는 사람이 너무 적습니다.</p>
+
+<h2>함께 읽기</h2>
+<ul>
+  <li><a href="/ko/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2: 2026년 11월 AI 대결</a></li>
+  <li><a href="/ko/blog/claude-fable-5-2-review">Claude Fable 5.2 리뷰</a></li>
+  <li><a href="/ko/blog/best-ai-coding-tools-2026">2026년 최고의 AI 코딩 도구</a></li>
+</ul>

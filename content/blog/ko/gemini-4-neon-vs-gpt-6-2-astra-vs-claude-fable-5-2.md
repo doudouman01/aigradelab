@@ -22,7 +22,7 @@ toolB_support: 8.0
 
 <h2>세 플래그십, 한 주</h2>
 
-<p>2026년 11월은 드문 일이 일어났습니다: 세 개의 프론티어 AI 모델이 며칠 사이에 출시된 것입니다. Claude Fable 5.2가 11월 9일에 등장했습니다. GPT-6.2 Astra와 Sol이 11월 17일에 도착했습니다. Gemini 4 Neon이 11월 18일에 뒤를 이었습니다. 각각이 가장 똑똑한 모델이라고 주장합니다.</p>
+<p>2026년 11월은 드문 일이 일어났습니다: 세 개의 프론티어 AI 모델이 며칠 사이에 출시된 것입니다. <a href="/ko/blog/claude-fable-5-2-review">Claude Fable 5.2</a>가 11월 9일에 등장했습니다. GPT-6.2 Astra와 Sol이 11월 17일에 도착했습니다. Gemini 4 Neon이 11월 18일에 뒤를 이었습니다. 각각이 가장 똑똑한 모델이라고 주장합니다.</p>
 
 <p>어떤 API 위에 구축할지 결정하는 개발자든, 일상적인 도구를 선택하는 파워 유저든, 이것이 필요한 비교입니다. 세 가지 모두를 테스트하고 숫자를 분석했습니다.</p>
 
@@ -177,3 +177,10 @@ toolB_support: 8.0
 <p>2026년 11월은 주목할 만한 것을 선사했습니다: 서로 다른 강점을 가진 세 개의 진정으로 경쟁력 있는 프론티어 모델. Claude Fable 5.2는 순수 지능에서 승리. Gemini 4 Neon은 가성비에서 승리. GPT-6.2 Astra는 에코시스템에서 승리. 잘못된 선택은 없습니다 — 단지 우선순위가 다를 뿐입니다.</p>
 
 <p>진정한 승자는? 개발자와 사용자입니다. 세 회사가 같은 주에 경쟁력 있는 모델을 출시하면 가격은 떨어지고 성능은 올라갑니다. AI 도구 가격 경쟁은 그 어느 때보다 치열하며, 최상위 모델 간의 격차는 그 어느 때보다 작아졌습니다.</p>
+
+<h2>함께 읽기</h2>
+<ul>
+  <li><a href="/ko/blog/claude-fable-5-2-review">Claude Fable 5.2 리뷰</a></li>
+  <li><a href="/ko/blog/glm-5-4-review-loop-transformer">GLM-5.4 리뷰: Z.ai의 Loop Transformer</a></li>
+  <li><a href="/ko/blog/best-ai-coding-tools-2026">2026년 최고의 AI 코딩 도구</a></li>
+</ul>

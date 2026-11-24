@@ -59,7 +59,7 @@ toolName: "GLM-5.4"
   <li><strong>Tasso di fallimento delle tool-call: 1,56%</strong>, ma il 66% delle chiamate fallite è stato recuperato al retry — un tasso di recupero superiore a qualsiasi modello Claude o Codex nel test</li>
 </ul>
 
-<p>Per contestualizzare, Claude Fable 5.2 si è classificato 1° nella classifica generale di KingBench 4 con 42/60 punti. Gemini 4 Neon è stato 2° con 37,9/60. GLM-5.4 si è posizionato dove ci si aspetterebbe un modello open-weight solido.</p>
+<p>Per contestualizzare, <a href="/it/blog/claude-fable-5-2-review">Claude Fable 5.2</a> si è classificato 1° nella classifica generale di KingBench 4 con 42/60 punti. Gemini 4 Neon è stato 2° con 37,9/60. GLM-5.4 si è posizionato dove ci si aspetterebbe un modello open-weight solido.</p>
 
 <h3>Validazione interna di Z.ai</h3>
 
@@ -112,9 +112,18 @@ toolName: "GLM-5.4"
 <ul>
   <li><strong>Ricercatori IA e appassionati di architettura:</strong> Questo è il modello più interessante da studiare in questo momento.</li>
   <li><strong>Revisori di codice in cerca di un secondo parere:</strong> GLM-5.4 individua problemi che altri modelli non rilevano. Usatelo come revisore, non come coder primario.</li>
-  <li><strong>Sviluppatori in attesa:</strong> Se avete bisogno di un modello di coding per l'uso quotidiano oggi, Claude Fable 5.2, Gemini 4 Neon o GPT-6.2 Sol sono scelte più sicure. Tornate a controllare quando Z.ai pubblicherà i prezzi API e i benchmark.</li>
+  <li><strong>Sviluppatori in attesa:</strong> Se avete bisogno di un modello di coding per l'uso quotidiano oggi, Claude Fable 5.2, Gemini 4 Neon o GPT-6.2 Sol sono scelte più sicure. Consulta il nostro <a href="/it/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">confronto Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2</a> per i dettagli. Tornate a controllare quando Z.ai pubblicherà i prezzi API e i benchmark. Consulta il nostro <a href="/it/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">confronto Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2</a> per i dettagli.</li>
 </ul>
 
 <h2>Il verdetto</h2>
 
 <p>GLM-5.4 merita un B+ — non per essere il miglior modello di coding disponibile oggi, ma per aver introdotto un'architettura che potrebbe ridefinire la prossima generazione di modelli IA. Il Loop Transformer è reale, funziona e sta già ispirando altri team. Z.ai deve solo aprire le porte più ampiamente: pubblicare i benchmark, lanciare l'API e rilasciare quei pesi. Fino ad allora, è un'anteprima brillante di dove sta andando l'IA, disponibile per troppo poche persone per meritare un voto più alto.</p>
+
+<h2>Leggi anche</h2>
+<ul>
+  <li><a href="/it/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2: lo scontro IA di novembre 2026</a></li>
+  <li><a href="/it/blog/claude-fable-5-2-review">Recensione Claude Fable 5.2</a></li>
+  <li><a href="/it/blog/best-ai-coding-tools-2026">Migliori strumenti IA per il coding 2026</a></li>
+</ul>
+
+

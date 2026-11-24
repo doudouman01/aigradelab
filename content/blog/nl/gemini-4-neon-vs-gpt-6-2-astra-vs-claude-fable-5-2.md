@@ -22,7 +22,7 @@ toolB_support: 8.0
 
 <h2>Drie vlaggenschepen, één week</h2>
 
-<p>November 2026 bracht iets zeldzaams: drie frontier AI-modellen die binnen enkele dagen na elkaar werden gelanceerd. Claude Fable 5.2 verscheen op 9 november. GPT-6.2 Astra en Sol volgden op 17 november. Gemini 4 Neon kwam op 18 november. Elk model claimt het slimste te zijn.</p>
+<p>November 2026 bracht iets zeldzaams: drie frontier AI-modellen die binnen enkele dagen na elkaar werden gelanceerd. <a href="/nl/blog/claude-fable-5-2-review">Claude Fable 5.2</a> verscheen op 9 november. GPT-6.2 Astra en Sol volgden op 17 november. Gemini 4 Neon kwam op 18 november. Elk model claimt het slimste te zijn.</p>
 
 <p>Of u nu een ontwikkelaar bent die kiest op welke API u bouwt, of een power user die zijn dagelijkse tool selecteert — dit is de vergelijking die u nodig hebt. We hebben alle drie getest en de cijfers uitgeplozen.</p>
 
@@ -177,3 +177,10 @@ toolB_support: 8.0
 <p>November 2026 gaf ons iets opmerkelijks: drie echt concurrerende frontier-modellen met verschillende sterke punten. Claude Fable 5.2 wint op pure intelligentie. Gemini 4 Neon wint op prijs-kwaliteit. GPT-6.2 Astra wint op ecosysteem. Er is geen verkeerde keuze — alleen verschillende prioriteiten.</p>
 
 <p>De echte winnaar? Ontwikkelaars en gebruikers. Wanneer drie bedrijven in dezelfde week concurrerende modellen uitbrengen, dalen de prijzen en stijgen de mogelijkheden. AI-toolprijzen zijn nog nooit zo competitief geweest en het verschil tussen de topmodellen is nog nooit zo klein geweest.</p>
+
+<h2>Lees ook</h2>
+<ul>
+  <li><a href="/nl/blog/claude-fable-5-2-review">Claude Fable 5.2 Review</a></li>
+  <li><a href="/nl/blog/glm-5-4-review-loop-transformer">GLM-5.4 Review: Z.ais Loop Transformer</a></li>
+  <li><a href="/nl/blog/best-ai-coding-tools-2026">Beste AI-coderingstools 2026</a></li>
+</ul>

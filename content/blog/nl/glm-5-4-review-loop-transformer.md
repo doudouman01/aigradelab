@@ -59,7 +59,7 @@ toolName: "GLM-5.4"
   <li><strong>Tool-call faalpercentage: 1,56%</strong>, maar 66% van de mislukte calls herstelden bij retry — hoger herstelpercentage dan elk Claude- of Codex-model in de test</li>
 </ul>
 
-<p>Ter context: Claude Fable 5.2 scoorde 1e overall op KingBench 4 met 42/60 punten. Gemini 4 Neon was 2e met 37,9/60. GLM-5.4 landde ruwweg waar je een sterk open-weight model zou verwachten.</p>
+<p>Ter context: <a href="/nl/blog/claude-fable-5-2-review">Claude Fable 5.2</a> scoorde 1e overall op KingBench 4 met 42/60 punten. Gemini 4 Neon was 2e met 37,9/60. GLM-5.4 landde ruwweg waar je een sterk open-weight model zou verwachten.</p>
 
 <h3>Interne validatie van Z.ai</h3>
 
@@ -112,9 +112,18 @@ toolName: "GLM-5.4"
 <ul>
   <li><strong>AI-onderzoekers en architectuurliefhebbers:</strong> Dit is op dit moment het meest interessante model om te bestuderen.</li>
   <li><strong>Code reviewers die een tweede mening zoeken:</strong> GLM-5.4 vindt problemen die andere modellen missen. Gebruik het als reviewer, niet als primaire codeur.</li>
-  <li><strong>Afwachtende ontwikkelaars:</strong> Als je vandaag een dagelijks codeermodel nodig hebt, zijn Claude Fable 5.2, Gemini 4 Neon of GPT-6.2 Sol veiligere keuzes. Kom terug wanneer Z.ai API-prijzen en benchmarks publiceert.</li>
+  <li><strong>Afwachtende ontwikkelaars:</strong> Als je vandaag een dagelijks codeermodel nodig hebt, zijn Claude Fable 5.2, Gemini 4 Neon of GPT-6.2 Sol veiligere keuzes. Bekijk onze <a href="/nl/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">vergelijking Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2</a> voor details. Kom terug wanneer Z.ai API-prijzen en benchmarks publiceert. Bekijk onze <a href="/nl/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">vergelijking Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2</a> voor details.</li>
 </ul>
 
 <h2>Het oordeel</h2>
 
 <p>GLM-5.4 verdient een B+ — niet omdat het het beste codeermodel is dat vandaag beschikbaar is, maar omdat het een architectuur introduceert die de volgende generatie AI-modellen kan hervormen. De Loop Transformer is echt, werkt, en inspireert al andere teams. Z.ai hoeft alleen de deuren wijder te openen: benchmarks publiceren, de API lanceren en die gewichten vrijgeven. Tot dan is het een briljante voorproef van waar AI naartoe gaat, beschikbaar voor te weinig mensen om hoger te scoren.</p>
+
+<h2>Lees ook</h2>
+<ul>
+  <li><a href="/nl/blog/gemini-4-neon-vs-gpt-6-2-astra-vs-claude-fable-5-2">Gemini 4 Neon vs GPT-6.2 Astra vs Claude Fable 5.2: de AI-krachtmeting van november 2026</a></li>
+  <li><a href="/nl/blog/claude-fable-5-2-review">Claude Fable 5.2 Review</a></li>
+  <li><a href="/nl/blog/best-ai-coding-tools-2026">Beste AI-coderingstools 2026</a></li>
+</ul>
+
+
