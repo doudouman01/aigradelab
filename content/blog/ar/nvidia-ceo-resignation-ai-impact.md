@@ -1,90 +1,105 @@
 ---
-title: "استقالة رئيس Nvidia التنفيذي: ماذا يعني خروج Jensen Huang لأجهزة الذكاء الاصطناعي"
-description: "Jensen Huang يستقيل من Nvidia بعد 33 عاماً. إليك ما يعنيه هذا لأسعار GPU وسوق الذكاء الاصطناعي."
+title: "ملحمة CEO شركة Nvidia: إعادة Jensen Huang إلى منصبه بعد غياب 11 يومًا"
+description: "استقال Jensen Huang من منصب CEO شركة Nvidia في 12 نوفمبر، ورفض مجلس الإدارة عودته في 17 نوفمبر، ثم أُعيد إلى منصبه بالإجماع في 23 نوفمبر. إليكم التسلسل الزمني الكامل وما يعنيه ذلك للذكاء الاصطناعي."
 category: "Lab Notes"
 categorySlug: "lab-notes"
-date: "2026-11-17"
-readTime: "8 min read"
+date: "2026-11-23"
+lastTested: "2026-11-23"
+readTime: "9 min read"
 ---
 
-<h2>The End of an Era at Nvidia</h2>
+<h2>Jensen Huang يعود إلى Nvidia</h2>
 
-<p>On November 11, 2026, Jensen Huang — the co-founder who built Nvidia from a graphics card company into the most consequential AI hardware maker on the planet — resigned as president, CEO, and board member. The resignation was effective immediately.</p>
+<p>في 23 نوفمبر 2026، أعلنت Nvidia أن مجلس إدارتها صوّت بالإجماع على إعادة Jensen Huang إلى منصبه رئيسًا وCEO وعضوًا في مجلس الإدارة، بأثر فوري. جاء هذا القرار بعد 11 يومًا من استقالة Huang على خلفية فضيحة شخصية ألقت بظلال من الشك لفترة وجيزة على أهم شركة عتاد ذكاء اصطناعي في العالم.</p>
 
-<p>Nvidia's board appointed CFO Colette Kress as interim CEO while it conducts a search for a permanent successor. Harvey C. Jones, formerly CEO of Synopsys, was named the company's first-ever independent board chair.</p>
+<p>تُختتم بهذه الإعادة واحدة من أكثر حلقات القيادة دراماتيكية في تاريخ قطاع التكنولوجيا، إذ تضمنت ثلاثة فصول متميزة جرت أحداثها في أقل من أسبوعين.</p>
 
-<p>After 33 years at the helm, Huang's departure marks the biggest leadership shake-up in the AI industry since OpenAI's boardroom drama in late 2023. But unlike that crisis, Nvidia's transition has immediate implications for every company and individual using AI tools today.</p>
+<h2>التسلسل الزمني الكامل</h2>
 
-<h2>What Happened: The Timeline</h2>
-
-<p>The crisis unfolded in less than a week:</p>
+<h3>الفصل الأول: الاستقالة (8-12 نوفمبر)</h3>
 
 <ul>
-<li><strong>November 8:</strong> Nvidia's board announced an independent investigation into reports that Huang had been the target of a foreign intelligence effort. The board said it had "confidence in Jensen and his leadership team."</li>
-<li><strong>November 8 (same day):</strong> Huang publicly admitted to an extramarital affair with Alice Huang (no relation), an executive at chip reseller Megaspeed, whom U.S. intelligence officials suspected was recruited as part of a Chinese espionage campaign.</li>
-<li><strong>November 11-12:</strong> Reports surfaced of a second relationship involving an executive who reports directly to Huang.</li>
-<li><strong>November 12:</strong> Huang resigned. No reason was given in the official announcement.</li>
+<li><strong>8 نوفمبر:</strong> ظهرت تقارير تفيد بأن Huang كان هدفًا لعملية استخباراتية أجنبية. في اليوم نفسه، اعترف Huang علنًا بعلاقة خارج نطاق الزواج مع Alice Huang (لا صلة قرابة بينهما)، وهي مسؤولة تنفيذية في شركة إعادة بيع الرقائق Megaspeed، التي اشتبه مسؤولو الاستخبارات الأمريكية في تجنيدها ضمن حملة تجسس صينية.</li>
+<li><strong>11-12 نوفمبر:</strong> ظهرت تقارير عن علاقة ثانية تتعلق بموظفة تعمل تحت إشرافه المباشر.</li>
+<li><strong>12 نوفمبر:</strong> استقال Huang من منصبه رئيسًا وCEO وعضوًا في مجلس الإدارة، بأثر فوري. عُيّنت CFO Colette Kress في منصب CEO بالإنابة. وأصبح Harvey C. Jones أول رئيس مستقل لمجلس الإدارة على الإطلاق.</li>
 </ul>
 
-<p>The board stated it expects operations, customer commitments, and the product roadmap to continue without interruption. Nvidia's Q3 fiscal 2027 earnings report remains scheduled for November 17 — today.</p>
-
-<h2>Who Is Colette Kress?</h2>
-
-<p>Colette Kress has served as Nvidia's Executive Vice President and CFO since 2013. She's the person who has explained Nvidia's financial story to Wall Street through the entire AI boom. She'll continue in the CFO role alongside her interim CEO duties.</p>
-
-<p>In her first statement, Kress said she is "committed to building on the extraordinary foundation Jensen created over the last 33 years" and that the focus remains on execution and customer commitments.</p>
-
-<p>Nvidia has said it will consider both internal and external candidates for the permanent CEO position. No timeline has been given for the search.</p>
-
-<h2>What This Means for AI Hardware</h2>
-
-<p>Nvidia currently commands roughly 80-90% of the AI training chip market. Its GPUs power the data centers behind ChatGPT, Claude, Gemini, and virtually every major AI tool you use. The question everyone is asking: does this change anything?</p>
-
-<h3>Short Term: Business as Usual</h3>
-
-<p>The honest answer for the next 6-12 months is: probably not much. Nvidia's product roadmap — including the Blackwell Ultra architecture and the upcoming Rubin platform — was set well before this crisis. Hardware development cycles run years ahead, and the engineering teams driving those roadmaps are still in place.</p>
-
-<p>Cloud providers (AWS, Azure, Google Cloud) have long-term purchase agreements with Nvidia that won't change because of a CEO transition. If you're using AI tools today, the infrastructure behind them isn't going anywhere.</p>
-
-<h3>Medium Term: The Competition Gets Interesting</h3>
-
-<p>Where things get genuinely interesting is in the competitive landscape. Nvidia under Jensen Huang was famously aggressive about maintaining its moat — through CUDA lock-in, strategic partnerships, and sheer execution speed. A leadership vacuum, even a temporary one, creates openings.</p>
-
-<p><strong>AMD is already moving.</strong> Just weeks ago, AMD finalized its $8.2 billion acquisition of World Labs, bringing AI pioneer Fei-Fei Li on board as chief scientist. AMD also acquired Hugging Face for $13 billion earlier this year. With Nvidia's leadership in transition, AMD has its best window yet to win enterprise AI customers who've been looking for a credible alternative.</p>
-
-<p><strong>Custom silicon is accelerating.</strong> Google's TPUs, Amazon's Trainium chips, and Microsoft's Maia accelerators are all gaining ground. A Nvidia without Jensen's personal relationships with CEOs like Satya Nadella and Sundar Pichai may find it harder to defend its premium pricing.</p>
-
-<h3>Long Term: GPU Pricing Could Shift</h3>
-
-<p>For end users of AI tools, the most meaningful impact could be on pricing. Nvidia's dominant market position has allowed it to maintain extremely high margins on its data center GPUs. If competition intensifies during this transition period, cloud providers could eventually pass savings through to AI tool pricing.</p>
-
-<p>This won't happen overnight. But it's the kind of structural shift worth watching over the next 12-24 months.</p>
-
-<h2>The Espionage Angle: What We Know</h2>
-
-<p>The national security dimension of this story is still developing. U.S. intelligence officials have expressed concern that Alice Huang may have been part of a broader effort to access sensitive information about Nvidia's AI chip technology — technology that is subject to strict U.S. export controls to China.</p>
-
-<p>Nvidia's board said it has "no reason to believe that NVIDIA secrets or national security had been compromised." However, the investigation is ongoing, and the full picture may take months to emerge.</p>
-
-<p>For the AI industry at large, this episode underscores just how high the geopolitical stakes around AI hardware have become. The U.S.-China chip war isn't just a policy debate — it's playing out in the personal lives of tech executives.</p>
-
-<h2>What to Watch Next</h2>
-
-<p>Several things to monitor in the coming weeks and months:</p>
+<h3>الفصل الثاني: الرفض (17 نوفمبر)</h3>
 
 <ul>
-<li><strong>Today's earnings call (November 17):</strong> This will be Kress's first public appearance as interim CEO. Watch for any changes in guidance, customer tone, or product timeline signals.</li>
-<li><strong>The CEO search:</strong> Who Nvidia picks as its next leader will signal whether the company doubles down on AI-first strategy or pivots toward a more diversified approach.</li>
-<li><strong>AMD's moves:</strong> Expect AMD to be aggressive in courting Nvidia enterprise customers during this transition period.</li>
-<li><strong>Export control implications:</strong> If the investigation reveals any security compromises, it could trigger tighter export restrictions that affect the entire AI supply chain.</li>
+<li><strong>17 نوفمبر (صباحًا):</strong> نشر Huang على منصة X أنه سيكون "مشرّفًا" بالعودة إذا قرر مجلس الإدارة أن ذلك يصبّ في مصلحة المساهمين والموظفين والشركة وأمريكا. جمعت عريضة "قفوا مع Jensen" أكثر من 193,000 توقيع، من بينها توقيعات Elon Musk وTim Sweeney. وقال الرئيس Trump إن العودة "بالتأكيد ليست فكرة سيئة."</li>
+<li><strong>17 نوفمبر (مكالمة الأرباح):</strong> أبلغ رئيس مجلس الإدارة Harvey Jones المستثمرين بأن المجلس قبل استقالة Huang بالإجماع و"لا ينوي إعادة Jensen إلى منصب CEO." واستعان المجلس بشركة البحث التنفيذي Heidrick &amp; Struggles للعثور على خلف دائم. وتوقعت Nvidia إيرادات الربع الرابع بقيمة 130 مليار دولار، متجاوزة تقديرات المحللين.</li>
+</ul>
+
+<h3>الفصل الثالث: الإعادة إلى المنصب (23 نوفمبر)</h3>
+
+<ul>
+<li><strong>23 نوفمبر:</strong> في تحوّل مفاجئ، صوّت مجلس الإدارة بالإجماع على إعادة Huang إلى منصبه. جاء في البيان الرسمي أن المجلس أجرى مناقشات مع Huang و"اقتنع بصراحة السيد Huang وقدرته على قيادة NVIDIA." كما أشار المجلس إلى تلقيه مدخلات من مستويات رفيعة في حكومة الولايات المتحدة وثقته بأن الإعادة لا تشكّل أي خطر على الأمن القومي.</li>
+</ul>
+
+<p>"يُشرّفني العودة إلى NVIDIA وقيادة واحدة من أكثر شركات التكنولوجيا تأثيرًا في العالم في بداية ثورة صناعية جديدة،" قال Huang في الإعلان.</p>
+
+<h2>ما الذي تغيّر بين 17 و23 نوفمبر؟</h2>
+
+<p>قبل ستة أيام، رفض المجلس بشكل قاطع عودة Huang. واليوم، صوّتوا بالإجماع لإعادته. يشير التفسير الرسمي إلى عاملين:</p>
+
+<ul>
+<li><strong>مناقشات مباشرة مع Huang:</strong> يقول المجلس إنه اقتنع بصراحة Huang خلال سلسلة من الاجتماعات.</li>
+<li><strong>مدخلات من الحكومة الأمريكية:</strong> تلقى المجلس تطمينات من مسؤولين حكوميين كبار بأن الإعادة لا تشكّل خطرًا على الأمن القومي، وهو ما يعالج مخاوف التجسس التي أججت الأزمة.</li>
+</ul>
+
+<p>وبقراءة ما بين السطور، من المرجح أن الضغوط من المستثمرين والموظفين والعملاء ومجتمع التكنولوجيا الأوسع لعبت دورًا في ذلك. فشركة Nvidia بدون Jensen Huang هي شركة مختلفة جذريًا، وكان السوق يدرك ذلك.</p>
+
+<h2>ما يعنيه هذا لعتاد الذكاء الاصطناعي</h2>
+
+<h3>استعادة الاستقرار</h3>
+
+<p>بالنسبة لصناعة الذكاء الاصطناعي، فإن التأثير الأكثر مباشرة هو إزالة حالة عدم اليقين. تسيطر Nvidia على نحو 80-90% من سوق رقائق تدريب الذكاء الاصطناعي. تُشغّل وحدات معالجة الرسوميات الخاصة بها مراكز البيانات التي تقف خلف ChatGPT وClaude وGemini وكل أداة ذكاء اصطناعي رئيسية تقريبًا. كان من شأن البحث المطوّل عن قائد جديد أن يُتيح فرصًا للمنافسين ويؤخّر قرارات المنتجات.</p>
+
+<p>مع عودة Huang، أصبحت خارطة طريق منتجات Nvidia — بما في ذلك بنية Blackwell Ultra ومنصة Rubin القادمة — تحت قيادة مهندسها الأصلي مجددًا.</p>
+
+<h3>نافذة المنافسة تضيق</h3>
+
+<p>حظيت AMD، التي أعلنت مؤخرًا عن شراكة بنية تحتية للذكاء الاصطناعي بقيمة 10 مليارات دولار مع HUMAIN السعودية، بأفضل فرصة لها منذ سنوات خلال غياب Huang. كانت وحدات TPU من Google ورقائق Trainium من Amazon ومسرّعات Maia من Microsoft في وضع يسمح لها بالاستفادة من أي تردد لدى العملاء.</p>
+
+<p>لم تُغلق تلك النافذة بالكامل — فقد أظهرت حلقة الأيام الأحد عشر أن هيمنة Nvidia تعتمد بشكل كبير على فرد واحد، وهو بحد ذاته عامل خطر. لكن مع عودة Huang ودعم المجلس العلني له، بات لدى العملاء من المؤسسات سبب أقل بكثير لاستكشاف البدائل.</p>
+
+<h3>توقعات أسعار وحدات معالجة الرسوميات</h3>
+
+<p>بالنسبة للمستخدمين النهائيين لأدوات الذكاء الاصطناعي، فإن عودة أكثر منافسي Nvidia ومفاوضيها عدوانية تعني على الأرجح أن الشركة ستحافظ على قوتها التسعيرية المتميزة. كان من الممكن أن يُسرّع فراغ القيادة القصير من ضغوط التسعير القادمة من AMD والرقائق المخصصة، لكن تلك الضغوط تعود الآن إلى مسارها ما قبل الأزمة.</p>
+
+<h2>مسألة الأمن القومي</h2>
+
+<p>يُعدّ تصريح المجلس بأن الحكومة الأمريكية أكدت "عدم وجود خطر على الأمن القومي" ذا أهمية بالغة. فهو يشير إلى أن مجتمع الاستخبارات خلص إلى أن ما حدث في حياة Huang الشخصية لم يُسفر عن اختراق تقنيات الرقائق أو انتهاك ضوابط التصدير.</p>
+
+<p>غير أن هذه الحلقة رفعت بشكل دائم مستوى الوعي حول الرهانات الجيوسياسية المحيطة بقيادة عتاد الذكاء الاصطناعي. أنشأت Nvidia لجنة دائمة جديدة للرقابة على الأمن القومي وضوابط التصدير، مما يشير إلى أن الحوكمة حول هذه القضايا ستكون أكثر صرامة في المستقبل.</p>
+
+<h2>الشخصيات الرئيسية في الملحمة</h2>
+
+<table>
+<thead>
+<tr><th>الشخصية</th><th>المنصب</th><th>الوضع الحالي</th></tr>
+</thead>
+<tbody>
+<tr><td>Jensen Huang</td><td>CEO ورئيس وعضو مجلس الإدارة</td><td>أُعيد إلى منصبه (23 نوفمبر)</td></tr>
+<tr><td>Colette Kress</td><td>EVP وCFO</td><td>تعود إلى مهام CFO فقط</td></tr>
+<tr><td>Harvey C. Jones</td><td>رئيس مجلس الإدارة</td><td>يستمر في منصبه رئيسًا</td></tr>
+</tbody>
+</table>
+
+<h2>ما يجب مراقبته لاحقًا</h2>
+
+<ul>
+<li><strong>أداء Nvidia تحت قيادة Huang بعد إعادته:</strong> هل ستحدث تحولات ثقافية أو استراتيجية، أم أنها عودة كاملة إلى نهج ما قبل الأزمة؟</li>
+<li><strong>استجابة AMD:</strong> أبرمت AMD للتو صفقة بقيمة 10 مليارات دولار مع HUMAIN وكانت عدوانية خلال الفترة الانتقالية. تظل الديناميكية التنافسية محتدمة.</li>
+<li><strong>تطورات ضوابط التصدير:</strong> تشير لجنة الأمن القومي الجديدة إلى اهتمام مستمر بتوترات الرقائق بين الولايات المتحدة والصين.</li>
+<li><strong>ردة فعل السوق:</strong> ستكشف أسهم Nvidia ومعنويات العملاء ما إذا كانت الملحمة قد خلّفت أي ضرر دائم بالثقة.</li>
 </ul>
 
 <h2>الخلاصة</h2>
 
-<p>Jensen Huang didn't just run Nvidia — in many ways, he <em>was</em> Nvidia. His vision turned a gaming GPU company into the backbone of the AI revolution. His departure is a watershed moment for the industry.</p>
+<p>تكشّفت ملحمة Jensen Huang كفيلم إثارة مؤسسي: استقالة صادمة، وحملة عامة لعودته، ورفض حازم من مجلس الإدارة، ثم تحوّل دراماتيكي. طوال ذلك، واصلت أعمال Nvidia أداءها — إذ تجاوزت توقعات إيرادات الربع الرابع البالغة 130 مليار دولار التقديرات.</p>
 
-<p>For now, the AI tools you rely on will keep working exactly as they do today. The infrastructure is too deeply embedded and the contracts too long-term for anything to change quickly. But the competitive dynamics that determine how much you pay for AI, how fast models improve, and which platforms lead the market are all suddenly more fluid than they've been in years.</p>
+<p>بالنسبة لمستخدمي الذكاء الاصطناعي، فإن التأثير العملي ضئيل. وحدات معالجة الرسوميات التي تُشغّل أدوات الذكاء الاصطناعي الخاصة بكم لن تذهب إلى أي مكان، والرجل الذي بنى الشركة حولها عاد إلى سدة القيادة. لكن هذه الحلقة تُذكّرنا بمدى اعتماد ثورة الذكاء الاصطناعي على عدد صغير بشكل مفاجئ من الأفراد والشركات.</p>
 
-<p>We'll be updating this analysis as the earnings call and CEO search develop. Bookmark this page and check back.</p>
-
-<p><em>Need to stay productive while the AI landscape shifts? Check out our free <a href="https://toolcraftkit.com">productivity tools at ToolCraftKit</a> — no GPU drama required.</em></p>
+<p><em>ابقوا على اطلاع بكيفية تأثير تحولات عتاد الذكاء الاصطناعي على الأدوات التي تستخدمونها. استكشفوا مقارناتنا لـ<a href="/ar/blog/best-ai-coding-tools-2026">أفضل أدوات البرمجة بالذكاء الاصطناعي</a> و<a href="/ar/blog/best-ai-chatbots-2026">أفضل روبوتات الدردشة بالذكاء الاصطناعي</a>.</em></p>

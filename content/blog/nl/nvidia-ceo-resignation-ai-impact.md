@@ -1,90 +1,105 @@
 ---
-title: "Het ontslag van Nvidia's CEO: wat het vertrek van Jensen Huang betekent voor AI-hardware"
-description: "Jensen Huang trad op 11 november 2026 af als CEO van Nvidia. Dit betekent het voor de prijzen van AI-GPU's, het concurrentielandschap en de tools die je dagelijks gebruikt."
+title: "Nvidia CEO-saga: Jensen Huang Hersteld na 11 Dagen Afwezigheid"
+description: "Jensen Huang nam op 12 november ontslag als CEO van Nvidia, werd op 17 november afgewezen door de raad van bestuur en op 23 november unaniem hersteld. Hier is de volledige tijdlijn en wat het betekent voor AI."
 category: "Lab Notes"
 categorySlug: "lab-notes"
-date: "2026-11-17"
-readTime: "8 min leestijd"
+date: "2026-11-23"
+lastTested: "2026-11-23"
+readTime: "9 min read"
 ---
 
-<h2>Het einde van een tijdperk bij Nvidia</h2>
+<h2>Jensen Huang Is Terug bij Nvidia</h2>
 
-<p>Op 11 november 2026 trad Jensen Huang, de medeoprichter die Nvidia van een bedrijf in videokaarten opbouwde tot de meest bepalende maker van AI-hardware ter wereld, af als president, CEO en bestuurslid. Het vertrek ging onmiddellijk in.</p>
+<p>Op 23 november 2026 maakte Nvidia bekend dat de raad van bestuur unaniem heeft gestemd voor het herstel van Jensen Huang als President, CEO en bestuurslid, met onmiddellijke ingang. Het besluit kwam 11 dagen nadat Huang was afgetreden te midden van een persoonlijk schandaal dat het belangrijkste AI-hardwarebedrijf ter wereld kortstondig in onzekerheid stortte.</p>
 
-<p>De raad van bestuur van Nvidia benoemde CFO Colette Kress tot interim-CEO, terwijl het zoekt naar een permanente opvolger. Harvey C. Jones, voorheen CEO van Synopsys, werd benoemd tot de eerste onafhankelijke bestuursvoorzitter in de geschiedenis van het bedrijf.</p>
+<p>Het herstel sluit een van de meest dramatische leiderschapsepisodes in de technologiegeschiedenis af, met drie afzonderlijke hoofdstukken die zich in minder dan twee weken ontvouwden.</p>
 
-<p>Na 33 jaar aan het roer is het vertrek van Huang de grootste leiderschapsverschuiving in de AI-sector sinds het drama in de bestuurskamer van OpenAI eind 2023. Maar anders dan die crisis heeft de overgang bij Nvidia directe gevolgen voor elk bedrijf en elk individu dat vandaag AI-tools gebruikt.</p>
+<h2>De Volledige Tijdlijn</h2>
 
-<h2>Wat er gebeurde: de tijdlijn</h2>
-
-<p>De crisis ontvouwde zich in minder dan een week:</p>
+<h3>Hoofdstuk 1: Het Ontslag (8-12 november)</h3>
 
 <ul>
-<li><strong>8 november:</strong> De raad van bestuur van Nvidia kondigde een onafhankelijk onderzoek aan naar berichten dat Huang het doelwit was geweest van een buitenlandse inlichtingenoperatie. Het bestuur zei "vertrouwen te hebben in Jensen en zijn leiderschapsteam".</li>
-<li><strong>8 november (dezelfde dag):</strong> Huang gaf publiekelijk een buitenechtelijke affaire toe met Alice Huang (geen familie), een manager bij chipdoorverkoper Megaspeed, van wie Amerikaanse inlichtingenfunctionarissen vermoedden dat ze was geronseld als onderdeel van een Chinese spionagecampagne.</li>
-<li><strong>11-12 november:</strong> Er verschenen berichten over een tweede relatie met een manager die rechtstreeks aan Huang rapporteert.</li>
-<li><strong>12 november:</strong> Huang nam ontslag. In de officiële aankondiging werd geen reden genoemd.</li>
+<li><strong>8 november:</strong> Er kwamen berichten naar buiten dat Huang het doelwit was geweest van een buitenlandse inlichtingenoperatie. Diezelfde dag gaf Huang publiekelijk een buitenechtelijke relatie toe met Alice Huang (geen familie), een directielid bij chipwederverkoper Megaspeed, van wie Amerikaanse inlichtingenfunctionarissen vermoedden dat zij was gerekruteerd als onderdeel van een Chinese spionagecampagne.</li>
+<li><strong>11-12 november:</strong> Er kwamen berichten naar buiten over een tweede relatie met een directe ondergeschikte.</li>
+<li><strong>12 november:</strong> Huang trad af als President, CEO en bestuurslid, met onmiddellijke ingang. CFO Colette Kress werd benoemd tot interim-CEO. Harvey C. Jones werd de eerste onafhankelijke bestuursvoorzitter ooit.</li>
 </ul>
 
-<p>Het bestuur liet weten te verwachten dat de bedrijfsvoering, de verplichtingen aan klanten en de productroadmap ononderbroken doorgaan. Het kwartaalrapport voor Q3 van boekjaar 2027 van Nvidia staat nog steeds gepland voor 17 november, vandaag.</p>
-
-<h2>Wie is Colette Kress?</h2>
-
-<p>Colette Kress is sinds 2013 Executive Vice President en CFO van Nvidia. Zij is degene die het financiële verhaal van Nvidia tijdens de hele AI-boom aan Wall Street heeft uitgelegd. Ze blijft CFO naast haar taken als interim-CEO.</p>
-
-<p>In haar eerste verklaring zei Kress "vastbesloten te zijn voort te bouwen op het buitengewone fundament dat Jensen de afgelopen 33 jaar heeft gelegd" en dat de focus blijft liggen op uitvoering en verplichtingen aan klanten.</p>
-
-<p>Nvidia heeft gezegd zowel interne als externe kandidaten te overwegen voor de permanente CEO-positie. Er is geen tijdlijn voor de zoektocht gegeven.</p>
-
-<h2>Wat dit betekent voor AI-hardware</h2>
-
-<p>Nvidia heeft momenteel zo'n 80-90% van de markt voor AI-trainingschips in handen. De GPU's van het bedrijf drijven de datacenters achter ChatGPT, Claude, Gemini en vrijwel elke grote AI-tool die je gebruikt. De vraag die iedereen stelt: verandert dit iets?</p>
-
-<h3>Korte termijn: business as usual</h3>
-
-<p>Het eerlijke antwoord voor de komende 6-12 maanden is: waarschijnlijk niet veel. De productroadmap van Nvidia, met onder meer de Blackwell Ultra-architectuur en het aankomende Rubin-platform, lag ruim voor deze crisis al vast. Hardwareontwikkelingscycli lopen jaren vooruit en de engineeringteams achter die roadmaps zijn nog op hun plek.</p>
-
-<p>Cloudproviders (AWS, Azure, Google Cloud) hebben langetermijninkoopovereenkomsten met Nvidia die niet veranderen door een CEO-wissel. Gebruik je vandaag AI-tools, dan verdwijnt de infrastructuur erachter niet.</p>
-
-<h3>Middellange termijn: de concurrentie wordt interessant</h3>
-
-<p>Echt interessant wordt het in het concurrentielandschap. Nvidia onder Jensen Huang stond erom bekend zijn gracht agressief te verdedigen, via CUDA-lock-in, strategische partnerschappen en pure uitvoeringssnelheid. Een leiderschapsvacuüm, hoe tijdelijk ook, schept kansen.</p>
-
-<p><strong>AMD is al in beweging.</strong> Enkele weken geleden rondde AMD de overname van World Labs af voor $8,2 miljard en haalde het AI-pionier Fei-Fei Li binnen als chief scientist. Eerder dit jaar nam AMD ook Hugging Face over voor $13 miljard. Nu het leiderschap van Nvidia in transitie is, heeft AMD zijn beste kans tot nu toe om zakelijke AI-klanten te winnen die op zoek waren naar een geloofwaardig alternatief.</p>
-
-<p><strong>Eigen chips versnellen.</strong> De TPU's van Google, de Trainium-chips van Amazon en de Maia-versnellers van Microsoft winnen allemaal terrein. Een Nvidia zonder de persoonlijke relaties van Jensen met CEO's als Satya Nadella en Sundar Pichai kan het moeilijker krijgen om zijn premiumprijzen te verdedigen.</p>
-
-<h3>Lange termijn: GPU-prijzen kunnen verschuiven</h3>
-
-<p>Voor eindgebruikers van AI-tools kan de meest betekenisvolle impact op de prijzen zitten. Dankzij zijn dominante marktpositie kon Nvidia extreem hoge marges op zijn datacenter-GPU's behouden. Als de concurrentie tijdens deze overgangsperiode toeneemt, kunnen cloudproviders de besparingen uiteindelijk doorberekenen in de prijzen van AI-tools.</p>
-
-<p>Dit gebeurt niet van de ene op de andere dag. Maar het is het soort structurele verschuiving dat de komende 12-24 maanden de moeite waard is om in de gaten te houden.</p>
-
-<h2>De spionagehoek: wat we weten</h2>
-
-<p>De nationale-veiligheidsdimensie van dit verhaal ontwikkelt zich nog. Amerikaanse inlichtingenfunctionarissen hebben hun zorg uitgesproken dat Alice Huang mogelijk deel uitmaakte van een bredere poging om toegang te krijgen tot gevoelige informatie over de AI-chiptechnologie van Nvidia, technologie die onder strikte Amerikaanse exportcontroles naar China valt.</p>
-
-<p>Het bestuur van Nvidia zei "geen reden te hebben om aan te nemen dat geheimen van NVIDIA of de nationale veiligheid in gevaar zijn gebracht". Het onderzoek loopt echter nog en het volledige beeld kan maanden op zich laten wachten.</p>
-
-<p>Voor de AI-sector als geheel onderstreept deze episode hoe hoog de geopolitieke inzet rond AI-hardware is geworden. De chipoorlog tussen de VS en China is niet alleen een beleidsdebat: ze speelt zich af in het persoonlijke leven van techbestuurders.</p>
-
-<h2>Wat je hierna in de gaten moet houden</h2>
-
-<p>Een paar dingen om de komende weken en maanden te volgen:</p>
+<h3>Hoofdstuk 2: De Afwijzing (17 november)</h3>
 
 <ul>
-<li><strong>De earningscall van vandaag (17 november):</strong> Dit wordt het eerste publieke optreden van Kress als interim-CEO. Let op veranderingen in de guidance, de toon richting klanten of signalen over de productplanning.</li>
-<li><strong>De CEO-zoektocht:</strong> Wie Nvidia als volgende leider kiest, laat zien of het bedrijf zijn AI-eerst-strategie verdubbelt of koerst naar een meer gediversifieerde aanpak.</li>
-<li><strong>De zetten van AMD:</strong> Verwacht dat AMD tijdens deze overgangsperiode agressief klanten van Nvidia zal benaderen.</li>
-<li><strong>Gevolgen voor exportcontroles:</strong> Als het onderzoek beveiligingslekken aan het licht brengt, kan dat leiden tot strengere exportbeperkingen die de hele AI-toeleveringsketen raken.</li>
+<li><strong>17 november (ochtend):</strong> Huang plaatste op X dat hij "vereerd" zou zijn om terug te keren als de raad van bestuur besloot dat dit in het beste belang was van aandeelhouders, werknemers, het bedrijf en Amerika. Een petitie "Stand With Jensen" verzamelde meer dan 193.000 handtekeningen, waaronder die van Elon Musk en Tim Sweeney. President Trump zei dat een terugkeer "zeker geen slecht idee" was.</li>
+<li><strong>17 november (kwartaalcijfergesprek):</strong> Bestuursvoorzitter Harvey Jones vertelde investeerders dat de raad van bestuur het ontslag van Huang unaniem had aanvaard en "niet van plan is Jensen als CEO te herstellen". De raad huurde executive searchbureau Heidrick &amp; Struggles in om een permanente opvolger te vinden. Nvidia voorspelde een omzet van $130 miljard voor het vierde kwartaal, boven de schattingen van analisten.</li>
 </ul>
 
-<h2>De kern</h2>
+<h3>Hoofdstuk 3: Het Herstel (23 november)</h3>
 
-<p>Jensen Huang leidde Nvidia niet alleen: in veel opzichten <em>was</em> hij Nvidia. Zijn visie veranderde een gaming-GPU-bedrijf in de ruggengraat van de AI-revolutie. Zijn vertrek is een waterscheiding voor de sector.</p>
+<ul>
+<li><strong>23 november:</strong> In een ommekeer stemde de raad van bestuur unaniem voor het herstel van Huang. De officiele verklaring stelde dat de raad gesprekken had gevoerd met Huang en "tevreden was over de openhartigheid en het leiderschapsvermogen van de heer Huang bij NVIDIA". De raad verklaarde ook input te hebben ontvangen van hoge niveaus van de Amerikaanse overheid en vertrouwen te hebben dat het herstel geen risico voor de nationale veiligheid vormt.</li>
+</ul>
 
-<p>Voorlopig blijven de AI-tools waarop je vertrouwt precies werken zoals nu. De infrastructuur zit te diep verankerd en de contracten lopen te lang om snel iets te veranderen. Maar de concurrentieverhoudingen die bepalen hoeveel je voor AI betaalt, hoe snel modellen verbeteren en welke platforms de markt leiden, zijn plotseling flexibeler dan ze in jaren zijn geweest.</p>
+<p>"Ik ben vereerd om terug te keren bij NVIDIA en een van de meest invloedrijke technologiebedrijven ter wereld te leiden aan het begin van een nieuwe industriele revolutie", aldus Huang in de aankondiging.</p>
 
-<p>We werken deze analyse bij naarmate de earningscall en de CEO-zoektocht zich ontwikkelen. Voeg deze pagina toe aan je bladwijzers en kom later terug.</p>
+<h2>Wat Veranderde er Tussen 17 en 23 November?</h2>
 
-<p><em>Wil je productief blijven terwijl het AI-landschap verschuift? Bekijk onze gratis <a href="https://toolcraftkit.com">productiviteitstools bij ToolCraftKit</a>, zonder GPU-drama.</em></p>
+<p>Zes dagen geleden wees de raad van bestuur de terugkeer van Huang resoluut af. Vandaag stemden ze unaniem om hem terug te halen. De officiele verklaring wijst op twee factoren:</p>
+
+<ul>
+<li><strong>Directe gesprekken met Huang:</strong> De raad zegt tevreden te zijn over de openhartigheid van Huang tijdens een reeks bijeenkomsten.</li>
+<li><strong>Input van de Amerikaanse overheid:</strong> De raad ontving de geruststelling van hoge overheidsfunctionarissen dat het herstel geen risico voor de nationale veiligheid vormt, wat de spionagezorgen die de crisis aanwakkerden adresseert.</li>
+</ul>
+
+<p>Tussen de regels door speelde de druk van investeerders, werknemers, klanten en de bredere technologiegemeenschap waarschijnlijk ook een rol. Nvidia zonder Jensen Huang is fundamenteel een ander verhaal, en de markt wist dat.</p>
+
+<h2>Wat Dit Betekent voor AI-hardware</h2>
+
+<h3>Stabiliteit Hersteld</h3>
+
+<p>Voor de AI-industrie is de meest directe impact het wegnemen van onzekerheid. Nvidia beheerst ruwweg 80-90% van de markt voor AI-trainingschips. De GPU's voeden de datacenters achter ChatGPT, Claude, Gemini en vrijwel elke belangrijke AI-tool. Een langdurige leiderschapszoektocht zou kansen hebben gecreeerd voor concurrenten en mogelijk productbeslissingen hebben vertraagd.</p>
+
+<p>Met Huang terug heeft de productroadmap van Nvidia — inclusief de Blackwell Ultra-architectuur en het aankomende Rubin-platform — weer zijn oorspronkelijke architect aan het roer.</p>
+
+<h3>Het Concurrentievenster Wordt Kleiner</h3>
+
+<p>AMD, dat onlangs een AI-infrastructuurpartnerschap van $10 miljard aankondigde met het Saoedische HUMAIN, had tijdens de afwezigheid van Huang de beste kans in jaren. Google's TPU's, Amazon's Trainium-chips en Microsoft's Maia-versnellers waren allemaal gepositioneerd om te profiteren van eventuele aarzeling bij klanten.</p>
+
+<p>Dat venster is niet volledig gesloten — de episode van 11 dagen toonde aan dat de dominantie van Nvidia sterk afhankelijk is van een enkel individu, wat op zichzelf een risicofactor is. Maar met Huang terug en de raad van bestuur publiekelijk achter hem, hebben zakelijke klanten veel minder reden om alternatieven te verkennen.</p>
+
+<h3>Vooruitzichten voor GPU-prijzen</h3>
+
+<p>Voor eindgebruikers van AI-tools betekent de terugkeer van Nvidia's meest agressieve concurrent en onderhandelaar waarschijnlijk dat het bedrijf zijn premium prijszettingsmacht zal behouden. Het korte leiderschapsvacuum had de prijsdruk van AMD en aangepast silicium kunnen versnellen, maar die druk keert nu terug naar zijn pre-crisis traject.</p>
+
+<h2>De Nationale Veiligheidskwestie</h2>
+
+<p>De verklaring van de raad dat de Amerikaanse overheid "geen risico voor de nationale veiligheid" bevestigde, is veelzeggend. Het suggereert dat de inlichtingengemeenschap concludeerde dat wat er ook in het persoonlijke leven van Huang gebeurde, het niet resulteerde in gecompromitteerde chiptechnologie of overtredingen van exportcontroles.</p>
+
+<p>Deze episode heeft echter blijvend het bewustzijn vergroot over de geopolitieke belangen rond het leiderschap in AI-hardware. Nvidia heeft een nieuw permanent Comite voor Toezicht op Nationale Veiligheid en Exportcontrole opgericht, wat aangeeft dat het bestuur rond deze kwesties voortaan strenger zal zijn.</p>
+
+<h2>Sleutelfiguren in de Saga</h2>
+
+<table>
+<thead>
+<tr><th>Persoon</th><th>Functie</th><th>Huidige Status</th></tr>
+</thead>
+<tbody>
+<tr><td>Jensen Huang</td><td>CEO, President, Bestuurslid</td><td>Hersteld (23 nov)</td></tr>
+<tr><td>Colette Kress</td><td>EVP en CFO</td><td>Keert terug naar uitsluitend CFO-taken</td></tr>
+<tr><td>Harvey C. Jones</td><td>Bestuursvoorzitter</td><td>Blijft Voorzitter</td></tr>
+</tbody>
+</table>
+
+<h2>Wat te Volgen</h2>
+
+<ul>
+<li><strong>De uitvoering van Nvidia onder een herstelde Huang:</strong> Zullen er culturele of strategische verschuivingen zijn, of is het een volledige terugkeer naar het pre-crisis draaiboek?</li>
+<li><strong>De reactie van AMD:</strong> AMD heeft net een deal van $10 miljard met HUMAIN gesloten en was agressief tijdens de transitie. De competitieve dynamiek blijft verhoogd.</li>
+<li><strong>Ontwikkelingen in exportcontrole:</strong> Het nieuwe Comite voor Nationale Veiligheid wijst op voortdurende aandacht voor de spanningen tussen de VS en China op het gebied van chips.</li>
+<li><strong>Marktreactie:</strong> Het aandeel van Nvidia en het klantensentiment zullen onthullen of de saga blijvende schade aan het vertrouwen heeft achtergelaten.</li>
+</ul>
+
+<h2>De Conclusie</h2>
+
+<p>De Jensen Huang-saga speelde zich af als een bedrijfsthriller: een schokkend ontslag, een publieke campagne voor zijn terugkeer, een stellige afwijzing door de raad van bestuur en vervolgens een dramatische ommekeer. Gedurende dit alles bleef het bedrijf van Nvidia presteren — de omzetprognose van $130 miljard voor het vierde kwartaal overtrof de verwachtingen.</p>
+
+<p>Voor AI-gebruikers is de praktische impact minimaal. De GPU's die uw AI-tools aandrijven gaan nergens heen, en de man die het bedrijf eromheen heeft opgebouwd is terug aan het roer. Maar de episode dient als een herinnering aan hoezeer de AI-revolutie afhankelijk is van een verrassend klein aantal individuen en bedrijven.</p>
+
+<p><em>Blijf op de hoogte van hoe verschuivingen in AI-hardware de tools beinvloeden die u gebruikt. Ontdek onze vergelijkingen van de <a href="/nl/blog/best-ai-coding-tools-2026">beste AI-programmeertools</a> en <a href="/nl/blog/best-ai-chatbots-2026">beste AI-chatbots</a>.</em></p>
