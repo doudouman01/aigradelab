@@ -25,9 +25,15 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const post = getPostBySlug(slug, lang);
   if (!post) return {};
   const gradeText = post.grade ? ` [Grade: ${post.grade}]` : '';
+  // Noindex thin translated articles (non-EN, under 800 words) to avoid low-value content flag
+  const wordCount = post.content.split(/\s+/).length;
+  const isThinTranslation = lang !== 'en' && wordCount < 800;
   return {
     title: `${post.title}${gradeText}`,
     description: post.description,
+    ...(isThinTranslation && {
+      robots: { index: false, follow: true },
+    }),
     openGraph: {
       title: `${post.title}${gradeText}`,
       description: post.description,

@@ -29,9 +29,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const i18nMeta = getToolI18n(slug, lang);
   const desc = i18nMeta?.d || tool.description;
   const gradeText = tool.grade ? ` [${t.tools.grade}: ${tool.grade}]` : '';
+  // Noindex ungraded tools — thin content hurts AdSense approval
+  const isGraded = tool.grade !== null && tool.scores !== null;
   return {
     title: `${tool.name}${gradeText} — AIGradeLab`,
     description: desc,
+    ...(!isGraded && {
+      robots: { index: false, follow: true },
+    }),
     openGraph: {
       title: `${tool.name}${gradeText}`,
       description: tool.description,

@@ -35,22 +35,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  // Tool pages per locale
+  // Tool pages per locale — only graded tools (ungraded = thin content, excluded for AdSense)
+  const gradedTools = tools.filter(t => t.grade !== null && t.scores !== null);
   for (const locale of locales) {
-    for (const tool of tools) {
+    for (const tool of gradedTools) {
       entries.push({
         url: `${base}/${locale}/tools/${tool.slug}`,
         lastModified: new Date(),
         changeFrequency: 'monthly',
-        priority: tool.grade ? 0.8 : 0.6,
+        priority: 0.8,
       });
     }
   }
 
-  // Blog posts per locale
+  // Blog posts per locale — exclude thin translated articles (non-EN, under 800 words)
   for (const locale of locales) {
     const posts = getPosts(locale);
     for (const post of posts) {
+      const wordCount = post.content.split(/\s+/).length;
+      if (locale !== 'en' && wordCount < 800) continue; // skip thin translations
       entries.push({
         url: `${base}/${locale}/blog/${post.slug}`,
         lastModified: post.date ? new Date(post.date) : new Date(),
