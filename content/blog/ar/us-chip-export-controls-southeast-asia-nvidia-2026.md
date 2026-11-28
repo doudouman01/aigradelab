@@ -89,7 +89,7 @@ readTime: "9 min read"
 <h2>أدوات الذكاء الاصطناعي الموصى بها</h2>
 <p>للمحترفين الذين يتابعون تأثير سلسلة توريد الذكاء الاصطناعي وسياسات التصدير:</p>
 <ul>
-  <li><strong>Claude AI</strong> يوفر تحليلاً ممتازاً للوثائق التنظيمية — <a href="/ar/blog/claude-ai-review-2026">اقرأ مراجعتنا</a></li>
+  <li><strong>Claude AI</strong> يوفر تحليلاً ممتازاً للوثائق التنظيمية — <a href="/ar/blog/claude-review-2026">اقرأ مراجعتنا</a></li>
   <li><strong>Perplexity AI</strong> يتابع الأخبار الجيوسياسية بدقة — <a href="/ar/blog/perplexity-ai-review-2026">شاهد مراجعتنا</a></li>
 </ul>
 <p>للمهنيين الذين يحللون سلاسل التوريد والبيانات الجيوسياسية، يقدم <a href="https://toolcraftkit.com">ToolCraftKit</a> أدوات مجانية تشمل <a href="https://toolcraftkit.com/tools/swot-analysis-generator">SWOT Analysis Generator</a>، <a href="https://toolcraftkit.com/tools/risk-assessment-matrix">Risk Assessment Matrix</a>، و<a href="https://toolcraftkit.com/tools/competitor-analysis-generator">Competitor Analysis Generator</a>.</p>

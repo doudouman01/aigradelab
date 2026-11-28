@@ -97,8 +97,8 @@ readTime: "9 min read"
 <h2>أدوات الذكاء الاصطناعي الموصى بها</h2>
 <p>للباحثين والمحترفين الذين يتابعون تطبيقات الذكاء الاصطناعي في العلوم الحياتية:</p>
 <ul>
-  <li><strong>Claude AI</strong> يوفر تحليلاً ممتازاً للأوراق العلمية والبيانات المعقدة — <a href="/ar/blog/claude-ai-review-2026">اقرأ مراجعتنا</a></li>
-  <li><strong>Consensus AI</strong> متخصص في البحث في الأدبيات العلمية — <a href="/ar/blog/consensus-ai-review-2026">شاهد مراجعتنا</a></li>
+  <li><strong>Claude AI</strong> يوفر تحليلاً ممتازاً للأوراق العلمية والبيانات المعقدة — <a href="/ar/blog/claude-review-2026">اقرأ مراجعتنا</a></li>
+  <li><strong>Consensus AI</strong> متخصص في البحث في الأدبيات العلمية — <a href="/ar/blog/perplexity-ai-review-2026">شاهد مراجعتنا</a></li>
 </ul>
 <p>للباحثين والطلاب الذين يعملون مع البيانات العلمية، يقدم <a href="https://toolcraftkit.com">ToolCraftKit</a> أدوات مجانية تشمل <a href="https://toolcraftkit.com/tools/citation-generator">Citation Generator</a>، <a href="https://toolcraftkit.com/tools/text-summarizer">Text Summarizer</a>، <a href="https://toolcraftkit.com/tools/statistical-significance-calculator">Statistical Significance Calculator</a>، و<a href="https://toolcraftkit.com/tools/unit-converter">Unit Converter</a>. للمؤلفين الأكاديميين، يتوفر <a href="https://adrianphoenixvale.gumroad.com/l/indiepress-toolkit">IndiePress Toolkit</a> على Gumroad لمساعدتك في تنسيق ونشر أبحاثك.</p>
 
