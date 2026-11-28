@@ -21,15 +21,19 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   const lang = isValidLocale(locale) ? locale : defaultLocale;
   const t = getTranslations(lang);
   const base = 'https://aigradelab.com';
-  const alternates: Record<string, string> = {};
+  // hreflang alternates for the homepage only — per-page alternates are set in each page's generateMetadata
+  const homeAlternates: Record<string, string> = {};
   for (const l of locales) {
-    alternates[l] = `${base}/${l}`;
+    homeAlternates[l] = `${base}/${l}`;
   }
   return {
     title: { default: 'AIGradeLab — ' + t.hero.titleHighlight, template: '%s | AIGradeLab' },
     description: t.hero.subtitle,
     metadataBase: new URL(base),
-    alternates: { languages: alternates },
+    alternates: {
+      canonical: `${base}/${locale}`,
+      languages: homeAlternates,
+    },
     openGraph: {
       type: 'website',
       locale: lang === 'en' ? 'en_US' : lang,

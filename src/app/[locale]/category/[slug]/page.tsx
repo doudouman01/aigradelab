@@ -19,9 +19,19 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   const cat = categories.find(c => c.slug === slug);
   const catName = cat?.name || slug;
+  const lang = isValidLocale(locale) ? locale : defaultLocale;
+  const base = 'https://aigradelab.com';
+  const langAlternates: Record<string, string> = {};
+  for (const l of locales) {
+    langAlternates[l] = `${base}/${l}/category/${slug}`;
+  }
   return {
     title: `${catName} | AIGradeLab`,
     description: `Browse all ${catName} on AIGradeLab — independent AI tool reviews with transparent grades from A+ to F.`,
+    alternates: {
+      canonical: `${base}/${lang}/category/${slug}`,
+      languages: langAlternates,
+    },
   };
 }
 

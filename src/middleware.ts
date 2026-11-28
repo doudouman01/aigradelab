@@ -37,17 +37,10 @@ export function middleware(request: NextRequest) {
     return NextResponse.next();
   }
 
-  // Backward compat: /blog/* → /en/blog/*
-  if (pathname.startsWith('/blog')) {
-    const url = request.nextUrl.clone();
-    url.pathname = `/en${pathname}`;
-    return NextResponse.redirect(url, 308);
-  }
-
-  // Backward compat: /methodology, /about, /privacy, /terms → /en/...
-  const staticPages = ['/methodology', '/about', '/privacy', '/terms'];
-  for (const page of staticPages) {
-    if (pathname === page) {
+  // Backward compat: any known route without locale prefix → /en/...
+  const knownPrefixes = ['/blog', '/tools', '/category', '/methodology', '/about', '/privacy', '/terms', '/submit'];
+  for (const prefix of knownPrefixes) {
+    if (pathname === prefix || pathname.startsWith(prefix + '/')) {
       const url = request.nextUrl.clone();
       url.pathname = `/en${pathname}`;
       return NextResponse.redirect(url, 308);

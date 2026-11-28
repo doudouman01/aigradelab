@@ -28,9 +28,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   // Noindex thin translated articles (non-EN, under 800 words) to avoid low-value content flag
   const wordCount = post.content.split(/\s+/).length;
   const isThinTranslation = lang !== 'en' && wordCount < 800;
+  const base = 'https://aigradelab.com';
+  const langAlternates: Record<string, string> = {};
+  for (const l of locales) {
+    langAlternates[l] = `${base}/${l}/blog/${slug}`;
+  }
   return {
     title: `${post.title}${gradeText}`,
     description: post.description,
+    alternates: {
+      canonical: `${base}/${lang}/blog/${slug}`,
+      languages: langAlternates,
+    },
     ...(isThinTranslation && {
       robots: { index: false, follow: true },
     }),

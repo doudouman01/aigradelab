@@ -31,9 +31,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const gradeText = tool.grade ? ` [${t.tools.grade}: ${tool.grade}]` : '';
   // Noindex ungraded tools — thin content hurts AdSense approval
   const isGraded = tool.grade !== null && tool.scores !== null;
+  const base = 'https://aigradelab.com';
+  const langAlternates: Record<string, string> = {};
+  for (const l of locales) {
+    langAlternates[l] = `${base}/${l}/tools/${slug}`;
+  }
   return {
     title: `${tool.name}${gradeText} — AIGradeLab`,
     description: desc,
+    alternates: {
+      canonical: `${base}/${lang}/tools/${slug}`,
+      languages: langAlternates,
+    },
     ...(!isGraded && {
       robots: { index: false, follow: true },
     }),
